@@ -1,0 +1,90 @@
+{
+  "id": "styles-hard-part",
+  "locale": "es",
+  "slug": "/es/estilos/corte-con-raya/",
+  "alt": "/styles/hard-part/",
+  "nav_label": "Corte con raya",
+  "card_text": "Una raya marcada para que se quede en su lugar.",
+  "breadcrumb": [["Inicio", "/es/"], ["Estilos", "/es/estilos/"], ["Corte con raya", "/es/estilos/corte-con-raya/"]],
+  "seo": {
+    "title": "Corte de pelo con raya en Carlsbad, NM | Divinely Faded",
+    "description": "Corte de pelo con raya (hard part) en Carlsbad, NM: raya marcada con navaja en un comb-over, peinado hacia atrás o desvanecido. Mírala y agenda en Booksy.",
+    "primary": "corte de pelo con raya",
+    "secondary": ["corte de pelo para hombre con raya", "raya en el pelo hombre", "hard part"],
+    "og_photo": "cut-high-fade-part-line"
+  },
+  "schema": { "type": "Service", "service_ids": ["essential-haircut", "signature-cut"] },
+  "photo_alt": {
+    "cut-high-fade-part-line": "Raya marcada a través de un skin fade alto, desde la sien por arriba de la oreja, con la parte de arriba rapada corta"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "ESTILOS / CORTE CON RAYA",
+      "h1": "Corte con raya.",
+      "paragraphs": [
+        "Una raya marcada (hard part) es una raya que nunca tienes que hacer con el peine. Va marcada en su lugar, así que la línea no se mueve en todo el día.",
+        "En un corte clásico con raya de lado, va donde tu pelo se parte de forma natural y separa la parte de arriba del lado con desvanecido (fade). En cortes más cortos se vuelve un detalle. En la foto de aquí, la parte de arriba es corta y pareja, los lados van en desvanecido alto hasta la piel y una línea limpia corre desde la sien por el lado, justo arriba de la oreja."
+      ],
+      "link": { "label": "AGENDA ESTE CORTE", "href": "booksy" },
+      "photos": ["cut-high-fade-part-line"]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / UBICACIÓN",
+      "heading": "Dónde va la línea.",
+      "lead": "Sigue tu raya natural.",
+      "paragraphs": [
+        "Casi todos la llevan del lado hacia donde ya cae su pelo. Si la pones donde tu pelo se resiste, vas a pelear con ella cada mañana. En un peinado de lado (comb-over) o con raya de lado, la línea va más arriba, más o menos sobre el arco de la ceja. Si arriba va rapado o corto, puede bajar más y pasar por el mismo desvanecido, como aquí."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / A QUIÉN LE QUEDA",
+      "heading": "Se nota más con lados cortos.",
+      "lead": "El contraste la hace visible.",
+      "paragraphs": [
+        "En el pelo lacio y el ondulado es donde más se nota una raya marcada. En pelo muy chino y tupido también se puede, aunque la línea tiende a desaparecer antes conforme crece el pelo alrededor. Si no estás seguro de que te vaya a gustar, empieza con una línea sutil; se va sola al crecer."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "04 / CÓMO AGENDARLO",
+      "heading": "Cómo agendar la raya.",
+      "lead": "El corte, más la línea.",
+      "items": [
+        { "title": "Essential Haircut", "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}", "body": "Tu desvanecido y la parte de arriba, con forma para tu cabeza, y el contorno de la nuca limpio con navaja.", "href": "page:services-haircuts", "book": true },
+        { "title": "Signature Cut", "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}", "body": "Suma tu barba a la misma cita, terminada con toalla caliente.", "href": "page:services-haircuts", "book": true },
+        { "title": "Extra de diseño en el pelo", "meta": "{{addon:hair-design}}", "body": "El diseño en el pelo es uno de mis extras. ¿No sabes si tu raya cuenta como diseño? Mándame una foto por mensaje y pregúntame antes de agendar.", "href": "page:services-designs", "book": false }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "05 / MANTENIMIENTO",
+      "heading": "La línea se va primero.",
+      "lead": "Se llena rápido.",
+      "paragraphs": [
+        "Una línea marcada hasta la piel es lo primero que se llena, porque no queda nada que esconda el pelo que vuelve a crecer. Si quieres la raya nítida para un evento, agenda el corte cerca de la fecha. Si no, deja que se suavice con el resto del corte hasta tu próxima visita."
+      ],
+      "photos": []
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / PREGUNTAS",
+      "heading": "Sobre la raya.",
+      "items": [
+        { "q": "¿Qué es un corte con raya marcada (hard part)?", "a": "Cualquier corte con una raya marcada con navaja o patillera en lugar de hecha con el peine. Normalmente va con raya de lado, un peinado de lado o un desvanecido." },
+        { "q": "¿La raya marcada vuelve a crecer?", "a": "Sí. Solo se corta al ras, así que el pelo vuelve a crecer como en el resto del corte. Nada de eso es permanente." },
+        { "q": "¿Se puede hacer una raya marcada con desvanecido?", "a": "Sí, y se complementan. El desvanecido hace que la línea resalte, como el skin fade alto de la foto." },
+        { "q": "¿De qué lado va mi raya?", "a": "Fíjate hacia dónde cae tu pelo después de bañarte, o dónde está tu remolino en la coronilla. Ese lado normalmente es el más fácil de mantener." }
+      ]
+    }
+  ],
+  "related": ["styles-slick-back", "styles-skin-fade", "styles-buzz-cut", "services-designs"],
+  "tim_questions": [
+    "Is a hard part (shaved part line) booked as the hair design add-on on Booksy, or is it included in the haircut? The page now says only that hair design is on your add-on list and asks people to text a photo if they're unsure.",
+    "Photo fit: cut-high-fade-part-line shows a shaved line through a high fade on a buzzed top, not a classic side-part comb-over. The page describes it that way. If you have a photo of a hard part on a longer comb-over, it would fit this page better."
+  ]
+}

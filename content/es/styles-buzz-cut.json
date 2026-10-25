@@ -1,0 +1,81 @@
+{
+  "id": "styles-buzz-cut",
+  "locale": "es",
+  "slug": "/es/estilos/buzz-cut/",
+  "alt": "/styles/buzz-cut/",
+  "nav_label": "Buzz Cut",
+  "card_text": "Buzz cut, crew cut y high and tight, con un contorno marcado.",
+  "breadcrumb": [["Inicio", "/es/"], ["Estilos", "/es/estilos/"], ["Buzz Cut", "/es/estilos/buzz-cut/"]],
+  "seo": {
+    "title": "Corte buzz cut en Carlsbad, NM | Divinely Faded",
+    "description": "Corte buzz cut, crew cut y high and tight en Carlsbad, NM, con desvanecido y delineado marcado. Mira el corte y agenda tu cita en Booksy.",
+    "primary": "corte buzz cut",
+    "secondary": ["corte de pelo buzz cut", "buzz cut hombre", "corte rapado"],
+    "og_photo": "cut-high-fade-short-crop"
+  },
+  "schema": { "type": "Service", "service_ids": ["essential-haircut", "signature-cut", "head-beard-shave"] },
+  "photo_alt": {
+    "cut-high-fade-short-crop": "Buzz cut estilo high and tight, con la parte de arriba corta y pareja, delineado marcado al frente y un desvanecido que sube alto arriba de la oreja"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "ESTILOS / BUZZ CUT",
+      "h1": "Buzz cut.",
+      "paragraphs": [
+        "Un solo largo corto de máquina en toda la cabeza, o casi. Un buzz cut (corte rapado) es de lo más fácil de mantener que hay: nada que peinar en la mañana y nada contra qué pelear.",
+        "Lo que hace que se vea terminado es el contorno. El corte de esta página tiene la parte de arriba corta y pareja, un delineado (line-up) que cuadra el frente y un desvanecido (fade) que sube bien arriba de la oreja."
+      ],
+      "link": { "label": "AGENDA ESTE CORTE", "href": "booksy" },
+      "photos": ["cut-high-fade-short-crop"]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / LA FAMILIA",
+      "heading": "Buzz, crew, high and tight.",
+      "lead": "Tres estilos cortos que la gente confunde.",
+      "paragraphs": [
+        "Buzz cut: el mismo largo corto en toda la cabeza, muchas veces con un desvanecido en los lados para que no se vea crecido.",
+        "Crew cut: un poco más de largo arriba, graduado para que el frente quede más largo, con los lados más cortos. Se puede peinar o dejar natural.",
+        "High and tight (estilo militar): muy corto arriba, con los lados en desvanecido alto, muchas veces hasta la piel. La foto de aquí está cerca de ese extremo de la familia."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "03 / CÓMO AGENDARLO",
+      "heading": "Corto, de tres formas.",
+      "lead": "Del desvanecido al afeitado completo.",
+      "items": [
+        { "title": "Essential Haircut", "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}", "body": "Buzz cut, crew cut o high and tight, con el contorno de la nuca limpio con navaja.", "href": "page:services-haircuts", "book": true },
+        { "title": "Signature Cut", "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}", "body": "El corte corto más trabajo de barba y toalla caliente. Vale la pena cuando la barba es la mitad del look.", "href": "page:services-haircuts", "book": true },
+        { "title": "Head & Beard Shave", "meta": "{{price:head-beard-shave}} · {{minutes:head-beard-shave}}", "body": "¿Quieres pasar del buzz cut a la cabeza rapada por completo? Este es un afeitado de cabeza de precisión y un afeitado de barba con toallas calientes y bálsamo aftershave.", "href": "page:services-beard-shaves", "book": true }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / MANTENIMIENTO",
+      "heading": "Lo corto lo muestra todo.",
+      "lead": "Los bordes se van primero.",
+      "paragraphs": [
+        "En un buzz cut, el largo de arriba casi no cambia tu look al crecer, pero el desvanecido y el delineado sí. Son lo primero que pierde definición, así que ellos deciden si el corte todavía se ve terminado. Si quieres un calendario para el tuyo, pregúntame mientras estés en la silla."
+      ],
+      "photos": []
+    },
+    {
+      "type": "faq",
+      "eyebrow": "05 / PREGUNTAS",
+      "heading": "Buzz y crew cut: preguntas.",
+      "items": [
+        { "q": "¿Qué le digo a mi barbero para un crew cut?", "a": "Pide los lados cortos y un poco más de largo arriba, algo más largo al frente, y di si quieres desvanecido o solo los lados cortos y parejos. Menciona si piensas peinarlo." },
+        { "q": "Crew cut o buzz cut: ¿en qué se diferencian?", "a": "Un buzz cut es casi de un solo largo en todas partes. Un crew cut deja más largo arriba que en los lados, así que tiene algo de forma y se puede peinar un poco." },
+        { "q": "¿Qué significa high and tight en un corte?", "a": "High (alto) se refiere a qué tan arriba sube el desvanecido por los lados; tight (apretado) significa que va muy corto, muchas veces hasta la piel. La parte de arriba también se queda corta." },
+        { "q": "¿Quién debería evitar un buzz cut?", "a": "Si tienes cicatrices o bultos en el cuero cabelludo que prefieres no mostrar, o no estás seguro de la forma de tu cabeza, prueba primero un crew cut. Deja un poco más de cobertura arriba." }
+      ]
+    }
+  ],
+  "related": ["styles-skin-fade", "styles-hard-part", "styles-textured-crop", "services-beard-shaves"],
+  "tim_questions": [
+    "How often do you suggest rebooking a buzz cut to keep the fade and line-up sharp? The upkeep section gives no interval until you say."
+  ]
+}

@@ -416,3 +416,13 @@ The lead applies these; I did not edit `build.mjs`. "Booking" verbs follow §3: 
 | young clients / little clients | **clientes pequeños** | es-services, 2026-10-24 |
 | STORE INFO (eyebrow) | **DATOS DE LA BARBERÍA** | es-services, 2026-10-24 |
 | "lists it as varies" (Booksy price, prose) | **con precio variable** (meta stays `Varía`) | es-services, 2026-10-24 |
+| choppy / broken-up (ends, top) | **desfilado** (*puntas desfiladas*) | es-styles, 2026-10-24 |
+| pieces (of hair) | **mechones** | es-styles, 2026-10-24 |
+| tail (of a mullet) | **la cola** | es-styles, 2026-10-24 |
+| shaved line / shaved-in part (cut into the hair) | **línea marcada / raya marcada** (verb *marcar*); "shaved to skin" = *marcada hasta la piel* | es-styles, 2026-10-24 |
+| trimmer (detail clipper) | **patillera** | es-styles, 2026-10-24 |
+| glossy finish / wet finish | **acabado brillante / acabado húmedo** | es-styles, 2026-10-24 |
+| blunt (fringe, line) | **recto y parejo** | es-styles, 2026-10-24 |
+| style library (hub) | **catálogo** (eyebrow *02 / EL CATÁLOGO*) | es-styles, 2026-10-24 |
+| look (noun) | **look** | es-styles, 2026-10-24 |
+| puff out (hair) | **esponjarse** | es-styles, 2026-10-24 |

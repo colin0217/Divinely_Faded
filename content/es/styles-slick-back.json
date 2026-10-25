@@ -1,0 +1,90 @@
+{
+  "id": "styles-slick-back",
+  "locale": "es",
+  "slug": "/es/estilos/peinado-hacia-atras/",
+  "alt": "/styles/slick-back/",
+  "nav_label": "Peinado hacia atrás",
+  "card_text": "Largo arriba peinado hacia atrás sobre un desvanecido o un taper.",
+  "breadcrumb": [["Inicio", "/es/"], ["Estilos", "/es/estilos/"], ["Peinado hacia atrás", "/es/estilos/peinado-hacia-atras/"]],
+  "seo": {
+    "title": "Peinado hacia atrás en Carlsbad, NM | Divinely Faded",
+    "description": "Peinado hacia atrás (slick back) en Carlsbad, NM: largo arriba sobre un taper o skin fade, con o sin barba. Mira dos cortes reales y agenda en Booksy.",
+    "primary": "peinado hacia atrás hombre",
+    "secondary": ["corte slick back", "peinado hacia atrás", "cortes de pelo hacia atras"],
+    "og_photo": "cut-slick-back-low-taper"
+  },
+  "schema": { "type": "Service", "service_ids": ["essential-haircut", "signature-cut"] },
+  "photo_alt": {
+    "cut-slick-back-low-taper": "Peinado hacia atrás con la parte de arriba larga peinada recta hacia atrás con acabado húmedo, sobre un desvanecido hasta la piel alrededor de la oreja",
+    "cut-slick-back-part-long-beard": "Peinado hacia atrás corto sobre un skin fade alto, con una línea marcada que se curva detrás de la oreja y una barba larga canosa y oscura"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "ESTILOS / PEINADO HACIA ATRÁS",
+      "h1": "Peinado hacia atrás.",
+      "paragraphs": [
+        "Dos peinados hacia atrás (slick back) muy distintos, los dos de mi silla. El primero es largo arriba, peinado recto hacia atrás con acabado brillante, sobre un desvanecido (fade) que baja hasta la piel alrededor de la oreja.",
+        "El segundo es más corto y va hacia atrás sobre un skin fade alto, con una sola línea marcada que se curva detrás de la oreja, y lo acompaña una barba larga canosa y oscura. La misma dirección, una actitud muy distinta."
+      ],
+      "link": { "label": "AGENDA ESTE CORTE", "href": "booksy" },
+      "photos": ["cut-slick-back-low-taper", "cut-slick-back-part-long-beard"]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / LO QUE LO HACE FUNCIONAR",
+      "heading": "Primero, el largo.",
+      "lead": "Lo de arriba tiene que alcanzar.",
+      "paragraphs": [
+        "Un peinado hacia atrás necesita suficiente pelo arriba para quedarse acostado sin pararse, normalmente con más largo sobre la frente y más corto hacia la coronilla. Los lados pueden ir desde un corte a tijera hasta un skin fade. Un desvanecido lo mantiene moderno. Un taper más suave se inclina a lo clásico, y un undercut da el contraste más fuerte."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / A QUIÉN LE QUEDA",
+      "heading": "Lacio y ondulado, sobre todo.",
+      "lead": "El pelo chino puede, con ayuda.",
+      "paragraphs": [
+        "El pelo lacio y el ondulado son los que más fácil se peinan hacia atrás. El pelo chino puede lograrlo con la parte de arriba más corta, o puede irse por una forma más suelta, echada hacia atrás. Es una opción confiable para quien necesita verse arreglado en el trabajo y aun así quiere algo de largo."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "04 / CÓMO AGENDARLO",
+      "heading": "Tu cita.",
+      "lead": "¿Barba larga? Elige el segundo.",
+      "items": [
+        { "title": "Essential Haircut", "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}", "body": "Lados, parte de arriba y contorno de la nuca con navaja, y luego te lo peino, para que salgas viendo cómo debe quedar el peinado hacia atrás.", "href": "page:services-haircuts", "book": true },
+        { "title": "Signature Cut", "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}", "body": "Tu barba recortada con forma o con delineado (line-up), más toalla caliente, además del corte. Lo que va con un look como el de la segunda foto.", "href": "page:services-haircuts", "book": true }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "05 / MANTENIMIENTO",
+      "heading": "Los lados, con calendario.",
+      "lead": "Lo de arriba perdona.",
+      "paragraphs": [
+        "El desvanecido o el taper es lo que delata el tiempo de un peinado hacia atrás, porque los lados muestran el pelo que vuelve a crecer antes que la parte de arriba. Lo de arriba puede aguantar más, y un poco de largo extra muchas veces lo hace más fácil de peinar hacia atrás. Cuando los lados empiezan a esponjarse, es hora de volver a mi silla."
+      ],
+      "photos": []
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / PREGUNTAS",
+      "heading": "Peinado hacia atrás: dudas.",
+      "items": [
+        { "q": "¿Cómo se ve un corte slick back?", "a": "Todo el pelo de arriba va peinado hacia atrás desde la frente hacia la coronilla, sin raya y con los lados cortos. Las dos fotos de esta página muestran una versión larga y brillante y una corta." },
+        { "q": "¿Cómo se debe cortar el pelo para peinarlo hacia atrás?", "a": "Deja largo arriba, sobre todo al frente, y lleva los lados más cortos para que el pelo peinado hacia atrás tenga un borde limpio donde asentarse." },
+        { "q": "¿Un peinado hacia atrás puede llevar una línea marcada?", "a": "Sí. La segunda foto tiene una: una sola línea que se curva detrás de la oreja, marcada en un skin fade alto. Hay más trabajo de líneas en la página de diseños en el pelo." },
+        { "q": "¿Peinado hacia atrás con desvanecido o con taper?", "a": "Un desvanecido, como un skin fade alto, lo hace más marcado y más moderno. Un taper bajo deja los lados con más volumen y el look general más tradicional." }
+      ]
+    }
+  ],
+  "related": ["styles-hard-part", "styles-low-taper-fade", "styles-skin-fade", "services-beard-shaves"],
+  "tim_questions": [
+    "How often do you suggest rebooking a slick back? The upkeep section gives no interval until you say.",
+    "Any styling advice you want on this page (wet vs. dry, what to use)? Product tips were removed because they weren't yours."
+  ]
+}

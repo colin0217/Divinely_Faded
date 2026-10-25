@@ -3,96 +3,336 @@
   <url>
     <loc>https://divinely-faded-two.vercel.app/about/</loc>
     <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://divinely-faded-two.vercel.app/about/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://divinely-faded-two.vercel.app/es/sobre-mi/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://divinely-faded-two.vercel.app/about/"/>
   </url>
   <url>
     <loc>https://divinely-faded-two.vercel.app/blog/</loc>
     <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://divinely-faded-two.vercel.app/blog/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://divinely-faded-two.vercel.app/es/blog/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://divinely-faded-two.vercel.app/blog/"/>
+  </url>
+  <url>
+    <loc>https://divinely-faded-two.vercel.app/es/blog/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://divinely-faded-two.vercel.app/blog/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://divinely-faded-two.vercel.app/es/blog/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://divinely-faded-two.vercel.app/blog/"/>
+  </url>
+  <url>
+    <loc>https://divinely-faded-two.vercel.app/es/estilos/burst-fade/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://divinely-faded-two.vercel.app/styles/burst-fade/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://divinely-faded-two.vercel.app/es/estilos/burst-fade/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://divinely-faded-two.vercel.app/styles/burst-fade/"/>
+  </url>
+  <url>
+    <loc>https://divinely-faded-two.vercel.app/es/estilos/buzz-cut/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://divinely-faded-two.vercel.app/styles/buzz-cut/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://divinely-faded-two.vercel.app/es/estilos/buzz-cut/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://divinely-faded-two.vercel.app/styles/buzz-cut/"/>
+  </url>
+  <url>
+    <loc>https://divinely-faded-two.vercel.app/es/estilos/corte-con-raya/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://divinely-faded-two.vercel.app/styles/hard-part/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://divinely-faded-two.vercel.app/es/estilos/corte-con-raya/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://divinely-faded-two.vercel.app/styles/hard-part/"/>
+  </url>
+  <url>
+    <loc>https://divinely-faded-two.vercel.app/es/estilos/crop-texturizado/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://divinely-faded-two.vercel.app/styles/textured-crop/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://divinely-faded-two.vercel.app/es/estilos/crop-texturizado/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://divinely-faded-two.vercel.app/styles/textured-crop/"/>
+  </url>
+  <url>
+    <loc>https://divinely-faded-two.vercel.app/es/estilos/curly-top-fade/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://divinely-faded-two.vercel.app/styles/curly-top-fade/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://divinely-faded-two.vercel.app/es/estilos/curly-top-fade/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://divinely-faded-two.vercel.app/styles/curly-top-fade/"/>
+  </url>
+  <url>
+    <loc>https://divinely-faded-two.vercel.app/es/estilos/fleco-texturizado/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://divinely-faded-two.vercel.app/styles/textured-fringe/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://divinely-faded-two.vercel.app/es/estilos/fleco-texturizado/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://divinely-faded-two.vercel.app/styles/textured-fringe/"/>
+  </url>
+  <url>
+    <loc>https://divinely-faded-two.vercel.app/es/estilos/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://divinely-faded-two.vercel.app/styles/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://divinely-faded-two.vercel.app/es/estilos/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://divinely-faded-two.vercel.app/styles/"/>
+  </url>
+  <url>
+    <loc>https://divinely-faded-two.vercel.app/es/estilos/low-taper-fade/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://divinely-faded-two.vercel.app/styles/low-taper-fade/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://divinely-faded-two.vercel.app/es/estilos/low-taper-fade/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://divinely-faded-two.vercel.app/styles/low-taper-fade/"/>
+  </url>
+  <url>
+    <loc>https://divinely-faded-two.vercel.app/es/estilos/mullet-moderno/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://divinely-faded-two.vercel.app/styles/modern-mullet/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://divinely-faded-two.vercel.app/es/estilos/mullet-moderno/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://divinely-faded-two.vercel.app/styles/modern-mullet/"/>
+  </url>
+  <url>
+    <loc>https://divinely-faded-two.vercel.app/es/estilos/peinado-hacia-atras/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://divinely-faded-two.vercel.app/styles/slick-back/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://divinely-faded-two.vercel.app/es/estilos/peinado-hacia-atras/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://divinely-faded-two.vercel.app/styles/slick-back/"/>
+  </url>
+  <url>
+    <loc>https://divinely-faded-two.vercel.app/es/estilos/skin-fade/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://divinely-faded-two.vercel.app/styles/skin-fade/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://divinely-faded-two.vercel.app/es/estilos/skin-fade/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://divinely-faded-two.vercel.app/styles/skin-fade/"/>
+  </url>
+  <url>
+    <loc>https://divinely-faded-two.vercel.app/es/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://divinely-faded-two.vercel.app/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://divinely-faded-two.vercel.app/es/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://divinely-faded-two.vercel.app/"/>
+  </url>
+  <url>
+    <loc>https://divinely-faded-two.vercel.app/es/preguntas-frecuentes/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://divinely-faded-two.vercel.app/faq/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://divinely-faded-two.vercel.app/es/preguntas-frecuentes/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://divinely-faded-two.vercel.app/faq/"/>
+  </url>
+  <url>
+    <loc>https://divinely-faded-two.vercel.app/es/servicios/barba-y-afeitado/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://divinely-faded-two.vercel.app/services/beard-and-shaves/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://divinely-faded-two.vercel.app/es/servicios/barba-y-afeitado/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://divinely-faded-two.vercel.app/services/beard-and-shaves/"/>
+  </url>
+  <url>
+    <loc>https://divinely-faded-two.vercel.app/es/servicios/color-y-permanente/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://divinely-faded-two.vercel.app/services/color-and-perm/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://divinely-faded-two.vercel.app/es/servicios/color-y-permanente/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://divinely-faded-two.vercel.app/services/color-and-perm/"/>
+  </url>
+  <url>
+    <loc>https://divinely-faded-two.vercel.app/es/servicios/cortes-de-cabello/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://divinely-faded-two.vercel.app/services/haircuts/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://divinely-faded-two.vercel.app/es/servicios/cortes-de-cabello/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://divinely-faded-two.vercel.app/services/haircuts/"/>
+  </url>
+  <url>
+    <loc>https://divinely-faded-two.vercel.app/es/servicios/cortes-para-ninos/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://divinely-faded-two.vercel.app/services/kids-haircuts/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://divinely-faded-two.vercel.app/es/servicios/cortes-para-ninos/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://divinely-faded-two.vercel.app/services/kids-haircuts/"/>
+  </url>
+  <url>
+    <loc>https://divinely-faded-two.vercel.app/es/servicios/disenos-de-cabello/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://divinely-faded-two.vercel.app/services/hair-designs/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://divinely-faded-two.vercel.app/es/servicios/disenos-de-cabello/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://divinely-faded-two.vercel.app/services/hair-designs/"/>
+  </url>
+  <url>
+    <loc>https://divinely-faded-two.vercel.app/es/servicios/faciales-para-hombres/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://divinely-faded-two.vercel.app/services/mens-facials/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://divinely-faded-two.vercel.app/es/servicios/faciales-para-hombres/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://divinely-faded-two.vercel.app/services/mens-facials/"/>
+  </url>
+  <url>
+    <loc>https://divinely-faded-two.vercel.app/es/servicios/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://divinely-faded-two.vercel.app/services/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://divinely-faded-two.vercel.app/es/servicios/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://divinely-faded-two.vercel.app/services/"/>
+  </url>
+  <url>
+    <loc>https://divinely-faded-two.vercel.app/es/servicios/trenzas/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://divinely-faded-two.vercel.app/services/braids/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://divinely-faded-two.vercel.app/es/servicios/trenzas/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://divinely-faded-two.vercel.app/services/braids/"/>
+  </url>
+  <url>
+    <loc>https://divinely-faded-two.vercel.app/es/sobre-mi/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://divinely-faded-two.vercel.app/about/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://divinely-faded-two.vercel.app/es/sobre-mi/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://divinely-faded-two.vercel.app/about/"/>
+  </url>
+  <url>
+    <loc>https://divinely-faded-two.vercel.app/es/visitanos/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://divinely-faded-two.vercel.app/visit/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://divinely-faded-two.vercel.app/es/visitanos/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://divinely-faded-two.vercel.app/visit/"/>
   </url>
   <url>
     <loc>https://divinely-faded-two.vercel.app/faq/</loc>
     <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://divinely-faded-two.vercel.app/faq/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://divinely-faded-two.vercel.app/es/preguntas-frecuentes/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://divinely-faded-two.vercel.app/faq/"/>
   </url>
   <url>
     <loc>https://divinely-faded-two.vercel.app/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://divinely-faded-two.vercel.app/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://divinely-faded-two.vercel.app/es/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://divinely-faded-two.vercel.app/"/>
   </url>
   <url>
     <loc>https://divinely-faded-two.vercel.app/services/beard-and-shaves/</loc>
     <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://divinely-faded-two.vercel.app/services/beard-and-shaves/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://divinely-faded-two.vercel.app/es/servicios/barba-y-afeitado/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://divinely-faded-two.vercel.app/services/beard-and-shaves/"/>
   </url>
   <url>
     <loc>https://divinely-faded-two.vercel.app/services/braids/</loc>
     <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://divinely-faded-two.vercel.app/services/braids/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://divinely-faded-two.vercel.app/es/servicios/trenzas/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://divinely-faded-two.vercel.app/services/braids/"/>
   </url>
   <url>
     <loc>https://divinely-faded-two.vercel.app/services/color-and-perm/</loc>
     <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://divinely-faded-two.vercel.app/services/color-and-perm/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://divinely-faded-two.vercel.app/es/servicios/color-y-permanente/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://divinely-faded-two.vercel.app/services/color-and-perm/"/>
   </url>
   <url>
     <loc>https://divinely-faded-two.vercel.app/services/hair-designs/</loc>
     <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://divinely-faded-two.vercel.app/services/hair-designs/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://divinely-faded-two.vercel.app/es/servicios/disenos-de-cabello/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://divinely-faded-two.vercel.app/services/hair-designs/"/>
   </url>
   <url>
     <loc>https://divinely-faded-two.vercel.app/services/haircuts/</loc>
     <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://divinely-faded-two.vercel.app/services/haircuts/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://divinely-faded-two.vercel.app/es/servicios/cortes-de-cabello/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://divinely-faded-two.vercel.app/services/haircuts/"/>
   </url>
   <url>
     <loc>https://divinely-faded-two.vercel.app/services/</loc>
     <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://divinely-faded-two.vercel.app/services/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://divinely-faded-two.vercel.app/es/servicios/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://divinely-faded-two.vercel.app/services/"/>
   </url>
   <url>
     <loc>https://divinely-faded-two.vercel.app/services/kids-haircuts/</loc>
     <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://divinely-faded-two.vercel.app/services/kids-haircuts/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://divinely-faded-two.vercel.app/es/servicios/cortes-para-ninos/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://divinely-faded-two.vercel.app/services/kids-haircuts/"/>
   </url>
   <url>
     <loc>https://divinely-faded-two.vercel.app/services/mens-facials/</loc>
     <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://divinely-faded-two.vercel.app/services/mens-facials/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://divinely-faded-two.vercel.app/es/servicios/faciales-para-hombres/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://divinely-faded-two.vercel.app/services/mens-facials/"/>
   </url>
   <url>
     <loc>https://divinely-faded-two.vercel.app/styles/burst-fade/</loc>
     <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://divinely-faded-two.vercel.app/styles/burst-fade/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://divinely-faded-two.vercel.app/es/estilos/burst-fade/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://divinely-faded-two.vercel.app/styles/burst-fade/"/>
   </url>
   <url>
     <loc>https://divinely-faded-two.vercel.app/styles/buzz-cut/</loc>
     <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://divinely-faded-two.vercel.app/styles/buzz-cut/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://divinely-faded-two.vercel.app/es/estilos/buzz-cut/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://divinely-faded-two.vercel.app/styles/buzz-cut/"/>
   </url>
   <url>
     <loc>https://divinely-faded-two.vercel.app/styles/curly-top-fade/</loc>
     <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://divinely-faded-two.vercel.app/styles/curly-top-fade/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://divinely-faded-two.vercel.app/es/estilos/curly-top-fade/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://divinely-faded-two.vercel.app/styles/curly-top-fade/"/>
   </url>
   <url>
     <loc>https://divinely-faded-two.vercel.app/styles/hard-part/</loc>
     <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://divinely-faded-two.vercel.app/styles/hard-part/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://divinely-faded-two.vercel.app/es/estilos/corte-con-raya/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://divinely-faded-two.vercel.app/styles/hard-part/"/>
   </url>
   <url>
     <loc>https://divinely-faded-two.vercel.app/styles/</loc>
     <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://divinely-faded-two.vercel.app/styles/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://divinely-faded-two.vercel.app/es/estilos/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://divinely-faded-two.vercel.app/styles/"/>
   </url>
   <url>
     <loc>https://divinely-faded-two.vercel.app/styles/low-taper-fade/</loc>
     <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://divinely-faded-two.vercel.app/styles/low-taper-fade/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://divinely-faded-two.vercel.app/es/estilos/low-taper-fade/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://divinely-faded-two.vercel.app/styles/low-taper-fade/"/>
   </url>
   <url>
     <loc>https://divinely-faded-two.vercel.app/styles/modern-mullet/</loc>
     <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://divinely-faded-two.vercel.app/styles/modern-mullet/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://divinely-faded-two.vercel.app/es/estilos/mullet-moderno/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://divinely-faded-two.vercel.app/styles/modern-mullet/"/>
   </url>
   <url>
     <loc>https://divinely-faded-two.vercel.app/styles/skin-fade/</loc>
     <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://divinely-faded-two.vercel.app/styles/skin-fade/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://divinely-faded-two.vercel.app/es/estilos/skin-fade/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://divinely-faded-two.vercel.app/styles/skin-fade/"/>
   </url>
   <url>
     <loc>https://divinely-faded-two.vercel.app/styles/slick-back/</loc>
     <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://divinely-faded-two.vercel.app/styles/slick-back/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://divinely-faded-two.vercel.app/es/estilos/peinado-hacia-atras/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://divinely-faded-two.vercel.app/styles/slick-back/"/>
   </url>
   <url>
     <loc>https://divinely-faded-two.vercel.app/styles/textured-crop/</loc>
     <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://divinely-faded-two.vercel.app/styles/textured-crop/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://divinely-faded-two.vercel.app/es/estilos/crop-texturizado/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://divinely-faded-two.vercel.app/styles/textured-crop/"/>
   </url>
   <url>
     <loc>https://divinely-faded-two.vercel.app/styles/textured-fringe/</loc>
     <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://divinely-faded-two.vercel.app/styles/textured-fringe/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://divinely-faded-two.vercel.app/es/estilos/fleco-texturizado/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://divinely-faded-two.vercel.app/styles/textured-fringe/"/>
   </url>
   <url>
     <loc>https://divinely-faded-two.vercel.app/visit/</loc>
     <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://divinely-faded-two.vercel.app/visit/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://divinely-faded-two.vercel.app/es/visitanos/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://divinely-faded-two.vercel.app/visit/"/>
   </url>
 </urlset>
