@@ -116,7 +116,7 @@ function img(name, alt, { eager = false, sizes = "(min-width:701px) 50vw, 100vw"
 }
 const altOf = (p, name, b) => (b && b.alt && typeof b.alt === "object" ? b.alt[name] : "") || (p.photo_alt || {})[name] || (p.alt_text || p.alts || {})[name] || (p.alt && typeof p.alt === "object" ? p.alt[name] : "") || "";
 // The other-language URL, only once that page is actually built (no hreflang/toggle to a 404).
-const altSlug = (p) => byKey.get(`${p.locale === "en" ? "es" : "en"}:${p.id}`)?.slug;
+const altSlug = (p) => (p.id === "home" ? (p.locale === "en" ? (byKey.has("es:home") ? "/es/" : undefined) : "/") : byKey.get(`${p.locale === "en" ? "es" : "en"}:${p.id}`)?.slug);
 
 // ---------- blocks ----------
 function blockHTML(b, p, t, first) {
@@ -272,7 +272,7 @@ function renderPost(p, t) {
 let n = 0;
 const LEAKS = [];
 for (const p of all) {
-  if (p.id === "home" && p.locale === "en") continue; // Colin's homepage is hand-maintained; chrome stamped below
+  if (p.id === "home") continue; // Colin's homepage is hand-maintained (chrome stamped below); /es/ is generated from it
   const out = path.join(ROOT, p.slug === "/" ? "index.html" : p.slug.replace(/^\//, "") + "index.html");
   const page = renderPage(p);
   for (const [re, what] of [[/\[TIM\?\]/, "[TIM?] marker"], [/\{\{[^}]*\}\}/, "unfilled {{token}}"], [/#missing-/, "#missing- link"]]) if (re.test(page)) LEAKS.push(`${p._file}: ${what}`);
@@ -313,6 +313,44 @@ const homeHead = head(homeP);
 const homeTags = homeHead.slice(homeHead.indexOf('<link rel="canonical"'), homeHead.indexOf('<meta name="theme-color"')) + homeHead.slice(homeHead.indexOf('<link rel="icon"'), homeHead.indexOf('<link rel="preconnect"')) + homeHead.slice(homeHead.indexOf('<script type="application/ld+json">'), homeHead.indexOf("</head>"));
 home = home.replace(/<!--df-head-->[\s\S]*?<!--\/df-head-->/, "").replace("</head>", `<!--df-head-->${homeTags}<!--/df-head--></head>`);
 fs.writeFileSync(homePath, home);
+
+// Spanish homepage: generated from Colin's stamped homepage by exact string swaps (content/es/home.json),
+// so it follows every change he makes. Scripts/styles are never touched; unlisted English text is reported.
+{
+  const esHome = byKey.get("es:home");
+  if (esHome) {
+    const dec = (x) => x.replace(/&nbsp;/g, " ").replace(/&quot;/g, '"').replace(/&#39;/g, "'").replace(/&lt;/g, "<").replace(/&gt;/g, ">").replace(/&amp;/g, "&");
+    const S = new Map(esHome.strings), A = new Map(esHome.attrs), KEEP = new Set(esHome.keep || []);
+    const chrome = header(esHome, T.es) + menu(esHome, T.es) + footer("es");
+    const left = new Set();
+    let es = fs.readFileSync(homePath, "utf8")
+      .replace(/<nav class="header-links">[\s\S]*?<\/nav><\/header><nav id="menu" hidden>[\s\S]*?<\/nav>/, () => header(esHome, T.es).replace(/^[\s\S]*?<nav class="header-links">/, '<nav class="header-links">') + menu(esHome, T.es))
+      .replace(/<a class="logo" href="\/"/, '<a class="logo" href="/es/"')
+      .replace(/<footer id="location"[\s\S]*?<\/dialog>/, () => footer("es"))
+      .replace('<html lang="en"', '<html lang="es"')
+      .replace(/<title>[^<]*<\/title>/, () => `<title>${esc(esHome.seo.title)}</title>`)
+      .replace(/<meta name="description" content="[^"]*">/, () => `<meta name="description" content="${esc(esHome.seo.description)}">`)
+      .replace(/<!--df-head-->[\s\S]*?<!--\/df-head-->/, "")
+      .replace('href="style.css"', 'href="/style.css"').replace('src="script.js"', 'src="/script.js"').replace("video.src='hero-desktop.mp4'", "video.src='/hero-desktop.mp4'")
+      .split(facts.booksy).join(bk("es"));
+    const esHead = head(esHome);
+    const esTags = esHead.slice(esHead.indexOf('<link rel="canonical"'), esHead.indexOf('<meta name="theme-color"')) + esHead.slice(esHead.indexOf('<link rel="icon"'), esHead.indexOf('<link rel="preconnect"')) + esHead.slice(esHead.indexOf('<script type="application/ld+json">'), esHead.indexOf("</head>"));
+    es = es.replace("</head>", `<!--df-head-->${esTags}<!--/df-head--></head>`);
+    const [pre, body] = [es.slice(0, es.indexOf("<body")), es.slice(es.indexOf("<body"))];
+    const swapped = body.split(/(<script[\s\S]*?<\/script>|<style[\s\S]*?<\/style>)/).map((seg, i) => (i % 2 ? seg : seg
+      .replace(/>([^<>]+)</g, (m, txt) => {
+        const k = dec(txt).trim();
+        if (!k) return m;
+        if (S.has(k)) return ">" + txt.replace(txt.trim(), () => esc(S.get(k))) + "<";
+        if (/[A-Za-z]{2}/.test(k) && !KEEP.has(k) && !chrome.includes(txt.trim())) left.add(k);
+        return m;
+      })
+      .replace(/\b(alt|aria-label|title)="([^"]+)"/g, (m, a, v) => (A.has(dec(v)) ? `${a}="${esc(A.get(dec(v)))}"` : m)))).join("");
+    fs.mkdirSync(path.join(ROOT, "es"), { recursive: true });
+    fs.writeFileSync(path.join(ROOT, "es/index.html"), pre + swapped);
+    if (left.size) console.warn(`es/index.html: English text not in content/es/home.json (add to strings or keep): ${[...left].map((x) => JSON.stringify(x)).join(", ")}`);
+  }
+}
 
 // sitemap.xml follows every build (alternates only for built twins; future posts left out).
 { const { spawnSync } = await import("node:child_process"); const r = spawnSync(process.execPath, [path.join(ROOT, "tools/build-sitemap.js"), "--today", TODAY], { stdio: "inherit" }); if (r.status) process.exitCode = 1; }

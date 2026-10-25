@@ -1,0 +1,268 @@
+{
+ "id": "home",
+ "locale": "es",
+ "slug": "/es/",
+ "alt": "/",
+ "generated_from": "index.html",
+ "note": "Colin's homepage is frozen; /es/index.html is generated from it on every build by swapping these exact strings. Service names stay English (as on Booksy); 'Cut Different.' and the logo tagline stay English (glossary §1). Any EN string not listed here stays English: the build lists it so it can be added.",
+ "seo": {
+  "title": "Divinely Faded | Barbería en Carlsbad, NM",
+  "description": "Eleva tu estándar. Cortes de precisión, Signature Cut, afeitado con navaja y arreglo de lujo con Timothy Murillo en Carlsbad, NM. Agenda en línea."
+ },
+ "breadcrumb": [
+  [
+   "Inicio",
+   "/es/"
+  ]
+ ],
+ "strings": [
+  [
+   "Skip to content",
+   "Ir al contenido"
+  ],
+  [
+   "01 / THE EXPERIENCE",
+   "01 / LA EXPERIENCIA"
+  ],
+  [
+   "Elevate your",
+   "Eleva tu"
+  ],
+  [
+   "standard.",
+   "estándar."
+  ],
+  [
+   "A sharp cut. A considered finish. A look that feels like you.",
+   "Un corte preciso. Un acabado cuidado. Un look que se siente como tú."
+  ],
+  [
+   "At Divinely Faded in Carlsbad, Timothy Murillo brings precision and personal attention to every service. From your essential haircut to the full luxury grooming experience, the details make the difference.",
+   "En Divinely Faded, en Carlsbad, Timothy Murillo pone precisión y atención personal en cada servicio. Desde tu corte esencial hasta la experiencia completa de arreglo de lujo, los detalles hacen la diferencia."
+  ],
+  [
+   "TAKE A SEAT",
+   "TOMA ASIENTO"
+  ],
+  [
+   "02 / IN THE CHAIR",
+   "02 / EN LA SILLA"
+  ],
+  [
+   "Services.",
+   "Servicios."
+  ],
+  [
+   "Your style, refined.",
+   "Tu estilo, refinado."
+  ],
+  [
+   "Select a service to explore.",
+   "Elige un servicio para ver los detalles."
+  ],
+  [
+   "A precision haircut tailored to your style, with straight razor neck cleanup and professional styling.",
+   "Un corte de precisión a tu estilo, con limpieza del cuello con navaja y peinado profesional."
+  ],
+  [
+   "Book this service",
+   "Agenda este servicio"
+  ],
+  [
+   "Precision haircut, beard trim or lineup, hot towel finish and straight razor detailing.",
+   "Corte de precisión, corte de barba o delineado, acabado con toalla caliente y detallado con navaja."
+  ],
+  [
+   "Consultation, haircut, beard sculpt, wash and scalp massage, facial steam, dual hot towels, razor detailing, basic design, ear and nose waxing, styling and fragrance.",
+   "Consulta, corte, perfilado de barba, lavado y masaje de cuero cabelludo, vapor facial, dos toallas calientes, detallado con navaja, diseño básico, cera en oídos y nariz, peinado y fragancia."
+  ],
+  [
+   "A traditional wet shave with hot towels, premium shaving cream and soothing aftershave.",
+   "Un afeitado tradicional con toallas calientes, crema de afeitar premium y aftershave calmante."
+  ],
+  [
+   "Precision head and beard shave, hot towels and a soothing aftershave finish.",
+   "Afeitado de cabeza y barba de precisión, toallas calientes y un acabado con aftershave calmante."
+  ],
+  [
+   "Facial massage, steam, deep cleanse, gentle exfoliation and hydrating moisturizer.",
+   "Masaje facial, vapor, limpieza profunda, exfoliación suave y crema hidratante."
+  ],
+  [
+   "A complete facial with massage, steam, exfoliation, advanced skin treatments and anti-aging serum.",
+   "Un facial completo con masaje, vapor, exfoliación, tratamientos avanzados para la piel y sérum antiedad."
+  ],
+  [
+   "Varies",
+   "Varía"
+  ],
+  [
+   "2 hr",
+   "2 h"
+  ],
+  [
+   "4 hr",
+   "4 h"
+  ],
+  [
+   "Personalized braiding styles tailored to your look.",
+   "Estilos de trenzas personalizados para tu look."
+  ],
+  [
+   "Professional coloring, including bleaching and toning.",
+   "Coloración profesional, con decoloración y matizado."
+  ],
+  [
+   "Customized texture, volume and movement for your hair.",
+   "Textura, volumen y movimiento a la medida de tu cabello."
+  ],
+  [
+   "The finishing touches.",
+   "Los toques finales."
+  ],
+  [
+   "Hair design",
+   "Diseño en el pelo"
+  ],
+  [
+   "· Wash & scalp massage",
+   "· Lavado y masaje de cuero cabelludo"
+  ],
+  [
+   "· Luxury fragrance",
+   "· Fragancia de lujo"
+  ],
+  [
+   "· Eyebrows",
+   "· Cejas"
+  ],
+  [
+   "· Nose / ear wax",
+   "· Cera en nariz / oídos"
+  ],
+  [
+   "Toupee services coming soon. Prices and appointment availability are confirmed on Booksy.",
+   "Servicios de peluquín próximamente. Los precios y la disponibilidad de citas se confirman en Booksy."
+  ],
+  [
+   "VIEW ALL SERVICES & AVAILABILITY",
+   "VER SERVICIOS Y DISPONIBILIDAD"
+  ],
+  [
+   "CRAFTED AROUND YOU",
+   "HECHO A TU MEDIDA"
+  ],
+  [
+   "Your Style.",
+   "Tu estilo."
+  ],
+  [
+   "Our Craft.",
+   "Nuestro oficio."
+  ],
+  [
+   "EXPLORE SERVICES",
+   "VER SERVICIOS"
+  ],
+  [
+   "FROM THE CHAIR / ON BOOKSY",
+   "DESDE LA SILLA / EN BOOKSY"
+  ],
+  [
+   "“Always a great cut & beard line up!”",
+   "“¡Siempre un gran corte y delineado de barba!”"
+  ],
+  [
+   "READ CLIENT REVIEWS",
+   "LEER RESEÑAS DE CLIENTES"
+  ]
+ ],
+ "attrs": [
+  [
+   "Barber services",
+   "Servicios de barbería"
+  ],
+  [
+   "Precision side-profile haircut by Divinely Faded",
+   "Corte de precisión visto de perfil, por Divinely Faded"
+  ],
+  [
+   "Detailed shaved hair design by Divinely Faded",
+   "Diseño detallado rasurado en el pelo, por Divinely Faded"
+  ],
+  [
+   "Divinely Faded barber shop in Carlsbad",
+   "Barbería Divinely Faded en Carlsbad"
+  ],
+  [
+   "5 stars",
+   "5 estrellas"
+  ],
+  [
+   "Divinely Faded video gallery",
+   "Galería de videos de Divinely Faded"
+  ],
+  [
+   "Watch Divinely Faded TikTok video one in a new tab",
+   "Ver el video uno de Divinely Faded en TikTok en una pestaña nueva"
+  ],
+  [
+   "Black-and-white preview of Divinely Faded TikTok video one",
+   "Vista previa en blanco y negro del video uno de Divinely Faded en TikTok"
+  ],
+  [
+   "Watch Divinely Faded TikTok video two in a new tab",
+   "Ver el video dos de Divinely Faded en TikTok en una pestaña nueva"
+  ],
+  [
+   "Black-and-white preview of Divinely Faded TikTok video two",
+   "Vista previa en blanco y negro del video dos de Divinely Faded en TikTok"
+  ],
+  [
+   "Watch Divinely Faded TikTok video three in a new tab",
+   "Ver el video tres de Divinely Faded en TikTok en una pestaña nueva"
+  ],
+  [
+   "Black-and-white preview of Divinely Faded TikTok video three",
+   "Vista previa en blanco y negro del video tres de Divinely Faded en TikTok"
+  ],
+  [
+   "Divinely Faded home",
+   "Inicio de Divinely Faded"
+  ]
+ ],
+ "keep": [
+  "Cut Different.",
+  "DIVINELY",
+  "FADED",
+  "ESSENTIAL HAIRCUT",
+  "SIGNATURE CUT",
+  "LUXURY GROOMING EXPERIENCE",
+  "STRAIGHT RAZOR BEARD SHAVE",
+  "HEAD & BEARD SHAVE",
+  "EXPRESS FACIAL",
+  "DELUXE FACIAL",
+  "BRAIDS",
+  "COLOR TRANSFORMATION",
+  "PERM",
+  "Essential Haircut",
+  "Signature Cut",
+  "Luxury Grooming Experience",
+  "Straight Razor Beard Shave",
+  "Head & Beard Shave",
+  "Express Facial",
+  "Deluxe Facial",
+  "Braids",
+  "Color Transformation",
+  "Perm",
+  "MATT · SIGNATURE CUT",
+  "DIVINELY FADED",
+  "ELEVATE YOUR STANDARD",
+  "30 min",
+  "40 min",
+  "45 min",
+  "50 min",
+  "60 min",
+  "90 min"
+ ]
+}
