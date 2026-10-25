@@ -26,17 +26,17 @@ const T = {
     policies: "Booking &amp; Cancellation Policies", directions: "Directions", text: "Text", call: "Call",
     hours: "Mon, Tue, Thu, Fri 9–12 &amp; 12:30–5 · Sat 8–2 · Closed Wed &amp; Sun",
     designed: "Designed by", powered: "Powered by", ctaEyebrow: "READY WHEN YOU ARE", ctaHead: "Take a seat.", ctaBook: "BOOK ON BOOKSY", ctaText: "TEXT TIM", ctaCall: "CALL",
-    bookThis: "Book this service", learnMore: "SEE THE STYLE", varies: "Varies", min: "min", hr: "hr", crumbHome: "Home", footerPhotoAlt: "Tim seated in his barbershop",
+    bookThis: "Book this service", learnMore: "LEARN MORE", varies: "Varies", min: "min", hr: "hr", crumbHome: "Home", footerPhotoAlt: "Tim seated in his barbershop",
   },
   es: {
-    lang: "es", home: "/es/", book: "RESERVAR CITA", menuOpen: "Abrir navegación", skip: "Ir al contenido",
+    lang: "es", home: "/es/", book: "AGENDA TU CITA", menuOpen: "Abrir menú", skip: "Ir al contenido",
     nav: [["services", "Servicios"], ["styles", "Estilos"], ["about", "Sobre mí"], ["/es/#gallery", "Galería"], ["blog", "Blog"], ["visit", "Visítanos"], ["faq", "Preguntas"]],
-    bookAppt: "Reservar una cita", city: "CARLSBAD, NUEVO MÉXICO", toggle: "EN", toggleLabel: "View this page in English",
-    madeIn: "Hecho en<br>Carlsbad.", fAbout: "Sobre mí", fServices: "Servicios", fStyles: "Estilos", fBlog: "Blog", fVisit: "Visítanos", fBook: "Reservar", fReviews: "Reseñas", fFaq: "Preguntas",
-    policies: "Políticas de reserva y cancelación", directions: "Cómo llegar", text: "Mensaje", call: "Llamar",
-    hours: "Lun, mar, jue, vie 9–12 y 12:30–5 · Sáb 8–2 · Cerrado miér y dom",
-    designed: "Diseñado por", powered: "Desarrollado por", ctaEyebrow: "CUANDO ESTÉS LISTO", ctaHead: "Toma asiento.", ctaBook: "RESERVA EN BOOKSY", ctaText: "MENSAJE A TIM", ctaCall: "LLAMAR",
-    bookThis: "Reservar este servicio", learnMore: "VER EL ESTILO", varies: "Varía", min: "min", hr: "h", crumbHome: "Inicio", footerPhotoAlt: "Tim sentado en su barbería",
+    bookAppt: "Agendar una cita", city: "CARLSBAD, NUEVO MÉXICO", toggle: "EN", toggleLabel: "View this page in English",
+    madeIn: "Hecho en<br>Carlsbad.", fAbout: "Sobre mí", fServices: "Servicios", fStyles: "Estilos", fBlog: "Blog", fVisit: "Visítanos", fBook: "Agendar", fReviews: "Reseñas", fFaq: "Preguntas",
+    policies: "Políticas de citas y cancelación", directions: "Cómo llegar", text: "Mensaje de texto", call: "Llamar",
+    hours: "Lun, mar, jue, vie 9–12 y 12:30–5 · Sáb 8–2 · Cerrado mié y dom",
+    designed: "Diseñado por", powered: "Con tecnología de", ctaEyebrow: "LISTO CUANDO TÚ LO ESTÉS", ctaHead: "Toma asiento.", ctaBook: "AGENDA EN BOOKSY", ctaText: "MENSAJE A TIM", ctaCall: "LLAMAR",
+    bookThis: "Agenda este servicio", learnMore: "MÁS INFORMACIÓN", varies: "Varía", min: "min", hr: "h", crumbHome: "Inicio", footerPhotoAlt: "Tim sentado en su barbería",
   },
 };
 
@@ -78,7 +78,8 @@ const MISSING = new Set();
 const esc = (s) => String(s ?? "").replace(/&(?!(#\d+|#x[0-9a-f]+|[a-z]+);)/gi, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
 const html = (s) => String(s ?? ""); // trusted copy may contain <br> / <a> / <strong>
 const svc = (id) => facts.services.find((s) => s.id === id) || (() => { throw new Error(`unknown service id ${id}`); })();
-function minutes(n, t) { return n >= 60 ? `${Math.floor(n / 60)}${n % 60 ? `.${Math.round((n % 60) / 6)}` : ""} ${t.hr}`.replace(".5 ", ".5 ") : `${n} ${t.min}`; }
+// Colin's homepage format: whole hours as "2 hr", anything else in minutes ("90 min").
+function minutes(n, t) { return n >= 60 && n % 60 === 0 ? `${n / 60} ${t.hr}` : `${n} ${t.min}`; }
 function fill(s, t) {
   return String(s ?? "")
     .replace(/\{\{price:([a-z0-9-]+)\}\}/g, (_, id) => (svc(id).price == null ? t.varies : `$${svc(id).price}`))
