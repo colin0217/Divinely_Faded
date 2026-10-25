@@ -1,6 +1,7 @@
 // df-reviews.js: the reviews carousel inside Colin's .review component (content/reviews.json).
 // Accessible by design (WCAG 2.2.2): auto-advance only when motion is allowed, silent to screen readers while it
-// rotates (aria-live off), a labelled Pause/Play button, and it stops rotating for good once someone uses a control.
+// rotates (aria-live off), one Pause/Play button whose name says what it will do (no aria-pressed, which would
+// contradict the changing name), and it stops rotating for good once someone uses a control.
 // Without JavaScript the first review shows and the controls stay hidden.
 (function () {
   var reduce = window.matchMedia && matchMedia('(prefers-reduced-motion: reduce)').matches;
@@ -16,15 +17,16 @@
       slides[i].classList.add('is-active'); slides[i].removeAttribute('aria-hidden');
       pos.textContent = (i + 1) + ' / ' + slides.length;
     }
+    function label(state, text) { pause.dataset.state = state; pause.setAttribute('aria-label', text); pause.title = text; }
     function stop() {
       if (timer) { clearInterval(timer); timer = null; }
       box.setAttribute('aria-live', 'polite'); // manual changes are announced
-      pause.setAttribute('aria-pressed', 'true'); pause.textContent = pause.dataset.play;
+      label('paused', pause.dataset.play);
     }
     function start() {
       if (reduce || timer) return;
       box.setAttribute('aria-live', 'off');
-      pause.setAttribute('aria-pressed', 'false'); pause.textContent = pause.dataset.pause;
+      label('playing', pause.dataset.pause);
       timer = setInterval(function () { if (!hovered && !document.hidden) show(i + 1); }, 7000);
     }
     sec.querySelector('.df-review-prev').addEventListener('click', function () { stop(); show(i - 1); });
