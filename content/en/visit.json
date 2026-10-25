@@ -160,7 +160,10 @@
         "Miles",
         "Drive"
       ],
-      "rows": "nearby"
+      "rows": "nearby",
+      "paragraphs": [
+        "Coming from Artesia? <a class=\"text-link\" href=\"/visit/artesia/\">Plan the drive</a>."
+      ]
     },
     {
       "type": "faq",
@@ -196,6 +199,7 @@
     }
   ],
   "related": [
+    "visit-artesia",
     "services",
     "about",
     "faq"

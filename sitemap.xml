@@ -176,6 +176,13 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://divinely-faded-two.vercel.app/about/"/>
   </url>
   <url>
+    <loc>https://divinely-faded-two.vercel.app/es/visitanos/artesia/</loc>
+    <lastmod>2026-10-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://divinely-faded-two.vercel.app/visit/artesia/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://divinely-faded-two.vercel.app/es/visitanos/artesia/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://divinely-faded-two.vercel.app/visit/artesia/"/>
+  </url>
+  <url>
     <loc>https://divinely-faded-two.vercel.app/es/visitanos/</loc>
     <lastmod>2026-10-25</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://divinely-faded-two.vercel.app/visit/"/>
@@ -327,6 +334,13 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://divinely-faded-two.vercel.app/styles/textured-fringe/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://divinely-faded-two.vercel.app/es/estilos/fleco-texturizado/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://divinely-faded-two.vercel.app/styles/textured-fringe/"/>
+  </url>
+  <url>
+    <loc>https://divinely-faded-two.vercel.app/visit/artesia/</loc>
+    <lastmod>2026-10-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://divinely-faded-two.vercel.app/visit/artesia/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://divinely-faded-two.vercel.app/es/visitanos/artesia/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://divinely-faded-two.vercel.app/visit/artesia/"/>
   </url>
   <url>
     <loc>https://divinely-faded-two.vercel.app/visit/</loc>
