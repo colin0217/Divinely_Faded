@@ -1,0 +1,62 @@
+/* df-extras.css: the only additions to Colin's design (Divinely Faded full build, 2026-10-24).
+   Uses only his tokens: #080808 / #fff / his greys, Barlow Condensed + DM Sans, his spacing. No new colors. */
+
+/* Footer: Colin's rule says all footer text and agency logos are pure #FFFFFF. */
+.df-new-footer,.df-new-footer h2,.df-new-footer .df-footer-links a,.df-new-footer .df-footer-social a,
+.df-new-footer .df-footer-address,.df-new-footer .df-footer-address a,.df-new-footer .df-footer-copyright,
+.df-new-footer .df-footer-bottom-links a,.df-new-footer .df-footer-credits,.df-new-footer .df-footer-credits a{color:#fff!important}
+.df-new-footer .df-footer-address a{text-decoration:underline;text-underline-offset:3px}
+.df-new-footer .df-footer-hours{display:block;margin-top:6px}
+.df-footer-credits{display:flex;flex-direction:column;gap:6px;font:400 11px/1.5 'DM Sans',Arial,sans-serif;margin:0 0 21px}
+.df-footer-credits a{display:inline-flex;align-items:center;gap:7px}
+.df-footer-credits img{height:18px;width:auto;filter:brightness(0) invert(1)}
+@media(max-width:700px){
+  .df-new-footer .df-footer-credits{grid-column:2!important;grid-row:5!important;align-self:end!important;align-items:flex-end;text-align:right;margin:0!important}
+}
+
+/* Language toggle: a text link beside Colin's booking pill, same type system. */
+.df-lang{font:600 12px/1 'DM Sans',Arial,sans-serif;letter-spacing:1.5px;color:#fff;padding:10px 12px;margin-right:6px;border-bottom:1px solid transparent}
+.df-lang:hover,.df-lang:focus-visible{border-bottom-color:#fff}
+@media(min-width:701px){header .df-lang{font-size:16px;margin-right:14px}}
+@media(max-width:370px){.df-lang{padding:8px 6px;margin-right:2px;font-size:11px}}
+
+/* Inner pages: the one h1 per page looks exactly like Colin's section h2 (his global h1 is the hero wordmark). */
+.df-page h1{font:700 clamp(52px,7vw,110px)/.98 'Barlow Condensed',sans-serif;margin:20px 0 30px;letter-spacing:-1px;text-align:left;transform:none}
+@media(max-width:700px){.df-page h1{letter-spacing:-1px}}
+.df-page .intro-copy p{color:#b8b8b6}
+.df-page .experience.df-no-photos .intro{padding-top:0}
+.df-crumbs{font-size:10px;letter-spacing:2px;color:#aaa;padding:0 6vw;margin:10px 0 0;text-transform:uppercase}
+.df-crumbs a{color:#aaa}.df-crumbs a:hover{color:#fff}
+@media(max-width:700px){.df-crumbs{padding:0 20px}}
+
+/* Prose under a section heading: Colin's intro-copy rhythm. */
+.df-prose{max-width:760px}
+.df-prose p{color:#b8b8b6;margin:0 0 18px}
+@media(min-width:701px){.df-prose p,.df-prose li{font-size:17px;line-height:1.65}}
+.df-prose h3{margin:34px 0 10px;color:#f1f0ec}
+.df-prose ul{color:#b8b8b6;padding-left:18px}
+.df-prose a{color:#fff;text-decoration:underline;text-underline-offset:3px}
+.df-section .photo-pair{margin-top:40px}
+
+/* Nearby-towns table: black and white, Colin's hairlines. */
+.df-table{width:100%;max-width:760px;border-collapse:collapse;border-top:1px solid #666}
+.df-table th,.df-table td{text-align:left;padding:16px 0;border-bottom:1px solid #444;font-size:15px}
+.df-table th{font-size:10px;letter-spacing:2px;color:#aaa;font-weight:500}
+.df-table td:not(:first-child),.df-table th:not(:first-child){text-align:right}
+
+/* Closing call-to-action row: Colin's .review band with his pills. */
+.df-cta .df-cta-actions{display:flex;flex-wrap:wrap;gap:12px;justify-content:center;margin-top:26px}
+.df-cta h2{margin:12px 0 0}
+
+/* Style/blog cards: Colin's hairline list language, no new decoration. */
+.df-cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:34px 3vw;border-top:1px solid #666;padding-top:34px}
+.df-card{display:block;color:inherit}
+.df-card img{width:100%;aspect-ratio:4/3;object-fit:cover;filter:grayscale(1);transition:opacity .2s}
+.df-card:hover img{opacity:.6}
+.df-card h3{margin:14px 0 4px}
+.df-card p{color:#aaa;margin:0;font-size:14px}
+
+/* Long words (Spanish) never overflow. */
+.df-page h1,.df-page h2,.df-page h3,summary span:first-child{overflow-wrap:anywhere;hyphens:auto}
+.df-feature-text{min-height:0;padding:90px 8vw}.df-feature-text:after{display:none}
+@media(max-width:700px){.df-feature-text{padding:60px 25px}}

@@ -1,0 +1,85 @@
+{
+  "id": "services-haircuts",
+  "locale": "en",
+  "slug": "/services/haircuts/",
+  "alt": "/es/servicios/cortes-de-cabello/",
+  "nav_label": "Haircuts",
+  "breadcrumb": [["Home", "/"], ["Services", "/services/"], ["Haircuts", "/services/haircuts/"]],
+  "seo": {
+    "title": "Men's Haircuts in Carlsbad, NM | Divinely Faded",
+    "description": "Men's haircuts in Carlsbad, NM from Tim at Divinely Faded: the Essential Haircut, Signature Cut and Luxury Grooming Experience. Book on Booksy.",
+    "primary": "mens haircut carlsbad nm",
+    "secondary": ["haircut carlsbad nm", "barber carlsbad nm", "mens haircut", "haircut near me", "mens haircuts near me"],
+    "og_photo": "cut-low-fade-line-up"
+  },
+  "schema": { "type": "Service", "service_ids": ["essential-haircut", "signature-cut", "luxury-grooming"] },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "SERVICES / HAIRCUTS",
+      "h1": "Haircuts.",
+      "paragraphs": [
+        "Three ways to book a cut with me, from a clean haircut to the full grooming treatment.",
+        "Each one is tailored to your style and the shape of your head, and each one finishes with straight razor work. What changes is how much happens around the cut: the beard, the hot towels, the wash, the steam."
+      ],
+      "link": { "label": "BOOK A HAIRCUT", "href": "booksy" },
+      "photos": ["cut-low-fade-line-up", "hero-tim-at-work"],
+      "alt": {
+        "cut-low-fade-line-up": "Low fade with a sharp line-up at the temple and a trimmed mustache",
+        "hero-tim-at-work": "Tim working on a client's haircut in the chair"
+      }
+    },
+    {
+      "type": "list",
+      "eyebrow": "02 / THE MENU",
+      "heading": "Pick your cut.",
+      "lead": "Same precision, more detail as you go.",
+      "items": [
+        { "title": "Essential Haircut", "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}", "body": "A precision haircut built around your style and head shape. I clean up the neck with a straight razor and style it before you get up. Book this one when you want the cut and nothing else.", "book": true },
+        { "title": "Signature Cut", "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}", "body": "A precision haircut with a beard trim or line-up, a hot towel finish and straight razor detailing. It's my most popular service, and the right call when your beard or edges need to match the fade.", "book": true },
+        { "title": "Luxury Grooming Experience", "meta": "{{price:luxury-grooming}} · {{minutes:luxury-grooming}}", "body": "We start with a consultation. Then the haircut, a beard sculpt, a wash and scalp massage, facial steam, dual hot towels, straight razor detailing, a basic hair design, ear and nose waxing, styling and a luxury fragrance finish.", "book": true }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / HOW TO CHOOSE",
+      "heading": "Which one is yours.",
+      "lead": "Start with the beard.",
+      "paragraphs": [
+        "No beard, or you keep it up yourself: the Essential Haircut. A beard or line-up you want sharp: the Signature Cut. A visit where you want everything handled in one booking: the Luxury Grooming Experience.",
+        "Plan your time around what Booksy holds: {{minutes:essential-haircut}} for the Essential, {{minutes:signature-cut}} for the Signature and {{minutes:luxury-grooming}} for the Luxury."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / BRING A PHOTO",
+      "heading": "Know the style?",
+      "lead": "A screenshot beats a description.",
+      "paragraphs": [
+        "Low taper, burst fade, skin fade, textured crop, slick back. If you know the name, the style pages show what each one looks like. If you don't, bring a picture and we'll work out the length together before the clippers come out.",
+        "Want lines cut in? Add a hair design for {{addon:hair-design}}."
+      ],
+      "link": { "label": "BROWSE THE STYLES", "href": "page:styles" },
+      "photos": []
+    },
+    {
+      "type": "faq",
+      "eyebrow": "05 / QUESTIONS",
+      "heading": "Good to know.",
+      "items": [
+        { "q": "Can I just stop by for a cut?", "a": "I work by appointment only, so grab a time on Booksy first. If you can't find a slot that works, text me." },
+        { "q": "Does the Signature Cut include the beard?", "a": "Yes. You get a beard trim or a line-up with it, plus the hot towel finish and razor detailing." },
+        { "q": "Is a shampoo part of the cut?", "a": "A wash and scalp massage comes with the Luxury Grooming Experience. With the Essential or Signature, add it for {{addon:wash-scalp-massage}}." }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "IN THE CHAIR",
+      "heading": "Sharp cut.<br>Clean finish.",
+      "button": { "label": "BOOK NOW", "href": "booksy" }
+    }
+  ],
+  "related": ["services-beard-shaves", "services-designs", "faq"],
+  "tim_questions": []
+}

@@ -1,0 +1,89 @@
+{
+  "id": "styles-hard-part",
+  "locale": "en",
+  "slug": "/styles/hard-part/",
+  "alt": "/es/estilos/raya-marcada/",
+  "nav_label": "Hard Part",
+  "breadcrumb": [["Home", "/"], ["Styles", "/styles/"], ["Hard Part", "/styles/hard-part/"]],
+  "seo": {
+    "title": "Hard Part Haircut in Carlsbad, NM | Divinely Faded",
+    "description": "Hard part haircuts in Carlsbad, NM: a razor-shaved part line on a comb-over, slick back or fade. See a real hard part and book it on Booksy.",
+    "primary": "hard part haircut carlsbad nm",
+    "secondary": ["hard part haircut", "hard part fade", "what is a hard part"],
+    "og_photo": "cut-high-fade-part-line"
+  },
+  "schema": { "type": "Service", "service_ids": ["essential-haircut", "signature-cut"] },
+  "photo_alt": {
+    "cut-high-fade-part-line": "Hard part line shaved through a high skin fade, running from the temple above the ear under a short buzzed top"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "STYLES / HARD PART",
+      "h1": "Hard part.",
+      "paragraphs": [
+        "A hard part is a part you never have to comb in. It is shaved into place, so the line stays put all day.",
+        "On a classic side-part cut it sits where your hair naturally parts and separates the top from the faded side. On shorter cuts it becomes an accent instead. In the photo here, the top is short and even, the sides are faded high to skin, and one clean line runs from the temple across the side, just above the ear."
+      ],
+      "link": { "label": "BOOK THIS CUT", "href": "booksy" },
+      "photos": ["cut-high-fade-part-line"]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / PLACEMENT",
+      "heading": "Where the line goes.",
+      "lead": "Follow your natural part.",
+      "paragraphs": [
+        "Most people wear it on the side their hair already falls toward. Put it where your hair resists and you will fight it every morning. On a comb-over or side part, the line sits higher, roughly above the arch of the eyebrow. On a buzzed or cropped top, it can drop lower and run through the fade itself, as it does here."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / WHO IT SUITS",
+      "heading": "Clearest on short sides.",
+      "lead": "Contrast keeps it visible.",
+      "paragraphs": [
+        "Straight and wavy hair show a shaved part most clearly. On dense curls it is still possible, though the line tends to disappear sooner as the hair grows around it. If you are not sure you will like it, start with a subtle line; it grows out on its own."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "04 / BOOK IT AS",
+      "heading": "Booking a hard part.",
+      "lead": "The cut, plus the line.",
+      "items": [
+        { "title": "Essential Haircut", "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}", "body": "Your fade and top, shaped for your head, and a razor-clean neckline.", "href": "page:services-haircuts", "book": true },
+        { "title": "Signature Cut", "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}", "body": "Brings your beard into the same visit, finished with a hot towel.", "href": "page:services-haircuts", "book": true },
+        { "title": "Hair design add-on", "meta": "{{addon:hair-design}}", "body": "Shaved lines are design work. Add it to your haircut on Booksy for the part line [TIM?].", "href": "page:services-designs", "book": false }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "05 / UPKEEP",
+      "heading": "The line goes first.",
+      "lead": "It fills in fast.",
+      "paragraphs": [
+        "A line shaved to skin starts filling in within a week or so and is soft by the second. If you want the part sharp for an event, book the cut a day or two before. Otherwise, let it fade into the rest of the cut until your next visit."
+      ],
+      "photos": []
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / QUESTIONS",
+      "heading": "About the part.",
+      "items": [
+        { "q": "What is a hard part haircut?", "a": "Any haircut with a part line shaved in with a razor or trimmer instead of combed. It is usually paired with a side part, a comb-over or a fade." },
+        { "q": "Does a hard part grow back?", "a": "Yes. It is only shaved, so the hair grows back like the rest of the cut. Nothing about it is permanent." },
+        { "q": "Can you get a hard part with a fade?", "a": "Yes, and the two suit each other. The fade makes the line stand out, like the high skin fade in the photo." },
+        { "q": "Which side should my part go on?", "a": "Check which way your hair falls after a shower, or where your cowlick sits at the crown. That side is usually the easiest to keep." }
+      ]
+    }
+  ],
+  "related": ["styles-slick-back", "styles-skin-fade", "styles-buzz-cut", "services-designs"],
+  "tim_questions": [
+    "Is a hard part (shaved part line) booked as the hair design add-on on Booksy, or is it included in the haircut? The page says add the hair design add-on for the part line [TIM?].",
+    "Photo fit: cut-high-fade-part-line shows a shaved line through a high fade on a buzzed top, not a classic side-part comb-over. The page describes it that way. If you have a photo of a hard part on a longer comb-over, it would fit this page better."
+  ]
+}

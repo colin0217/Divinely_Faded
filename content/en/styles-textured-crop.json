@@ -1,0 +1,86 @@
+{
+  "id": "styles-textured-crop",
+  "locale": "en",
+  "slug": "/styles/textured-crop/",
+  "alt": "/es/estilos/crop-texturizado/",
+  "nav_label": "Textured Crop",
+  "breadcrumb": [["Home", "/"], ["Styles", "/styles/"], ["Textured Crop", "/styles/textured-crop/"]],
+  "seo": {
+    "title": "Textured Crop in Carlsbad, NM | Divinely Faded",
+    "description": "Textured crop and French crop haircuts in Carlsbad, NM: a short, choppy top worn forward with faded sides. See real crops and book on Booksy.",
+    "primary": "textured crop carlsbad nm",
+    "secondary": ["textured crop", "french crop", "textured crop low fade", "french crop vs textured crop"],
+    "og_photo": "cut-textured-crop-low-fade"
+  },
+  "schema": { "type": "Service", "service_ids": ["essential-haircut", "signature-cut"] },
+  "photo_alt": {
+    "cut-textured-crop-low-fade": "Textured crop from behind, choppy top brought forward into a short fringe over a fade to skin at the nape",
+    "cut-taper-textured-top": "Short textured crop pushed forward and up, sharp front line-up and a taper to skin around the ear"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "STYLES / TEXTURED CROP",
+      "h1": "Textured crop.",
+      "paragraphs": [
+        "Short on top, choppy on purpose, worn forward. The textured crop cuts the top so the hair breaks into pieces, then brings it forward into a short fringe over tight sides.",
+        "The back view shows a fuller version, with the fringe left heavy and the fade dropping to skin at the nape. The side view is shorter: pushed forward and up, with a squared line-up at the front and a taper around the ear."
+      ],
+      "link": { "label": "BOOK THIS CUT", "href": "booksy" },
+      "photos": ["cut-textured-crop-low-fade", "cut-taper-textured-top"]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / CROP VS. FRENCH CROP",
+      "heading": "Messy or neat.",
+      "lead": "Two cousins, one shape.",
+      "paragraphs": [
+        "The French crop is the tidy relative: a short, blunt fringe across the front and a neat top. The textured crop is the lived-in one, with a broken-up fringe and more movement. Both sit forward and both take seconds to style, so the choice is about finish, not effort."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / WHO IT SUITS",
+      "heading": "Thick hair loves it.",
+      "lead": "Finer hair can work too.",
+      "paragraphs": [
+        "Thick, straight or wavy hair that naturally wants to sit forward is the easiest fit. Because the crop brings hair over the front, it can also soften a higher hairline or a larger forehead, which is why it turns up so often in searches about thin hair and receding hairlines."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "04 / BOOK IT AS",
+      "heading": "The right appointment.",
+      "lead": "Usually the first one.",
+      "items": [
+        { "title": "Essential Haircut", "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}", "body": "A crop is a precision cut, finished with the straight razor on the neckline and styled before you leave.", "href": "page:services-haircuts", "book": true },
+        { "title": "Signature Cut", "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}", "body": "Same crop, plus beard work and the hot towel.", "href": "page:services-haircuts", "book": true }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "05 / UPKEEP",
+      "heading": "Low effort, short cycle.",
+      "lead": "Fingers and a little product.",
+      "paragraphs": [
+        "Styling is quick: a pea-sized amount of matte paste or clay, rubbed through dry hair and pushed forward. The fade needs a refresh every two to four weeks, and once the fringe starts landing on your eyebrows, the shape is gone."
+      ],
+      "photos": []
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / QUESTIONS",
+      "heading": "Crop questions.",
+      "items": [
+        { "q": "What is a cropped fringe?", "a": "A short fringe, usually ending well above the eyebrows, cut as part of a crop. It can be blunt and straight or broken up for texture." },
+        { "q": "Does a textured crop work for thin hair?", "a": "Often, yes. The texture adds visual volume and the forward direction covers more of the front than a style pushed back." },
+        { "q": "What haircut suits a big forehead?", "a": "Styles that bring hair forward, like a crop or a fringe, cover part of the forehead. Styles that sweep hair back, like a slick back, show more of it." },
+        { "q": "How short are the sides on a textured crop?", "a": "Your call. A low fade or taper keeps it softer; a higher fade taken to skin makes the textured top stand out more." }
+      ]
+    }
+  ],
+  "related": ["styles-textured-fringe", "styles-low-taper-fade", "styles-buzz-cut", "services-haircuts"],
+  "tim_questions": []
+}

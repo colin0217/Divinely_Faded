@@ -1,0 +1,75 @@
+{
+  "id": "about",
+  "locale": "en",
+  "slug": "/about/",
+  "alt": "/es/sobre-mi/",
+  "nav_label": "About",
+  "breadcrumb": [["Home", "/"], ["About", "/about/"]],
+  "seo": {
+    "title": "About Tim Murillo, Barber in Carlsbad, NM | Divinely Faded",
+    "description": "Meet Timothy Murillo, the barber behind Divinely Faded in Carlsbad, NM. Cutting since 2023, solo, appointment only. Elevate Your Standard.",
+    "primary": "tim murillo barber carlsbad nm",
+    "secondary": ["divinely faded carlsbad nm", "barber in carlsbad nm", "timothy murillo"],
+    "og_photo": "team-tim-portrait"
+  },
+  "schema": { "type": "AboutPage" },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "ABOUT",
+      "h1": "Tim Murillo.",
+      "paragraphs": [
+        "I'm Timothy Murillo. Most people call me Tim. Divinely Faded is my shop in Carlsbad, New Mexico.",
+        "I've been cutting hair since 2023, and I work solo. Every appointment on the books is with me, from the first look at your hair to the last pass of the razor."
+      ],
+      "link": { "label": "BOOK WITH TIM", "href": "booksy" },
+      "photos": ["team-tim-portrait"],
+      "alt": {
+        "team-tim-portrait": "Tim Murillo, owner and barber of Divinely Faded, seated in his barber chair"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / THE STANDARD",
+      "heading": "The standard.",
+      "lead": "Elevate Your Standard.",
+      "paragraphs": [
+        "That's my tagline, and it's how I think about a cut. Precision first. Then the details that make it feel finished: the straight razor work, the hot towel, the clean edge where the fade meets the skin.",
+        "Working alone means one person answers for the whole visit. If something isn't right, you know exactly who to tell."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / FAITH",
+      "heading": "Whole heart.",
+      "lead": "Colossians 3:23.",
+      "paragraphs": [
+        "My faith is part of how I work: whatever I do, I try to do it with all my heart."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / IN MY CHAIR",
+      "heading": "What I do.",
+      "lead": "Cuts, beards and more.",
+      "paragraphs": [
+        "Haircuts for men and kids, beard trims and straight razor shaves, facials, braids, hair designs, color and perms. Toupee services are coming soon.",
+        "The shop is at {{address}}. It's appointment only, and every booking goes through Booksy."
+      ],
+      "photos": []
+    },
+    {
+      "type": "feature",
+      "eyebrow": "SEE YOU IN THE CHAIR",
+      "heading": "One barber.<br>Every detail.",
+      "button": { "label": "BOOK NOW", "href": "booksy" }
+    }
+  ],
+  "related": ["services", "visit", "faq"],
+  "tim_questions": [
+    "Faith line: OK to cite Colossians 3:23 on the About page? (Source: your own posts, per the approved GBP voice file.)",
+    "Opening month in 2023 (the page says only 'since 2023')."
+  ]
+}

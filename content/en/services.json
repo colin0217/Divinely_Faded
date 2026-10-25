@@ -1,0 +1,106 @@
+{
+  "id": "services",
+  "locale": "en",
+  "slug": "/services/",
+  "alt": "/es/servicios/",
+  "nav_label": "Services",
+  "breadcrumb": [["Home", "/"], ["Services", "/services/"]],
+  "seo": {
+    "title": "Barber Services & Prices in Carlsbad, NM | Divinely Faded",
+    "description": "Every service at Divinely Faded in Carlsbad, NM with price and time: haircuts, shaves, facials, braids, designs, color and perms. Book on Booksy.",
+    "primary": "barber services carlsbad nm",
+    "secondary": ["barber price list", "haircut prices near me", "men's haircut prices near me", "barber shop"],
+    "og_photo": "hero-tim-at-work"
+  },
+  "schema": { "type": "OfferCatalog", "service_ids": ["essential-haircut", "signature-cut", "luxury-grooming", "straight-razor-beard-shave", "head-beard-shave", "express-facial", "deluxe-facial", "braids", "color-transformation", "perm"] },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "SERVICES",
+      "h1": "Services.",
+      "paragraphs": [
+        "Everything I offer at Divinely Faded, with the price and the time Booksy sets aside for each one. Open any service to read more, or book it straight from the list.",
+        "Looking for a specific fade or crop? The style pages show the cuts by name."
+      ],
+      "link": { "label": "SEE THE STYLES", "href": "page:styles" },
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "01 / CUTS",
+      "heading": "Haircuts.",
+      "lead": "Three levels of detail.",
+      "items": [
+        { "title": "Essential Haircut", "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}", "body": "The cut, a straight razor neck cleanup and a finished style.", "href": "page:services-haircuts", "book": true },
+        { "title": "Signature Cut", "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}", "body": "The cut plus your beard trimmed or lined up, a hot towel and razor detailing.", "href": "page:services-haircuts", "book": true },
+        { "title": "Luxury Grooming Experience", "meta": "{{price:luxury-grooming}} · {{minutes:luxury-grooming}}", "body": "Cut, beard sculpt, wash, steam, two hot towels, waxing and a fragrance finish in one visit.", "href": "page:services-haircuts", "book": true },
+        { "title": "Kids' haircuts", "meta": "Kids welcome", "body": "Young clients book from the same menu as everyone else.", "href": "page:services-kids", "book": false }
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "02 / BEARD & SHAVE",
+      "heading": "Shaves.",
+      "lead": "Hot towels and a straight razor.",
+      "items": [
+        { "title": "Straight Razor Beard Shave", "meta": "{{price:straight-razor-beard-shave}} · {{minutes:straight-razor-beard-shave}}", "body": "A traditional wet shave with shaving cream and aftershave.", "href": "page:services-beard-shaves", "book": true },
+        { "title": "Head & Beard Shave", "meta": "{{price:head-beard-shave}} · {{minutes:head-beard-shave}}", "body": "Head and beard shaved smooth, finished with an aftershave balm.", "href": "page:services-beard-shaves", "book": true }
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "03 / SKIN",
+      "heading": "Facials.",
+      "lead": "Done in the barber chair.",
+      "items": [
+        { "title": "Express Facial", "meta": "{{price:express-facial}} · {{minutes:express-facial}}", "body": "Massage, steam, a deep cleanse, exfoliation and moisturizer.", "href": "page:services-facials", "book": true },
+        { "title": "Deluxe Facial", "meta": "{{price:deluxe-facial}} · {{minutes:deluxe-facial}}", "body": "The longer facial, with advanced skin treatments and an anti-aging serum.", "href": "page:services-facials", "book": true }
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "04 / TEXTURE & COLOR",
+      "heading": "Braids, color, perm.",
+      "lead": "The longer appointments.",
+      "items": [
+        { "title": "Braids", "meta": "{{price:braids}} · {{minutes:braids}}", "body": "Personalized braiding. The price depends on the style.", "href": "page:services-braids", "book": true },
+        { "title": "Color Transformation", "meta": "{{price:color-transformation}} · {{minutes:color-transformation}}", "body": "Bleach and tone to the shade you're after.", "href": "page:services-color", "book": true },
+        { "title": "Perm", "meta": "{{price:perm}} · {{minutes:perm}}", "body": "Volume, texture and movement, customized to your hair.", "href": "page:services-color", "book": true }
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "05 / ADD-ONS",
+      "heading": "Add-ons.",
+      "lead": "Add them when you book.",
+      "items": [
+        { "title": "Hair design", "meta": "{{addon:hair-design}}", "body": "Lines and freestyle shapes cut into the fade.", "href": "page:services-designs", "book": false },
+        { "title": "Wash & scalp massage", "meta": "{{addon:wash-scalp-massage}}", "body": "A wash with a scalp massage.", "book": false },
+        { "title": "Luxury fragrance", "meta": "{{addon:luxury-fragrance}}", "body": "A fragrance finish on the way out.", "book": false },
+        { "title": "Eyebrows", "meta": "{{addon:eyebrows}}", "body": "Brows cleaned up.", "book": false },
+        { "title": "Nose / ear wax", "meta": "{{addon:nose-ear-wax}}", "body": "Nose and ear waxing.", "book": false }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "06 / GOOD TO KNOW",
+      "heading": "Before you book.",
+      "lead": "Appointments only.",
+      "paragraphs": [
+        "Toupee services are coming soon. Beard dyeing and capillary treatments aren't on my menu.",
+        "Booksy shows the current price and every open slot when you pick a time."
+      ],
+      "photos": []
+    },
+    {
+      "type": "feature",
+      "eyebrow": "READY WHEN YOU ARE",
+      "heading": "Pick a time.<br>Take a seat.",
+      "button": { "label": "BOOK NOW", "href": "booksy" }
+    }
+  ],
+  "related": ["services-haircuts", "visit", "faq"],
+  "tim_questions": [
+    "Can add-ons (wash & scalp massage, fragrance, eyebrows, nose/ear wax) be added to any service, or only to haircuts? The page avoids saying either way."
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "_source": "Owner-confirmed 2026-10-24 (Tim Murillo via Colin Noonan) + Tim's live Booksy (checked 2026-10-24). The ONLY source of business facts for every page, EN and ES.",
+  "name": "Divinely Faded",
+  "owner": "Timothy \"Tim\" Murillo",
+  "tagline": "Elevate Your Standard.",
+  "cutting_since": 2023,
+  "site_url": "https://divinely-faded-two.vercel.app",
+  "future_site_url": "https://divinelyfaded.com",
+  "address": { "street": "303 S Halagueno St", "city": "Carlsbad", "region": "NM", "postal": "88220", "country": "US", "lat": 32.4177, "lng": -104.2305 },
+  "address_never": ["301 S Halagueno", "117 S Canyon St (new shop, unpublished until it opens)", "114 N Margaret St (private)"],
+  "phone": { "display": "(575) 706-3095", "e164": "+15757063095", "preferred": "text" },
+  "booksy": "https://booksy.com/en-us/1113769_divinely-faded-timothy-murillo_barber-shop_28967_carlsbad",
+  "booksy_reviews": "https://booksy.com/en-us/1113769_divinely-faded-timothy-murillo_barber-shop_28967_carlsbad#business-reviews",
+  "gbp": "https://www.google.com/maps?cid=15257330546621568190",
+  "directions": "https://www.google.com/maps/search/?api=1&query=303+S+Halagueno+St+Carlsbad+NM+88220",
+  "appointments_only": true,
+  "hours": [
+    { "days": ["Mo", "Tu", "Th", "Fr"], "open": "09:00", "close": "12:00", "confirmed": false },
+    { "days": ["Mo", "Tu", "Th", "Fr"], "open": "12:30", "close": "17:00", "confirmed": false },
+    { "days": ["Sa"], "open": "08:00", "close": "14:00", "confirmed": true }
+  ],
+  "closed": ["We", "Su"],
+  "holidays": "Open on holidays at regular hours; $20 holiday fee on the holiday itself.",
+  "payment": ["Cash", "Card", "Zelle", "Cash App"],
+  "policy": "No-shows and late cancellations may be charged a cancellation fee (Booksy). Payment is due in full after the service.",
+  "services": [
+    { "id": "essential-haircut", "name": "Essential Haircut", "price": 50, "minutes": 40, "desc": "Precision haircut tailored to your style and head shape, straight razor neck cleanup, finished style." },
+    { "id": "signature-cut", "name": "Signature Cut", "price": 65, "minutes": 45, "desc": "Precision haircut, beard trim or line-up, hot towel finish and straight razor detailing. The most popular service." },
+    { "id": "luxury-grooming", "name": "Luxury Grooming Experience", "price": 80, "minutes": 50, "desc": "Consultation, haircut, beard sculpt, wash and scalp massage, facial steam, dual hot towels, straight razor detailing, basic hair design, ear and nose waxing, styling and a luxury fragrance finish." },
+    { "id": "straight-razor-beard-shave", "name": "Straight Razor Beard Shave", "price": 40, "minutes": 40, "desc": "Traditional wet shave with hot towels, premium shaving cream and a soothing aftershave." },
+    { "id": "head-beard-shave", "name": "Head & Beard Shave", "price": 80, "minutes": 60, "desc": "Precision head shave and beard shave with hot towels and a soothing aftershave balm." },
+    { "id": "express-facial", "name": "Express Facial", "price": 30, "minutes": 30, "desc": "Facial massage, warm steam, deep cleanse, gentle exfoliation and hydrating moisturizer." },
+    { "id": "deluxe-facial", "name": "Deluxe Facial", "price": 40, "minutes": 40, "desc": "Facial massage, warm steam, gentle exfoliation, hydrating moisturizer, advanced skin treatments and an anti-aging serum." },
+    { "id": "braids", "name": "Braids", "price": null, "price_label": "Varies", "minutes": 120, "desc": "Personalized braiding styles." },
+    { "id": "color-transformation", "name": "Color Transformation", "price": 120, "minutes": 240, "desc": "Professional coloring including bleaching and toning to reach the shade you want." },
+    { "id": "perm", "name": "Perm", "price": 95, "minutes": 90, "desc": "Customized perm for volume, texture and movement." }
+  ],
+  "addons": [
+    { "name": "Hair design", "price": 10 }, { "name": "Wash & scalp massage", "price": 10 }, { "name": "Luxury fragrance", "price": 5 }, { "name": "Eyebrows", "price": 5 }, { "name": "Nose / ear wax", "price": 10 }
+  ],
+  "coming_soon": ["Toupee services"],
+  "not_offered": ["beard dyeing", "capillary treatment"],
+  "kids": true,
+  "social": {
+    "instagram": "https://www.instagram.com/____divinelyfaded/",
+    "tiktok": "https://www.tiktok.com/@divinelyfaded",
+    "youtube": "https://www.youtube.com/@DivinelyFaded",
+    "facebook": "https://www.facebook.com/share/12Cp9tTKp3W/?mibextid=wwXIfr"
+  },
+  "nearby": [
+    { "town": "La Huerta", "mi": 2, "min": 4 }, { "town": "Happy Valley", "mi": 4, "min": 6 }, { "town": "Otis", "mi": 6, "min": 8 },
+    { "town": "Loving", "mi": 13, "min": 16 }, { "town": "Malaga", "mi": 17, "min": 21 }, { "town": "Whites City", "mi": 20, "min": 24 }, { "town": "Artesia", "mi": 36, "min": 44 }
+  ],
+  "never_claim": ["walk-in (any form)", "best / #1 / top-rated / any ranking", "Spanish-speaking service or 'se habla español' (unconfirmed)", "fragrance or product brand names", "discounts or offers", "review quotes or counts not already on the homepage", "years of experience other than 'cutting since 2023'", "awards, certifications, licenses", "parking details (unknown)"],
+  "needs_tim": ["Confirm weekday hours (Booksy calendar shows Mon/Tue/Thu/Fri 9-12, 12:30-5)", "Parking", "Opening month in 2023", "Does Tim speak Spanish?", "Toupee service launch", "New shop at 117 S Canyon: opening date"]
+}

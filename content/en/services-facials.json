@@ -1,0 +1,75 @@
+{
+  "id": "services-facials",
+  "locale": "en",
+  "slug": "/services/mens-facials/",
+  "alt": "/es/servicios/faciales-para-hombres/",
+  "nav_label": "Men's Facials",
+  "breadcrumb": [["Home", "/"], ["Services", "/services/"], ["Men's Facials", "/services/mens-facials/"]],
+  "seo": {
+    "title": "Men's Facials in Carlsbad, NM | Divinely Faded",
+    "description": "Men's facials in Carlsbad, NM at Divinely Faded: the Express and Deluxe Facial, with steam, massage and moisturizer in the barber chair.",
+    "primary": "mens facial carlsbad nm",
+    "secondary": ["men's facial", "mens facial"],
+    "og_photo": "steam-facial"
+  },
+  "schema": { "type": "Service", "service_ids": ["express-facial", "deluxe-facial"] },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "SERVICES / MEN'S FACIALS",
+      "h1": "Men's facials.",
+      "paragraphs": [
+        "Steam. Massage. A clean face.",
+        "Two facials, both done right here in the barber chair. You don't need a spa appointment or a separate trip across town to take care of your skin. You lean back, I handle the rest."
+      ],
+      "link": { "label": "BOOK A FACIAL", "href": "booksy" },
+      "photos": ["steam-facial", "facial-hot-towel-massage"],
+      "alt": {
+        "steam-facial": "Warm steam directed at a reclined client's face during a men's facial",
+        "facial-hot-towel-massage": "Facial massage at the temples of a reclined, bearded client"
+      }
+    },
+    {
+      "type": "list",
+      "eyebrow": "02 / THE MENU",
+      "heading": "Express or Deluxe.",
+      "lead": "Pick by time and treatment.",
+      "items": [
+        { "title": "Express Facial", "meta": "{{price:express-facial}} · {{minutes:express-facial}}", "body": "Facial massage, warm steam, a deep cleanse, gentle exfoliation and a hydrating moisturizer. A full reset that fits into a short window.", "book": true },
+        { "title": "Deluxe Facial", "meta": "{{price:deluxe-facial}} · {{minutes:deluxe-facial}}", "body": "Facial massage, warm steam, gentle exfoliation and a hydrating moisturizer, plus advanced skin treatments and an anti-aging serum. The one to book when you want more than a refresh.", "book": true }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / IN THE CHAIR",
+      "heading": "What it feels like.",
+      "lead": "Nothing to do but sit back.",
+      "paragraphs": [
+        "You lean back for this one. Both facials include a massage across the face and temples, like the one in the photo above, warm steam aimed at the face, gentle exfoliation and a hydrating moisturizer.",
+        "The Express adds a deep cleanse. The Deluxe adds advanced skin treatments and an anti-aging serum."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / WHICH ONE",
+      "heading": "Short on time?",
+      "lead": "Go Express.",
+      "paragraphs": [
+        "The Express Facial takes {{minutes:express-facial}}. The Deluxe takes {{minutes:deluxe-facial}} and costs {{price:deluxe-facial}}, and that's where the advanced treatments and the serum come in.",
+        "If you mostly want the steam and the hot towels with your haircut, look at the Luxury Grooming Experience on the haircuts page. Facial steam and dual hot towels are already built into it."
+      ],
+      "photos": []
+    },
+    {
+      "type": "feature",
+      "eyebrow": "SKIN CARE",
+      "heading": "Lean back.<br>Breathe out.",
+      "button": { "label": "BOOK NOW", "href": "booksy" }
+    }
+  ],
+  "related": ["services-beard-shaves", "services-haircuts", "faq"],
+  "tim_questions": [
+    "Can a facial be booked in the same visit as a haircut (back-to-back on Booksy)? (Not on the page.)"
+  ]
+}

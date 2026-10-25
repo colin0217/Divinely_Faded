@@ -1,0 +1,88 @@
+{
+  "id": "services-beard-shaves",
+  "locale": "en",
+  "slug": "/services/beard-and-shaves/",
+  "alt": "/es/servicios/barba-y-afeitado/",
+  "nav_label": "Beard & Shaves",
+  "breadcrumb": [["Home", "/"], ["Services", "/services/"], ["Beard & Shaves", "/services/beard-and-shaves/"]],
+  "seo": {
+    "title": "Beard Trim & Razor Shave in Carlsbad, NM | Divinely Faded",
+    "description": "Beard trims, straight razor shaves and hot towel head and beard shaves in Carlsbad, NM, by Tim at Divinely Faded. Book your time on Booksy.",
+    "primary": "beard trim carlsbad nm",
+    "secondary": ["beard trim near me", "straight razor shave", "hot towel shave", "head shave", "haircut and beard trim near me", "beard line up"],
+    "og_photo": "tim-beard-detailing"
+  },
+  "schema": { "type": "Service", "service_ids": ["signature-cut", "straight-razor-beard-shave", "head-beard-shave"] },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "SERVICES / BEARD & SHAVES",
+      "h1": "Beards and shaves.",
+      "paragraphs": [
+        "Hot towels. A straight razor. A clean line.",
+        "There are three ways to book beard work with me, depending on whether you want the beard shaped with a haircut, shaved off on its own, or shaved together with your head."
+      ],
+      "link": { "label": "BOOK BEARD WORK", "href": "booksy" },
+      "photos": ["tim-beard-detailing", "shave-head-beard-trim"],
+      "alt": {
+        "tim-beard-detailing": "Tim detailing a reclined client's full beard with a towel",
+        "shave-head-beard-trim": "Smooth shaved head with a full salt-and-pepper beard"
+      }
+    },
+    {
+      "type": "list",
+      "eyebrow": "02 / THE OPTIONS",
+      "heading": "Trim, shave or both.",
+      "lead": "Every one of them uses hot towels.",
+      "items": [
+        { "title": "Signature Cut", "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}", "body": "A haircut with your beard handled in the same visit: a trim or a line-up, a hot towel finish and straight razor detailing around the edges.", "book": true },
+        { "title": "Straight Razor Beard Shave", "meta": "{{price:straight-razor-beard-shave}} · {{minutes:straight-razor-beard-shave}}", "body": "A traditional wet shave. Hot towels first, then premium shaving cream, the razor, and a soothing aftershave to close it out.", "book": true },
+        { "title": "Head & Beard Shave", "meta": "{{price:head-beard-shave}} · {{minutes:head-beard-shave}}", "body": "A precision shave on the head and the beard together, with hot towels and a soothing aftershave balm at the end. The longest of the three.", "book": true }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / THE HOT TOWEL",
+      "heading": "Why the towel.",
+      "lead": "Warmth before the blade.",
+      "paragraphs": [
+        "A hot towel wrapped around the face softens the beard and relaxes the skin before a razor touches it. You lean back, the towel goes on, and for a minute nothing is asked of you.",
+        "Then the razor goes to work."
+      ],
+      "photos": ["hot-towel"],
+      "alt": {
+        "hot-towel": "Hot towel wrapped around a reclined client's face before a shave"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / GO FURTHER",
+      "heading": "The full beard treatment.",
+      "lead": "Sculpted, not just trimmed.",
+      "paragraphs": [
+        "The Luxury Grooming Experience includes a beard sculpt along with the haircut, a wash, facial steam, dual hot towels and razor detailing. If your beard is a big part of your look, that's the booking that gives it the most time."
+      ],
+      "photos": []
+    },
+    {
+      "type": "faq",
+      "eyebrow": "05 / QUESTIONS",
+      "heading": "Good to know.",
+      "items": [
+        { "q": "Can I get a beard trim without a haircut?", "a": "On Booksy the beard trim comes with the Signature Cut. For a beard-only visit, text me first [TIM?]." },
+        { "q": "Do you dye beards?", "a": "No. Beard dyeing isn't something I offer." },
+        { "q": "How long is a straight razor shave?", "a": "Booksy sets aside {{minutes:straight-razor-beard-shave}}, towels included." }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "STRAIGHT RAZOR",
+      "heading": "Hot towel.<br>Clean line.",
+      "button": { "label": "BOOK NOW", "href": "booksy" }
+    }
+  ],
+  "related": ["services-haircuts", "services-facials", "faq"],
+  "tim_questions": [
+    "[TIM?] Do you do a beard trim or line-up on its own, without a haircut? If yes, how should people book it on Booksy?"
+  ]
+}

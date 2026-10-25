@@ -1,0 +1,86 @@
+{
+  "id": "styles-slick-back",
+  "locale": "en",
+  "slug": "/styles/slick-back/",
+  "alt": "/es/estilos/peinado-hacia-atras/",
+  "nav_label": "Slick Back",
+  "breadcrumb": [["Home", "/"], ["Styles", "/styles/"], ["Slick Back", "/styles/slick-back/"]],
+  "seo": {
+    "title": "Slick Back Haircut in Carlsbad, NM | Divinely Faded",
+    "description": "Slick back haircuts in Carlsbad, NM: length on top combed back over a taper or skin fade, with or without a beard. See two real cuts. Book on Booksy.",
+    "primary": "slick back haircut carlsbad nm",
+    "secondary": ["slick back haircut", "slick back haircut with fade", "slick back undercut", "slick back haircut with taper"],
+    "og_photo": "cut-slick-back-low-taper"
+  },
+  "schema": { "type": "Service", "service_ids": ["essential-haircut", "signature-cut"] },
+  "photo_alt": {
+    "cut-slick-back-low-taper": "Slick back haircut with a long top combed straight back to a wet finish over a fade to skin around the ear",
+    "cut-slick-back-part-long-beard": "Short slick back over a high skin fade with a shaved line curving behind the ear, worn with a long grey and dark beard"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "STYLES / SLICK BACK",
+      "h1": "Slick back.",
+      "paragraphs": [
+        "Two very different slick backs, both from the shop. The first is long on top, combed straight back to a glossy finish over a fade that drops to skin around the ear.",
+        "The second is shorter and pushed back over a high skin fade, with a single shaved line curving behind the ear, worn with a long grey-and-dark beard. Same direction, very different attitude."
+      ],
+      "link": { "label": "BOOK THIS CUT", "href": "booksy" },
+      "photos": ["cut-slick-back-low-taper", "cut-slick-back-part-long-beard"]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / WHAT MAKES IT WORK",
+      "heading": "Length first.",
+      "lead": "The top has to reach.",
+      "paragraphs": [
+        "A slick back needs enough hair on top to lie back without standing up, usually with the most length over the forehead, tapering shorter toward the crown. The sides can be anything from a scissor cut to a skin fade. A fade keeps it modern. A softer taper leans classic, and an undercut gives the hardest contrast."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / WHO IT SUITS",
+      "heading": "Straight and wavy, mostly.",
+      "lead": "Curls can, with help.",
+      "paragraphs": [
+        "Straight and wavy hair slick back most easily. Curly hair can get there with a shorter top and more product, or it can lean into a looser, pushed-back shape. It is a dependable choice for anyone who needs to look put-together at work and still wants some length."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "04 / BOOK IT AS",
+      "heading": "Your booking.",
+      "lead": "Long beard? Pick the second.",
+      "items": [
+        { "title": "Essential Haircut", "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}", "body": "Sides, top and straight razor neckline, then styled, so you leave seeing how the slick back should sit.", "href": "page:services-haircuts", "book": true },
+        { "title": "Signature Cut", "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}", "body": "Your beard trimmed to shape or lined up, plus a hot towel, on top of the cut. The match for a look like the second photo.", "href": "page:services-haircuts", "book": true }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "05 / UPKEEP",
+      "heading": "Sides on a schedule.",
+      "lead": "The top is forgiving.",
+      "paragraphs": [
+        "The fade or taper is what dates a slick back, usually within two to four weeks. The top can go longer, and a little extra length often makes it easier to comb back. When the sides start puffing out, book the next one."
+      ],
+      "photos": []
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / QUESTIONS",
+      "heading": "Slick back FAQ.",
+      "items": [
+        { "q": "What does a slick back haircut look like?", "a": "All the hair on top is combed back from the forehead toward the crown, with no part and short sides. The two photos on this page show a long, glossy version and a short one." },
+        { "q": "How should hair be cut to slick it back?", "a": "Leave length on top, especially at the front, and take the sides shorter so the back-combed hair has a clean edge to sit against." },
+        { "q": "Is it better to slick back hair wet or dry?", "a": "Product on damp hair gives the shiny, combed look in the first photo. Product on dry hair gives a softer, matte finish that moves more. Both work; it comes down to the look you want." },
+        { "q": "Slick back with a fade or a taper?", "a": "A fade, like a high skin fade, makes it sharper and more modern. A low taper keeps the sides fuller and the overall look more traditional." }
+      ]
+    }
+  ],
+  "related": ["styles-hard-part", "styles-low-taper-fade", "styles-skin-fade", "services-beard-shaves"],
+  "tim_questions": []
+}

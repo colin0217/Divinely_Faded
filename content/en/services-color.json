@@ -1,0 +1,80 @@
+{
+  "id": "services-color",
+  "locale": "en",
+  "slug": "/services/color-and-perm/",
+  "alt": "/es/servicios/color-y-permanente/",
+  "nav_label": "Color & Perm",
+  "breadcrumb": [["Home", "/"], ["Services", "/services/"], ["Color & Perm", "/services/color-and-perm/"]],
+  "seo": {
+    "title": "Men's Hair Color & Perms in Carlsbad, NM | Divinely Faded",
+    "description": "Men's hair color and perms in Carlsbad, NM: bleach and tone with a Color Transformation, or volume and texture with a Perm. Book on Booksy.",
+    "primary": "mens hair color carlsbad nm",
+    "secondary": ["mens hair color", "bleached hair men", "platinum blonde men", "men's perm", "perm for men", "perm salon near me"],
+    "og_photo": "blonde-crop-side"
+  },
+  "schema": { "type": "Service", "service_ids": ["color-transformation", "perm"] },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "SERVICES / COLOR & PERM",
+      "h1": "Color and perm.",
+      "paragraphs": [
+        "Change more than the length.",
+        "Two services for when a new cut isn't enough: a Color Transformation to bleach and tone your hair to a new shade, and a Perm to give it volume, texture and movement it doesn't have on its own."
+      ],
+      "link": { "label": "BOOK COLOR OR A PERM", "href": "booksy" },
+      "photos": ["blonde-crop-side", "cut-blonde-top-mid-fade"],
+      "alt": {
+        "blonde-crop-side": "Platinum blonde textured crop over faded sides, side view",
+        "cut-blonde-top-mid-fade": "Blonde textured top over a mid fade with a shaved part line"
+      }
+    },
+    {
+      "type": "list",
+      "eyebrow": "02 / THE MENU",
+      "heading": "Two ways to change it up.",
+      "lead": "Both are long appointments.",
+      "items": [
+        { "title": "Color Transformation", "meta": "{{price:color-transformation}} · {{minutes:color-transformation}}", "body": "Professional coloring, including bleaching and toning, to reach the shade you want. The longest booking on my menu.", "book": true },
+        { "title": "Perm", "meta": "{{price:perm}} · {{minutes:perm}}", "body": "A customized perm for volume, texture and movement, set to the look you're after.", "book": true }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / COLOR",
+      "heading": "Bleach and tone.",
+      "lead": "Light takes time.",
+      "paragraphs": [
+        "Going blonde starts with bleach, and toning is what takes it from brassy to the shade you actually wanted. The photos show where it can land: an almost white platinum crop over faded sides, and a lighter blonde through the top of a mid fade.",
+        "Booksy blocks {{minutes:color-transformation}} for a Color Transformation, so plan the whole stretch and don't book anything tight after it.",
+        "Color is for the hair on your head. Beard dyeing isn't a service I offer."
+      ],
+      "photos": ["color-kids-blonde-top-fade"],
+      "alt": {
+        "color-kids-blonde-top-fade": "Young client with a blonde top over a fade, side profile"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / PERM",
+      "heading": "Texture on purpose.",
+      "lead": "Volume, texture, movement.",
+      "paragraphs": [
+        "A Perm is customized to you. Whether you want more volume on top, more texture through a crop, or movement in hair that lies flat, the perm is set for that result.",
+        "It runs {{minutes:perm}}. Bring a photo of the wave or curl you have in mind so we're aiming at the same thing."
+      ],
+      "photos": []
+    },
+    {
+      "type": "feature",
+      "eyebrow": "COLOR & TEXTURE",
+      "heading": "New shade.<br>Same standard.",
+      "button": { "label": "BOOK NOW", "href": "booksy" }
+    }
+  ],
+  "related": ["services-haircuts", "services-braids", "faq"],
+  "tim_questions": [
+    "Do you color kids' hair, and is there an age minimum or parent sign-off? (The photo color-kids-blonde-top-fade is on this page; no policy is stated.)",
+    "Do you do a consult before Color Transformation or a Perm? Any hair you won't perm or bleach? (Not on the page.)"
+  ]
+}

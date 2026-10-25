@@ -1,0 +1,80 @@
+{
+  "id": "styles-textured-fringe",
+  "locale": "en",
+  "slug": "/styles/textured-fringe/",
+  "alt": "/es/estilos/fleco-texturizado/",
+  "nav_label": "Textured Fringe",
+  "breadcrumb": [["Home", "/"], ["Styles", "/styles/"], ["Textured Fringe", "/styles/textured-fringe/"]],
+  "seo": {
+    "title": "Textured Fringe in Carlsbad, NM | Divinely Faded",
+    "description": "Textured fringe haircuts in Carlsbad, NM: hair worn forward, ends broken up, sides tapered. Three real examples from the shop. Book on Booksy.",
+    "primary": "textured fringe carlsbad nm",
+    "secondary": ["textured fringe", "textured fringe low taper", "textured fringe haircut", "edgar haircut"],
+    "og_photo": "cut-straight-fringe-taper"
+  },
+  "schema": { "type": "Service", "service_ids": ["essential-haircut", "signature-cut"] },
+  "photo_alt": {
+    "cut-straight-fringe-taper": "Textured fringe falling straight forward with a sharp corner at the temple and a taper to skin at the sideburn",
+    "cut-taper-heavy-fringe": "Heavy textured fringe, long top swept forward over a low taper around the ear",
+    "cut-taper-textured-fringe": "Back view of a textured fringe cut, choppy crown over a taper finishing at the neckline"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "STYLES / TEXTURED FRINGE",
+      "h1": "Textured fringe.",
+      "paragraphs": [
+        "Hair forward, ends broken up, sides tapered. That is a textured fringe in one line.",
+        "The fringe falls onto the forehead instead of being pushed back, and the ends are cut so they separate into pieces rather than sitting in one solid block. A taper or low fade on the sides keeps the weight on top and in front, where the style lives."
+      ],
+      "link": { "label": "BOOK THIS CUT", "href": "booksy" },
+      "photos": ["cut-straight-fringe-taper", "cut-taper-heavy-fringe"]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / THREE LOOKS",
+      "heading": "One idea, three weights.",
+      "lead": "From light to heavy.",
+      "paragraphs": [
+        "In the first photo the fringe drops straight forward, with a crisp corner at the temple and skin at the sideburn. In the second, the top is longer and heavier, swept forward over a taper kept low around the ear.",
+        "The third shows the back of the cut: a choppy, textured crown over a taper that finishes at the neckline. From behind, a good fringe cut should still look intentional."
+      ],
+      "photos": ["cut-taper-textured-fringe"]
+    },
+    {
+      "type": "list",
+      "eyebrow": "03 / BOOK IT AS",
+      "heading": "Booking it.",
+      "lead": "Most fringe cuts are one service.",
+      "items": [
+        { "title": "Essential Haircut", "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}", "body": "Fringe, top and taper in one appointment, plus a straight razor finish at the nape and a styled result.", "href": "page:services-haircuts", "book": true },
+        { "title": "Signature Cut", "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}", "body": "Choose it if you also want facial hair trimmed or lined up; the hot towel comes with it.", "href": "page:services-haircuts", "book": true }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / UPKEEP",
+      "heading": "The fringe is the clock.",
+      "lead": "When it hits your eyes, rebook.",
+      "paragraphs": [
+        "Most people get three to five weeks out of a textured fringe before the front starts covering their eyes. The taper on the sides usually wants attention a little earlier than that. Day to day, it is a low-effort style: no part to set and no comb required."
+      ],
+      "photos": []
+    },
+    {
+      "type": "faq",
+      "eyebrow": "05 / QUESTIONS",
+      "heading": "Fringe questions.",
+      "items": [
+        { "q": "What does textured fringe mean?", "a": "Fringe is the hair that falls over the forehead; textured means the ends are cut uneven on purpose so they separate. Together: a forward-worn front that looks loose instead of blunt." },
+        { "q": "How do you get a messy textured fringe?", "a": "The cut does most of it, since the ends need to be broken up. After that, work a small amount of matte product through dry hair with your fingers and push it forward. Skip the comb." },
+        { "q": "Is a textured fringe the same as an edgar haircut?", "a": "People search edgar haircut for a related look. An edgar usually has a blunt, straight line across the forehead and a sharp fade. A textured fringe is softer and choppier at the ends. Whichever you want, bring a photo so we picture the same cut." },
+        { "q": "Who should not get a fringe?", "a": "Anyone who hates hair touching their eyebrows, or someone with a strong cowlick right at the front hairline that pushes the hair up instead of forward." }
+      ]
+    }
+  ],
+  "related": ["styles-textured-crop", "styles-low-taper-fade", "styles-modern-mullet", "services-haircuts"],
+  "tim_questions": [
+    "Do you cut the blunt-line edgar as well? The textured fringe page only mentions that people search 'edgar haircut' for a related look and never calls your cut an edgar. If you do cut it, the page can say so."
+  ]
+}

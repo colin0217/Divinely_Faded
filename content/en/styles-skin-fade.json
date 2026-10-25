@@ -1,0 +1,90 @@
+{
+  "id": "styles-skin-fade",
+  "locale": "en",
+  "slug": "/styles/skin-fade/",
+  "alt": "/es/estilos/skin-fade/",
+  "nav_label": "Skin Fade",
+  "breadcrumb": [["Home", "/"], ["Styles", "/styles/"], ["Skin Fade", "/styles/skin-fade/"]],
+  "seo": {
+    "title": "Skin Fade in Carlsbad, NM | Divinely Faded",
+    "description": "Skin fade haircuts in Carlsbad, NM: low, mid or high, blended down to bare skin, with or without a beard. See real cuts and book on Booksy.",
+    "primary": "skin fade carlsbad nm",
+    "secondary": ["skin fade", "skin fade haircut", "low skin fade", "what is a skin fade"],
+    "og_photo": "cut-skin-fade-hard-part-beard"
+  },
+  "schema": { "type": "Service", "service_ids": ["essential-haircut", "signature-cut"] },
+  "photo_alt": {
+    "cut-skin-fade-hard-part-beard": "Skin fade with a short top, sharp line-up, a thin razor line above the sideburn and a full beard",
+    "cut-side-ear-fade": "Mid skin fade seen from behind, taken to bare skin around the ear under a short cropped top",
+    "cut-side-fade": "Skin fade from the back, short textured top blending down to skin at the nape and behind the ear"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "STYLES / SKIN FADE",
+      "h1": "Skin fade.",
+      "paragraphs": [
+        "A skin fade takes the sides and back all the way down to bare skin, then blends upward into the length you keep on top. There is no hard ledge where the short hair stops, only a smooth change from scalp to hair.",
+        "These are skin fades from my chair in Carlsbad. One pairs a short top and crisp line-up with a thick, full beard. The other two show the fade from behind, where the skin wraps around the ear before the hair darkens again."
+      ],
+      "link": { "label": "BOOK THIS CUT", "href": "booksy" },
+      "photos": ["cut-skin-fade-hard-part-beard", "cut-side-ear-fade"]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / THE CUT",
+      "heading": "Down to the skin.",
+      "lead": "Height is the decision you make.",
+      "paragraphs": [
+        "Every skin fade has a starting point. A low one begins just above the ear and keeps more weight on the sides. A mid skin fade starts around the temple. A high skin fade climbs toward the crown and gives the boldest contrast."
+      ],
+      "photos": ["cut-side-fade"]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / WHO IT SUITS",
+      "heading": "Clean sides, any texture.",
+      "lead": "Straight, wavy, curly or coarse.",
+      "paragraphs": [
+        "Clippers treat every hair type the same way, so a skin fade works on straight hair, waves and tight curls alike. It suits anyone happy to show some scalp. Want a little shadow left on the sides? A taper keeps more cover.",
+        "Bare temples next to a full beard is the contrast in the first photo."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "04 / BOOK IT AS",
+      "heading": "On Booksy.",
+      "lead": "Two ways to book a skin fade.",
+      "items": [
+        { "title": "Essential Haircut", "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}", "body": "Fade and top, with the nape cleaned up by razor and the cut styled to finish. Pick this if you keep a clean shave or handle your own beard.", "href": "page:services-haircuts", "book": true },
+        { "title": "Signature Cut", "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}", "body": "Everything in the Essential plus beard work, from a clean trim to a sharp line-up, then a hot towel and fine razor work. The right booking for a skin fade worn with a beard.", "href": "page:services-haircuts", "book": true }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "05 / UPKEEP",
+      "heading": "Skin shows growth first.",
+      "lead": "Plan on a short cycle.",
+      "paragraphs": [
+        "Bare skin is the first part of any cut to change. Within about a week the lowest section starts to shadow over, and by week three the blend has softened noticeably. People who like it sharp usually rebook every two to three weeks. Letting it run longer is fine if you enjoy the grown-in stage."
+      ],
+      "photos": []
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / QUESTIONS",
+      "heading": "Skin fade, answered.",
+      "items": [
+        { "q": "What is a skin fade at the barber?", "a": "A fade that finishes at bare skin. The sides and back are taken down until no hair is left at the bottom, then blended up into the hair on top." },
+        { "q": "Is a skin fade the same as a taper?", "a": "No. A taper only touches the sideburns and nape, leaving most of the sides alone. A skin fade wraps all the way around the head and goes to skin." },
+        { "q": "Can I get a skin fade with a full beard?", "a": "Yes. Book the Signature Cut so your beard is handled in the same appointment as the fade." },
+        { "q": "Low, mid or high skin fade: which should I ask for?", "a": "Decide how much contrast you want. Low keeps it subtle, mid sits in between, high is the boldest. Still unsure? The side views on this page make a good reference." }
+      ]
+    }
+  ],
+  "related": ["styles-low-taper-fade", "styles-burst-fade", "styles-buzz-cut", "services-beard-shaves"],
+  "tim_questions": [
+    "Photo cut-skin-fade-hard-part-beard: is the thin pale line above the sideburn a razor line you cut in (described that way in the alt text), or something else?"
+  ]
+}

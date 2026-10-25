@@ -1,0 +1,82 @@
+{
+  "id": "services-kids",
+  "locale": "en",
+  "slug": "/services/kids-haircuts/",
+  "alt": "/es/servicios/cortes-para-ninos/",
+  "nav_label": "Kids' Haircuts",
+  "breadcrumb": [["Home", "/"], ["Services", "/services/"], ["Kids' Haircuts", "/services/kids-haircuts/"]],
+  "seo": {
+    "title": "Kids' Haircuts in Carlsbad, NM | Divinely Faded",
+    "description": "Kids' haircuts in Carlsbad, NM at Divinely Faded: fades, tapers and textured tops for young clients, by appointment on Booksy. Open Saturdays.",
+    "primary": "kids haircut carlsbad nm",
+    "secondary": ["kids haircut carlsbad", "childrens hair cut near me", "kids haircuts", "boys haircuts", "barber shop family"],
+    "og_photo": "cut-kids-curly-top-skin-fade"
+  },
+  "schema": { "type": "Service", "name": "Kids' haircuts", "service_ids": [] },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "SERVICES / KIDS",
+      "h1": "Kids' haircuts.",
+      "paragraphs": [
+        "Kids are welcome in my chair.",
+        "The cuts on this page are the same fades and tapers I give adults, on smaller heads: a curly top over a skin fade, a low fade with a crisp line-up, a taper under a long textured top. Young clients get the same detail as everyone else."
+      ],
+      "link": { "label": "BOOK FOR YOUR KID", "href": "booksy" },
+      "photos": ["cut-kids-curly-top-skin-fade", "cut-kids-low-fade"],
+      "alt": {
+        "cut-kids-curly-top-skin-fade": "Boy's curly top over a skin fade, side view",
+        "cut-kids-low-fade": "Boy's low fade with a short top and a squared line-up"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / BOOKING",
+      "heading": "How parents book.",
+      "lead": "Same app, same chair.",
+      "paragraphs": [
+        "Booksy doesn't list a separate kids' service, so book the haircut that fits what your child wants [TIM?]. The Essential Haircut is {{price:essential-haircut}} and Booksy holds {{minutes:essential-haircut}} for it.",
+        "I work solo, so your kid sees the same barber every visit. That helps when they're still getting used to the clippers.",
+        "If your child has a picture of the cut they want, bring it. It saves guessing on both sides of the cape."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / THE CUTS",
+      "heading": "What's in the photos.",
+      "lead": "Real cuts from my chair.",
+      "paragraphs": [
+        "A taper with a long, textured top keeps length up front and on the crown while the back and sides stay tight. A low fade with a line-up keeps everything short and squared off. A curly top over a skin fade lets natural curl sit on top of a clean side.",
+        "Kids who want lines cut in can add a hair design for {{addon:hair-design}}."
+      ],
+      "photos": ["cut-kids-taper-textured-top"],
+      "alt": {
+        "cut-kids-taper-textured-top": "Boy's taper fade with a long, textured top, rear three-quarter view"
+      }
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / PARENTS ASK",
+      "heading": "Good to know.",
+      "items": [
+        { "q": "Is there a kids' price?", "a": "Booksy shows one price per service, with no separate rate for kids." },
+        { "q": "When can I bring my kid in?", "a": "Any open slot on Booksy. Saturdays run 8:00 AM to 2:00 PM, which helps around the school week. I'm closed Wednesday and Sunday." }
+      ]
+    },
+    {
+      "type": "feature",
+      "photo": "tim-outdoor-kids-cut",
+      "alt": { "tim-outdoor-kids-cut": "Tim cutting a young boy's hair in a barber chair under an outdoor canopy" },
+      "eyebrow": "YOUNG CLIENTS",
+      "heading": "Little clients.<br>Same detail.",
+      "button": { "label": "BOOK NOW", "href": "booksy" }
+    }
+  ],
+  "related": ["services-haircuts", "services-designs", "faq"],
+  "tim_questions": [
+    "[TIM?] Which Booksy service should parents book for a child's cut (Essential Haircut, or whatever fits)? Is there any kids' rate?",
+    "Youngest age you cut? Do you do first haircuts? (Not on the page.)",
+    "Can a parent stay with the child during the cut? (Not on the page.)"
+  ]
+}
