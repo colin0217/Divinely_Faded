@@ -30,6 +30,8 @@ footer#location.df-new-footer .df-footer-bottom-links a,footer#location.df-new-f
 .df-page .experience.df-no-photos .intro{padding-top:0}
 .df-crumbs{font-size:10px;letter-spacing:2px;color:#aaa;padding:0 6vw;margin:10px 0 0;text-transform:uppercase}
 .df-crumbs a{color:#aaa}.df-crumbs a:hover{color:#fff}
+/* Each crumb stays whole; long Spanish trails wrap between crumbs, never inside one (fit gate 2026-10-24, 280–320px). */
+.df-crumbs{line-height:2}.df-crumbs > a,.df-crumbs > span{white-space:nowrap}
 @media(max-width:700px){.df-crumbs{padding:0 20px}}
 
 /* Prose under a section heading: Colin's intro-copy rhythm. */
