@@ -1,0 +1,108 @@
+{
+  "id": "services-braids",
+  "locale": "es",
+  "slug": "/es/servicios/trenzas/",
+  "alt": "/services/braids/",
+  "nav_label": "Trenzas",
+  "card_text": "Trenzas pegadas y estilos de trenzas personalizados sobre un desvanecido.",
+  "breadcrumb": [["Inicio", "/es/"], ["Servicios", "/es/servicios/"], ["Trenzas", "/es/servicios/trenzas/"]],
+  "seo": {
+    "title": "Trenzas para hombre en Carlsbad, NM | Divinely Faded",
+    "description": "Trenzas para hombre en Carlsbad, NM en Divinely Faded: trenzas pegadas y estilos personalizados sobre un desvanecido limpio. Con cita en Booksy.",
+    "primary": "trenzas para hombre",
+    "secondary": ["trenzas pegadas hombre", "cortes con trenzas para hombres"],
+    "og_photo": "braids-side"
+  },
+  "schema": { "type": "Service", "service_ids": ["braids"] },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "SERVICIOS / TRENZAS",
+      "h1": "Trenzas.",
+      "paragraphs": [
+        "Rayas limpias. Filas apretadas. Un desvanecido (fade) abajo.",
+        "Las trenzas para hombre están en mi menú, y cada peinado de trenzas se personaliza para la persona en la silla. Las fotos de esta página son trenzas que he hecho: filas que van derecho hacia atrás, pares que se juntan en la coronilla, algunas con anillos dorados en las puntas."
+      ],
+      "link": { "label": "AGENDA TRENZAS", "href": "booksy" },
+      "photos": ["braids-top", "braids-side"],
+      "alt": {
+        "braids-top": "Varias trenzas pegadas que van derecho hacia atrás sobre los lados desvanecidos, vistas desde arriba",
+        "braids-side": "Dos trenzas pegadas con anillos dorados en las puntas sobre un lado desvanecido y barba completa"
+      }
+    },
+    {
+      "type": "list",
+      "eyebrow": "02 / PRECIO Y TIEMPO",
+      "heading": "Planéalo.",
+      "lead": "Una de las citas más largas de mi menú.",
+      "items": [
+        { "title": "Braids", "meta": "{{price:braids}} · {{minutes:braids}}", "body": "Estilos de trenzas personalizados. El precio cambia según el estilo, así que Booksy lo muestra como variable. Booksy aparta {{minutes:braids}} para la cita, así que libera tu tarde o tu mañana.", "book": true }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / EL ESTILO",
+      "heading": "Trenzas con desvanecido.",
+      "lead": "El contraste es la idea.",
+      "paragraphs": [
+        "La mayoría de estos peinados combinan trenzas arriba con atrás y los lados desvanecidos o en taper, para que cada fila resalte contra la piel limpia.",
+        "Algunos mantienen el color oscuro natural del pelo. Otros llevan rubio en las trenzas, que se ve todavía más marcado junto al desvanecido.",
+        "La última foto de la página tiene dos filas que terminan en un anillo dorado, con el lado de abajo desvanecido hasta la piel. Las filas, el color y los anillos son parte de lo que hace personal un peinado de trenzas."
+      ],
+      "photos": ["braids-back", "braids-crown"],
+      "alt": {
+        "braids-back": "Trenzas en tono rubio que caen más allá de un taper bajo en la nuca",
+        "braids-crown": "Dos trenzas pegadas en tono rubio que se juntan en la coronilla con raya al centro, vistas desde arriba"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / ANTES DE AGENDAR",
+      "heading": "Enséñame el estilo.",
+      "lead": "Una foto ayuda.",
+      "paragraphs": [
+        "En Booksy aparece como Braids, con precio variable, así que mándame un mensaje con una foto del estilo que quieres y pregúntame antes de agendar. El mensaje de texto es la forma más fácil de contactarme, y una foto nos ahorra a los dos muchas idas y vueltas.",
+        "Elige un horario en el que puedas quedarte las {{minutes:braids}} completas sin estar viendo el reloj. Las trenzas se agendan como todo lo demás aquí: solo con cita, por Booksy.",
+        "Pagas cuando las trenzas están terminadas, igual que en cualquier otra cita. En una cita tan larga, un horario perdido es difícil de llenar, así que cancela con tiempo si cambian tus planes: Booksy puede cobrar un cargo si no llegas a tu cita o cancelas de último momento."
+      ],
+      "photos": []
+    },
+    {
+      "type": "faq",
+      "eyebrow": "05 / PREGUNTAS",
+      "heading": "Lo que debes saber.",
+      "items": [
+        {
+          "q": "¿Cuánto cuestan las trenzas?",
+          "a": "Depende del estilo, por eso Booksy muestra el precio como variable. Mándame una foto del peinado de trenzas que quieres al {{phone}} y pregúntame primero."
+        },
+        {
+          "q": "¿Cuánto tiempo debo planear para las trenzas?",
+          "a": "Booksy separa {{minutes:braids}} para un peinado de trenzas. Agenda un horario en el que nada más te esté esperando."
+        },
+        {
+          "q": "¿Puedo hacerme trenzas con desvanecido?",
+          "a": "Sí. La mayoría de los peinados de estas fotos van sobre un desvanecido o un taper en los lados y atrás."
+        },
+        {
+          "q": "¿Cuándo pago las trenzas?",
+          "a": "Al terminar las trenzas, en efectivo, con tarjeta, o por Zelle o Cash App."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "photo": "braids-blonde-side",
+      "alt": { "braids-blonde-side": "Dos trenzas pegadas que terminan en un anillo dorado sobre un lado con skin fade" },
+      "eyebrow": "TRENZAS",
+      "heading": "Filas derechas.<br>Desvanecido nítido.",
+      "button": { "label": "AGENDA AHORA", "href": "booksy" }
+    }
+  ],
+  "related": ["services-designs", "services-color", "faq"],
+  "tim_questions": [
+    "[TIM?] How do you quote braids? The page asks people to text a photo of the style and ask before booking (texts are your preferred contact).",
+    "Do you do box braids? Do you add extension hair? (Not on the page; 'box braids men' was dropped from the keyword targets until you confirm.)",
+    "How long does hair need to be for braids? How long do your braids usually last? (Not on the page; 'how long do braids last men' is a search people make.)"
+  ]
+}

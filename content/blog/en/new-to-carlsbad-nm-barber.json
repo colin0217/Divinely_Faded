@@ -1,0 +1,178 @@
+{
+  "id": "post-new-to-carlsbad-nm-barber",
+  "locale": "en",
+  "slug": "/blog/new-to-carlsbad-nm-barber/",
+  "date": "2026-11-02",
+  "plan_rank": 11,
+  "title": "New to Carlsbad, NM? How to Find Your Barber",
+  "eyebrow": "LOCAL",
+  "hero": "cut-skin-fade-long-beard",
+  "hero_alt": "Skin fade with a long, shaped beard, cut at Divinely Faded",
+  "image_plan": "Tim library (stock town photos were not Carlsbad)",
+  "card_text": "Just moved to Carlsbad? Where the shop is, how far it is from nearby towns, how booking works and what a first visit looks like.",
+  "lede": [
+    "New to Carlsbad, NM and looking for a barber? Check three things before you book anyone: whether their own photos show the cut you wear, whether prices and times are posted up front, and how booking works. Divinely Faded is my one-chair shop at {{address}}. It runs by appointment only, and every visit is booked on Booksy.",
+    "If your old barber is suddenly a few states away, this is how to settle in here without trial and error."
+  ],
+  "seo": {
+    "title": "New to Carlsbad, NM? How to Find Your Barber",
+    "description": "Moving to Carlsbad, NM? How to pick a barber, where Divinely Faded is, drive times from nearby towns, and what your first appointment looks like.",
+    "primary": "living in carlsbad nm",
+    "secondary": [
+      "moving to carlsbad nm"
+    ]
+  },
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Blog",
+      "/blog/"
+    ],
+    [
+      "New to Carlsbad",
+      "/blog/new-to-carlsbad-nm-barber/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / CHOOSING",
+      "heading": "What to look for.",
+      "lead": "Judge the work, not the sign.",
+      "subsections": [
+        {
+          "heading": "Photos of their own cuts",
+          "paragraphs": [
+            "Look for the haircut you actually wear: the fade height, the beard work, the sharpness at the temple. My style pages show cuts from my own chair, each one named, so you can match a picture to what you want before you ever sit down."
+          ]
+        },
+        {
+          "heading": "Prices and times you can see",
+          "paragraphs": [
+            "A posted menu means no surprise at the end. Every service I offer is listed with its price and the time Booksy holds for it, from a {{minutes:express-facial}} Express Facial to a {{minutes:color-transformation}} Color Transformation."
+          ]
+        },
+        {
+          "heading": "The same barber every time",
+          "paragraphs": [
+            "I work solo. The person you book is the person cutting your hair, on the first visit and every one after it. Over a few appointments, that adds up to someone who already knows your cowlick and how you like the top."
+          ]
+        },
+        {
+          "heading": "Booking that respects your time",
+          "paragraphs": [
+            "Appointments only means no sitting around waiting your turn. You pick a slot, you arrive at that time, and the chair is yours."
+          ]
+        }
+      ],
+      "link": {
+        "label": "SEE ALL SERVICES",
+        "href": "page:services"
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "02 / GETTING HERE",
+      "heading": "Living outside town?",
+      "lead": "Real driving distances from the shop on Halagueno Street.",
+      "columns": [
+        "Town",
+        "Miles",
+        "Drive"
+      ],
+      "rows": "nearby",
+      "paragraphs": [
+        "If home is in La Huerta or Happy Valley, the drive is a few minutes. From Artesia it is the longest on this list, about 44 minutes, so lock in the slot on Booksy before you set out rather than hoping something opens up.",
+        "The visit page has a Get Directions button that opens the route in Google Maps, along with the hours and the payment details."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / FIRST VISIT",
+      "heading": "Your first appointment.",
+      "lead": "From booking to the mirror.",
+      "paragraphs": [
+        "Pick the service first on Booksy, then the time. If you only need a haircut, that is the Essential Haircut ({{price:essential-haircut}}, {{minutes:essential-haircut}}). If your beard or line-up needs work too, book the Signature Cut ({{price:signature-cut}}, {{minutes:signature-cut}}), which adds a hot towel finish.",
+        "Bring a photo of a cut your last barber did that you liked. A new barber can't see your haircut history, so a screenshot gets us on the same page fast. Tell me what you liked about it and what you would change.",
+        "When the cut is done, you pay in full: cash, card, Zelle or Cash App all work. If you want something extra, like a wash and scalp massage for {{addon:wash-scalp-massage}}, add it on Booksy when you book."
+      ],
+      "link": {
+        "label": "HOURS AND DIRECTIONS",
+        "href": "page:visit"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / THE SHOP",
+      "heading": "Who you'll be booking.",
+      "lead": "One barber, cutting since 2023.",
+      "paragraphs": [
+        "I'm Tim Murillo, and Divinely Faded is my shop. The shop's tagline is Elevate Your Standard. To me that means the cut comes first, and the finish gets the same care as the fade.",
+        "Kids are welcome, so the whole household can book from one menu. Beyond haircuts, I do beard trims and straight razor shaves, facials, braids, hair designs, color and perms."
+      ],
+      "link": {
+        "label": "MORE ABOUT TIM",
+        "href": "page:about"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "05 / YOUR SCHEDULE",
+      "heading": "Fitting it into your week.",
+      "lead": "New job, new routine.",
+      "paragraphs": [
+        "Saturday runs 8:00 AM to 2:00 PM and is the one weekend day I cut. The shop is closed every Wednesday and Sunday, and weekday openings show up on Booksy as they come free.",
+        "Holidays run on my regular hours. An appointment on the holiday itself carries a {{holiday_fee}} holiday fee on top of the service.",
+        "Something come up? Cancel or move the appointment in Booksy as soon as you know. A no-show or a late cancellation may be charged a cancellation fee."
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / NEWCOMERS ASK",
+      "heading": "Settling in.",
+      "items": [
+        {
+          "q": "Do I need an appointment?",
+          "a": "Yes. Every visit to Divinely Faded is booked ahead on Booksy. If you can't find a slot that works, text me at {{phone}}."
+        },
+        {
+          "q": "Where is the shop?",
+          "a": "At {{address}}. The visit page has a button that opens the route in Google Maps."
+        },
+        {
+          "q": "How far is it from Loving or Artesia?",
+          "a": "Loving is about 13 miles, roughly 16 minutes by car. Artesia is about 36 miles, around 44 minutes."
+        },
+        {
+          "q": "Can I bring my kids?",
+          "a": "Yes. Kids book from the same menu as adults, so you can put their appointment right next to yours."
+        },
+        {
+          "q": "What's the easiest way to reach you?",
+          "a": "A text. I'd rather get a text than a call, and it's the quickest way to get an answer."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "NEW IN TOWN",
+      "heading": "New town.<br>Same standard.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "visit",
+    "about",
+    "services"
+  ],
+  "tim_questions": [
+    "Is there a landmark near 303 S Halagueno St that helps first-timers find the shop? Left out.",
+    "Do new clients see the same open slots as regulars, or are any times held back? The post assumes every open Booksy slot is open to newcomers."
+  ]
+}

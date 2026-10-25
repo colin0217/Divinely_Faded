@@ -1,0 +1,167 @@
+{
+  "id": "post-low-fade-haircut",
+  "locale": "es",
+  "slug": "/es/blog/corte-low-fade/",
+  "alt": "/blog/low-fade-haircut/",
+  "date": "2026-11-02",
+  "plan_rank": 14,
+  "title": "Corte low fade: el desvanecido de todos los días",
+  "eyebrow": "ESTILOS",
+  "hero": "cut-low-fade-line-up",
+  "hero_alt": "Desvanecido bajo con un delineado nítido en la sien y el bigote recortado",
+  "image_plan": null,
+  "card_text": "Dónde empieza un desvanecido bajo, en qué se diferencia de un taper bajo y de un skin fade, y cómo pedirlo en la silla.",
+  "lede": [
+    "Un desvanecido bajo (low fade) empieza justo arriba de la oreja y a lo largo de la nuca, y luego se difumina hacia arriba hasta el largo de la parte de arriba, así que la mayor parte del lado conserva su pelo. Es el desvanecido de todos los días: lo bastante fresco para notarse, lo bastante discreto para el trabajo, la escuela o una foto familiar. En mi barbería en Carlsbad lo agendas como el Essential Haircut (corte esencial), de {{price:essential-haircut}}, o como el Signature Cut (corte distintivo), de {{price:signature-cut}}, cuando quieres un delineado (line-up) o trabajo de barba junto con él.",
+    "Aquí te digo cómo se compara con un taper bajo y con un skin fade (desvanecido hasta la piel), por qué es un primer desvanecido fácil y cómo pedir exactamente el que quieres."
+  ],
+  "seo": {
+    "title": "Desvanecido bajo: el de todos los días | Carlsbad, NM",
+    "description": "Qué es un desvanecido bajo (low fade), en qué se diferencia de un taper bajo y de un skin fade, y cómo agendarlo en Divinely Faded en Carlsbad, NM.",
+    "primary": "desvanecido bajo",
+    "secondary": []
+  },
+  "breadcrumb": [
+    ["Inicio", "/es/"],
+    ["Blog", "/es/blog/"],
+    ["Low fade", "/es/blog/corte-low-fade/"]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / EL CORTE",
+      "heading": "Dónde empieza.",
+      "lead": "Bajo en la cabeza, corto abajo.",
+      "paragraphs": [
+        "La línea del desvanecido queda baja, alrededor de la parte de arriba de la oreja y a lo largo del contorno de la nuca. Debajo de ella, el pelo se corta muy corto. Arriba de ella, el largo regresa poco a poco hasta llegar a la parte de arriba. Entre más alto empieza un desvanecido, más cuero cabelludo se ve, y un desvanecido bajo lo deja en una franja angosta.",
+        "En la foto de arriba de este artículo, el desvanecido se queda abajo cerca de la oreja y la sien lleva un delineado nítido. Esa combinación es común: el desvanecido bajo mantiene todo tranquilo, y el delineado le da a la cara un marco definido.",
+        "Abajo puede terminar en la piel o dejar un poco de sombra. Los dos cuentan como desvanecido bajo. La única diferencia es qué tan al ras queda abajo."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / COMPARADO",
+      "heading": "Tres nombres, tres cortes.",
+      "lead": "Desvanecido bajo, taper bajo, skin fade.",
+      "subsections": [
+        {
+          "heading": "Desvanecido bajo vs. taper bajo",
+          "paragraphs": [
+            "Un taper bajo solo acorta los bordes: las patillas, el pelo alrededor de la oreja y la nuca. Un desvanecido bajo da toda la vuelta a la cabeza a esa misma altura baja. El taper es el toque más ligero; el desvanecido es la transición más completa."
+          ]
+        },
+        {
+          "heading": "Desvanecido bajo vs. skin fade",
+          "paragraphs": [
+            "Skin fade describe qué tan corto queda abajo, no dónde empieza el desvanecido. Un desvanecido bajo que termina en la piel es un skin fade bajo. Uno que se detiene justo antes de la piel sigue siendo un desvanecido bajo, solo que más suave."
+          ]
+        }
+      ],
+      "link": {
+        "label": "ESTILO SKIN FADE",
+        "href": "page:styles-skin-fade"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / POR QUÉ EMPEZAR AQUÍ",
+      "heading": "Un primer desvanecido fácil.",
+      "lead": "Menos contraste, menos sorpresas.",
+      "paragraphs": [
+        "¿Vienes de un corte más largo, o de uno hecho casi todo a tijera? Un desvanecido bajo cambia más el contorno que el look general. Los lados conservan casi todo su pelo, así que la persona en el espejo se ve como tú, solo que más nítido.",
+        "También crece sin llamar la atención. Como la franja corta es angosta, hay menos piel que se tiene que volver a llenar, y la transición se suaviza en vez de convertirse en un escalón visible.",
+        "Y queda debajo de casi cualquier parte de arriba: un crop corto, arriba texturizado, pelo chino o un estilo más largo peinado hacia un lado. Elige primero la parte de arriba. El desvanecido bajo va debajo."
+      ],
+      "link": {
+        "label": "COMPARA EL TAPER BAJO",
+        "href": "page:styles-low-taper-fade"
+      }
+    },
+    {
+      "type": "list",
+      "eyebrow": "04 / CÓMO AGENDARLO",
+      "heading": "En Booksy.",
+      "lead": "Elige según qué más hay que hacer.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "El desvanecido y la parte de arriba, cortados según la forma de tu cabeza, con limpieza de la nuca con navaja y un peinado final.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "Agrega un delineado o corte de barba, como la sien nítida de la foto, además de un toque final con toalla caliente y detalles con navaja en los bordes.",
+          "book": true
+        },
+        {
+          "title": "El menú completo de cortes",
+          "meta": "Tres cortes",
+          "body": "¿Quieres tu desvanecido bajo con lavado, vapor y modelado de barba? La Luxury Grooming Experience (experiencia de arreglo de lujo) está en la página de cortes junto con los otros dos.",
+          "href": "page:services-haircuts",
+          "link_label": "VER LOS CORTES"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "05 / CÓMO PEDIRLO",
+      "heading": "Cómo pedirlo.",
+      "lead": "Tres detalles y una foto.",
+      "paragraphs": [
+        "Tres detalles me dicen exactamente qué desvanecido bajo quieres. Dímelos antes de que empiece, o trae una foto que muestre los tres a la vez:"
+      ],
+      "bullets": [
+        "Dónde empieza: di bajo, y señala justo arriba de tu oreja.",
+        "Qué tan corto queda abajo: hasta la piel, o con un poco de sombra.",
+        "Qué pasa arriba: cuánto se quita y cómo lo peinas día a día."
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / PREGUNTAS",
+      "heading": "Dudas del desvanecido bajo.",
+      "items": [
+        {
+          "q": "¿Qué es un corte low fade?",
+          "a": "Un desvanecido que empieza bajo, alrededor de la oreja y la nuca, y se difumina hacia arriba hasta la parte de arriba. La mayor parte del lado conserva su largo."
+        },
+        {
+          "q": "¿Un desvanecido bajo es lo mismo que un taper bajo?",
+          "a": "No. Un taper bajo acorta solo los bordes. Un desvanecido bajo da toda la vuelta a la cabeza a esa altura."
+        },
+        {
+          "q": "¿Pido un desvanecido bajo o uno medio?",
+          "a": "Si no te decides, empieza bajo. Subir un desvanecido la próxima vez es fácil; volver a bajarlo significa esperar a que crezca el pelo."
+        },
+        {
+          "q": "¿Cada cuánto debo volver a cortar un desvanecido bajo?",
+          "a": "Eso lo decides tú. Depende de qué tan rápido te crece el pelo y de qué tan nítido te gusta que se vea abajo. Booksy te muestra los horarios disponibles cuando estés listo."
+        },
+        {
+          "q": "¿Cuánto cuesta un desvanecido bajo en Carlsbad?",
+          "a": "En Divinely Faded se agenda como el Essential Haircut a {{price:essential-haircut}}, o el Signature Cut a {{price:signature-cut}} cuando también quieres delineado o trabajo de barba."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "DE TODOS LOS DÍAS",
+      "heading": "Desvanecido bajo.<br>Todos los días.",
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "styles-skin-fade",
+    "styles-low-taper-fade",
+    "services-haircuts"
+  ],
+  "tim_questions": [
+    "How often do you suggest refreshing a low fade? The post leaves the interval to the client and gives no number.",
+    "Does the Essential Haircut include a front line-up at the temples and forehead, or only the razor cleanup at the neck? The post puts the line-up under the Signature Cut."
+  ]
+}

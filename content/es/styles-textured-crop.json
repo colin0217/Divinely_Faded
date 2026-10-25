@@ -1,0 +1,90 @@
+{
+  "id": "styles-textured-crop",
+  "locale": "es",
+  "slug": "/es/estilos/crop-texturizado/",
+  "alt": "/styles/textured-crop/",
+  "nav_label": "Crop texturizado",
+  "card_text": "Arriba corto y desfilado, hacia adelante, sobre lados bien cortos.",
+  "breadcrumb": [["Inicio", "/es/"], ["Estilos", "/es/estilos/"], ["Crop texturizado", "/es/estilos/crop-texturizado/"]],
+  "seo": {
+    "title": "Crop texturizado en Carlsbad, NM | Divinely Faded",
+    "description": "Crop texturizado y French crop en Carlsbad, NM: arriba corto y desfilado, hacia adelante, con lados en desvanecido. Mira crops reales y agenda en Booksy.",
+    "primary": "crop texturizado",
+    "secondary": ["corte french crop", "corte crop", "corte texturizado hombre"],
+    "og_photo": "cut-textured-crop-low-fade"
+  },
+  "schema": { "type": "Service", "service_ids": ["essential-haircut", "signature-cut"] },
+  "photo_alt": {
+    "cut-textured-crop-low-fade": "Crop texturizado desde atrás, con la parte de arriba desfilada llevada hacia adelante en un fleco corto, sobre un desvanecido hasta la piel en la nuca",
+    "cut-taper-textured-top": "Crop texturizado corto echado hacia adelante y hacia arriba, con delineado marcado al frente y un taper hasta la piel alrededor de la oreja"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "ESTILOS / CROP TEXTURIZADO",
+      "h1": "Crop texturizado.",
+      "paragraphs": [
+        "Corto arriba, desfilado a propósito y hacia adelante. El crop texturizado corta la parte de arriba para que el pelo se separe en mechones y luego lo lleva hacia adelante en un fleco corto sobre lados bien cortos.",
+        "La vista de atrás muestra una versión más llena, con el fleco pesado y el desvanecido (fade) que baja hasta la piel en la nuca. La vista lateral es más corta: echada hacia adelante y hacia arriba, con un delineado (line-up) cuadrado al frente y un taper alrededor de la oreja."
+      ],
+      "link": { "label": "AGENDA ESTE CORTE", "href": "booksy" },
+      "photos": ["cut-textured-crop-low-fade", "cut-taper-textured-top"]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / CROP VS. FRENCH CROP",
+      "heading": "Despeinado o pulido.",
+      "lead": "Dos primos, una forma.",
+      "paragraphs": [
+        "El French crop es el pariente ordenado: un fleco corto, recto y parejo al frente y la parte de arriba pulida. El crop texturizado es el más relajado, con un fleco desfilado y más movimiento. Los dos van hacia adelante y los dos se peinan en segundos, así que la decisión es sobre el acabado, no el esfuerzo."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / A QUIÉN LE QUEDA",
+      "heading": "Ideal para pelo grueso.",
+      "lead": "El pelo fino también puede funcionar.",
+      "paragraphs": [
+        "El pelo grueso, lacio u ondulado que de forma natural quiere ir hacia adelante es el que más fácil se acomoda. Como el crop trae el pelo sobre el frente, también puede suavizar un nacimiento del pelo alto o una frente más grande."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "04 / CÓMO AGENDARLO",
+      "heading": "La cita correcta.",
+      "lead": "Normalmente, la primera.",
+      "items": [
+        { "title": "Essential Haircut", "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}", "body": "Un crop es un corte de precisión. Limpio el contorno de la nuca con navaja y luego lo peino para enseñarte cómo queda hacia adelante.", "href": "page:services-haircuts", "book": true },
+        { "title": "Signature Cut", "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}", "body": "El mismo crop, más trabajo de barba y la toalla caliente.", "href": "page:services-haircuts", "book": true }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "05 / MANTENIMIENTO",
+      "heading": "Poco esfuerzo diario.",
+      "lead": "El fleco te dice cuándo.",
+      "paragraphs": [
+        "Entre visitas no tiene mucha ciencia: echa la parte de arriba hacia adelante con los dedos y deja que los mechones caigan donde quieran. El desvanecido muestra primero el pelo que vuelve a crecer, y cuando el fleco empieza a caer sobre tus cejas, la forma se perdió. Ahí es cuando me gustaría verte de vuelta."
+      ],
+      "photos": []
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / PREGUNTAS",
+      "heading": "Preguntas sobre el crop.",
+      "items": [
+        { "q": "¿Qué es un fleco corto tipo crop?", "a": "Un fleco corto, que normalmente termina bastante arriba de las cejas, cortado como parte de un crop. Puede ser recto y parejo o desfilado para dar textura." },
+        { "q": "¿Un crop texturizado funciona en pelo delgado?", "a": "Muchas veces, sí. La textura da volumen visual y la dirección hacia adelante cubre más del frente que un estilo echado hacia atrás." },
+        { "q": "¿Qué corte le queda a una frente grande?", "a": "Los estilos que traen el pelo hacia adelante, como un crop o un fleco, cubren parte de la frente. Los que lo llevan hacia atrás, como el peinado hacia atrás, dejan ver más de ella." },
+        { "q": "¿Qué tan cortos van los lados en un crop texturizado?", "a": "Tú decides. Un desvanecido bajo o un taper lo dejan más suave; un desvanecido más alto hasta la piel hace que la parte de arriba texturizada resalte más." }
+      ]
+    }
+  ],
+  "related": ["styles-textured-fringe", "styles-low-taper-fade", "styles-buzz-cut", "services-haircuts"],
+  "tim_questions": [
+    "How often do you suggest rebooking a textured crop? The upkeep section gives no interval until you say.",
+    "Any styling product advice you want on this page (no brand names)? Product tips were removed because they weren't yours."
+  ]
+}

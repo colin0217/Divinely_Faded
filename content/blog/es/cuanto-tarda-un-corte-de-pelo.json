@@ -1,0 +1,191 @@
+{
+  "id": "post-how-long-does-a-haircut-take",
+  "locale": "es",
+  "slug": "/es/blog/cuanto-tarda-un-corte-de-pelo/",
+  "alt": "/blog/how-long-does-a-haircut-take/",
+  "date": "2026-11-02",
+  "plan_rank": 27,
+  "title": "¿Cuánto tarda un corte de pelo? Cada servicio, con su tiempo",
+  "eyebrow": "GUÍA",
+  "hero": "shop-chair",
+  "hero_alt": "La silla de barbero negra capitonada de Divinely Faded, lista para la próxima cita",
+  "image_plan": null,
+  "card_text": "Desde un facial de {{minutes:express-facial}} hasta un color de {{minutes:color-transformation}}: cada servicio de mi menú con el tiempo que Booksy le guarda.",
+  "lede": [
+    "Un corte de pelo para hombre en mi barbería dura {{minutes:essential-haircut}} con el Essential Haircut (corte esencial), {{minutes:signature-cut}} con el Signature Cut (corte distintivo) y {{minutes:luxury-grooming}} con la Luxury Grooming Experience (experiencia de arreglo de lujo). Esos son los tiempos que Booksy guarda, y cubren toda la visita, desde que te sientas hasta el peinado final.",
+    "Abajo está cada servicio de mi menú con su duración, qué llena ese tiempo y cómo planear tu día alrededor de él."
+  ],
+  "seo": {
+    "title": "¿Cuánto tarda un corte de pelo? | Carlsbad, NM",
+    "description": "¿Cuánto tarda un corte de pelo para hombre? En Divinely Faded, en Carlsbad, NM, de {{minutes:essential-haircut}} a {{minutes:luxury-grooming}}. Cada servicio, con su tiempo.",
+    "primary": "cuánto tarda un corte de pelo",
+    "secondary": []
+  },
+  "breadcrumb": [
+    ["Inicio", "/es/"],
+    ["Blog", "/es/blog/"],
+    ["Cuánto tarda un corte", "/es/blog/cuanto-tarda-un-corte-de-pelo/"]
+  ],
+  "blocks": [
+    {
+      "type": "list",
+      "eyebrow": "01 / CORTES",
+      "heading": "Los tres cortes.",
+      "lead": "El mismo corte, con más alrededor.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "El corte adaptado a tu estilo y a tu cabeza, navaja en la nuca y peinado final. Casi todo el tiempo se va en el corte y en dejar limpia la transición.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "El mismo corte más corte de barba o delineado (line-up), toque final con toalla caliente y detalles con navaja. Los minutos extra son para la barba y la toalla.",
+          "book": true
+        },
+        {
+          "title": "Luxury Grooming Experience",
+          "meta": "{{price:luxury-grooming}} · {{minutes:luxury-grooming}}",
+          "body": "Primero una consulta, luego el corte, modelado de barba, lavado y masaje en el cuero cabelludo, vapor facial, dos toallas calientes, detalles con navaja, un diseño básico, depilación con cera de nariz y orejas, peinado y fragancia. Cabe mucho, así que agéndala cuando no tengas prisa.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "02 / AFEITADOS Y FACIALES",
+      "heading": "Afeitados y faciales.",
+      "lead": "Las toallas calientes marcan el ritmo.",
+      "items": [
+        {
+          "title": "Straight Razor Beard Shave",
+          "meta": "{{price:straight-razor-beard-shave}} · {{minutes:straight-razor-beard-shave}}",
+          "body": "Un afeitado tradicional: toallas calientes para suavizar la barba, crema de afeitar, la navaja y aftershave. Las toallas son parte del tiempo, no una espera antes.",
+          "book": true
+        },
+        {
+          "title": "Head & Beard Shave",
+          "meta": "{{price:head-beard-shave}} · {{minutes:head-beard-shave}}",
+          "body": "Cabeza y barba afeitadas al ras, con toallas calientes y bálsamo aftershave. Son dos afeitados completos en una sola sentada, por eso es el afeitado más largo del menú.",
+          "book": true
+        },
+        {
+          "title": "Express Facial",
+          "meta": "{{price:express-facial}} · {{minutes:express-facial}}",
+          "body": "Masaje facial, vapor tibio, limpieza profunda, exfoliación suave y crema hidratante. La cita más corta que tengo.",
+          "book": true
+        },
+        {
+          "title": "Deluxe Facial",
+          "meta": "{{price:deluxe-facial}} · {{minutes:deluxe-facial}}",
+          "body": "Masaje, vapor, exfoliación y crema hidratante, más tratamientos avanzados para la piel y un sérum antiedad.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "03 / LAS LARGAS",
+      "heading": "Trenzas, permanente y color.",
+      "lead": "Libera una mañana o una tarde.",
+      "items": [
+        {
+          "title": "Braids",
+          "meta": "{{price:braids}} · {{minutes:braids}}",
+          "body": "Cada peinado de trenzas es personalizado y el precio varía según el estilo. Cada fila se separa y se trenza a mano, así que el reloj depende del número y del tamaño de las filas.",
+          "book": true
+        },
+        {
+          "title": "Perm",
+          "meta": "{{price:perm}} · {{minutes:perm}}",
+          "body": "Tubos, solución para permanente, neutralizante y enjuague, en ese orden. Una permanente no se puede parar a la mitad, así que necesitas todo el bloque libre.",
+          "book": true
+        },
+        {
+          "title": "Color Transformation",
+          "meta": "{{price:color-transformation}} · {{minutes:color-transformation}}",
+          "body": "Decoloración y matizado para llegar al tono que quieres. Es la cita más larga de mi menú, así que planea el resto del día alrededor de ella.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / POR QUÉ ES FIJO",
+      "heading": "El horario es tuyo.",
+      "lead": "Booksy guarda el tiempo completo.",
+      "paragraphs": [
+        "Los tiempos de arriba son los que Booksy separa, así que el horario es tuyo de principio a fin. El pelo grueso, un cambio grande de largo o un desvanecido (fade) con mucho detalle pueden usar más de ese tiempo; retocar un corte que ya traes usa menos.",
+        "Los extras van junto con la cita: diseño en el pelo, lavado y masaje en el cuero cabelludo, cejas, depilación con cera de nariz y orejas o toque final de fragancia. Si piensas agregar varios, mándame un mensaje para que no andemos con prisa al final."
+      ],
+      "link": {
+        "label": "VER TODOS LOS SERVICIOS",
+        "href": "page:services"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "05 / PLANÉALO",
+      "heading": "Acomódalo en tu día.",
+      "lead": "Algunas notas prácticas.",
+      "paragraphs": [
+        "En la hora de la comida, el Essential o el Signature es lo que cabe más fácil. Los horarios disponibles aparecen en Booksy, así que elige uno que te deje tiempo para regresar.",
+        "El sábado es de 8:00 AM a 2:00 PM. Para uno de los servicios largos en sábado, empezar temprano te deja salir con la tarde todavía para ti.",
+        "Para trenzas, permanente o color, come antes y carga tu teléfono. Vas a estar un buen rato en la silla, y se lleva mejor cuando no tienes hambre.",
+        "Llegar tarde se come tu propio horario, porque la siguiente cita empieza a su hora. Mándame un mensaje al {{phone}} si se te hace tarde.",
+        "Pagar toma un minuto al final: efectivo, tarjeta, Zelle o Cash App, después del servicio."
+      ],
+      "link": {
+        "label": "LEE LAS PREGUNTAS FRECUENTES",
+        "href": "page:faq"
+      }
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / PREGUNTAS",
+      "heading": "Preguntas de tiempo.",
+      "items": [
+        {
+          "q": "¿Cuánto tarda un corte de pelo para hombre?",
+          "a": "En Divinely Faded, {{minutes:essential-haircut}} el Essential Haircut, {{minutes:signature-cut}} el Signature Cut y {{minutes:luxury-grooming}} la Luxury Grooming Experience."
+        },
+        {
+          "q": "¿Cuál es el servicio más rápido?",
+          "a": "El Express Facial (facial exprés), de {{minutes:express-facial}}. El corte más rápido es el Essential, de {{minutes:essential-haircut}}."
+        },
+        {
+          "q": "¿Cuál es la cita más larga?",
+          "a": "La Color Transformation (transformación de color), de {{minutes:color-transformation}}."
+        },
+        {
+          "q": "¿Cuánto tarda un afeitado de barba?",
+          "a": "El Straight Razor Beard Shave (afeitado de barba con navaja) dura {{minutes:straight-razor-beard-shave}}. El Head & Beard Shave (afeitado de cabeza y barba), que incluye la cabeza y la barba, dura {{minutes:head-beard-shave}}."
+        },
+        {
+          "q": "¿Un corte de barba agrega tiempo?",
+          "a": "Sí. El Signature Cut, con su corte de barba o delineado y toalla caliente, dura {{minutes:signature-cut}}, contra {{minutes:essential-haircut}} del Essential."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "CON RELOJ EN MANO",
+      "heading": "Conoce el tiempo.<br>Agenda tu horario.",
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "services",
+    "services-haircuts",
+    "faq"
+  ],
+  "tim_questions": [
+    "Do add-ons (design, wash, eyebrows, wax, fragrance) add time to the Booksy slot? The post says to text if adding several.",
+    "OK to say a cleanup of a cut someone already wears uses less of the slot, and that a late arrival eats into their own time?"
+  ]
+}

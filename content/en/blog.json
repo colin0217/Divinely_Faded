@@ -1,0 +1,65 @@
+{
+  "id": "blog",
+  "locale": "en",
+  "slug": "/blog/",
+  "alt": "/es/blog/",
+  "nav_label": "Blog",
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Blog",
+      "/blog/"
+    ]
+  ],
+  "seo": {
+    "title": "Barber Blog: Cuts, Care & Booking | Carlsbad, NM",
+    "description": "Haircut guides, grooming care and booking tips from Tim Murillo, the barber behind Divinely Faded at 303 S Halagueno St in Carlsbad, NM.",
+    "primary": "barber blog carlsbad nm",
+    "secondary": [],
+    "og_photo": null
+  },
+  "schema": {
+    "type": "CollectionPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "BLOG",
+      "h1": "From the chair.",
+      "paragraphs": [
+        "Guides to the cuts I do every week, how to keep them sharp between visits, and how booking works at my shop on Halagueno Street in Carlsbad.",
+        "Everything here comes from my own chair: the Essential Haircut, the Signature Cut and the Luxury Grooming Experience, straight razor shaves, facials, braids, hair designs, color and perms. If a post talks about price or time, it's the same price and time you'll see on Booksy.",
+        "Got a question you want answered here? Text me at {{phone}}."
+      ],
+      "link": {
+        "label": "SEE THE STYLES",
+        "href": "page:styles"
+      }
+    },
+    {
+      "type": "posts",
+      "eyebrow": "02 / LATEST",
+      "heading": "Read up.",
+      "empty": "The first posts go up soon. Until then, the style library has a page for every cut I do, with real photos from the shop, and the FAQ covers hours, payment, holidays and how long each service takes.",
+      "lead": "Style guides, care between cuts and the details of booking, newest first."
+    },
+    {
+      "type": "feature",
+      "eyebrow": "READY FOR A CUT",
+      "heading": "Book first.<br>Then take a seat.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "styles",
+    "services",
+    "faq"
+  ],
+  "tim_questions": []
+}

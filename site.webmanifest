@@ -1,0 +1,13 @@
+{
+  "name": "Divinely Faded",
+  "short_name": "Divinely Faded",
+  "description": "Barbershop in Carlsbad, NM. Appointments booked on Booksy.",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#080808",
+  "theme_color": "#080808",
+  "icons": [
+    { "src": "/favicon.svg", "type": "image/svg+xml", "sizes": "any" },
+    { "src": "/apple-touch-icon.png", "type": "image/png", "sizes": "180x180" }
+  ]
+}

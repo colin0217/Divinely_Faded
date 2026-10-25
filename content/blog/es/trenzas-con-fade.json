@@ -1,0 +1,150 @@
+{
+  "id": "post-braids-with-fade",
+  "locale": "es",
+  "slug": "/es/blog/trenzas-con-fade/",
+  "alt": "/blog/braids-with-fade/",
+  "date": "2026-11-02",
+  "plan_rank": 16,
+  "title": "Trenzas con fade: cómo combinarlos",
+  "eyebrow": "TRENZAS",
+  "hero": "braids-blonde-side",
+  "hero_alt": "Dos trenzas pegadas que terminan en un anillo dorado sobre un lado desvanecido hasta la piel",
+  "image_plan": null,
+  "card_text": "Cómo la altura del desvanecido decide dónde pueden ir las trenzas, qué patrones van con cada uno y cómo planear ambos en una visita.",
+  "lede": [
+    "Trenzas con fade quiere decir trenzar el pelo de arriba y desvanecer cortos la parte de atrás y los lados, para que cada fila quede contra un borde limpio. Los dos se tienen que planear juntos, porque el desvanecido (fade) decide dónde pueden ir las trenzas. En mi barbería, las trenzas son una cita de {{minutes:braids}} con un precio que varía según el estilo, así que primero mándame un mensaje con una foto y pregúntame cómo meter el desvanecido en la misma visita.",
+    "Aquí te digo cómo la altura del desvanecido cambia el área trenzada, qué patrones van con cada desvanecido y cómo planear la cita."
+  ],
+  "seo": {
+    "title": "Trenzas con fade: cómo combinarlos | Carlsbad, NM",
+    "description": "Cómo combinar trenzas con desvanecido en Divinely Faded en Carlsbad, NM: altura del desvanecido, patrones de trenzas y cómo planear ambos en una cita.",
+    "primary": "trenzas con fade",
+    "secondary": []
+  },
+  "breadcrumb": [
+    ["Inicio", "/es/"],
+    ["Blog", "/es/blog/"],
+    ["Trenzas con fade", "/es/blog/trenzas-con-fade/"]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / CÓMO ENCAJAN",
+      "heading": "El desvanecido pone el marco.",
+      "lead": "Filas arriba, corto a los lados.",
+      "paragraphs": [
+        "Las trenzas necesitan pelo para agarrarse. Donde el desvanecido deja el pelo corto, ya no queda nada que trenzar, así que la línea del desvanecido se vuelve el límite del área trenzada.",
+        "Por eso la combinación funciona tan bien. El desvanecido le da a cada fila un borde limpio, y el contraste entre trenzas apretadas y piel al descubierto es lo que hace que el peinado de trenzas resalte desde el otro lado de un cuarto.",
+        "En la foto de arriba, dos trenzas pegadas corren hacia atrás por el lado y terminan en un anillo dorado, con el pelo de debajo desvanecido hasta la piel."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / ALTURA DEL DESVANECIDO",
+      "heading": "Bajo, medio o alto.",
+      "lead": "Cada uno mueve el borde.",
+      "subsections": [
+        {
+          "heading": "Desvanecido alto",
+          "paragraphs": [
+            "Las trenzas se quedan en la parte de arriba de la cabeza. Casi todo el lado es piel, así que las filas se ven llamativas y angostas, como una franja que corre de adelante hacia atrás."
+          ]
+        },
+        {
+          "heading": "Desvanecido medio",
+          "paragraphs": [
+            "El área trenzada llega un poco más abajo en los lados. Queda entre los dos: algo de contraste, algo de cobertura."
+          ]
+        },
+        {
+          "heading": "Desvanecido bajo o taper",
+          "paragraphs": [
+            "Casi todo el lado conserva su pelo, así que las filas pueden bajar más hacia la oreja, y el desvanecido se vuelve un borde delgado y limpio hasta abajo."
+          ]
+        }
+      ],
+      "link": {
+        "label": "ESTILO SKIN FADE",
+        "href": "page:styles-skin-fade"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / PATRONES",
+      "heading": "Qué trenzas, qué desvanecido.",
+      "lead": "Combina el patrón con el borde.",
+      "paragraphs": [
+        "Las filas que van derecho hacia atrás son la combinación más fácil con cualquier altura de desvanecido. Siguen la línea del desvanecido y terminan limpias en la parte de atrás de la cabeza.",
+        "Las filas curvas, o las que se juntan en la coronilla, necesitan más pelo en los lados para dar la vuelta. Un desvanecido más bajo les da ese espacio; un desvanecido alto puede cortar una curva antes de que termine.",
+        "¿Filas gruesas o delgadas? Menos trenzas, más gruesas, se siguen distinguiendo en una franja angosta arriba de un desvanecido alto. Más filas, más delgadas, se ven más nítidas en un área más ancha, que es la que te deja un desvanecido más bajo."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / CÓMO PLANEAR LA VISITA",
+      "heading": "Primero un mensaje.",
+      "lead": "Los dos en una sola vuelta.",
+      "paragraphs": [
+        "En Booksy aparecen como Braids, con {{minutes:braids}}, y el precio sale como “{{price:braids}}” porque depende del estilo. Mándame al {{phone}} una foto de las trenzas y del desvanecido que quieres, y pregúntame cómo agendar el desvanecido junto con las trenzas para que los dos queden en una sola visita.",
+        "En el mismo mensaje, dime qué tan alto quieres el desvanecido y si abajo va hasta la piel. Eso decide cuánto pelo queda para trenzar, así que lo definimos antes de empezar a hacer las rayas.",
+        "Planea tu día alrededor de la cita completa, para que no estés viendo la hora mientras entran las últimas filas. Pagas cuando todo está terminado, en efectivo, tarjeta, Zelle o Cash App."
+      ],
+      "link": {
+        "label": "SERVICIO DE TRENZAS",
+        "href": "page:services-braids"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "05 / CONFORME CRECE",
+      "heading": "Envejecen distinto.",
+      "lead": "El desvanecido se suaviza primero.",
+      "paragraphs": [
+        "En el pelo corto se nota rápido lo que vuelve a crecer, así que el desvanecido es la primera parte del look que se borra. Las trenzas mantienen su forma más tiempo, lo que quiere decir que el borde debajo de ellas se suaviza mientras las filas todavía se ven limpias.",
+        "¿Te vas a trenzar para un evento, un partido o unas fotos? Agenda cerca de la fecha, para que el desvanecido y las filas estén los dos en su punto más nítido el día que cuenta."
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / PREGUNTAS",
+      "heading": "Trenzas y desvanecidos.",
+      "items": [
+        {
+          "q": "¿Se pueden hacer trenzas con fade?",
+          "a": "Sí. La mayoría de los peinados de trenzas en mi página de trenzas combinan trenzas arriba con lados desvanecidos o con taper."
+        },
+        {
+          "q": "¿Qué desvanecido va con trenzas?",
+          "a": "Cualquiera. Un desvanecido alto deja las trenzas en la parte de arriba de la cabeza; un desvanecido bajo o un taper deja espacio para que las filas bajen más por los lados."
+        },
+        {
+          "q": "¿Cuánto cuestan las trenzas con fade?",
+          "a": "En Booksy, el precio de las trenzas sale como “{{price:braids}}” porque depende del estilo. Mándame una foto de lo que quieres y pregúntame antes de agendar."
+        },
+        {
+          "q": "¿Cuánto tiempo toma?",
+          "a": "Las trenzas solas se agendan por {{minutes:braids}}. Cuando me mandes el mensaje, pregúntame cómo encaja el desvanecido en la visita."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "TRENZAS + DESVANECIDO",
+      "heading": "Filas apretadas.<br>Lados limpios.",
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "services-braids",
+    "styles-skin-fade"
+  ],
+  "tim_questions": [
+    "Is the fade included in the Braids booking, or booked separately (for example an Essential Haircut right before or after)? The post tells clients to text and ask.",
+    "Do you fade first and then braid, or braid first? Left out.",
+    "Do you supply cuffs like the gold one in the photo, or do clients bring their own? Left out.",
+    "Can the fade be refreshed while the braids are still in? Left out."
+  ]
+}

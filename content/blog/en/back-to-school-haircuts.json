@@ -1,0 +1,164 @@
+{
+  "id": "post-back-to-school-haircuts",
+  "locale": "en",
+  "slug": "/blog/back-to-school-haircuts/",
+  "date": "2026-11-02",
+  "plan_rank": 8,
+  "title": "Back-to-School Haircuts: Book Before the Rush",
+  "eyebrow": "KIDS",
+  "hero": "cut-kids-curly-top-skin-fade",
+  "hero_alt": "Side view of a boy's curly top with a skin fade",
+  "image_plan": null,
+  "card_text": "When to book the school cut, which cuts grow out gently, and how to fit siblings into one trip.",
+  "lede": [
+    "Book back-to-school haircuts a week or two before the first day, and book early if Saturday is the only day that works for your family. That goes for the August start and for the January return after winter break.",
+    "I don't post school calendars here, so check your district's first day and count back from there. Then use this guide to pick the cut and the slot."
+  ],
+  "seo": {
+    "title": "Back-to-School Haircuts: Book Before the Rush | Carlsbad, NM",
+    "description": "Back-to-school haircuts in Carlsbad, NM: when to book before August and January, cuts that grow out gently, and booking siblings on Booksy.",
+    "primary": "back to school haircuts",
+    "secondary": [
+      "back to school haircuts for boys"
+    ]
+  },
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Blog",
+      "/blog/"
+    ],
+    [
+      "Back-to-School Haircuts",
+      "/blog/back-to-school-haircuts/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / TIMING",
+      "heading": "Count back from day one.",
+      "lead": "A week or two ahead.",
+      "paragraphs": [
+        "A cut a week or two before school gives you room if a slot moves or a kid gets sick, and it still looks fresh when the bell rings.",
+        "Don't wait for the last weekend before classes start. Booking a few weeks out simply gives you more open times to choose from.",
+        "January works the same way. After winter break, a fresh cut is an easy reset before the second half of the year.",
+        "After a summer of growing it out, the first cut back can be a big change. If your kid wants to keep some length, say so, and we'll leave more on top."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / WHICH CUT",
+      "heading": "Cuts that hold up.",
+      "lead": "Pick for the weeks after, not just day one.",
+      "paragraphs": [
+        "Choose something that still looks right as it grows. A low taper fade is a strong choice: it only takes the edges down, so it grows out gently instead of showing a hard line, and it stays low-key enough for a strict dress code. A full fade looks sharp on day one but shows regrowth sooner.",
+        "Kids with curls can keep them on top over a faded side, like the cut in the photo at the top of this post.",
+        "Designs are fun, but they soften as the hair comes back in, and some schools have rules about them. Check the dress code before you add one. Whatever you pick, bring a photo so the cut matches what your kid has in mind."
+      ],
+      "link": {
+        "label": "SEE THE LOW TAPER FADE",
+        "href": "page:styles-low-taper-fade"
+      }
+    },
+    {
+      "type": "list",
+      "eyebrow": "03 / WHAT TO BOOK",
+      "heading": "Booking for kids.",
+      "lead": "The same menu as everyone else.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "A precision cut with a straight razor cleanup at the neck and a finished style. A good fit for a school cut.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "For an older kid who wants a sharp line-up with the cut, finished with a hot towel and razor detailing.",
+          "book": true
+        },
+        {
+          "title": "Hair design add-on",
+          "meta": "{{addon:hair-design}}",
+          "body": "Lines or a curve cut into the fade. Check the school dress code before you add it."
+        },
+        {
+          "title": "Kids' haircuts",
+          "meta": "Kids welcome",
+          "body": "Real kids' cuts from my chair, and how parents book them.",
+          "href": "page:services-kids",
+          "link_label": "KIDS' HAIRCUTS"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / MORE THAN ONE KID",
+      "heading": "Siblings and Saturdays.",
+      "lead": "One trip for the whole crew.",
+      "paragraphs": [
+        "Booking two or three kids? Book each one as its own appointment, in slots next to each other, so the whole family makes one trip. Siblings don't need the same service: a younger kid might get the Essential while an older brother books the Signature for a line-up.",
+        "Saturday runs 8:00 AM to 2:00 PM and is the only weekend day I cut. Weekday openings are on Booksy, and the shop is closed Wednesday and Sunday."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "05 / IN THE CHAIR",
+      "heading": "Let them choose.",
+      "lead": "A photo settles it.",
+      "paragraphs": [
+        "Older kids and teens often know exactly what they want from something they have seen. Let them bring the photo and say it in their own words: how short the sides go, how much stays on top.",
+        "Younger kids do well with a simple plan. Pick the cut together at home, so the chair isn't where the decision gets made.",
+        "Payment comes after the cut, by cash, card, Zelle or Cash App. If a school event moves your plans, cancel on Booksy early, since a no-show or late cancellation may carry a fee."
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / PARENTS ASK",
+      "heading": "School-cut questions.",
+      "items": [
+        {
+          "q": "When should I book a back-to-school haircut?",
+          "a": "Aim for a week or two before the first day of school, and book a few weeks ahead so you get a time that suits you."
+        },
+        {
+          "q": "What's a good back-to-school haircut for boys?",
+          "a": "A low taper fade is easy to wear and grows out gently. A curly top over a faded side keeps natural curl. Bring a photo of what your son wants."
+        },
+        {
+          "q": "Is there a kids' price?",
+          "a": "There's no separate kids' line on Booksy. Kids book the regular haircut services, starting with the Essential Haircut at {{price:essential-haircut}}."
+        },
+        {
+          "q": "Should I book around school picture day?",
+          "a": "Yes, if picture day matters to you. Book the cut close to that date so it photographs fresh."
+        },
+        {
+          "q": "Can kids come in on a weekday?",
+          "a": "Yes. Any open slot on Booksy works for kids, the same as for adults."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "FIRST DAY READY",
+      "heading": "Fresh cut.<br>First day.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "services-kids",
+    "styles-low-taper-fade"
+  ],
+  "tim_questions": [
+    "Does back-to-school actually get busy enough to tell parents to book early? (written as general advice only)"
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "styles-burst-fade",
+  "locale": "es",
+  "slug": "/es/estilos/burst-fade/",
+  "alt": "/styles/burst-fade/",
+  "nav_label": "Burst Fade",
+  "card_text": "Un desvanecido en medio círculo alrededor de la oreja, con largo atrás.",
+  "breadcrumb": [["Inicio", "/es/"], ["Estilos", "/es/estilos/"], ["Burst Fade", "/es/estilos/burst-fade/"]],
+  "seo": {
+    "title": "Corte burst fade en Carlsbad, NM | Divinely Faded",
+    "description": "Corte burst fade en Carlsbad, NM: desvanecido en medio círculo alrededor de la oreja y largo atrás. Luce en pelo chino. Mira el corte y agenda en Booksy.",
+    "primary": "corte burst fade",
+    "secondary": ["burst fade", "corte de pelo burst fade"],
+    "og_photo": "cut-curly-top-burst-fade-beard"
+  },
+  "schema": { "type": "Service", "service_ids": ["essential-haircut", "signature-cut"] },
+  "photo_alt": {
+    "cut-curly-top-burst-fade-beard": "Burst fade que se curva alrededor de la oreja bajo pelo chino arriba, con largo atrás, delineado marcado en la sien y barba corta recortada"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "ESTILOS / BURST FADE",
+      "h1": "Burst fade.",
+      "paragraphs": [
+        "Fíjate en la oreja de la foto. El pelo baja hasta la piel en medio círculo alrededor de ella y luego se difumina otra vez hacia afuera en todas direcciones. Ese arco es el burst.",
+        "Arriba, el pelo chino se queda con todo su volumen y el pelo de atrás se deja lo bastante largo para caer hacia el cuello. La sien lleva un delineado (line-up) marcado, y la barba se mantiene corta con una línea limpia en la mejilla."
+      ],
+      "link": { "label": "AGENDA ESTE CORTE", "href": "booksy" },
+      "photos": ["cut-curly-top-burst-fade-beard"]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / LA FORMA",
+      "heading": "Por qué se llama burst.",
+      "lead": "Se abre hacia afuera desde la oreja.",
+      "paragraphs": [
+        "La mayoría de los desvanecidos (fades) van en una franja pareja alrededor de la cabeza. Un burst fade, en cambio, se curva: se abre desde detrás de la oreja y deja más largo en la nuca y en la parte de atrás. Por eso combina tan natural con el pelo chino arriba, el faux hawk (cresta) y el mullet: la forma deja el peso justo donde esos estilos lo necesitan."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / A QUIÉN LE QUEDA",
+      "heading": "El pelo chino lo luce.",
+      "lead": "El pelo lacio también puede llevarlo.",
+      "paragraphs": [
+        "En el pelo chino y ondulado es donde más se nota el burst, porque el volumen de arriba y de atrás mantiene su forma junto al arco a piel. En pelo lacio el resultado se ve más pulido y un poco más sutil. Si necesitas un contorno más discreto para el trabajo, el taper bajo es el primo más tranquilo."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "04 / CÓMO AGENDARLO",
+      "heading": "Elige tu servicio.",
+      "lead": "Con barba o sin barba.",
+      "items": [
+        { "title": "Essential Haircut", "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}", "body": "En mi silla cubre el burst, la parte de arriba y la de atrás, y cierra con navaja a lo largo de la nuca y un peinado final.", "href": "page:services-haircuts", "book": true },
+        { "title": "Signature Cut", "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}", "body": "Para el look completo de la foto, con barba incluida: recorte o delineado, toalla caliente y detalles con navaja.", "href": "page:services-haircuts", "book": true }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "05 / MANTENIMIENTO",
+      "heading": "Mantén el arco nítido.",
+      "lead": "La curva es lo primero que se suaviza.",
+      "paragraphs": [
+        "El medio círculo alrededor de la oreja es el detalle que pierde definición primero, porque es lo que va más corto. El largo de atrás perdona más mientras crece. Si el arco es lo que te importa, mándame un mensaje y pregúntame qué tan pronto agendar tu próxima cita para mantenerlo."
+      ],
+      "photos": []
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / PREGUNTAS",
+      "heading": "Burst fade: lo básico.",
+      "items": [
+        { "q": "¿Qué significa burst fade?", "a": "Un desvanecido en forma de semicírculo alrededor de la oreja. Es más corto justo junto a la oreja y se va alargando hacia afuera, así que parece que estalla desde ese punto." },
+        { "q": "¿Un burst fade es solo un mullet?", "a": "No, aunque muchas veces se llevan juntos. El burst es el desvanecido alrededor de la oreja; el mullet tiene que ver con el largo atrás. Júntalos y tienes el burst fade mullet, que aparece en la página del mullet moderno." },
+        { "q": "Burst fade vs. taper: ¿cuál es la diferencia?", "a": "Un taper acorta las patillas y la nuca en líneas bastante rectas. Un burst se curva alrededor de la oreja y deja la parte de atrás con más volumen. Los dos son sutiles comparados con un skin fade completo." },
+        { "q": "¿Un burst fade funciona en pelo lacio?", "a": "Sí. El arco se ve un poco menos dramático que en pelo chino, y la parte de arriba normalmente necesita algo de textura en el corte para que no quede completamente plana." }
+      ]
+    }
+  ],
+  "related": ["styles-modern-mullet", "styles-curly-top-fade", "styles-skin-fade", "services-beard-shaves"],
+  "tim_questions": [
+    "How often do you suggest rebooking a burst fade to keep the arc crisp? The upkeep section gives no interval until you say."
+  ]
+}

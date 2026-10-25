@@ -1,0 +1,203 @@
+{
+  "id": "post-how-to-book-on-booksy",
+  "locale": "en",
+  "slug": "/blog/how-to-book-on-booksy/",
+  "date": "2026-11-02",
+  "plan_rank": 17,
+  "title": "How to Book a Haircut on Booksy, Step by Step",
+  "eyebrow": "BOOKING",
+  "hero": "pexels-6823515-booking-phone",
+  "hero_alt": "A phone and a paper calendar on a desk, ready to book an appointment",
+  "image_plan": "ai: hand holding a phone showing a generic booking calendar, black and white, no logos, no faces → stock photo (Pexels), not Divinely Faded work",
+  "card_text": "Open my page, pick a service, pick a time, confirm. Plus add-ons, booking for a kid, and how to move or cancel.",
+  "lede": [
+    "To book a haircut with me on Booksy, open my Booksy page, choose a service, choose an open time and confirm it. Every appointment at Divinely Faded is booked this way, from a quick cut to a four-hour color session.",
+    "Here's each step, plus how to add an extra, book for your kid or a second person, and move or cancel an appointment when plans change."
+  ],
+  "seo": {
+    "title": "How to Book a Haircut on Booksy, Step by Step | Carlsbad, NM",
+    "description": "How to book Divinely Faded in Carlsbad, NM on Booksy: choose a service, pick a time, confirm, add extras, and reschedule or cancel.",
+    "primary": "how to book on booksy",
+    "secondary": []
+  },
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Blog",
+      "/blog/"
+    ],
+    [
+      "Booking on Booksy",
+      "/blog/how-to-book-on-booksy/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / STEP BY STEP",
+      "heading": "Four steps.",
+      "lead": "From this page to a confirmed time.",
+      "subsections": [
+        {
+          "heading": "1. Open my page",
+          "paragraphs": [
+            "Tap BOOK NOW at the end of this post, or MAKE A BOOKING at the top of any page on this site. Both take you straight to the Booksy page for Divinely Faded."
+          ]
+        },
+        {
+          "heading": "2. Choose the service",
+          "paragraphs": [
+            "Start with what you're booking: a haircut, a shave, a facial, braids, color or a perm. The service decides how much time Booksy sets aside, so it has to come before the time slot."
+          ]
+        },
+        {
+          "heading": "3. Choose a time",
+          "paragraphs": [
+            "Booksy shows only the times that are open for the service you picked. Move through the days until one fits your schedule."
+          ]
+        },
+        {
+          "heading": "4. Confirm",
+          "paragraphs": [
+            "Check the service, the day and the time, then confirm. If Booksy asks you to sign in or make an account, do it. That's how the appointment is tied to you, and how you'll change it later if you need to."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "02 / WHICH SERVICE",
+      "heading": "Not sure what to pick?",
+      "lead": "The three haircuts most people choose between.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "Just the cut, with a straight razor cleanup along the neck and a finished style.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "The cut, plus a beard trim or line-up, a hot towel and razor detailing. Pick this one if your beard is part of the plan.",
+          "book": true
+        },
+        {
+          "title": "Luxury Grooming Experience",
+          "meta": "{{price:luxury-grooming}} · {{minutes:luxury-grooming}}",
+          "body": "The whole treatment in a single booking, from a consultation and beard sculpt to steam, waxing and a fragrance finish.",
+          "book": true
+        },
+        {
+          "title": "Everything else",
+          "meta": "Full menu",
+          "body": "Shaves, facials, braids, color, perms and every add-on, each with its price and the time Booksy holds for it.",
+          "href": "page:services",
+          "link_label": "SEE ALL SERVICES"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / EXTRAS AND OTHERS",
+      "heading": "Add-ons, kids, two in a row.",
+      "lead": "The questions that come up most.",
+      "subsections": [
+        {
+          "heading": "Adding an extra",
+          "paragraphs": [
+            "Add-ons go on while you book, alongside the service: a hair design for {{addon:hair-design}}, eyebrows for {{addon:eyebrows}}, or a wash and scalp massage for {{addon:wash-scalp-massage}}."
+          ]
+        },
+        {
+          "heading": "Booking for your kid",
+          "paragraphs": [
+            "Kids are booked from the same menu, the same way. Choose the service your child needs and the time that suits your family."
+          ]
+        },
+        {
+          "heading": "Two people back to back",
+          "paragraphs": [
+            "Book the first appointment, then book the slot that starts when it ends. Each person gets their own booking and their own service."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / CHANGING PLANS",
+      "heading": "Move it or cancel it.",
+      "lead": "In Booksy, and early.",
+      "paragraphs": [
+        "Open the appointment in Booksy to reschedule it or cancel it. The sooner you do, the more likely someone else can take that time.",
+        "A no-show or a late cancellation may be charged a cancellation fee through Booksy, so change the booking as soon as you know, not on the way over.",
+        "Running a few minutes late on the day? Leave the booking as it is and text me at {{phone}} so I know you're coming."
+      ],
+      "link": {
+        "label": "BOOKING QUESTIONS",
+        "href": "page:faq"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "05 / ON THE DAY",
+      "heading": "After you book.",
+      "lead": "Where to go, when to pay.",
+      "paragraphs": [
+        "Head to {{address}} at your appointment time. Saturday runs 8:00 AM to 2:00 PM, and the shop is closed Wednesday and Sunday. Holidays follow my regular hours, with a {{holiday_fee}} fee on the holiday itself.",
+        "You pay after the service, in full, by cash, card, Zelle or Cash App.",
+        "Can't find a time that works anywhere on the calendar? Text me before you give up. Texting is the quickest way to reach me."
+      ],
+      "link": {
+        "label": "GET DIRECTIONS AND HOURS",
+        "href": "page:visit"
+      }
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / QUESTIONS",
+      "heading": "Booking, answered.",
+      "items": [
+        {
+          "q": "Do I pay when I book on Booksy?",
+          "a": "Payment is due in full after the service, by cash, card, Zelle or Cash App."
+        },
+        {
+          "q": "How do I reschedule my appointment?",
+          "a": "Open it in Booksy and move it to a new time. Do it as early as you can, since late changes may carry a fee."
+        },
+        {
+          "q": "Can I book by text instead?",
+          "a": "Bookings go through Booksy. If you can't find a time that works for you, text me at {{phone}} and ask."
+        },
+        {
+          "q": "Can I book my kid and myself at the same time?",
+          "a": "Yes. Make two bookings in slots right next to each other, one for each of you, each with its own service."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "READY",
+      "heading": "Pick it.<br>Book it. Done.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "services",
+    "faq",
+    "visit"
+  ],
+  "tim_questions": [
+    "Does Booksy ask clients for a card on file or a deposit when they book? The post only says payment is due after the service.",
+    "How late counts as a late cancellation (24 hours, 12 hours)? Left out.",
+    "How far ahead does your Booksy calendar open? Left out.",
+    "Does Booksy send reminders for your appointments? Left out."
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "id": "post-braids-for-short-hair-men",
+  "locale": "en",
+  "slug": "/blog/braids-for-short-hair-men/",
+  "date": "2026-11-02",
+  "plan_rank": 23,
+  "title": "Braids for Short Hair: How Long Your Hair Needs to Be",
+  "eyebrow": "BRAIDS",
+  "hero": "braids-crown",
+  "hero_alt": "Two blonde-toned braids parted down the center and meeting at the crown",
+  "image_plan": null,
+  "card_text": "Braids need enough length to grip. How to tell if yours is there, which styles suit short hair, and what to text first.",
+  "lede": [
+    "Short hair can be braided once each section is long enough for the strands to cross over each other several times and hold. A rule of thumb you'll often hear is about two inches, but texture matters as much as length, so the surest answer is a photo. Text me one at {{phone}} and I'll tell you if your hair is ready.",
+    "Here's what decides it, which braid styles suit shorter hair, and how the {{minutes:braids}} Braids appointment works once you're there."
+  ],
+  "seo": {
+    "title": "Braids for Short Hair (Men) | Carlsbad, NM",
+    "description": "Braids for short hair in Carlsbad, NM: how much length a braid needs to hold, styles that suit short hair, and how to book braids at Divinely Faded.",
+    "primary": "braids for short hair men",
+    "secondary": [
+      "how long does hair need to be for braids"
+    ]
+  },
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Blog",
+      "/blog/"
+    ],
+    [
+      "Braids for Short Hair",
+      "/blog/braids-for-short-hair-men/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / LENGTH",
+      "heading": "What makes a braid hold.",
+      "lead": "Grip, not just inches.",
+      "paragraphs": [
+        "A braid is three strands crossing over and over, and each crossing locks the one before it. If a section is so short it can only cross once or twice before it runs out, the braid has nothing to hold onto and slips loose.",
+        "Texture changes the math. Coily and curly hair grips itself and holds a braid at a shorter length. Straight, fine or very smooth hair slides more and usually needs extra length before a braid stays put.",
+        "Length isn't even across the head, either. The top often has more to work with than the nape, so a set might braid easily up front and get tight toward the back. That's one of the things I look for in your photo."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / STYLES",
+      "heading": "Braids that suit short hair.",
+      "lead": "Smaller, and close to the scalp.",
+      "paragraphs": [
+        "Bigger, looser braids need more length than tight rows, because each one hangs free instead of anchoring to the scalp. On short hair, smaller and flatter is the safer plan."
+      ],
+      "subsections": [
+        {
+          "heading": "Cornrows straight back",
+          "paragraphs": [
+            "Rows braided flat to the scalp, running from the front toward the back. Each row is worked close to the head and picks up hair as it goes, which helps shorter lengths stay in."
+          ]
+        },
+        {
+          "heading": "Two rows to the crown",
+          "paragraphs": [
+            "Two braids parted down the center and brought together on top, like the set in the photo above. A simple layout that still looks designed."
+          ]
+        },
+        {
+          "heading": "Braids over short sides",
+          "paragraphs": [
+            "Keep the length on top for the braids and take the sides down short. On shorter hair this puts all the length where the braids need it and keeps everything else clean."
+          ]
+        }
+      ],
+      "link": {
+        "label": "SEE MY BRAIDS WORK",
+        "href": "page:services-braids"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / NOT QUITE THERE",
+      "heading": "If it's too short today.",
+      "lead": "Let the top grow, keep the edges clean.",
+      "paragraphs": [
+        "If the photo shows your hair isn't long enough yet, the plan is patience on top and upkeep everywhere else. Book a haircut that leaves the top alone and only cleans up the edges, so you look sharp while the length comes in.",
+        "Tell me at that cut that braids are the goal. Then I know not to take anything off the top, and we can check together how close you're getting.",
+        "The haircuts page lays out the Essential Haircut ({{price:essential-haircut}}, {{minutes:essential-haircut}}) and the other cut services."
+      ],
+      "link": {
+        "label": "SEE THE HAIRCUTS",
+        "href": "page:services-haircuts"
+      }
+    },
+    {
+      "type": "list",
+      "eyebrow": "04 / BOOKING",
+      "heading": "How the braids slot works.",
+      "lead": "Text first, then book.",
+      "items": [
+        {
+          "title": "Send a photo",
+          "body": "Text me a picture of your hair as it is now, plus the braid style you want. That one message answers both questions: is it long enough, and what will the style take."
+        },
+        {
+          "title": "Braids",
+          "meta": "{{price:braids}} · {{minutes:braids}}",
+          "body": "Every set is personalized, so Booksy lists the price as varies. Once we've agreed on the style by text, book the slot and plan to sit for the full time.",
+          "book": true
+        },
+        {
+          "title": "Pay when it's done",
+          "body": "You settle up after the braids are finished, by cash, card, Zelle or Cash App. If your plans shift, cancel on Booksy early, since a no-show or a late cancellation can carry a fee."
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "05 / QUESTIONS",
+      "heading": "Short hair, braid questions.",
+      "items": [
+        {
+          "q": "How long does hair need to be for braids?",
+          "a": "Long enough for each section to cross several times and hold. About two inches is a common rule of thumb, but texture changes it. Text me a photo for a straight answer about your hair."
+        },
+        {
+          "q": "Can men with short hair get braids?",
+          "a": "Often, yes. Cornrows braided close to the scalp hold on shorter lengths than loose braids do."
+        },
+        {
+          "q": "How long is a braids appointment?",
+          "a": "Booksy holds {{minutes:braids}} for braids at Divinely Faded."
+        },
+        {
+          "q": "Why does Booksy say varies for braids?",
+          "a": "Because the price follows the style you pick. A simple set and a detailed one aren't priced the same, so send the style first and we'll settle it by text."
+        },
+        {
+          "q": "Can straight hair be braided when it's short?",
+          "a": "It can, with enough length. Straight hair slides more than curly hair, so it usually needs to be a bit longer before rows stay neat. Send a photo and I'll tell you."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "SHORT HAIR BRAIDS",
+      "heading": "Send the photo.<br>Then book.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "services-braids",
+    "services-haircuts"
+  ],
+  "tim_questions": [
+    "What minimum length do you need for braids? The post says 'about two inches is a common rule of thumb' and asks for a photo; confirm or give your own number.",
+    "Which braid styles do you do on short hair? Post names cornrows straight back, two rows to the crown, and braids over short sides.",
+    "Are short sides under the braids part of the braids booking, or a separate haircut booking?"
+  ]
+}

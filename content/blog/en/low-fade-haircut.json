@@ -1,0 +1,168 @@
+{
+  "id": "post-low-fade-haircut",
+  "locale": "en",
+  "slug": "/blog/low-fade-haircut/",
+  "date": "2026-11-02",
+  "plan_rank": 14,
+  "title": "Low Fade Haircut: The Everyday Fade",
+  "eyebrow": "STYLES",
+  "hero": "cut-low-fade-line-up",
+  "hero_alt": "Low fade with a sharp line-up at the temple and a trimmed mustache",
+  "image_plan": null,
+  "card_text": "Where a low fade starts, how it differs from a low taper and a skin fade, and how to ask for one in the chair.",
+  "lede": [
+    "A low fade starts just above the ear and along the nape, then blends up into the length on top, so most of the side keeps its hair. It's the everyday fade: fresh enough to notice, quiet enough for work, school or a family photo. At my shop in Carlsbad you book it as the Essential Haircut ({{price:essential-haircut}}), or as the Signature Cut ({{price:signature-cut}}) when you want a line-up or beard work with it.",
+    "Here's how it compares with a low taper and a skin fade, why it makes an easy first fade, and how to ask for exactly the one you want."
+  ],
+  "seo": {
+    "title": "Low Fade Haircut: The Everyday Fade | Carlsbad, NM",
+    "description": "What a low fade haircut is, how it differs from a low taper and a skin fade, and how to book one at Divinely Faded in Carlsbad, NM.",
+    "primary": "low fade haircut",
+    "secondary": [
+      "low fade"
+    ]
+  },
+  "breadcrumb": [
+    ["Home", "/"],
+    ["Blog", "/blog/"],
+    ["Low Fade Haircut", "/blog/low-fade-haircut/"]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / THE CUT",
+      "heading": "Where it starts.",
+      "lead": "Low on the head, short at the bottom.",
+      "paragraphs": [
+        "The fade line sits low, around the top of the ear and across the neckline. Below it, the hair is cut very short. Above it, the length comes back gradually until it meets the top. The higher a fade begins, the more scalp shows, and a low fade keeps that to a narrow band.",
+        "In the photo at the top of this post, the fade stays down near the ear and the temple carries a sharp line-up. That pairing is common: the low fade keeps things calm, and the line-up gives the face a crisp frame.",
+        "The bottom can finish at bare skin or keep a little shadow. Both count as low fades. The only difference is how bare the bottom gets."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / COMPARED",
+      "heading": "Three names, three cuts.",
+      "lead": "Low fade, low taper, skin fade.",
+      "subsections": [
+        {
+          "heading": "Low fade vs. low taper",
+          "paragraphs": [
+            "A low taper only shortens the edges: the sideburns, the hair around the ear and the nape. A low fade wraps the whole way around the head at that same low height. The taper is the lighter touch; the fade is the fuller blend."
+          ]
+        },
+        {
+          "heading": "Low fade vs. skin fade",
+          "paragraphs": [
+            "Skin fade describes how short the bottom goes, not where the fade starts. A low fade that finishes at skin is a low skin fade. One that stops just above skin is still a low fade, only softer."
+          ]
+        }
+      ],
+      "link": {
+        "label": "SKIN FADE STYLE",
+        "href": "page:styles-skin-fade"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / WHY START HERE",
+      "heading": "An easy first fade.",
+      "lead": "Less contrast, fewer surprises.",
+      "paragraphs": [
+        "Coming from a longer cut, or one done mostly with scissors? A low fade changes the outline more than the overall look. The sides still carry most of their hair, so the person in the mirror looks like you, only sharper.",
+        "It grows out quietly, too. Because the short band is narrow, there's less bare skin to fill back in, and the blend softens instead of turning into a visible step.",
+        "And it sits under almost any top: a short crop, a textured top, curls, or a longer style combed over to one side. Choose the top first. The low fade goes underneath it."
+      ],
+      "link": {
+        "label": "COMPARE THE LOW TAPER",
+        "href": "page:styles-low-taper-fade"
+      }
+    },
+    {
+      "type": "list",
+      "eyebrow": "04 / BOOK IT AS",
+      "heading": "On Booksy.",
+      "lead": "Pick by what else needs doing.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "The fade and the top, cut to the shape of your head, with a straight razor cleanup at the neck and a finished style.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "Adds a line-up or beard trim, like the sharp temple in the photo, plus a hot towel finish and straight razor detailing around the edges.",
+          "book": true
+        },
+        {
+          "title": "The full haircut menu",
+          "meta": "Three cuts",
+          "body": "Want your low fade wrapped in a wash, steam and a beard sculpt? The Luxury Grooming Experience is on the haircuts page with the other two.",
+          "href": "page:services-haircuts",
+          "link_label": "SEE THE HAIRCUTS"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "05 / ASKING FOR IT",
+      "heading": "How to ask.",
+      "lead": "Three details and a photo.",
+      "paragraphs": [
+        "Three details tell me exactly which low fade you mean. Say them before I start, or bring a photo that shows all three at once:"
+      ],
+      "bullets": [
+        "Where it starts: say low, and point just above your ear.",
+        "How short the bottom goes: down to skin, or a little shadow left.",
+        "What happens on top: how much comes off, and how you wear it day to day."
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / QUESTIONS",
+      "heading": "Low fade, answered.",
+      "items": [
+        {
+          "q": "What is a low fade haircut?",
+          "a": "A fade that begins low, around the ear and the nape, and blends upward into the top. Most of the side keeps its length."
+        },
+        {
+          "q": "Is a low fade the same as a low taper?",
+          "a": "No. A low taper shortens just the edges. A low fade runs all the way around the head at that height."
+        },
+        {
+          "q": "Should I ask for a low fade or a mid fade?",
+          "a": "If you're torn, start low. Taking a fade higher next time is easy; bringing it back down means waiting for the hair to grow."
+        },
+        {
+          "q": "How often should I get a low fade recut?",
+          "a": "That's your call. It depends on how fast your hair grows and how sharp you like the bottom to look. Booksy shows the open times whenever you're ready."
+        },
+        {
+          "q": "How much is a low fade in Carlsbad?",
+          "a": "At Divinely Faded it's booked as the Essential Haircut at {{price:essential-haircut}}, or the Signature Cut at {{price:signature-cut}} when you want a line-up or beard work as well."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "EVERYDAY FADE",
+      "heading": "Low fade.<br>Every day.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "styles-skin-fade",
+    "styles-low-taper-fade",
+    "services-haircuts"
+  ],
+  "tim_questions": [
+    "How often do you suggest refreshing a low fade? The post leaves the interval to the client and gives no number.",
+    "Does the Essential Haircut include a front line-up at the temples and forehead, or only the razor cleanup at the neck? The post puts the line-up under the Signature Cut."
+  ]
+}

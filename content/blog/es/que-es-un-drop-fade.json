@@ -1,0 +1,174 @@
+{
+  "id": "post-what-is-a-drop-fade",
+  "locale": "es",
+  "slug": "/es/blog/que-es-un-drop-fade/",
+  "alt": "/blog/what-is-a-drop-fade/",
+  "date": "2026-11-02",
+  "plan_rank": 29,
+  "title": "¿Qué es un drop fade? Y en qué se diferencia de un burst",
+  "eyebrow": "ESTILOS",
+  "hero": "cut-side-ear-fade",
+  "hero_alt": "Skin fade visto desde atrás, llevado hasta la piel donde rodea la oreja",
+  "image_plan": null,
+  "card_text": "La línea del desvanecido baja en curva detrás de la oreja en lugar de ir pareja. En qué se diferencia un drop de uno recto y de un burst.",
+  "lede": [
+    "Un drop fade es un desvanecido (fade) cuya línea baja mientras rodea la cabeza. Va a una sola altura sobre los lados, luego baja en curva detrás de la oreja y termina más abajo en la nuca, así que de lado la línea del desvanecido parece un arco que cae hacia el cuello.",
+    "Esa curva es toda la diferencia. Aquí te explico cómo se compara con un desvanecido normal en línea recta y con un burst fade, y cómo agendar uno conmigo."
+  ],
+  "seo": {
+    "title": "¿Qué es un drop fade? | Carlsbad, NM",
+    "description": "¿Qué es un drop fade? Un desvanecido que baja en curva detrás de la oreja hacia la nuca. Comparado con uno recto y un burst, de un barbero de Carlsbad, NM.",
+    "primary": "drop fade",
+    "secondary": []
+  },
+  "breadcrumb": [
+    ["Inicio", "/es/"],
+    ["Blog", "/es/blog/"],
+    ["Drop fade", "/es/blog/que-es-un-drop-fade/"]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / LA FORMA",
+      "heading": "Sigue la línea.",
+      "lead": "Pareja en los lados, más baja atrás.",
+      "paragraphs": [
+        "Sigue con el dedo dónde se junta el pelo corto con el más largo en un desvanecido normal, y la línea rodea la cabeza a una sola altura, como una banda. En un drop fade esa misma línea empieza en la sien, se mantiene pareja sobre la oreja, luego se dobla hacia abajo detrás de ella y sigue bajando hacia la nuca.",
+        "La curva sigue la forma natural del cráneo detrás de la oreja. Por eso, el desvanecido enmarca la oreja en lugar de cortar derecho detrás de ella, y la forma se ve más redonda de lado.",
+        "La foto de arriba muestra el punto donde pasa esa vuelta: un desvanecido que rodea la oreja por detrás y sigue bajando por la parte de atrás de la cabeza."
+      ]
+    },
+    {
+      "type": "table",
+      "eyebrow": "02 / TRES DESVANECIDOS",
+      "heading": "Recto, drop y burst.",
+      "lead": "Por donde va la línea se decide el nombre.",
+      "columns": [
+        "",
+        "Desvanecido recto",
+        "Drop fade",
+        "Burst fade"
+      ],
+      "rows": [
+        [
+          "Línea del desvanecido",
+          "Pareja todo alrededor",
+          "Pareja en los lados, baja detrás de la oreja",
+          "Un medio círculo alrededor de la oreja"
+        ],
+        [
+          "Parte de atrás",
+          "Desvanecida a la misma altura",
+          "Desvanecida más abajo, hacia la nuca",
+          "Se deja más larga"
+        ],
+        [
+          "Va bien con",
+          "Casi cualquier parte de arriba",
+          "Arriba con más volumen, pelo chino, ondas",
+          "Curly tops, faux hawks (cresta), mullets"
+        ],
+        [
+          "Look general",
+          "Parejo y clásico",
+          "Redondeado, sigue la cabeza",
+          "Llamativo alrededor de la oreja"
+        ]
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / DROP VS BURST",
+      "heading": "Drop o burst.",
+      "lead": "Los dos hacen curva. Distinta.",
+      "paragraphs": [
+        "Un burst fade hace una curva en medio círculo alrededor de la oreja y luego se vuelve a abrir hacia el largo, así que el pelo de atrás se queda largo. Un drop fade sigue: hace la curva detrás de la oreja y continúa bajando por la parte de atrás, así que la nuca también queda desvanecida.",
+        "Una prueba rápida en el espejo: revisa la parte de atrás del cuello. Si ahí hay pelo más largo, es un burst. Si ahí hay pelo corto y desvanecido, con una línea que bajó hasta encontrarlo, es un drop."
+      ],
+      "link": {
+        "label": "VER EL BURST FADE",
+        "href": "page:styles-burst-fade"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / ALTURA Y ACABADO",
+      "heading": "Drop bajo, medio o alto.",
+      "lead": "Dónde empieza la curva.",
+      "paragraphs": [
+        "Un drop bajo empieza justo arriba de la oreja y es el que deja más pelo en los lados. Un drop medio empieza a la altura de la sien. Un drop alto empieza cerca de la parte de arriba de la cabeza y hace la curva dramática.",
+        "Llévalo hasta la piel y tienes un drop skin fade, la versión de más contraste. Deja un poco de largo abajo y se ve más suave.",
+        "Pídelo por su nombre y señala la parte de atrás. “Drop fade, medio, hasta la piel” me dice casi todo lo que necesito, y una foto cubre lo demás.",
+        "¿No sabes qué altura te queda? Enséñame una foto y lo decidimos en la silla antes de prender la máquina."
+      ],
+      "link": {
+        "label": "VER EL SKIN FADE",
+        "href": "page:styles-skin-fade"
+      }
+    },
+    {
+      "type": "list",
+      "eyebrow": "05 / CÓMO AGENDARLO",
+      "heading": "Dos formas de agendarlo.",
+      "lead": "La barba decide.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "El drop fade y la parte de arriba, terminado con navaja en la nuca y peinado. Para una cara afeitada o una barba que tú mismo mantienes.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "El drop fade más corte de barba o delineado (line-up), toalla caliente y detalles con navaja. Elígelo cuando la barba deba seguir la curva del desvanecido.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / PREGUNTAS",
+      "heading": "Drop fade, resuelto.",
+      "items": [
+        {
+          "q": "¿Qué es un drop fade?",
+          "a": "Un desvanecido cuya línea baja en curva detrás de la oreja y termina más abajo en la nuca, en lugar de ir pareja alrededor de la cabeza."
+        },
+        {
+          "q": "Drop fade vs burst fade: ¿cuál es la diferencia?",
+          "a": "Un burst hace la curva alrededor de la oreja y deja larga la parte de atrás. Un drop hace la curva detrás de la oreja y sigue desvaneciendo hacia abajo por atrás."
+        },
+        {
+          "q": "¿Un drop fade es lo mismo que un taper?",
+          "a": "No. Un taper solo toca las patillas y el contorno de la nuca. Un drop fade cubre todo el lado y la parte de atrás, con una línea que baja detrás de la oreja."
+        },
+        {
+          "q": "¿Un drop fade funciona en pelo lacio?",
+          "a": "Sí. La curva detrás de la oreja se nota igual en pelo lacio, ondulado o chino."
+        },
+        {
+          "q": "¿Puedo agregarle un diseño a un drop fade?",
+          "a": "Sí. Las líneas marcadas en el lado desvanecido son un diseño en el pelo, un extra de {{addon:hair-design}} sobre el corte."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "DROP FADE",
+      "heading": "Sigue la curva.<br>Agenda el corte.",
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "styles-skin-fade",
+    "styles-burst-fade"
+  ],
+  "tim_questions": [
+    "Confirm the drop fade description and the straight vs drop vs burst table.",
+    "The hero (cut-side-ear-fade) is a mid skin fade from behind; the copy doesn't call it a drop fade. OK, or do you have a drop fade photo?"
+  ]
+}

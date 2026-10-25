@@ -1,0 +1,171 @@
+{
+  "id": "post-line-up-haircut",
+  "locale": "es",
+  "slug": "/es/blog/line-up/",
+  "alt": "/blog/line-up-haircut/",
+  "date": "2026-11-02",
+  "plan_rank": 18,
+  "title": "Delineado (line-up): qué es y cuánto dura nítido",
+  "eyebrow": "ESTILOS",
+  "hero": "cut-low-fade-line-up",
+  "hero_alt": "Desvanecido bajo con un delineado nítido en la sien y el bigote recortado",
+  "image_plan": null,
+  "card_text": "El contorno nítido en tu frente, sienes y nuca: cómo se corta, en qué se diferencia de un shape up y por qué se borra primero.",
+  "lede": [
+    "Un delineado (line-up) es el contorno nítido que se corta a lo largo del nacimiento del pelo: de lado a lado de la frente, en las esquinas de las sienes, bajando junto a las orejas y alrededor de la nuca. Una patillera traza la forma y una navaja limpia todo lo que queda fuera de ella. Se mantiene definido menos tiempo que el resto del corte, porque el borde queda justo en la piel y ahí es donde primero se nota lo que vuelve a crecer.",
+    "En mi barbería, el delineado viene con el Signature Cut (corte distintivo), de {{price:signature-cut}}, y el Essential Haircut (corte esencial) termina la nuca con navaja. Aquí te digo cómo se hace y qué pedir."
+  ],
+  "seo": {
+    "title": "Delineado (line-up): qué es y cuánto dura | Carlsbad, NM",
+    "description": "Qué es un delineado (line-up), line up vs shape up, cuánto tiempo se mantiene nítido el borde y cómo agendarlo en Divinely Faded en Carlsbad, NM.",
+    "primary": "delineado line up",
+    "secondary": []
+  },
+  "breadcrumb": [
+    ["Inicio", "/es/"],
+    ["Blog", "/es/blog/"],
+    ["Delineado", "/es/blog/line-up/"]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / DÓNDE VA",
+      "heading": "El contorno.",
+      "lead": "Cuatro bordes, un marco.",
+      "paragraphs": [
+        "La foto de arriba muestra uno de frente: un desvanecido bajo (low fade), con la sien cortada en una esquina limpia."
+      ],
+      "subsections": [
+        {
+          "heading": "Frente",
+          "paragraphs": [
+            "El nacimiento del pelo al frente, ya sea cuadrado o siguiendo su propia curva. Es el borde que la gente ve primero cuando te mira a la cara."
+          ]
+        },
+        {
+          "heading": "Sienes",
+          "paragraphs": [
+            "Las esquinas donde el frente da vuelta hacia los lados. Un ángulo nítido aquí es lo que hace que un delineado se note desde el otro lado del cuarto."
+          ]
+        },
+        {
+          "heading": "Patillas y orejas",
+          "paragraphs": [
+            "La línea baja junto a la oreja, donde termina limpia o se junta con la barba."
+          ]
+        },
+        {
+          "heading": "Nuca",
+          "paragraphs": [
+            "El borde de atrás, terminado cuadrado, redondo o difuminado hacia la piel."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / CÓMO SE CORTA",
+      "heading": "Patillera, luego navaja.",
+      "lead": "Dos herramientas, una línea.",
+      "paragraphs": [
+        "La patillera dibuja la forma. Corta lo bastante al ras para definir el borde y sigue el nacimiento del pelo, para que el resultado le vaya a tu cara en vez de pelearse con ella.",
+        "Luego la navaja deja en piel lisa todo lo que está fuera de esa línea. Ese contraste, pelo de un lado y piel limpia del otro, es lo que hace que el borde se vea nítido.",
+        "Pide que la línea siga tu nacimiento del pelo natural. Echarla un poco más hacia atrás cada vez para que se vea más nítida es como el nacimiento del pelo termina más arriba de donde de verdad está."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / LINE UP VS SHAPE UP",
+      "heading": "¿Lo mismo?",
+      "lead": "Casi siempre, sí.",
+      "paragraphs": [
+        "Line up, shape up y edge up quieren decir lo mismo: limpiar y definir el contorno. Hay quien dice shape up cuando incluye la barba y line up solo para el nacimiento del pelo, pero uses la palabra que uses, voy a saber a qué te refieres.",
+        "Lo que importa más es el detalle: qué tan cuadrado quieres el frente, qué tan definidas las esquinas de las sienes, y si la línea se conecta con tu barba o termina en la patilla."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / CUÁNTO DURA",
+      "heading": "Nítido, luego suave.",
+      "lead": "El borde se va primero.",
+      "paragraphs": [
+        "Un delineado está en su punto más nítido el día que se corta. Como queda justo en la piel, hasta un poco de pelo nuevo lo empieza a borrar, mucho antes de que el resto del corte se vea crecido.",
+        "Qué tan pronto lo notas depende de tu pelo. El pelo oscuro y duro sobre piel más clara deja ver una línea con claridad, y deja ver lo que vuelve a crecer con la misma claridad. En el pelo más fino o más claro, la línea se suaviza de forma menos visible.",
+        "¿Lo quieres nítido para una foto o un evento? Agenda el corte cerca de la fecha. Y no acerques la máquina de casa al nacimiento del pelo: retocarlo tú mismo es la forma más rápida de mover la línea."
+      ],
+      "link": {
+        "label": "VER LOS CORTES",
+        "href": "page:services-haircuts"
+      }
+    },
+    {
+      "type": "list",
+      "eyebrow": "05 / CÓMO AGENDARLO",
+      "heading": "Cómo pedir un delineado.",
+      "lead": "Va con el corte.",
+      "items": [
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "El corte con delineado o corte de barba, detalles con navaja en los bordes y un toque final con toalla caliente. La cita pensada para bordes nítidos.",
+          "book": true
+        },
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "El corte, limpieza de la nuca con navaja y un peinado final. Te queda bien cuando solo necesitas limpiar el borde de atrás.",
+          "book": true
+        },
+        {
+          "title": "Delineado de barba",
+          "meta": "Trabajo de barba",
+          "body": "¿También quieres bien definidas la línea de la mejilla y la del cuello de tu barba? El delineado de barba y el corte de barba vienen con el Signature Cut.",
+          "href": "page:services-beard-shaves",
+          "link_label": "BARBA Y AFEITADO"
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / PREGUNTAS",
+      "heading": "Preguntas del delineado.",
+      "items": [
+        {
+          "q": "¿Qué es un corte con line up?",
+          "a": "Un corte que se termina con un contorno nítido en la frente, las sienes, las patillas y la nuca, trazado con patillera y limpiado con navaja."
+        },
+        {
+          "q": "¿Cuál es la diferencia entre un shape up y un line up?",
+          "a": "Casi siempre ninguna. Los dos quieren decir definir el contorno. Hay quien usa shape up para incluir la barba."
+        },
+        {
+          "q": "¿Puedo agendar solo un delineado?",
+          "a": "Mi menú incluye el delineado con el Signature Cut. Para un delineado solo, mándame un mensaje al {{phone}} y pregúntame."
+        },
+        {
+          "q": "¿Un delineado hace que el nacimiento del pelo se me vaya para atrás?",
+          "a": "Cortar una línea no cambia cómo crece tu pelo. Mover la línea hacia atrás en cada visita puede hacer que el nacimiento del pelo se vea más arriba, y por eso debe seguir tu borde natural."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "BORDES NÍTIDOS",
+      "heading": "Bordes limpios.<br>Corte fresco.",
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "services-haircuts",
+    "services-beard-shaves"
+  ],
+  "tim_questions": [
+    "Can a client book a line-up on its own, and at what price? The post says to text and ask.",
+    "Does the Essential Haircut include a front line-up, or only the razor cleanup at the neck? The post puts the line-up under the Signature Cut.",
+    "Are you comfortable with the post's advice that a line-up should follow the natural hairline rather than being pushed back?",
+    "How long do you tell clients a line-up stays sharp? No interval given in the post."
+  ]
+}

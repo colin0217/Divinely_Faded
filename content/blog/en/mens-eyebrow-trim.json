@@ -1,0 +1,180 @@
+{
+  "id": "post-mens-eyebrow-trim",
+  "locale": "en",
+  "slug": "/blog/mens-eyebrow-trim/",
+  "date": "2026-11-02",
+  "plan_rank": 26,
+  "title": "Men's Eyebrow Trims: What a Barber Does",
+  "eyebrow": "GROOMING",
+  "hero": "pexels-9775429-eyebrows",
+  "hero_alt": "Close-up of a man's face showing natural, groomed eyebrows",
+  "image_plan": "pexels: barber trimming eyebrows → stock photo (Pexels), not Divinely Faded work",
+  "card_text": "A trim, not a reshape: long hairs shortened, strays tidied, your natural brow kept. A {{addon:eyebrows}} add-on on Booksy.",
+  "lede": [
+    "A men's eyebrow trim at the barbershop shortens the long hairs and tidies the strays while keeping the shape your brows already have. It isn't a reshape, and it isn't a thin, arched brow. At my shop it's the Eyebrows add-on, {{addon:eyebrows}}, booked with your appointment.",
+    "Here's what the trim involves, what it leaves alone, and how to add it on Booksy."
+  ],
+  "seo": {
+    "title": "Men's Eyebrow Trim: What a Barber Does | Carlsbad, NM",
+    "description": "A men's eyebrow trim in Carlsbad, NM: what a barber trims, why it isn't a reshape, and how to add eyebrows for {{addon:eyebrows}} at Divinely Faded.",
+    "primary": "men's eyebrow trim",
+    "secondary": [
+      "eyebrow grooming men"
+    ]
+  },
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Blog",
+      "/blog/"
+    ],
+    [
+      "Men's Eyebrow Trim",
+      "/blog/mens-eyebrow-trim/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / WHAT GETS DONE",
+      "heading": "Trim, not reshape.",
+      "lead": "Your brows, just neater.",
+      "subsections": [
+        {
+          "heading": "Length",
+          "paragraphs": [
+            "Brow hairs that grow long start to curl down toward the eye or stick straight out. They're combed up, and the ends that run past the brow line are trimmed back."
+          ]
+        },
+        {
+          "heading": "Strays",
+          "paragraphs": [
+            "Hairs that wander away from the brow's natural line, above it or below it, are tidied so the edge reads clean."
+          ]
+        },
+        {
+          "heading": "The middle",
+          "paragraphs": [
+            "Hair between the brows is cleaned up so two brows look like two brows. That's a cleanup, not a gap carved in."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / WHAT STAYS",
+      "heading": "What I leave alone.",
+      "lead": "Natural, not drawn on.",
+      "paragraphs": [
+        "The arch you were born with, the thickness and the overall shape all stay. A good brow trim is hard to spot. People notice you look put together; they shouldn't be able to point at your eyebrows and say why.",
+        "If you're after a dramatic change in shape, that's a different service from the one on my menu. The Eyebrows add-on is about keeping what you have clean.",
+        "Thin or patchy brows are left as they are. A trim only takes hair away; it can't add any, so if there isn't much there, there isn't much to do, and I'll tell you so."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / WHY BOTHER",
+      "heading": "Why a sharp cut needs it.",
+      "lead": "The face sits inside the frame.",
+      "paragraphs": [
+        "A fresh fade and a crisp line-up pull the eye up toward your face. Long, bushy brows under a sharp hairline can make the whole look feel half finished. A quick trim brings them in line with everything else.",
+        "It shows in photos, too. A wedding, a new headshot, a family picture: the camera picks up stray brow hairs you'd never notice in the bathroom mirror.",
+        "Brows can also turn coarser and longer as the years go by, and a few long, wiry hairs can make a face look tired. A trim takes care of that without anyone noticing it was done."
+      ],
+      "link": {
+        "label": "SEE THE HAIRCUTS",
+        "href": "page:services-haircuts"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / BETWEEN VISITS",
+      "heading": "Hands off at home.",
+      "lead": "Less is more here.",
+      "paragraphs": [
+        "The quickest way to ruin a brow is a bathroom-mirror cleanup. Plucking a gap in the middle or trimming the top edge straight across is how brows end up thin, uneven or a different shape on each side.",
+        "Brows sit between the hairline and the beard. When both of those are sharp and the brows are left alone to do their own thing, the middle of the face is what people notice. A trim at the shop ties the three together.",
+        "If a few long hairs show up before your next appointment, leave them for the chair, or text me at {{phone}} and ask."
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "05 / ADD IT TO",
+      "heading": "Pairs well with.",
+      "lead": "The Eyebrows add-on is {{addon:eyebrows}}.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "The cut with a straight razor cleanup and a finished style. Adding eyebrows means your face matches the fresh cut.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "A beard trim or line-up with a hot towel finish. Add the brows and everything from the hairline to the jaw gets attention in one sitting.",
+          "book": true
+        },
+        {
+          "title": "Express Facial",
+          "meta": "{{price:express-facial}} · {{minutes:express-facial}}",
+          "body": "Massage, steam, a deep cleanse, exfoliation and moisturizer. Tidy brows on the same visit round out a full face reset.",
+          "href": "page:services-facials",
+          "book": true
+        },
+        {
+          "title": "Nose / ear wax",
+          "meta": "{{addon:nose-ear-wax}}",
+          "body": "The other small add-on for faces. Brows, nose and ears together cover the details a haircut doesn't."
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / QUESTIONS",
+      "heading": "Eyebrow questions.",
+      "items": [
+        {
+          "q": "Are eyebrows part of the Luxury Grooming Experience?",
+          "a": "No. The Luxury covers ear and nose waxing, but brows are a separate {{addon:eyebrows}} add-on."
+        },
+        {
+          "q": "Do barbers trim eyebrows?",
+          "a": "Mine does. At Divinely Faded it's the Eyebrows add-on, {{addon:eyebrows}}, booked with your service on Booksy."
+        },
+        {
+          "q": "Will my eyebrows look different?",
+          "a": "Neater, not different. The shape stays yours; only the long and stray hairs come off."
+        },
+        {
+          "q": "Should men trim their eyebrows?",
+          "a": "If they've started curling toward your eyes or sticking out, a trim helps. If they're already tidy, there's nothing to do."
+        },
+        {
+          "q": "How much is an eyebrow trim?",
+          "a": "{{addon:eyebrows}} as an add-on, paid with the rest of your bill after the service."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "BROWS",
+      "heading": "Keep the shape.<br>Lose the strays.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "services-haircuts",
+    "services-facials"
+  ],
+  "tim_questions": [
+    "How do you do the Eyebrows add-on (comb and scissors, trimmer, razor, wax)? The post describes trimming long hairs, tidying strays and cleaning up between the brows, without naming a tool.",
+    "Can Eyebrows be added to a facial or a shave, or only to a haircut?"
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "id": "post-line-up-haircut",
+  "locale": "en",
+  "slug": "/blog/line-up-haircut/",
+  "date": "2026-11-02",
+  "plan_rank": 18,
+  "title": "Line Up Haircut: What It Is and How Long It Stays Sharp",
+  "eyebrow": "STYLES",
+  "hero": "cut-low-fade-line-up",
+  "hero_alt": "Low fade with a sharp line-up at the temple and a trimmed mustache",
+  "image_plan": null,
+  "card_text": "The sharp outline at your forehead, temples and neck: how it's cut, how it differs from a shape up, and why it blurs first.",
+  "lede": [
+    "A line up is the sharp outline cut along your hairline: across the forehead, into the corners of the temples, down past the ears and around the back of the neck. A trimmer sets the shape and a razor cleans everything beyond it. It stays crisp for less time than the rest of the haircut, because the edge sits right at the skin and regrowth shows there first.",
+    "At my shop, the line-up comes with the Signature Cut ({{price:signature-cut}}), and the Essential Haircut finishes the neck with a straight razor. Here's how it's done and what to ask for."
+  ],
+  "seo": {
+    "title": "Line Up Haircut: What It Is and How Long It Stays Sharp",
+    "description": "What a line up haircut is, line up vs shape up, how long the edge stays sharp, and how to book one at Divinely Faded in Carlsbad, NM.",
+    "primary": "line up haircut",
+    "secondary": [
+      "what is a line up",
+      "shape up vs line up"
+    ]
+  },
+  "breadcrumb": [
+    ["Home", "/"],
+    ["Blog", "/blog/"],
+    ["Line Up Haircut", "/blog/line-up-haircut/"]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / WHERE IT GOES",
+      "heading": "The outline.",
+      "lead": "Four edges, one frame.",
+      "paragraphs": [
+        "The photo at the top shows the front of one: a low fade, with the temple cut into a clean corner."
+      ],
+      "subsections": [
+        {
+          "heading": "Forehead",
+          "paragraphs": [
+            "The front hairline, either squared off or following its own curve. This is the edge people see first when they look at your face."
+          ]
+        },
+        {
+          "heading": "Temples",
+          "paragraphs": [
+            "The corners where the front turns into the sides. A crisp angle here is what makes a line-up obvious from across the room."
+          ]
+        },
+        {
+          "heading": "Sideburns and ears",
+          "paragraphs": [
+            "The line drops past the ear, where it either ends clean or meets the beard."
+          ]
+        },
+        {
+          "heading": "Neck",
+          "paragraphs": [
+            "The back edge, finished square, rounded or tapered out into the skin."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / HOW IT'S CUT",
+      "heading": "Trimmer, then razor.",
+      "lead": "Two tools, one line.",
+      "paragraphs": [
+        "The trimmer draws the shape. It cuts close enough to define the edge and follows the hairline so the result suits your face instead of fighting it.",
+        "The straight razor then takes everything outside that line down to smooth skin. That contrast, hair on one side and clean skin on the other, is what makes the edge look sharp.",
+        "Ask for the line to follow your natural hairline. Pushing it back a little further each time for extra sharpness is how a hairline ends up sitting higher than it really is."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / LINE UP VS SHAPE UP",
+      "heading": "Same thing?",
+      "lead": "Mostly, yes.",
+      "paragraphs": [
+        "Line up, shape up and edge up all mean cleaning and sharpening the outline. Some people say shape up when they include the beard and line up for the hairline alone, but whichever word you use, we'll know what you mean.",
+        "What matters more is the detail: how square you want the front, how sharp the temple corners, and whether the line should connect into your beard or stop at the sideburn."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / HOW LONG IT LASTS",
+      "heading": "Sharp, then soft.",
+      "lead": "The edge goes first.",
+      "paragraphs": [
+        "A line-up is at its crispest the day it's cut. Because it sits right at the skin, even a small amount of regrowth starts to blur it, well before the rest of the haircut looks grown out.",
+        "How soon you notice depends on your hair. Dark, coarse hair against lighter skin shows a line clearly, and shows the regrowth just as clearly. Finer or lighter hair softens less visibly.",
+        "Want it sharp for a photo or an event? Book the cut close to the date. And keep home clippers away from the hairline: touching it up yourself is the quickest way to move the line."
+      ],
+      "link": {
+        "label": "SEE THE HAIRCUTS",
+        "href": "page:services-haircuts"
+      }
+    },
+    {
+      "type": "list",
+      "eyebrow": "05 / BOOK IT AS",
+      "heading": "Getting a line-up.",
+      "lead": "It rides with the cut.",
+      "items": [
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "The haircut with a line-up or beard trim, straight razor detailing around the edges and a hot towel finish. The booking built around sharp edges.",
+          "book": true
+        },
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "The cut, a straight razor cleanup along the neck and a finished style. A fit when the back edge is all you need cleaned.",
+          "book": true
+        },
+        {
+          "title": "Lining up the beard",
+          "meta": "Beard work",
+          "body": "Want the cheek line and the neck of your beard cut sharp as well? Beard line-ups and trims come with the Signature Cut.",
+          "href": "page:services-beard-shaves",
+          "link_label": "BEARD AND SHAVES"
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / QUESTIONS",
+      "heading": "Line-up questions.",
+      "items": [
+        {
+          "q": "What is a line up haircut?",
+          "a": "A haircut finished with a sharp outline at the forehead, temples, sideburns and neck, set with a trimmer and cleaned up with a razor."
+        },
+        {
+          "q": "What's the difference between a shape up and a line up?",
+          "a": "Usually nothing. Both mean sharpening the outline. Some people use shape up to include the beard."
+        },
+        {
+          "q": "Can I book just a line-up?",
+          "a": "My menu lists the line-up with the Signature Cut. For a line-up on its own, text me at {{phone}} and ask."
+        },
+        {
+          "q": "Will a line-up make my hairline recede?",
+          "a": "Cutting a line doesn't change how your hair grows. Moving the line back every visit can make the hairline look higher, which is why it should follow your natural edge."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "SHARP EDGES",
+      "heading": "Clean edges.<br>Fresh cut.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "services-haircuts",
+    "services-beard-shaves"
+  ],
+  "tim_questions": [
+    "Can a client book a line-up on its own, and at what price? The post says to text and ask.",
+    "Does the Essential Haircut include a front line-up, or only the razor cleanup at the neck? The post puts the line-up under the Signature Cut.",
+    "Are you comfortable with the post's advice that a line-up should follow the natural hairline rather than being pushed back?",
+    "How long do you tell clients a line-up stays sharp? No interval given in the post."
+  ]
+}

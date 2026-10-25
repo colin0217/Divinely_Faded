@@ -1,0 +1,158 @@
+{
+  "id": "post-how-long-does-a-perm-take",
+  "locale": "es",
+  "slug": "/es/blog/cuanto-tarda-una-permanente/",
+  "alt": "/blog/how-long-does-a-perm-take/",
+  "date": "2026-11-02",
+  "plan_rank": 4,
+  "title": "¿Cuánto tarda una permanente? Lo que pasa en 90 minutos",
+  "eyebrow": "COLOR Y TEXTURA",
+  "hero": "pexels-32786444-man-curly-hair",
+  "hero_alt": "Joven con chinos apretados y definidos arriba",
+  "image_plan": "pexels: perm rods men → stock photo (Pexels), not Divinely Faded work",
+  "card_text": "Booksy separa 90 minutos para la permanente. Esto es lo que llena ese tiempo, lo que lo cambia y cómo planear tu día.",
+  "lede": [
+    "En mi barbería, la permanente (en Booksy aparece como Perm) se agenda como una cita de {{minutes:perm}} en Booksy, y cuesta {{price:perm}}. Ese tiempo cubre todo el trabajo: platicar el look, poner el pelo en tubos, la solución para permanente, el neutralizante y el enjuague final.",
+    "Abajo te explico en qué se va el tiempo, qué hace que una permanente tarde más que otra y cómo planear el resto de tu día."
+  ],
+  "seo": {
+    "title": "¿Cuánto tarda una permanente? Lo que pasa en 90 minutos",
+    "description": "¿Cuánto tarda una permanente? En Carlsbad, NM, Divinely Faded agenda la permanente como una cita de 90 minutos. Esto es lo que pasa en ese tiempo.",
+    "primary": "cuánto tarda una permanente",
+    "secondary": []
+  },
+  "breadcrumb": [
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Blog",
+      "/es/blog/"
+    ],
+    [
+      "Cuánto tarda una permanente",
+      "/es/blog/cuanto-tarda-una-permanente/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / LOS PASOS",
+      "heading": "En qué se va el tiempo.",
+      "lead": "Una permanente es química, hecha en orden.",
+      "subsections": [
+        {
+          "heading": "Platicarlo",
+          "paragraphs": [
+            "Empezamos con lo que quieres lograr: que se levante arriba, textura en un crop o algo de forma en pelo que no la sostiene por sí solo. Una foto de la onda o el chino que tienes en mente nos pone a apuntar al mismo resultado."
+          ]
+        },
+        {
+          "heading": "Poner los tubos",
+          "paragraphs": [
+            "El pelo se divide en secciones y se enrolla en tubos. El tamaño del tubo decide el resultado: tubos más chicos dan un chino más cerrado, tubos más grandes una onda más suelta. Esta es la parte manual, y tarda más en pelo grueso o largo."
+          ]
+        },
+        {
+          "heading": "Solución y neutralizante",
+          "paragraphs": [
+            "Se aplica una solución para permanente que suaviza la estructura interna del pelo para que tome la forma del tubo. Cuando ya hizo efecto, se enjuaga, y un neutralizante fija la nueva forma."
+          ]
+        },
+        {
+          "heading": "Enjuague y acabado",
+          "paragraphs": [
+            "Se quitan los tubos, el pelo se enjuaga otra vez y se peina, para que te vayas viendo lo que de verdad hizo la permanente."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / LO QUE LA CAMBIA",
+      "heading": "Ninguna permanente es igual.",
+      "lead": "El pelo marca el ritmo.",
+      "paragraphs": [
+        "El largo y el grosor son lo que más cuenta. Una parte de arriba corta necesita menos tubos que una cabeza completa de pelo más largo, y cada tubo extra es tiempo en la silla.",
+        "Qué tan fácil toma tu pelo un chino también cambia cuánto tiempo necesita la solución. Booksy bloquea los {{minutes:perm}} completos de todos modos, así que ninguno de los dos tiene que adivinar ni apurarse.",
+        "El pelo que nunca ha tenido color ni tratamientos químicos suele tomar el chino de forma más predecible que el que sí los ha tenido. El color anterior es una cosa más que cambia el ritmo."
+      ],
+      "link": {
+        "label": "VER COLOR Y PERMANENTE",
+        "href": "page:services-color"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / PLANEA TU DÍA",
+      "heading": "Libera el horario.",
+      "lead": "Nada apretado después.",
+      "paragraphs": [
+        "Elige un horario sin nada esperándote justo después. Una permanente no se puede pausar a la mitad, así que un horario metido antes de un turno de trabajo no es el indicado.",
+        "El sábado trabajo de 8:00 AM a 2:00 PM, así que un horario temprano en sábado te deja libre el resto del día. Sea el día que sea, elige una hora en la que puedas quedarte sentado todo el tiempo sin salir.",
+        "Pagas al terminar, en efectivo, con tarjeta, por Zelle o por Cash App. Si te surge algo, cancela en Booksy con buen tiempo, porque si no llegas a tu cita o cancelas de último momento se puede cobrar un cargo."
+      ],
+      "link": {
+        "label": "MÁS PREGUNTAS RESUELTAS",
+        "href": "page:faq"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / SI ES PARA TI",
+      "heading": "Permanente u otra cosa.",
+      "lead": "Forma, no tono.",
+      "paragraphs": [
+        "Una permanente es para la forma. Le queda al pelo que se queda plano, que no sostiene volumen o que necesita una textura que el peinado solo no le puede dar. Una onda suelta puede darle movimiento a un crop texturizado, y chinos más cerrados pueden ir arriba sobre un lado con desvanecido (fade).",
+        "Los productos de peinado te dan forma por un día. Una permanente cambia la estructura del pelo que tienes ahora, así que la forma se queda en ese pelo. El pelo nuevo sale con tu textura natural.",
+        "Si lo que buscas es un color nuevo y no una forma nueva, eso es la Color Transformation (transformación de color), no una permanente. Si hace poco te hiciste una decoloración o te pusiste tinte, dímelo en tu mensaje, porque los dos son servicios químicos sobre el mismo pelo. ¿No estás seguro de que una permanente haga lo que quieres? Mándame una foto de tu pelo como está ahora junto al look que buscas."
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "05 / PREGUNTAS",
+      "heading": "Preguntas de permanente.",
+      "items": [
+        {
+          "q": "¿Cuánto tarda una permanente?",
+          "a": "En Divinely Faded, Booksy separa {{minutes:perm}} para la permanente. Eso cubre platicar el look, los tubos, la solución, el neutralizante y el enjuague."
+        },
+        {
+          "q": "¿Cuánto cuesta una permanente?",
+          "a": "La permanente cuesta {{price:perm}}, y se paga después del servicio."
+        },
+        {
+          "q": "¿La permanente se quita al crecer el pelo?",
+          "a": "El chino se queda en el pelo que recibió la permanente. El pelo nuevo crece con tu textura natural, y los largos con permanente se van quitando conforme te cortas."
+        },
+        {
+          "q": "¿Qué llevo a mi cita de permanente?",
+          "a": "Una foto de la onda o el chino que quieres, y la agenda libre para los {{minutes:perm}} completos."
+        },
+        {
+          "q": "¿Se puede hacer permanente en pelo corto?",
+          "a": "El pelo necesita suficiente largo para enrollarse en un tubo. Si no estás seguro de que el tuyo esté lo bastante largo, mándame una foto antes de agendar."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "TEXTURA NUEVA",
+      "heading": "Fíjala.<br>Lúcela.",
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "services-color",
+    "faq"
+  ],
+  "tim_questions": [
+    "Confirm the perm steps described (talk-through, rods, waving solution, neutralizer, rinse, style) match how you do it.",
+    "Any perm aftercare you want on the site (when to wash, what to use)? Left out.",
+    "Can a Perm and a Color Transformation be booked the same day?"
+  ]
+}

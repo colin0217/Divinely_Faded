@@ -1,0 +1,239 @@
+{
+  "id": "post-which-haircut-service-to-book",
+  "locale": "es",
+  "slug": "/es/blog/que-servicio-reservar/",
+  "alt": "/blog/which-haircut-service-to-book/",
+  "date": "2026-11-02",
+  "plan_rank": 1,
+  "title": "Essential, Signature o Luxury: ¿qué servicio agendar?",
+  "eyebrow": "GUÍA",
+  "hero": "tim-beard-detailing",
+  "hero_alt": "Tim trabajando la barba completa de un cliente recostado, con una toalla en la mano",
+  "image_plan": null,
+  "card_text": "Tres servicios de corte, una pregunta: ¿cuánto quieres que haga alrededor del corte? Esto es lo que agrega cada uno.",
+  "lede": [
+    "Agenda el Essential Haircut (corte esencial, {{price:essential-haircut}}, {{minutes:essential-haircut}}) cuando lo único que necesitas es el corte. Agenda el Signature Cut (corte distintivo, {{price:signature-cut}}, {{minutes:signature-cut}}) cuando tu barba o tu delineado (line-up) también necesitan trabajo. Agenda la Luxury Grooming Experience (experiencia de arreglo de lujo, {{price:luxury-grooming}}, {{minutes:luxury-grooming}}) cuando quieres el tratamiento completo en una sola visita.",
+    "Los tres empiezan con el mismo corte de precisión. Lo que cambia es todo lo que hago alrededor de él, y esta guía lo explica parte por parte."
+  ],
+  "seo": {
+    "title": "Essential, Signature o Luxury: ¿qué servicio agendar?",
+    "description": "Essential, Signature o Luxury Grooming en Divinely Faded, en Carlsbad, NM: qué incluye cada servicio de corte, cuánto tarda y cuál agendar.",
+    "primary": "qué servicio de corte agendar",
+    "secondary": []
+  },
+  "breadcrumb": [
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Blog",
+      "/es/blog/"
+    ],
+    [
+      "Qué servicio agendar",
+      "/es/blog/que-servicio-reservar/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "list",
+      "eyebrow": "01 / LOS TRES",
+      "heading": "Lado a lado.",
+      "lead": "El mismo corte de base. Más detalles encima.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "El corte en sí, con la forma de tu estilo y de tu cabeza, y luego la navaja a lo largo de la nuca y un peinado final. No se agrega nada más, a menos que tú lo agregues al agendar.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "Ese mismo corte, más tu barba recortada o con delineado, una toalla caliente al final y detalles con navaja alrededor de los bordes. Booksy lo muestra como mi servicio más popular.",
+          "book": true
+        },
+        {
+          "title": "Luxury Grooming Experience",
+          "meta": "{{price:luxury-grooming}} · {{minutes:luxury-grooming}}",
+          "body": "Empieza con una consulta. Después del corte vienen un modelado de barba, un lavado con masaje en el cuero cabelludo, vapor facial, dos toallas calientes, detalles con navaja, un diseño básico en el pelo, depilación con cera de nariz y orejas, peinado y una fragancia para cerrar.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "eyebrow": "02 / QUÉ INCLUYE",
+      "heading": "Lo que agrega cada uno.",
+      "lead": "Lee cada fila de lado a lado para ver dónde entra cada detalle.",
+      "columns": [
+        "Detalle",
+        "Essential",
+        "Signature",
+        "Luxury"
+      ],
+      "rows": [
+        [
+          "Corte de precisión",
+          "Sí",
+          "Sí",
+          "Sí"
+        ],
+        [
+          "Consulta",
+          "—",
+          "—",
+          "Sí"
+        ],
+        [
+          "Navaja",
+          "Limpieza de la nuca",
+          "Detalles",
+          "Detalles"
+        ],
+        [
+          "Barba",
+          "—",
+          "Corte o delineado",
+          "Modelado"
+        ],
+        [
+          "Toalla caliente",
+          "—",
+          "Toque final",
+          "Dos"
+        ],
+        [
+          "Lavado y masaje en el cuero cabelludo",
+          "Extra",
+          "Extra",
+          "Sí"
+        ],
+        [
+          "Vapor facial",
+          "—",
+          "—",
+          "Sí"
+        ],
+        [
+          "Diseño básico en el pelo",
+          "Extra",
+          "Extra",
+          "Sí"
+        ],
+        [
+          "Depilación con cera de nariz y orejas",
+          "Extra",
+          "Extra",
+          "Sí"
+        ],
+        [
+          "Toque final de fragancia",
+          "Extra",
+          "Extra",
+          "Sí"
+        ]
+      ],
+      "paragraphs": [
+        "Los extras tienen su propio precio: un diseño en el pelo cuesta {{addon:hair-design}}, un lavado y masaje en el cuero cabelludo {{addon:wash-scalp-massage}}, la depilación con cera de nariz y orejas {{addon:nose-ear-wax}}, las cejas {{addon:eyebrows}} y un toque final de fragancia {{addon:luxury-fragrance}}. Si te ves sumando tres o cuatro extras a un Signature Cut, compara ese total con la Luxury en Booksy antes de elegir."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / CÓMO DECIDIR",
+      "heading": "Tres preguntas.",
+      "lead": "Contéstalas en orden.",
+      "subsections": [
+        {
+          "heading": "¿Tu barba me necesita?",
+          "paragraphs": [
+            "Si no, el Essential te cubre. Si la quieres recortada, con delineado o de nuevo pareja con un desvanecido (fade) fresco, eso es el Signature. El Essential no incluye trabajo de barba, así que sube de nivel cuando la barba sea parte del plan."
+          ]
+        },
+        {
+          "heading": "¿Cuánto tiempo tienes?",
+          "paragraphs": [
+            "Booksy separa {{minutes:essential-haircut}}, {{minutes:signature-cut}} o {{minutes:luxury-grooming}}. En tu hora de comida, los dos primeros caben más fácil. La Luxury es la que conviene elegir un día en que no estés viendo el reloj."
+          ]
+        },
+        {
+          "heading": "¿Corte de rutina o una ocasión?",
+          "paragraphs": [
+            "Para tu corte de rutina, el Essential o el Signature cumplen. Antes de una boda, una entrevista o una foto que vas a guardar por años, la Luxury te da una puesta a punto completa: barba, piel, aroma y un diseño sencillo si quieres uno."
+          ]
+        }
+      ],
+      "link": {
+        "label": "COMPARA LOS CORTES",
+        "href": "page:services-haircuts"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / SOLO BARBA",
+      "heading": "¿No necesitas corte?",
+      "lead": "Dos afeitados van por su cuenta.",
+      "paragraphs": [
+        "¿Quieres la barba afeitada en vez de recortada? El Straight Razor Beard Shave (afeitado de barba con navaja, {{price:straight-razor-beard-shave}}, {{minutes:straight-razor-beard-shave}}) se agenda solo, sin corte de pelo.",
+        "Afeitar al ras la cabeza y la barba al mismo tiempo es el Head & Beard Shave (afeitado de cabeza y barba), {{price:head-beard-shave}} por {{minutes:head-beard-shave}}. Los dos se apoyan en toallas calientes y terminan con un aftershave."
+      ],
+      "link": {
+        "label": "OPCIONES DE BARBA Y AFEITADO",
+        "href": "page:services-beard-shaves"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "05 / TODAVÍA CON DUDAS",
+      "heading": "¿No te decides?",
+      "lead": "Empieza por el medio.",
+      "paragraphs": [
+        "Si no puedes elegir, el Signature Cut está en el medio. Cubre el corte y la barba, agrega una toalla caliente, y Booksy lo muestra como mi servicio más popular. La próxima vez siempre puedes subir o bajar de nivel, cuando ya sepas lo que te gusta.",
+        "En Booksy, elige primero el servicio y después el horario. Los precios y tiempos de esta entrada son los que muestra Booksy. Si tus planes cambian después de agendar, cancela con tiempo, porque si no llegas a tu cita o cancelas de último momento se puede cobrar un cargo."
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / PREGUNTAS",
+      "heading": "Respuestas rápidas.",
+      "items": [
+        {
+          "q": "¿Qué es un Signature Cut?",
+          "a": "En mi barbería es el Signature Cut: un corte de precisión con corte de barba o delineado, toque final con toalla caliente y detalles con navaja, por {{price:signature-cut}}. Otras barberías usan el nombre de otra forma, así que revisa qué incluye dondequiera que agendes."
+        },
+        {
+          "q": "¿Qué hace que un corte sea de lujo?",
+          "a": "El tiempo y los extras. Mi Luxury Grooming Experience dura {{minutes:luxury-grooming}} y envuelve el corte con una consulta, un modelado de barba, un lavado, vapor, toallas calientes, depilación con cera, un diseño básico y un toque final de fragancia."
+        },
+        {
+          "q": "¿Cuál agendo para mi hijo?",
+          "a": "Los niños agendan del mismo menú. El Essential Haircut cubre el corte de un niño, y se pueden agregar líneas o una curva por {{addon:hair-design}}."
+        },
+        {
+          "q": "¿Pago antes o después?",
+          "a": "Después. Pagas el total al terminar el servicio, en efectivo, con tarjeta, por Zelle o por Cash App."
+        },
+        {
+          "q": "¿Cuánto dura la Luxury Grooming Experience?",
+          "a": "Booksy le separa {{minutes:luxury-grooming}}, contra {{minutes:signature-cut}} del Signature y {{minutes:essential-haircut}} del Essential."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "ELIGE TU NIVEL",
+      "heading": "Elige un servicio.<br>Luego un horario.",
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "services",
+    "services-haircuts",
+    "services-beard-shaves"
+  ],
+  "tim_questions": []
+}

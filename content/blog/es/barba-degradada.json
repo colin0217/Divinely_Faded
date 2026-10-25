@@ -1,0 +1,163 @@
+{
+  "id": "post-beard-fade",
+  "locale": "es",
+  "slug": "/es/blog/barba-degradada/",
+  "alt": "/blog/beard-fade/",
+  "date": "2026-11-02",
+  "plan_rank": 15,
+  "title": "Barba desvanecida: cómo unir tu barba con tu desvanecido",
+  "eyebrow": "BARBA",
+  "hero": "cut-high-skin-fade-full-beard",
+  "hero_alt": "Skin fade alto con la parte de arriba rapada corta, una línea marcada con navaja arriba de la oreja y una barba tupida y cuadrada",
+  "image_plan": null,
+  "card_text": "Cómo la patilla conecta tu desvanecido con tu barba, cómo cambia según la altura y el largo de la barba, y qué servicio agendar.",
+  "lede": [
+    "Una barba desvanecida baja la patilla poco a poco para que el desvanecido (fade) del lado de tu cabeza llegue directo a tu barba, sin un corte brusco donde termina el pelo y empieza la barba. En mi barbería se agenda como el Signature Cut (corte distintivo), {{price:signature-cut}} por {{minutes:signature-cut}}, que junta el corte y la barba en una sola cita.",
+    "Aquí te digo dónde pasa la transición, cómo cambia con tu desvanecido y tu barba, y qué decirme para que salga como te lo imaginas."
+  ],
+  "seo": {
+    "title": "Barba desvanecida: cómo unirla con tu desvanecido",
+    "description": "Qué es una barba desvanecida, cómo la patilla une tu desvanecido con tu barba y cómo agendarla en Divinely Faded en Carlsbad, NM.",
+    "primary": "barba desvanecida",
+    "secondary": []
+  },
+  "breadcrumb": [
+    ["Inicio", "/es/"],
+    ["Blog", "/es/blog/"],
+    ["Barba desvanecida", "/es/blog/barba-degradada/"]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / LA TRANSICIÓN",
+      "heading": "Donde se juntan pelo y barba.",
+      "lead": "Todo pasa en la patilla.",
+      "paragraphs": [
+        "Tu desvanecido se hace más corto conforme baja por el lado de la cabeza. Tu barba se hace más larga conforme baja por la mandíbula. La patilla es donde se juntan los dos, y si nadie hace la transición, te queda un escalón: pelo corto que termina de golpe y barba tupida que empieza justo debajo.",
+        "Una barba desvanecida quita ese escalón. La patilla se acorta por pasos, del largo del desvanecido al largo de la barba, para que la vista pase del cuero cabelludo a la mejilla sin un salto.",
+        "En la foto de arriba, el lado está desvanecido alto hasta la piel, hay una línea marcada con navaja arriba de la oreja, y la barba tupida de abajo está cuadrada en la mandíbula. La conexión pasa por la patilla, entre las dos."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / CÓMO CAMBIA",
+      "heading": "Dos decisiones definen el look.",
+      "lead": "La altura del desvanecido y el largo de la barba.",
+      "subsections": [
+        {
+          "heading": "Desvanecido alto o bajo",
+          "paragraphs": [
+            "Un desvanecido alto deja más piel al descubierto arriba de la oreja, así que la patilla tiene que cargar un cambio más grande, de nada a barba completa. Un desvanecido bajo deja más pelo en el lado de la cabeza, y la conexión es más corta y más suave."
+          ]
+        },
+        {
+          "heading": "Barba corta o tupida",
+          "paragraphs": [
+            "Una barba corta y pareja se une al desvanecido con menos complicación. Una barba tupida, como la de la foto, convierte la transición en algo que resalta en el corte, así que la patilla necesita pasos más cuidadosos."
+          ]
+        },
+        {
+          "heading": "Desvanecer también la barba",
+          "paragraphs": [
+            "Hay quien quiere que la barba misma se desvanezca: más corta en la mejilla, más llena en la barbilla. Si ese es el look, trae una foto, para ponernos de acuerdo en dónde debe empezar a crecer el largo."
+          ]
+        }
+      ],
+      "link": {
+        "label": "VER EL SKIN FADE",
+        "href": "page:styles-skin-fade"
+      }
+    },
+    {
+      "type": "list",
+      "eyebrow": "03 / CÓMO AGENDARLO",
+      "heading": "Qué cita agendar.",
+      "lead": "La barba tiene que ir en la cita.",
+      "items": [
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "El corte más un corte de barba o delineado (line-up), para que el desvanecido y la barba se corten en la misma sesión. Termina con una toalla caliente y detalles con navaja en los bordes.",
+          "book": true
+        },
+        {
+          "title": "Luxury Grooming Experience",
+          "meta": "{{price:luxury-grooming}} · {{minutes:luxury-grooming}}",
+          "body": "Para una barba grande a la que hay que darle forma de verdad: modelado de barba, dos toallas calientes, vapor facial y un lavado, junto con el corte.",
+          "book": true
+        },
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "El corte y la nuca limpia con navaja, sin trabajo de barba. Elige este solo si tú mismo te arreglas la barba, porque una transición necesita los dos lados de la línea.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / EN LA SILLA",
+      "heading": "Dime tres cosas.",
+      "lead": "Antes de sacar la máquina.",
+      "paragraphs": [
+        "Qué tan alto va el desvanecido, cuánto largo conserva la barba y si la línea de la mejilla se queda natural o lleva un borde definido. Una línea de la mejilla limpia y una línea del cuello nítida son lo que hace que la conexión se vea intencional.",
+        "¿Te estás dejando crecer la barba? Dímelo. Una barba que todavía se está llenando puede que aún no tenga el largo para una transición larga, y dejar el desvanecido un poco más bajo le da tiempo para alcanzarlo.",
+        "Elige el Signature desde el principio en vez de agregar la barba ese mismo día. La barba necesita su parte de los {{minutes:signature-cut}}, y ese tiempo solo está ahí si está agendado."
+      ],
+      "link": {
+        "label": "TODOS LOS SERVICIOS DE BARBA",
+        "href": "page:services-beard-shaves"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "05 / CONFORME CRECE",
+      "heading": "Cuando se separan.",
+      "lead": "La patilla es lo primero.",
+      "paragraphs": [
+        "Conforme crece el desvanecido, la patilla se llena y la conexión se suaviza. La barba también sigue creciendo, así que poco a poco los dos empiezan a verse otra vez como piezas separadas.",
+        "Recortarte la barba en casa es cosa tuya, pero no toques la patilla. Pasar la máquina por la transición es como una conexión suave se convierte en escalón. Cuando el lado y la barba ya no se ven como una sola línea, esa es la señal para agendar."
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / PREGUNTAS",
+      "heading": "Dudas de la barba desvanecida.",
+      "items": [
+        {
+          "q": "¿Qué es una barba desvanecida?",
+          "a": "Un corte en el que la patilla se baja poco a poco para que el desvanecido de tu cabeza se una a tu barba sin una línea dura."
+        },
+        {
+          "q": "¿Puedo hacerme una barba desvanecida sin corte de pelo?",
+          "a": "En Booksy, el corte de barba y el delineado vienen con el Signature Cut, que incluye el corte de pelo. Si solo quieres trabajo de barba, mándame un mensaje al {{phone}} y pregúntame."
+        },
+        {
+          "q": "¿Una barba desvanecida funciona con barba corta?",
+          "a": "Sí. Una barba corta se conecta con una transición más corta y más suave. Entre más larga la barba, más tiene que cubrir la patilla."
+        },
+        {
+          "q": "¿Cuánto dura la cita?",
+          "a": "Booksy separa {{minutes:signature-cut}} para el Signature Cut, para el desvanecido y la barba juntos."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "CONECTADOS",
+      "heading": "Desvanecido y barba.<br>Sin escalón.",
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "services-beard-shaves",
+    "styles-skin-fade"
+  ],
+  "tim_questions": [
+    "Can a client book a beard-only fade or trim without a haircut? The post says to text and ask.",
+    "How often do you suggest coming back to keep the fade and beard connected? No interval given in the post."
+  ]
+}

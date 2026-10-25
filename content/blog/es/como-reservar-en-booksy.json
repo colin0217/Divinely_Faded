@@ -1,0 +1,204 @@
+{
+  "id": "post-how-to-book-on-booksy",
+  "locale": "es",
+  "slug": "/es/blog/como-reservar-en-booksy/",
+  "alt": "/blog/how-to-book-on-booksy/",
+  "date": "2026-11-02",
+  "plan_rank": 17,
+  "title": "Cómo agendar un corte en Booksy, paso a paso",
+  "eyebrow": "CITAS",
+  "hero": "pexels-6823515-booking-phone",
+  "hero_alt": "Un teléfono y un calendario de papel sobre un escritorio, listos para agendar una cita",
+  "image_plan": "ai: hand holding a phone showing a generic booking calendar, black and white, no logos, no faces → stock photo (Pexels), not Divinely Faded work",
+  "card_text": "Abre mi página, elige un servicio, elige una hora, confirma. Además: extras, agendar para un niño y cómo cambiar o cancelar.",
+  "lede": [
+    "Para agendar un corte conmigo en Booksy, abre mi página de Booksy, elige un servicio, elige un horario disponible y confírmalo. Cada cita en Divinely Faded se agenda así, desde un corte rápido hasta una sesión de color de cuatro horas.",
+    "Aquí está cada paso, y además cómo agregar un extra, agendar para tu hijo o para otra persona, y cambiar o cancelar una cita cuando cambian los planes."
+  ],
+  "seo": {
+    "title": "Cómo agendar en Booksy, paso a paso | Carlsbad, NM",
+    "description": "Cómo agendar en Divinely Faded en Carlsbad, NM por Booksy: elige un servicio, escoge una hora, confirma, agrega extras y cambia o cancela tu cita.",
+    "primary": "cómo agendar en booksy",
+    "secondary": []
+  },
+  "breadcrumb": [
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Blog",
+      "/es/blog/"
+    ],
+    [
+      "Agendar en Booksy",
+      "/es/blog/como-reservar-en-booksy/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / PASO A PASO",
+      "heading": "Cuatro pasos.",
+      "lead": "De esta página a una hora confirmada.",
+      "subsections": [
+        {
+          "heading": "1. Abre mi página",
+          "paragraphs": [
+            "Toca AGENDA AHORA al final de este artículo, o AGENDA TU CITA arriba en cualquier página de este sitio. Los dos te llevan directo a la página de Booksy de Divinely Faded."
+          ]
+        },
+        {
+          "heading": "2. Elige el servicio",
+          "paragraphs": [
+            "Empieza por lo que vas a agendar: un corte, un afeitado, un facial, trenzas, color o una permanente. El servicio decide cuánto tiempo separa Booksy, así que tiene que ir antes del horario."
+          ]
+        },
+        {
+          "heading": "3. Elige una hora",
+          "paragraphs": [
+            "Booksy solo muestra las horas disponibles para el servicio que escogiste. Ve pasando los días hasta que uno te acomode."
+          ]
+        },
+        {
+          "heading": "4. Confirma",
+          "paragraphs": [
+            "Revisa el servicio, el día y la hora, y luego confirma. Si Booksy te pide iniciar sesión o crear una cuenta, hazlo. Así es como la cita queda ligada a ti, y como la vas a cambiar después si lo necesitas."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "02 / QUÉ SERVICIO",
+      "heading": "¿No sabes cuál escoger?",
+      "lead": "Los tres cortes entre los que elige casi todo mundo.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "Solo el corte, con limpieza de la nuca con navaja y un peinado final.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "El corte, más un corte de barba o delineado (line-up), una toalla caliente y detalles con navaja. Escoge este si tu barba es parte del plan.",
+          "book": true
+        },
+        {
+          "title": "Luxury Grooming Experience",
+          "meta": "{{price:luxury-grooming}} · {{minutes:luxury-grooming}}",
+          "body": "Todo el tratamiento en una sola cita, desde una consulta y modelado de barba hasta vapor, depilación con cera y un toque final de fragancia.",
+          "book": true
+        },
+        {
+          "title": "Todo lo demás",
+          "meta": "Menú completo",
+          "body": "Afeitados, faciales, trenzas, color, permanentes y cada extra, cada uno con su precio y el tiempo que Booksy le separa.",
+          "href": "page:services",
+          "link_label": "VER TODOS LOS SERVICIOS"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / EXTRAS Y OTROS",
+      "heading": "Extras, niños, dos seguidos.",
+      "lead": "Las preguntas que más salen.",
+      "subsections": [
+        {
+          "heading": "Cómo agregar un extra",
+          "paragraphs": [
+            "Los extras se agregan mientras agendas, junto con el servicio: un diseño en el pelo por {{addon:hair-design}}, cejas por {{addon:eyebrows}}, o lavado y masaje en el cuero cabelludo por {{addon:wash-scalp-massage}}."
+          ]
+        },
+        {
+          "heading": "Cómo agendar para tu hijo",
+          "paragraphs": [
+            "Los niños se agendan del mismo menú, de la misma forma. Elige el servicio que necesita tu hijo y la hora que le acomode a tu familia."
+          ]
+        },
+        {
+          "heading": "Dos personas seguidas",
+          "paragraphs": [
+            "Agenda la primera cita, y luego agenda el horario que empieza cuando termina esa. Cada persona tiene su propia cita y su propio servicio."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / SI CAMBIAN LOS PLANES",
+      "heading": "Cámbiala o cancélala.",
+      "lead": "En Booksy, y con tiempo.",
+      "paragraphs": [
+        "Abre la cita en Booksy para cambiarla de hora o cancelarla. Entre más pronto lo hagas, más probable es que alguien más pueda tomar ese horario.",
+        "Si no llegas a tu cita o cancelas de último momento, se puede cobrar un cargo por cancelación a través de Booksy, así que cambia la cita en cuanto lo sepas, no cuando ya vas en camino.",
+        "¿Vas unos minutos tarde ese día? Deja la cita como está y mándame un mensaje al {{phone}} para que sepa que vas a llegar."
+      ],
+      "link": {
+        "label": "PREGUNTAS SOBRE CITAS",
+        "href": "page:faq"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "05 / ESE DÍA",
+      "heading": "Después de agendar.",
+      "lead": "A dónde ir, cuándo pagar.",
+      "paragraphs": [
+        "Llega a {{address}} a la hora de tu cita. El sábado es de 8:00 AM a 2:00 PM, y la barbería cierra miércoles y domingo. Los días festivos siguen mi horario normal, con un cargo de {{holiday_fee}} el mismo día festivo.",
+        "Pagas después del servicio, el total, en efectivo, tarjeta, Zelle o Cash App.",
+        "¿No encuentras una hora que te funcione en ninguna parte del calendario? Mándame un mensaje antes de rendirte. Un mensaje de texto es la forma más rápida de contactarme."
+      ],
+      "link": {
+        "label": "CÓMO LLEGAR Y HORARIO",
+        "href": "page:visit"
+      }
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / PREGUNTAS",
+      "heading": "Dudas sobre las citas.",
+      "items": [
+        {
+          "q": "¿Pago cuando agendo en Booksy?",
+          "a": "El pago es por el total después del servicio, en efectivo, tarjeta, Zelle o Cash App."
+        },
+        {
+          "q": "¿Cómo cambio mi cita de hora?",
+          "a": "Ábrela en Booksy y muévela a otra hora. Hazlo lo más pronto que puedas, porque los cambios de último momento pueden tener un cargo."
+        },
+        {
+          "q": "¿Puedo agendar por mensaje de texto?",
+          "a": "Las citas se hacen por Booksy. Si no encuentras una hora que te funcione, mándame un mensaje al {{phone}} y pregúntame."
+        },
+        {
+          "q": "¿Puedo agendar a mi hijo y a mí al mismo tiempo?",
+          "a": "Sí. Haz dos citas en horarios seguidos, una para cada uno, cada una con su propio servicio."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "LISTO",
+      "heading": "Elige.<br>Agenda. Listo.",
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "services",
+    "faq",
+    "visit"
+  ],
+  "tim_questions": [
+    "Does Booksy ask clients for a card on file or a deposit when they book? The post only says payment is due after the service.",
+    "How late counts as a late cancellation (24 hours, 12 hours)? Left out.",
+    "How far ahead does your Booksy calendar open? Left out.",
+    "Does Booksy send reminders for your appointments? Left out."
+  ]
+}

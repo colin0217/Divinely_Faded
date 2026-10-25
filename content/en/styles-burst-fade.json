@@ -1,0 +1,88 @@
+{
+  "id": "styles-burst-fade",
+  "locale": "en",
+  "slug": "/styles/burst-fade/",
+  "alt": "/es/estilos/burst-fade/",
+  "nav_label": "Burst Fade",
+  "card_text": "A half-circle fade around the ear, with length left in back.",
+  "breadcrumb": [["Home", "/"], ["Styles", "/styles/"], ["Burst Fade", "/styles/burst-fade/"]],
+  "seo": {
+    "title": "Burst Fade in Carlsbad, NM | Divinely Faded",
+    "description": "Burst fade haircuts in Carlsbad, NM: a half-circle fade around the ear with length kept in back. Great on curls. See the cut and book on Booksy.",
+    "primary": "burst fade carlsbad nm",
+    "secondary": ["burst fade", "burst fade vs taper", "burst fade curly hair", "burst fade straight hair"],
+    "og_photo": "cut-curly-top-burst-fade-beard"
+  },
+  "schema": { "type": "Service", "service_ids": ["essential-haircut", "signature-cut"] },
+  "photo_alt": {
+    "cut-curly-top-burst-fade-beard": "Burst fade curving around the ear under a curly top, length left at the back, sharp temple line-up and a short trimmed beard"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "STYLES / BURST FADE",
+      "h1": "Burst fade.",
+      "paragraphs": [
+        "Look at the ear in the photo. The hair drops to skin in a half-circle around it, then fades back out in every direction. That arc is the burst.",
+        "Above it, the curls on top stay full and the hair at the back is left long enough to fall toward the neck. The temple gets a sharp line-up, and the beard is kept short with a clean cheek line."
+      ],
+      "link": { "label": "BOOK THIS CUT", "href": "booksy" },
+      "photos": ["cut-curly-top-burst-fade-beard"]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / THE SHAPE",
+      "heading": "Why it's called a burst.",
+      "lead": "It radiates out from the ear.",
+      "paragraphs": [
+        "Most fades run in a level band around the head. A burst fade curves instead, fanning out from behind the ear and leaving the nape and the back with more length. That is why it pairs so naturally with curly tops, faux hawks and mullets: the shape keeps weight exactly where those styles need it."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / WHO IT SUITS",
+      "heading": "Curls show it off.",
+      "lead": "Straight hair can wear it too.",
+      "paragraphs": [
+        "Curly and wavy hair shows the burst most clearly, because the volume on top and in back holds its form against the bare arc. On straight hair the result looks sleeker and a little more subtle. If you need a quieter outline for work, a low taper is the calmer cousin."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "04 / BOOK IT AS",
+      "heading": "Pick your service.",
+      "lead": "Beard or no beard.",
+      "items": [
+        { "title": "Essential Haircut", "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}", "body": "In my chair this covers the burst, the top and the back, closing with a straight razor along the neck and a finished style.", "href": "page:services-haircuts", "book": true },
+        { "title": "Signature Cut", "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}", "body": "For the full look pictured here, beard included: trim or line-up, hot towel, razor detailing.", "href": "page:services-haircuts", "book": true }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "05 / UPKEEP",
+      "heading": "Keep the arc crisp.",
+      "lead": "The curve goes soft first.",
+      "paragraphs": [
+        "The half-circle around the ear is the detail that loses definition first, since it is cut the shortest. The length in back is more forgiving as it grows. If the arc is the part you care about, text me and ask how soon to rebook for it."
+      ],
+      "photos": []
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / QUESTIONS",
+      "heading": "Burst fade basics.",
+      "items": [
+        { "q": "What does burst fade mean?", "a": "A fade shaped like a semicircle around the ear. It is shortest right by the ear and gets longer as it moves outward, so it seems to burst out from that point." },
+        { "q": "Is a burst fade just a mullet?", "a": "No, though they are often worn together. The burst is the fade around the ear; a mullet is about the length in back. Put them together and you get the burst fade mullet, which is covered on the modern mullet page." },
+        { "q": "Burst fade vs. taper: what is the difference?", "a": "A taper shortens the sideburns and nape in fairly straight lines. A burst curves around the ear and leaves the back fuller. Both are subtle compared with a full skin fade." },
+        { "q": "Does a burst fade work on straight hair?", "a": "It does. The arc is a little less dramatic than on curls, and the top usually needs some texture cut into it so it doesn't lie completely flat." }
+      ]
+    }
+  ],
+  "related": ["styles-modern-mullet", "styles-curly-top-fade", "styles-skin-fade", "services-beard-shaves"],
+  "tim_questions": [
+    "How often do you suggest rebooking a burst fade to keep the arc crisp? The upkeep section gives no interval until you say."
+  ]
+}

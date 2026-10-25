@@ -1,0 +1,177 @@
+{
+  "id": "post-new-to-carlsbad-nm-barber",
+  "locale": "es",
+  "slug": "/es/blog/nuevo-en-carlsbad-barbero/",
+  "alt": "/blog/new-to-carlsbad-nm-barber/",
+  "date": "2026-11-02",
+  "plan_rank": 11,
+  "title": "¿Nuevo en Carlsbad, NM? Cómo encontrar a tu barbero",
+  "eyebrow": "LOCAL",
+  "hero": "cut-skin-fade-long-beard",
+  "hero_alt": "Skin fade con barba larga y definida, cortado en Divinely Faded",
+  "image_plan": "Tim library (stock town photos were not Carlsbad)",
+  "card_text": "¿Recién llegado a Carlsbad? Dónde está la barbería, qué tan lejos queda de los pueblos cercanos, cómo se agenda y cómo es la primera visita.",
+  "lede": [
+    "¿Eres nuevo en Carlsbad, NM y buscas barbero? Revisa tres cosas antes de agendar con cualquiera: si sus propias fotos muestran el corte que tú usas, si los precios y los tiempos están publicados de antemano, y cómo se agenda. Divinely Faded es mi barbería de una sola silla en {{address}}. Atiendo solo con cita, y cada visita se agenda en Booksy.",
+    "Si de repente tu barbero de antes quedó a unos cuantos estados de distancia, así es como te acomodas aquí sin andar a prueba y error."
+  ],
+  "seo": {
+    "title": "¿Nuevo en Carlsbad, NM? Cómo encontrar a tu barbero",
+    "description": "¿Te mudas a Carlsbad, NM? Cómo elegir barbero, dónde está Divinely Faded, cuánto se hace en auto desde los pueblos cercanos y cómo es tu primera cita.",
+    "primary": "nuevo en carlsbad nm",
+    "secondary": []
+  },
+  "breadcrumb": [
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Blog",
+      "/es/blog/"
+    ],
+    [
+      "Nuevo en Carlsbad",
+      "/es/blog/nuevo-en-carlsbad-barbero/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / CÓMO ELEGIR",
+      "heading": "Qué buscar.",
+      "lead": "Juzga el trabajo, no el letrero.",
+      "subsections": [
+        {
+          "heading": "Fotos de sus propios cortes",
+          "paragraphs": [
+            "Busca el corte que de verdad usas: la altura del desvanecido (fade), el trabajo en la barba, lo nítido en la sien. Mis páginas de estilos muestran cortes de mi propia silla, cada uno con su nombre, para que compares una foto con lo que quieres antes de sentarte."
+          ]
+        },
+        {
+          "heading": "Precios y tiempos a la vista",
+          "paragraphs": [
+            "Un menú publicado quiere decir que no hay sorpresas al final. Cada servicio que ofrezco aparece con su precio y el tiempo que Booksy separa para él, desde un Express Facial (facial exprés) de {{minutes:express-facial}} hasta una Color Transformation (transformación de color) de {{minutes:color-transformation}}."
+          ]
+        },
+        {
+          "heading": "El mismo barbero cada vez",
+          "paragraphs": [
+            "Trabajo solo. La persona con quien agendas es la persona que te corta el pelo, en la primera visita y en cada una de las siguientes. Después de unas cuantas citas, eso se convierte en alguien que ya conoce tu remolino y cómo te gusta la parte de arriba."
+          ]
+        },
+        {
+          "heading": "Citas que respetan tu tiempo",
+          "paragraphs": [
+            "Solo con cita quiere decir que no te quedas sentado esperando a que te toque. Escoges un horario, llegas a esa hora y la silla es tuya."
+          ]
+        }
+      ],
+      "link": {
+        "label": "VER TODOS LOS SERVICIOS",
+        "href": "page:services"
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "02 / PARA LLEGAR",
+      "heading": "¿Vives fuera de la ciudad?",
+      "lead": "Distancias reales en auto desde la barbería en la calle Halagueno.",
+      "columns": [
+        "Pueblo",
+        "Millas",
+        "En auto"
+      ],
+      "rows": "nearby",
+      "paragraphs": [
+        "Si vives en La Huerta o en Happy Valley, el camino es de unos minutos. Desde Artesia es el más largo de esta lista, unos 44 minutos, así que asegura tu horario en Booksy antes de salir en vez de esperar a que se abra algo.",
+        "La página Visítanos tiene un botón CÓMO LLEGAR que abre la ruta en Google Maps, junto con el horario y los datos de pago."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / PRIMERA VISITA",
+      "heading": "Tu primera cita.",
+      "lead": "De agendar al espejo.",
+      "paragraphs": [
+        "En Booksy elige primero el servicio y luego la hora. Si solo necesitas un corte, ese es el Essential Haircut (corte esencial), de {{price:essential-haircut}} y {{minutes:essential-haircut}}. Si tu barba o tu delineado (line-up) también necesitan trabajo, agenda el Signature Cut (corte distintivo), de {{price:signature-cut}} y {{minutes:signature-cut}}, que agrega un toque final con toalla caliente.",
+        "Trae una foto de un corte que te hizo tu barbero anterior y que te gustó. Un barbero nuevo no puede ver tu historial de cortes, así que una captura de pantalla nos pone de acuerdo rápido. Dime qué te gustó de ese corte y qué le cambiarías.",
+        "Cuando termina el corte, pagas el total: efectivo, tarjeta, Zelle o Cash App. Si quieres algo extra, como lavado y masaje en el cuero cabelludo por {{addon:wash-scalp-massage}}, agrégalo en Booksy cuando agendes."
+      ],
+      "link": {
+        "label": "HORARIO Y CÓMO LLEGAR",
+        "href": "page:visit"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / LA BARBERÍA",
+      "heading": "Con quién vas a agendar.",
+      "lead": "Un solo barbero. Corto pelo desde 2023.",
+      "paragraphs": [
+        "Soy Tim Murillo, y Divinely Faded es mi barbería. El lema de la barbería es Elevate Your Standard. Para mí eso significa que el corte va primero, y que el acabado recibe el mismo cuidado que el desvanecido.",
+        "Los niños son bienvenidos, así que todos en casa pueden agendar del mismo menú. Además de cortes, hago cortes de barba y afeitados con navaja, faciales, trenzas, diseños en el pelo, color y permanentes."
+      ],
+      "link": {
+        "label": "MÁS SOBRE TIM",
+        "href": "page:about"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "05 / TU HORARIO",
+      "heading": "Cómo encaja en tu semana.",
+      "lead": "Trabajo nuevo, rutina nueva.",
+      "paragraphs": [
+        "El sábado es de 8:00 AM a 2:00 PM y es el único día del fin de semana que corto. La barbería cierra todos los miércoles y domingos, y los horarios entre semana aparecen en Booksy conforme se van liberando.",
+        "En días festivos trabajo en mi horario normal. Una cita el mismo día festivo lleva un cargo por día festivo de {{holiday_fee}} además del servicio.",
+        "¿Te salió algo? Cancela o cambia la cita en Booksy en cuanto lo sepas. Si no llegas a tu cita o cancelas de último momento, se puede cobrar un cargo por cancelación."
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / LOS RECIÉN LLEGADOS PREGUNTAN",
+      "heading": "Para acomodarte.",
+      "items": [
+        {
+          "q": "¿Necesito cita?",
+          "a": "Sí. Cada visita a Divinely Faded se agenda con anticipación en Booksy. Si no encuentras un horario que te funcione, mándame un mensaje al {{phone}}."
+        },
+        {
+          "q": "¿Dónde está la barbería?",
+          "a": "En {{address}}. La página Visítanos tiene un botón que abre la ruta en Google Maps."
+        },
+        {
+          "q": "¿Qué tan lejos queda de Loving o de Artesia?",
+          "a": "Loving está a unas 13 millas, más o menos 16 minutos en auto. Artesia está a unas 36 millas, alrededor de 44 minutos."
+        },
+        {
+          "q": "¿Puedo traer a mis niños?",
+          "a": "Sí. Los niños agendan del mismo menú que los adultos, así que puedes poner su cita justo al lado de la tuya."
+        },
+        {
+          "q": "¿Cuál es la forma más fácil de contactarte?",
+          "a": "Un mensaje de texto. Prefiero un mensaje a una llamada, y es la forma más rápida de tener respuesta."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "NUEVO EN LA CIUDAD",
+      "heading": "Ciudad nueva.<br>Mismo estándar.",
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "visit",
+    "about",
+    "services"
+  ],
+  "tim_questions": [
+    "Is there a landmark near 303 S Halagueno St that helps first-timers find the shop? Left out.",
+    "Do new clients see the same open slots as regulars, or are any times held back? The post assumes every open Booksy slot is open to newcomers."
+  ]
+}

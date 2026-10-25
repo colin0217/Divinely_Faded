@@ -1,0 +1,182 @@
+{
+  "id": "post-what-is-a-hot-towel-shave",
+  "locale": "en",
+  "slug": "/blog/what-is-a-hot-towel-shave/",
+  "date": "2026-11-02",
+  "plan_rank": 13,
+  "title": "What Is a Hot Towel Shave? What Happens in the Chair",
+  "eyebrow": "SHAVES",
+  "hero": "hot-towel",
+  "hero_alt": "Hot towel wrapped around a reclined client's face before a shave",
+  "image_plan": null,
+  "card_text": "Towels, lather, razor, aftershave: every step of a hot towel shave, what the heat does, and which services include a towel.",
+  "lede": [
+    "A hot towel shave is a traditional wet shave. Hot towels go on first to soften the beard and warm the skin, then shaving cream and a straight razor take the hair off, and an aftershave finishes it. At my shop that's the Straight Razor Beard Shave: {{price:straight-razor-beard-shave}} for {{minutes:straight-razor-beard-shave}} on Booksy.",
+    "Here's each step in order, what the heat actually does for the shave, and which other services bring a hot towel into the visit."
+  ],
+  "seo": {
+    "title": "What Is a Hot Towel Shave? What Happens in the Chair",
+    "description": "What a hot towel shave is, step by step, at Divinely Faded in Carlsbad, NM: towels, lather, straight razor and aftershave, plus what the heat does.",
+    "primary": "what is a hot towel shave",
+    "secondary": [
+      "hot towel shave benefits"
+    ]
+  },
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Blog",
+      "/blog/"
+    ],
+    [
+      "Hot Towel Shave",
+      "/blog/what-is-a-hot-towel-shave/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / STEP BY STEP",
+      "heading": "In order.",
+      "lead": "Towel, lather, razor, finish.",
+      "subsections": [
+        {
+          "heading": "Settle back",
+          "paragraphs": [
+            "The chair reclines and your head rests back, like the client in the photo at the top. Open the collar or tuck it down so the towel can wrap the jaw and throat."
+          ]
+        },
+        {
+          "heading": "The towels",
+          "paragraphs": [
+            "Hot towels wrap the lower half of the face and stay there for a while. Warmth and moisture work into the whiskers, and that is what makes them easier to cut."
+          ]
+        },
+        {
+          "heading": "The lather",
+          "paragraphs": [
+            "Shaving cream goes on over the damp beard. It keeps the skin slick, so the blade glides across it instead of catching."
+          ]
+        },
+        {
+          "heading": "The razor",
+          "paragraphs": [
+            "Then the straight razor, with the skin held smooth under it. This is the part to stay still for, and it is the reason a proper shave is never hurried."
+          ]
+        },
+        {
+          "heading": "The finish",
+          "paragraphs": [
+            "A soothing aftershave goes on last, over skin that has just been shaved clean.",
+            "Run a hand along your jaw before you sit up. That smooth feel is what the towels, the lather and the slow razor work were for."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / WHY HEAT",
+      "heading": "What the towel does.",
+      "lead": "Softer whiskers, an easier pass.",
+      "paragraphs": [
+        "Dry whiskers are stiff. Warm water softens them, so the razor slices through instead of tugging. That is the real benefit people mean by a hot towel shave: less pulling, less scraping and a closer result on the first pass.",
+        "It's also the quietest part of any visit. Eyes closed, face warm, and nobody needs anything from you for a minute or two.",
+        "A hot towel is not a medical treatment. If your skin is irritated, broken out or sore, tell me before we start, and take anything that won't settle to a doctor."
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "03 / BOOK IT AS",
+      "heading": "Where the towel shows up.",
+      "lead": "Four services on my menu use hot towels.",
+      "items": [
+        {
+          "title": "Straight Razor Beard Shave",
+          "meta": "{{price:straight-razor-beard-shave}} · {{minutes:straight-razor-beard-shave}}",
+          "body": "The full hot towel shave by itself: towels, premium shaving cream, the razor and a soothing aftershave, with no haircut attached.",
+          "book": true
+        },
+        {
+          "title": "Head & Beard Shave",
+          "meta": "{{price:head-beard-shave}} · {{minutes:head-beard-shave}}",
+          "body": "The same idea for the scalp and the beard together: hot towels, a precision shave on both, and an aftershave balm to close. Booksy gives it a full hour.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "A haircut with a beard trim or line-up, straight razor detailing and a hot towel to finish. Here the towel comes at the end of the cut, not before a full shave.",
+          "href": "page:services-haircuts",
+          "link_label": "SEE THE HAIRCUTS",
+          "book": true
+        },
+        {
+          "title": "Luxury Grooming Experience",
+          "meta": "{{price:luxury-grooming}} · {{minutes:luxury-grooming}}",
+          "body": "Two hot towels, facial steam, a beard sculpt, a wash with scalp massage and the haircut, all in one booking.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / BEFORE YOU BOOK",
+      "heading": "Good to know.",
+      "lead": "So the shave goes smoothly.",
+      "paragraphs": [
+        "Taking off a long, full beard? Text me a photo first at {{phone}}. Bringing a big beard down to skin is a bigger job than shaving a few days of growth, and it helps to know what's coming.",
+        "Want the hot towel but plan to keep the beard? Book the Signature Cut instead. Your beard gets trimmed or lined up with the haircut, and the visit still ends under a hot towel.",
+        "Shaving for a wedding, an interview or a photo? Book it close to the date. A smooth shave is at its cleanest right away, and growth starts showing again quickly.",
+        "You pay after the shave, by cash, card, Zelle or Cash App. If your plans change, cancel on Booksy early, because a no-show or late cancellation may carry a fee."
+      ],
+      "link": {
+        "label": "BEARD AND SHAVE SERVICES",
+        "href": "page:services-beard-shaves"
+      }
+    },
+    {
+      "type": "faq",
+      "eyebrow": "05 / QUESTIONS",
+      "heading": "Shave questions.",
+      "items": [
+        {
+          "q": "What is a hot towel shave?",
+          "a": "A wet shave that opens with hot towels to soften the beard, followed by shaving cream, a straight razor and an aftershave."
+        },
+        {
+          "q": "What are the benefits of a hot towel shave?",
+          "a": "Softened whiskers cut more cleanly, so the razor pulls less on the skin. The warmth is relaxing too, which is half the reason people book one."
+        },
+        {
+          "q": "How long does a hot towel shave take?",
+          "a": "Booksy holds {{minutes:straight-razor-beard-shave}} for the Straight Razor Beard Shave and {{minutes:head-beard-shave}} for the Head & Beard Shave."
+        },
+        {
+          "q": "Can I get a hot towel with a haircut?",
+          "a": "Yes. The Signature Cut finishes with a hot towel, and the Luxury Grooming Experience includes two."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "HOT TOWEL",
+      "heading": "Lean back.<br>Let it soften.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "services-beard-shaves",
+    "services-haircuts"
+  ],
+  "tim_questions": [
+    "Do you finish the shave with a cold towel, or go straight to the aftershave? Left out.",
+    "Does a long, full beard need trimming down first, and does that change the booking or price? The post only asks clients to text a photo first.",
+    "Is the aftershave suitable for sensitive skin? (no skin claims made in the post)"
+  ]
+}

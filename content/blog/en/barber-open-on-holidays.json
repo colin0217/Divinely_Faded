@@ -1,0 +1,185 @@
+{
+  "id": "post-barber-open-on-holidays",
+  "locale": "en",
+  "slug": "/blog/barber-open-on-holidays/",
+  "date": "2026-11-02",
+  "plan_rank": 9,
+  "title": "Open on Holidays: How Holiday Appointments and the $20 Fee Work",
+  "eyebrow": "LOCAL",
+  "hero": "shop-chair",
+  "hero_alt": "Divinely Faded's black tufted barber chair, empty between appointments",
+  "image_plan": null,
+  "card_text": "Regular hours on holidays, a holiday fee only on the day itself, and closed Wednesdays and Sundays as always.",
+  "lede": [
+    "Yes, I'm open on holidays. The shop keeps its regular hours for that day of the week, and an appointment on the holiday itself carries a {{holiday_fee}} holiday fee on top of the service. The days around a holiday are ordinary days at ordinary prices.",
+    "Wednesday and Sunday stay closed, holiday or not. Here is how it plays out across the holiday season."
+  ],
+  "seo": {
+    "title": "Open on Holidays: Appointments and the $20 Fee",
+    "description": "Barber open on holidays in Carlsbad, NM: Divinely Faded keeps regular hours, with a $20 fee only on the holiday itself. Closed Wed and Sun.",
+    "primary": "barber open on holidays",
+    "secondary": [
+      "holiday haircut"
+    ]
+  },
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Blog",
+      "/blog/"
+    ],
+    [
+      "Open on Holidays",
+      "/blog/barber-open-on-holidays/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / HOW IT WORKS",
+      "heading": "Regular hours, one fee.",
+      "lead": "The calendar decides.",
+      "paragraphs": [
+        "A holiday doesn't change my schedule. If it lands on a Monday, Tuesday, Thursday or Friday, I'm on weekday hours. On a Saturday, it's 8:00 AM to 2:00 PM. On a Wednesday or a Sunday, the shop is closed like any other week.",
+        "The {{holiday_fee}} applies only to appointments on the holiday itself. Book the day before or the day after and you pay the normal price. Either way, you book through Booksy like any other day. The fee is the same flat amount whatever you book, from an Essential Haircut to a Color Transformation. Payment works the same as always: cash, card, Zelle or Cash App, after the service."
+      ],
+      "link": {
+        "label": "SEE HOURS AND DIRECTIONS",
+        "href": "page:visit"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / THE BIG ONES",
+      "heading": "Thanksgiving to New Year's.",
+      "lead": "Know which weekday it lands on.",
+      "paragraphs": [
+        "Thanksgiving always falls on a Thursday, a regular cutting day for me. Christmas Day and New Year's Day move around the week from year to year, so check the weekday before you plan. Christmas Eve and New Year's Eve are their own question, so text me if you're planning around either one.",
+        "Thanksgiving week has a gap to know about: the Wednesday before is a regular Wednesday, which means closed. Monday and Tuesday of that week are your fee-free options before the holiday.",
+        "Home for the holidays and staying out in Loving, Malaga or Artesia? The visit page lists the drive time to the shop from each nearby town.",
+        "Want a fresh cut for family photos or a holiday dinner? The days just before the holiday carry no fee and are close enough to still look sharp on the day."
+      ]
+    },
+    {
+      "type": "table",
+      "eyebrow": "03 / THIS SEASON",
+      "heading": "Holiday dates, 2026–27.",
+      "lead": "Open times show on Booksy.",
+      "columns": [
+        "Holiday",
+        "Date",
+        "Day",
+        "At the shop"
+      ],
+      "rows": [
+        [
+          "Thanksgiving",
+          "Nov 26, 2026",
+          "Thursday",
+          "Weekday hours, holiday fee"
+        ],
+        [
+          "Christmas Day",
+          "Dec 25, 2026",
+          "Friday",
+          "Weekday hours, holiday fee"
+        ],
+        [
+          "New Year's Day",
+          "Jan 1, 2027",
+          "Friday",
+          "Weekday hours, holiday fee"
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "04 / ON THE BILL",
+      "heading": "What a holiday cut costs.",
+      "lead": "The service price, plus the fee on the day itself.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "The cut, a straight razor neck cleanup and a finished style, plus the {{holiday_fee}} fee if you book it on the holiday.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "The cut with a beard trim or line-up and a hot towel finish, plus the {{holiday_fee}} fee on the holiday itself. A good pick before a family photo.",
+          "book": true
+        },
+        {
+          "title": "Luxury Grooming Experience",
+          "meta": "{{price:luxury-grooming}} · {{minutes:luxury-grooming}}",
+          "body": "The full treatment for a big occasion, with the same {{holiday_fee}} fee when it falls on the holiday.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "05 / THE WEEK OF",
+      "heading": "Pick your day early.",
+      "lead": "One barber, one schedule.",
+      "paragraphs": [
+        "I work solo, so a holiday week has the same number of hours as any other week. If you want a particular day, book it as soon as your plans are set. The Saturdays before Christmas run the usual 8:00 AM to 2:00 PM.",
+        "Every holiday follows the same rule, not only the winter ones: check the weekday, look at my regular hours for it, and expect the fee only if you book the holiday itself.",
+        "Long services need an early start on a busy day. A Color Transformation takes {{minutes:color-transformation}} and braids {{minutes:braids}}, so pick a morning slot if there's a family dinner that evening.",
+        "Holiday plans change fast. If yours do, cancel on Booksy as early as you can, since a no-show or late cancellation may be charged a fee, holiday or not. Questions about a specific date? Text me at {{phone}}."
+      ],
+      "link": {
+        "label": "READ THE FAQ",
+        "href": "page:faq"
+      }
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / QUESTIONS",
+      "heading": "Holiday questions.",
+      "items": [
+        {
+          "q": "Are barbers open on holidays?",
+          "a": "Mine is. Divinely Faded keeps its regular hours on holidays, and appointments on the holiday itself carry a {{holiday_fee}} fee."
+        },
+        {
+          "q": "How much is the holiday fee?",
+          "a": "{{holiday_fee}}, added to the service you book. It applies only on the holiday itself."
+        },
+        {
+          "q": "What if a holiday falls on a Wednesday or Sunday?",
+          "a": "The shop is closed those two days every week, holidays included."
+        },
+        {
+          "q": "Is the day before a holiday more expensive?",
+          "a": "No. Only the holiday itself carries the fee."
+        },
+        {
+          "q": "How do I pay the holiday fee?",
+          "a": "With the rest of the bill, after the service. Cash, card, Zelle and Cash App all work."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "HOLIDAY HOURS",
+      "heading": "Open on the holiday.<br>Book ahead.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "faq",
+    "visit"
+  ],
+  "tim_questions": [
+    "Which days count as holidays for the fee (e.g. Memorial Day, July 4, Labor Day, Christmas Eve, New Year's Eve)?",
+    "Is the holiday fee charged in Booksy or added at the chair?"
+  ]
+}

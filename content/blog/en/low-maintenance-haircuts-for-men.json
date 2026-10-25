@@ -1,0 +1,155 @@
+{
+  "id": "post-low-maintenance-haircuts-for-men",
+  "locale": "en",
+  "slug": "/blog/low-maintenance-haircuts-for-men/",
+  "date": "2026-11-02",
+  "plan_rank": 25,
+  "title": "Low-Maintenance Haircuts for Long Shifts and Hard Hats",
+  "eyebrow": "STYLES",
+  "hero": "pexels-36345557-work-crew",
+  "hero_alt": "A worker in a safety vest holding his hard hat after a shift",
+  "image_plan": "pexels: worker hard hat portrait → stock photo (Pexels), not Divinely Faded work",
+  "card_text": "Cuts that survive a hard hat, sweat and a twelve-hour shift, with nothing to style before you head out the door.",
+  "lede": [
+    "The low-maintenance haircuts that hold up under a hard hat are short where the headband sits, simple on top, and need no product to look right: a buzz cut, a crew cut, a textured crop or a low taper with a short top. They look the same when the hat comes off as they did when it went on.",
+    "If your days run long at a well site, the potash mines or a plant around Carlsbad, here's how to pick one and how to fit the appointment around your shifts."
+  ],
+  "seo": {
+    "title": "Low-Maintenance Haircuts for Men | Carlsbad, NM",
+    "description": "Low maintenance haircuts for men in Carlsbad, NM who work long shifts under a hard hat: cuts that need no styling, and how to book around your schedule.",
+    "primary": "low maintenance haircuts for men",
+    "secondary": [
+      "low maintenance haircuts"
+    ]
+  },
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Blog",
+      "/blog/"
+    ],
+    [
+      "Low-Maintenance Haircuts",
+      "/blog/low-maintenance-haircuts-for-men/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / WHAT A HAT DOES",
+      "heading": "Why hard hats are hard on hair.",
+      "lead": "Pressure, heat and sweat.",
+      "paragraphs": [
+        "A hard hat rides on a headband that presses a ring around your head for hours. Hair above that ring gets flattened, hair below it gets pushed out, and by lunch the shape you left the house with is gone.",
+        "Add heat and sweat, and anything that depends on a blow-dryer or a set shape doesn't stand a chance. The cuts that survive are the ones with nothing to lose: short where the band sits, and a top that falls back into place with your fingers."
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "02 / THE CUTS",
+      "heading": "Four cuts that hold up.",
+      "lead": "No product, no blow-dryer.",
+      "items": [
+        {
+          "title": "Buzz cut",
+          "body": "One short length over the whole head. There's nothing for the hat to flatten, and it's dry a few minutes after a shower. Put a fade on the sides so it looks deliberate rather than grown in.",
+          "href": "page:styles-buzz-cut"
+        },
+        {
+          "title": "Crew cut",
+          "body": "A little more length on top, slightly longer at the front and shorter toward the back. Enough shape to look put together, short enough that a hat barely changes it."
+        },
+        {
+          "title": "Textured crop",
+          "body": "A choppy top worn forward over tight sides. Hat hair suits it: push the top forward with your hand and the pieces land where they belong.",
+          "href": "page:styles-textured-crop"
+        },
+        {
+          "title": "Low taper with a short top",
+          "body": "Only the edges come down, so the sides keep some cover under the band. A good pick when work rules or your own taste lean conservative."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / WHAT TO SKIP",
+      "heading": "Cuts that fight the hat.",
+      "lead": "Sharp at six, flat by noon.",
+      "paragraphs": [
+        "Slick backs, pompadours and big swept tops all rely on product and a set shape. Under a hard hat they flatten into a dent at the band line, and there's no fixing that on a job site.",
+        "Long sides run into the same problem. Hair below the band gets pushed outward and sticks out under the brim. Keeping the sides short avoids it.",
+        "None of that rules out a longer style for your days off. It just means the cut you live in during the work week should be built around the hat."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / LOW EFFORT",
+      "heading": "Low maintenance, not no maintenance.",
+      "lead": "The edges give it away first.",
+      "paragraphs": [
+        "Short cuts are easy day to day, but they show growth in one place before anywhere else: the edges. The neckline and the hair around the ears blur first, and that's your signal to come back.",
+        "How soon that happens depends on how fast your hair grows and how sharp you like it. Ask me while you're in the chair and I'll tell you what I see on your hair.",
+        "If a beard is part of your look, book the Signature Cut so it gets trimmed or lined up with the cut. Want it all off? The Head & Beard Shave ({{price:head-beard-shave}}, {{minutes:head-beard-shave}}) takes both down smooth."
+      ],
+      "link": {
+        "label": "SEE THE HAIRCUTS",
+        "href": "page:services-haircuts"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "05 / AROUND YOUR SHIFTS",
+      "heading": "Fit it around the schedule.",
+      "lead": "Saturdays start at 8.",
+      "paragraphs": [
+        "Saturday runs 8:00 AM to 2:00 PM, so an early Saturday slot works if your weekends are free. Weekday openings on Monday, Tuesday, Thursday and Friday show on Booksy. I'm closed Wednesday and Sunday.",
+        "On a rotating schedule? Book as soon as you know your days off, so you aren't hunting for a slot on your one free morning. The Essential Haircut takes {{minutes:essential-haircut}} and the Signature Cut {{minutes:signature-cut}}, so either one fits on the edge of a shift.",
+        "Shifts get moved. When yours does, cancel through Booksy as soon as you know, since no-shows and late cancellations can be charged a fee."
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / QUESTIONS",
+      "heading": "Work-cut questions.",
+      "items": [
+        {
+          "q": "What's the most low-maintenance haircut for men?",
+          "a": "A buzz cut. One short length all over, nothing to style, and nothing for a hat to flatten."
+        },
+        {
+          "q": "What haircut works under a hard hat?",
+          "a": "Something short where the headband sits and simple on top: a buzz, a crew cut, a textured crop or a low taper with a short top."
+        },
+        {
+          "q": "Do these cuts need product?",
+          "a": "No. Each one is on this list because it looks right without any."
+        },
+        {
+          "q": "Can I book before work on a Saturday?",
+          "a": "Saturday opens at 8:00 AM. Pick the earliest open slot on Booksy."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "WORK-READY",
+      "heading": "Hat on.<br>Still sharp.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "styles-buzz-cut",
+    "styles-textured-crop",
+    "services-haircuts"
+  ],
+  "tim_questions": [
+    "How often do you suggest coming back for each of these cuts? The post gives no week counts and tells readers to ask you in the chair.",
+    "OK to name local work (well sites, the potash mines, plants) in the copy?"
+  ]
+}

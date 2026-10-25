@@ -1,0 +1,89 @@
+{
+  "id": "services-beard-shaves",
+  "locale": "es",
+  "slug": "/es/servicios/barba-y-afeitado/",
+  "alt": "/services/beard-and-shaves/",
+  "nav_label": "Barba y afeitado",
+  "card_text": "Cortes de barba, delineado y afeitado con navaja y toalla caliente.",
+  "breadcrumb": [["Inicio", "/es/"], ["Servicios", "/es/servicios/"], ["Barba y afeitado", "/es/servicios/barba-y-afeitado/"]],
+  "seo": {
+    "title": "Corte de barba y afeitado en Carlsbad, NM | Divinely Faded",
+    "description": "Corte de barba, afeitado con navaja y afeitado de cabeza y barba con toalla caliente en Carlsbad, NM, con Tim en Divinely Faded. Agenda en Booksy.",
+    "primary": "corte de barba",
+    "secondary": ["corte de barba para hombre", "arreglo de barba", "afeitado con navaja"],
+    "og_photo": "tim-beard-detailing"
+  },
+  "schema": { "type": "Service", "service_ids": ["signature-cut", "straight-razor-beard-shave", "head-beard-shave"] },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "SERVICIOS / BARBA Y AFEITADO",
+      "h1": "Barba y afeitado.",
+      "paragraphs": [
+        "Toallas calientes. Navaja de barbero. Una línea limpia.",
+        "Hay tres formas específicas de agendar trabajo de barba conmigo, según si quieres la barba arreglada junto con un corte, afeitada por sí sola, o afeitada junto con la cabeza."
+      ],
+      "link": { "label": "AGENDA TU BARBA", "href": "booksy" },
+      "photos": ["tim-beard-detailing", "shave-head-beard-trim"],
+      "alt": {
+        "tim-beard-detailing": "Tim detallando la barba completa de un cliente reclinado, con una toalla",
+        "shave-head-beard-trim": "Cabeza afeitada al ras con barba completa entrecana"
+      }
+    },
+    {
+      "type": "list",
+      "eyebrow": "02 / LAS OPCIONES",
+      "heading": "Corte, afeitado o ambos.",
+      "lead": "Todas usan toallas calientes.",
+      "items": [
+        { "title": "Signature Cut", "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}", "body": "Un corte con tu barba resuelta en la misma visita: corte de barba o delineado (line-up), toque final con toalla caliente y detalles con navaja en los bordes.", "book": true },
+        { "title": "Straight Razor Beard Shave", "meta": "{{price:straight-razor-beard-shave}} · {{minutes:straight-razor-beard-shave}}", "body": "Un afeitado tradicional. Primero toallas calientes, luego crema de afeitar premium, la navaja y un aftershave calmante para cerrar.", "book": true },
+        { "title": "Head & Beard Shave", "meta": "{{price:head-beard-shave}} · {{minutes:head-beard-shave}}", "body": "Un afeitado de precisión en la cabeza y la barba juntas, con toallas calientes y un bálsamo aftershave calmante al final. El más largo de los tres.", "book": true }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / LA TOALLA CALIENTE",
+      "heading": "Por qué la toalla.",
+      "lead": "Calor antes de la navaja.",
+      "paragraphs": [
+        "Una toalla caliente alrededor de la cara suaviza la barba y relaja la piel antes de que la toque una navaja. Te recuestas, te pongo la toalla y por un minuto no tienes que hacer nada.",
+        "Luego la navaja se pone a trabajar."
+      ],
+      "photos": ["hot-towel"],
+      "alt": {
+        "hot-towel": "Toalla caliente alrededor de la cara de un cliente reclinado antes de un afeitado"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / UN PASO MÁS",
+      "heading": "La barba, completa.",
+      "lead": "Modelada, no solo recortada.",
+      "paragraphs": [
+        "La Luxury Grooming Experience (experiencia de arreglo de lujo) incluye modelado de barba junto con el corte, lavado, vapor facial, dos toallas calientes y detalles con navaja. Si tu barba es una parte importante de tu estilo, esa es la cita que le da más tiempo."
+      ],
+      "photos": []
+    },
+    {
+      "type": "faq",
+      "eyebrow": "05 / PREGUNTAS",
+      "heading": "Lo que debes saber.",
+      "items": [
+        { "q": "¿Puedo hacerme un corte de barba sin cortarme el pelo?", "a": "En Booksy, el corte de barba o el delineado son parte del Signature Cut (corte distintivo), y el Straight Razor Beard Shave (afeitado de barba con navaja) es un servicio aparte. Para cualquier otra cosa, mándame un mensaje y pregúntame." },
+        { "q": "¿Tiñes barbas?", "a": "No. El teñido de barba no es algo que ofrezca." },
+        { "q": "¿Cuánto dura un afeitado con navaja?", "a": "Booksy aparta {{minutes:straight-razor-beard-shave}}, con las toallas incluidas." }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "NAVAJA",
+      "heading": "Toalla caliente.<br>Línea limpia.",
+      "button": { "label": "AGENDA AHORA", "href": "booksy" }
+    }
+  ],
+  "related": ["services-haircuts", "services-facials", "faq"],
+  "tim_questions": [
+    "[TIM?] Do you do a beard trim or line-up on its own, without a haircut? If yes, how should people book it on Booksy? (The page points to the Signature Cut and the Straight Razor Beard Shave and says to text for anything else.)"
+  ]
+}

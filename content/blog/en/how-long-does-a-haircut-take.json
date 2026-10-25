@@ -1,0 +1,201 @@
+{
+  "id": "post-how-long-does-a-haircut-take",
+  "locale": "en",
+  "slug": "/blog/how-long-does-a-haircut-take/",
+  "date": "2026-11-02",
+  "plan_rank": 27,
+  "title": "How Long Does a Haircut Take? Every Service, Timed",
+  "eyebrow": "GUIDE",
+  "hero": "shop-chair",
+  "hero_alt": "Divinely Faded's black tufted barber chair, set up for the next appointment",
+  "image_plan": null,
+  "card_text": "From a {{minutes:express-facial}} facial to a {{minutes:color-transformation}} color: every service on my menu with the time Booksy holds for it.",
+  "lede": [
+    "A men's haircut at my shop takes {{minutes:essential-haircut}} for the Essential Haircut, {{minutes:signature-cut}} for the Signature Cut and {{minutes:luxury-grooming}} for the Luxury Grooming Experience. Those are the times Booksy holds, and they cover the whole visit, from sitting down to the finished style.",
+    "Below is every service on my menu with its length, what fills that time, and how to plan your day around it."
+  ],
+  "seo": {
+    "title": "How Long Does a Haircut Take? | Carlsbad, NM",
+    "description": "How long does a men's haircut take? At Divinely Faded in Carlsbad, NM, {{minutes:essential-haircut}} to {{minutes:luxury-grooming}}. Every service, timed.",
+    "primary": "how long does a men's haircut take",
+    "secondary": [
+      "how long does a haircut take"
+    ]
+  },
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Blog",
+      "/blog/"
+    ],
+    [
+      "How Long a Haircut Takes",
+      "/blog/how-long-does-a-haircut-take/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "list",
+      "eyebrow": "01 / HAIRCUTS",
+      "heading": "The three cuts.",
+      "lead": "Same cut, more around it.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "The haircut shaped to your style and head, a straight razor along the neck and a finished style. Nearly all of the time goes into the cut and getting the blend clean.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "The same cut plus a beard trim or line-up, a hot towel finish and straight razor detailing. The extra minutes belong to the beard and the towel.",
+          "book": true
+        },
+        {
+          "title": "Luxury Grooming Experience",
+          "meta": "{{price:luxury-grooming}} · {{minutes:luxury-grooming}}",
+          "body": "A consultation first, then the cut, beard sculpt, wash and scalp massage, facial steam, dual hot towels, razor detailing, a basic design, ear and nose waxing, styling and fragrance. A lot fits in, so book it when you aren't in a hurry.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "02 / SHAVES AND FACIALS",
+      "heading": "Shaves and facials.",
+      "lead": "Hot towels set the pace.",
+      "items": [
+        {
+          "title": "Straight Razor Beard Shave",
+          "meta": "{{price:straight-razor-beard-shave}} · {{minutes:straight-razor-beard-shave}}",
+          "body": "A traditional wet shave: hot towels to soften the beard, shaving cream, the straight razor and an aftershave. The towels are part of the time, not a wait before it.",
+          "book": true
+        },
+        {
+          "title": "Head & Beard Shave",
+          "meta": "{{price:head-beard-shave}} · {{minutes:head-beard-shave}}",
+          "body": "Head and beard both shaved smooth, with hot towels and an aftershave balm. Two full shaves in one sitting, which makes it the longest shave on the menu.",
+          "book": true
+        },
+        {
+          "title": "Express Facial",
+          "meta": "{{price:express-facial}} · {{minutes:express-facial}}",
+          "body": "Facial massage, warm steam, a deep cleanse, gentle exfoliation and a hydrating moisturizer. The shortest appointment I have.",
+          "book": true
+        },
+        {
+          "title": "Deluxe Facial",
+          "meta": "{{price:deluxe-facial}} · {{minutes:deluxe-facial}}",
+          "body": "Massage, steam, exfoliation and moisturizer, plus advanced skin treatments and an anti-aging serum.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "03 / THE LONG ONES",
+      "heading": "Braids, perm and color.",
+      "lead": "Clear a morning or an afternoon.",
+      "items": [
+        {
+          "title": "Braids",
+          "meta": "{{price:braids}} · {{minutes:braids}}",
+          "body": "Every set is personalized and the price varies with the style. Each row is parted and braided by hand, so the clock follows the number and size of the rows.",
+          "book": true
+        },
+        {
+          "title": "Perm",
+          "meta": "{{price:perm}} · {{minutes:perm}}",
+          "body": "Rods, waving solution, neutralizer and a rinse, in that order. A perm can't stop halfway, so the whole block needs to be free.",
+          "book": true
+        },
+        {
+          "title": "Color Transformation",
+          "meta": "{{price:color-transformation}} · {{minutes:color-transformation}}",
+          "body": "Bleaching and toning to reach the shade you want. It's the longest appointment on my menu, so plan the rest of the day around it.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / WHY IT'S FIXED",
+      "heading": "The slot is yours.",
+      "lead": "Booksy holds the full time.",
+      "paragraphs": [
+        "The times above are what Booksy reserves, so the slot is yours from start to finish. Thick hair, a big change in length or a detailed fade can use more of it; a cleanup of a cut you already wear uses less.",
+        "Add-ons ride along with the booking: a hair design, a wash and scalp massage, eyebrows, nose and ear waxing or a fragrance finish. If you plan to add several, text me so we aren't rushing the end."
+      ],
+      "link": {
+        "label": "SEE ALL SERVICES",
+        "href": "page:services"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "05 / PLAN AROUND IT",
+      "heading": "Fit it into your day.",
+      "lead": "A few practical notes.",
+      "paragraphs": [
+        "On a lunch break, the Essential or the Signature is the easier fit. Open times show on Booksy, so pick one that leaves room to get back.",
+        "Saturday runs 8:00 AM to 2:00 PM. For one of the long services on a Saturday, an early start gets you out with the afternoon still yours.",
+        "For braids, a perm or a color, eat beforehand and charge your phone. You'll be in the chair a while, and it goes easier when you aren't hungry.",
+        "Running late eats into your own slot, because the next appointment starts when it starts. Text me at {{phone}} if you're held up.",
+        "Paying takes a minute at the end: cash, card, Zelle or Cash App, after the service."
+      ],
+      "link": {
+        "label": "READ THE FAQ",
+        "href": "page:faq"
+      }
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / QUESTIONS",
+      "heading": "Timing questions.",
+      "items": [
+        {
+          "q": "How long does a men's haircut take?",
+          "a": "At Divinely Faded, {{minutes:essential-haircut}} for the Essential Haircut, {{minutes:signature-cut}} for the Signature Cut and {{minutes:luxury-grooming}} for the Luxury Grooming Experience."
+        },
+        {
+          "q": "What's the quickest service?",
+          "a": "The Express Facial, at {{minutes:express-facial}}. The quickest haircut is the Essential, at {{minutes:essential-haircut}}."
+        },
+        {
+          "q": "What's the longest appointment?",
+          "a": "The Color Transformation, at {{minutes:color-transformation}}."
+        },
+        {
+          "q": "How long does a beard shave take?",
+          "a": "The Straight Razor Beard Shave takes {{minutes:straight-razor-beard-shave}}. The Head & Beard Shave, which does both the head and the beard, takes {{minutes:head-beard-shave}}."
+        },
+        {
+          "q": "Does a beard trim add time?",
+          "a": "Yes. The Signature Cut, with its beard trim or line-up and hot towel, runs {{minutes:signature-cut}}, against {{minutes:essential-haircut}} for the Essential."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "ON THE CLOCK",
+      "heading": "Know the time.<br>Book the slot.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "services",
+    "services-haircuts",
+    "faq"
+  ],
+  "tim_questions": [
+    "Do add-ons (design, wash, eyebrows, wax, fragrance) add time to the Booksy slot? The post says to text if adding several.",
+    "OK to say a cleanup of a cut someone already wears uses less of the slot, and that a late arrival eats into their own time?"
+  ]
+}

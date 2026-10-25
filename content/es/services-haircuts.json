@@ -1,0 +1,150 @@
+{
+  "id": "services-haircuts",
+  "locale": "es",
+  "slug": "/es/servicios/cortes-de-cabello/",
+  "alt": "/services/haircuts/",
+  "nav_label": "Cortes",
+  "card_text": "Essential, Signature o Luxury: tres formas de agendar un corte.",
+  "breadcrumb": [
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Servicios",
+      "/es/servicios/"
+    ],
+    [
+      "Cortes",
+      "/es/servicios/cortes-de-cabello/"
+    ]
+  ],
+  "seo": {
+    "title": "Cortes de pelo para hombres en Carlsbad, NM | Divinely Faded",
+    "description": "Cortes de pelo para hombres en Carlsbad, NM con Tim en Divinely Faded: Essential Haircut, Signature Cut y Luxury Grooming Experience. Agenda en Booksy.",
+    "primary": "cortes de pelo para hombres",
+    "secondary": [
+      "cortes de cabello para hombre",
+      "corte de pelo hombre",
+      "corte de cabello hombre"
+    ],
+    "og_photo": "cut-low-fade-line-up"
+  },
+  "schema": {
+    "type": "Service",
+    "service_ids": [
+      "essential-haircut",
+      "signature-cut",
+      "luxury-grooming"
+    ]
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "SERVICIOS / CORTES",
+      "h1": "Cortes.",
+      "paragraphs": [
+        "Cortes de pelo para hombres: tres formas de agendar conmigo, desde un corte limpio hasta el arreglo completo. Los precios empiezan en {{price:essential-haircut}} con el Essential Haircut (corte esencial).",
+        "Cada uno se adapta a tu estilo y a la forma de tu cabeza, y cada uno termina con trabajo de navaja de barbero. Lo que cambia es cuánto pasa alrededor del corte: la barba, las toallas calientes, el lavado, el vapor."
+      ],
+      "link": {
+        "label": "AGENDA UN CORTE",
+        "href": "booksy"
+      },
+      "photos": [
+        "cut-low-fade-line-up",
+        "hero-tim-at-work"
+      ],
+      "alt": {
+        "cut-low-fade-line-up": "Desvanecido bajo con delineado bien marcado en la sien y bigote recortado",
+        "hero-tim-at-work": "Tim trabajando en el corte de un cliente en la silla"
+      }
+    },
+    {
+      "type": "list",
+      "eyebrow": "02 / EL MENÚ",
+      "heading": "Elige tu corte.",
+      "lead": "La misma precisión, más detalle en cada nivel.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "Un corte de precisión hecho a la medida de tu estilo y de la forma de tu cabeza. Limpio la nuca con navaja y lo peino antes de que te levantes. Agenda este cuando quieras el corte y nada más.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "Un corte de precisión con corte de barba o delineado (line-up), toque final con toalla caliente y detalles con navaja. Es mi servicio más popular, y la opción indicada cuando tu barba o tus bordes tienen que ir con el desvanecido (fade).",
+          "book": true
+        },
+        {
+          "title": "Luxury Grooming Experience",
+          "meta": "{{price:luxury-grooming}} · {{minutes:luxury-grooming}}",
+          "body": "Primero, una consulta. Luego el corte, modelado de barba, lavado y masaje en el cuero cabelludo, vapor facial, dos toallas calientes, detalles con navaja, un diseño en el pelo básico, depilación con cera de nariz y orejas, peinado y un toque final de fragancia de lujo.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / CÓMO ELEGIR",
+      "heading": "Cuál es el tuyo.",
+      "lead": "Empieza por la barba.",
+      "paragraphs": [
+        "Sin barba, o si tú mismo la mantienes: el Essential Haircut (corte esencial). Si quieres la barba o el delineado bien marcados: el Signature Cut (corte distintivo). Si quieres que todo quede resuelto en una sola cita: la Luxury Grooming Experience (experiencia de arreglo de lujo).",
+        "Planea tu tiempo según lo que aparta Booksy: {{minutes:essential-haircut}} para el Essential, {{minutes:signature-cut}} para el Signature y {{minutes:luxury-grooming}} para la Luxury."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / TRAE UNA FOTO",
+      "heading": "¿Ya sabes el estilo?",
+      "lead": "Una captura de pantalla vale más que una descripción.",
+      "paragraphs": [
+        "Low taper, burst fade, skin fade, crop texturizado, peinado hacia atrás. Si sabes el nombre, las páginas de estilos muestran cómo se ve cada uno. Si no, trae una foto y juntos definimos el largo antes de sacar la máquina.",
+        "¿Quieres líneas? La página de diseños en el pelo muestra ese trabajo, que en mi menú aparece como un extra de {{addon:hair-design}}."
+      ],
+      "link": {
+        "label": "VER LOS ESTILOS",
+        "href": "page:styles"
+      },
+      "photos": []
+    },
+    {
+      "type": "faq",
+      "eyebrow": "05 / PREGUNTAS",
+      "heading": "Lo que debes saber.",
+      "items": [
+        {
+          "q": "¿Puedo llegar nada más a cortarme el pelo?",
+          "a": "Atiendo solo con cita, así que primero agenda un horario en Booksy. Si no encuentras uno que te funcione, mándame un mensaje."
+        },
+        {
+          "q": "¿El Signature Cut incluye la barba?",
+          "a": "Sí. Incluye corte de barba o delineado, además del toque final con toalla caliente y los detalles con navaja."
+        },
+        {
+          "q": "¿El lavado es parte del corte?",
+          "a": "El lavado y masaje en el cuero cabelludo vienen con la Luxury Grooming Experience. Con el Essential o el Signature, agrégalo por {{addon:wash-scalp-massage}}."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "EN LA SILLA",
+      "heading": "Corte nítido.<br>Acabado limpio.",
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "services-beard-shaves",
+    "services-designs",
+    "faq"
+  ],
+  "tim_questions": []
+}

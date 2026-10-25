@@ -1,0 +1,183 @@
+{
+  "id": "post-prom-haircuts",
+  "locale": "en",
+  "slug": "/blog/prom-haircuts/",
+  "date": "2026-11-02",
+  "plan_rank": 28,
+  "title": "Prom Haircuts for Guys: When to Book and What to Ask For",
+  "eyebrow": "SEASONAL",
+  "hero": "cut-taper-textured-top",
+  "hero_alt": "Textured crop pushed forward, with a crisp line-up and a taper down to skin at the ear",
+  "image_plan": null,
+  "card_text": "Book two to four days out, bring a photo, decide on the beard. A plan for a prom cut that looks right in every picture.",
+  "lede": [
+    "Book your prom haircut for two to four days before the dance. That's close enough to look fresh in every photo, with a day or two for a razor-sharp fade and line-up to soften so they look natural instead of just-cut. Grab the slot as soon as you know the date, because I work solo and a week only has so many openings.",
+    "Here's how to time it, which cuts hold up in pictures, and what to tell me when you sit down."
+  ],
+  "seo": {
+    "title": "Prom Haircuts for Guys | Carlsbad, NM",
+    "description": "Prom haircuts for guys in Carlsbad, NM: book two to four days before prom, choose a cut that photographs clean, and sort the beard. Divinely Faded.",
+    "primary": "prom haircuts",
+    "secondary": [
+      "prom haircuts for guys"
+    ]
+  },
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Blog",
+      "/blog/"
+    ],
+    [
+      "Prom Haircuts",
+      "/blog/prom-haircuts/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / TIMING",
+      "heading": "Two to four days out.",
+      "lead": "Fresh, not raw.",
+      "paragraphs": [
+        "A cut done the morning of prom can look a little too sharp: the line-up is brand new, the skin at the fade is pale and bare, and the whole thing reads freshly cut. Give it a day or two and it settles into looking like your hair.",
+        "Wait too long the other way and the crisp edges are gone, especially on a skin fade, where the shortest section shows growth first.",
+        "If prom lands on a Saturday, remember the shop is closed on Wednesday. Tuesday or Thursday of that week puts you in the window."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / STYLES",
+      "heading": "Cuts that photograph well.",
+      "lead": "Clean outlines read on camera.",
+      "subsections": [
+        {
+          "heading": "Low taper",
+          "paragraphs": [
+            "Neat edges, with length kept on the sides. It looks good from every angle, including the side shots you don't get to choose."
+          ]
+        },
+        {
+          "heading": "Skin fade with a line-up",
+          "paragraphs": [
+            "The high-contrast option. A sharp hairline frames the face in close-ups, and bare sides look clean above a collar and tie."
+          ]
+        },
+        {
+          "heading": "Textured crop",
+          "paragraphs": [
+            "A forward fringe with texture, like the cut in the photo above. Little to do on the day, which helps when you're also sorting out the suit and the flowers."
+          ]
+        },
+        {
+          "heading": "Slick back",
+          "paragraphs": [
+            "Swept back over a low taper. Classic with a tux, but it has to hold all night, so practice styling it at home before the day."
+          ]
+        }
+      ],
+      "link": {
+        "label": "SEE EVERY STYLE",
+        "href": "page:styles"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / WHAT TO ASK FOR",
+      "heading": "Say it clearly.",
+      "lead": "A photo does most of the work.",
+      "paragraphs": [
+        "Bring a picture of the cut you want, ideally from more than one angle. Then tell me three things: how short the sides go, how much stays on top, and whether the beard is staying, getting lined up or coming off.",
+        "Prom isn't the day to try something drastic for the first time. If you want a big change, get it done a few weeks earlier, live in it, and come back before the dance to sharpen it up.",
+        "Want lines cut in? A hair design is a {{addon:hair-design}} add-on to the cut.",
+        "Wearing a tux or a suit? The collar meets the cut at the back of the neck. Every haircut I book finishes with straight razor work at the neckline, so that line is handled."
+      ],
+      "link": {
+        "label": "SEE THE HAIRCUTS",
+        "href": "page:services-haircuts"
+      }
+    },
+    {
+      "type": "list",
+      "eyebrow": "04 / BOOK IT AS",
+      "heading": "Pick the service.",
+      "lead": "Start with the beard.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "The cut, a straight razor cleanup at the neck and a finished style. Right for a clean-shaven face or no beard yet.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "The cut plus a beard trim or line-up, a hot towel and razor detailing. The one to book when facial hair is part of the look.",
+          "book": true
+        },
+        {
+          "title": "Straight Razor Beard Shave",
+          "meta": "{{price:straight-razor-beard-shave}} · {{minutes:straight-razor-beard-shave}}",
+          "body": "Want a completely smooth face for photos? A traditional wet shave with hot towels, shaving cream and aftershave, booked as its own appointment.",
+          "href": "page:services-beard-shaves",
+          "book": true
+        },
+        {
+          "title": "Luxury Grooming Experience",
+          "meta": "{{price:luxury-grooming}} · {{minutes:luxury-grooming}}",
+          "body": "The whole treatment: consultation, cut, beard sculpt, wash, steam, hot towels, waxing, a basic design, styling and fragrance. Built for a night with this many cameras.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "05 / QUESTIONS",
+      "heading": "Prom-cut questions.",
+      "items": [
+        {
+          "q": "When should I get my haircut before prom?",
+          "a": "Two to four days before. It looks fresh for photos and has a day or two to settle."
+        },
+        {
+          "q": "What's a good prom haircut for guys?",
+          "a": "Something with a clean outline: a low taper, a skin fade with a line-up, a textured crop or a slick back. Bring a photo of the one you like."
+        },
+        {
+          "q": "Can I bring a photo I found online?",
+          "a": "Please do. Any clear photo of the cut works, and a front view with a side view is even more useful."
+        },
+        {
+          "q": "Should I shave for prom?",
+          "a": "That's up to you. For a smooth face, book the Straight Razor Beard Shave. To keep the beard, the Signature Cut trims or lines it up with the cut."
+        },
+        {
+          "q": "How much is a prom haircut?",
+          "a": "The same as any other cut: {{price:essential-haircut}} for the Essential, {{price:signature-cut}} for the Signature, {{price:luxury-grooming}} for the Luxury. You pay after the service."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "PROM NIGHT",
+      "heading": "Sharp in<br>every photo.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "styles",
+    "services-haircuts",
+    "services-beard-shaves"
+  ],
+  "tim_questions": [
+    "Confirm the two-to-four-days-before advice and the reasoning that a fresh fade and line-up need a day or two to settle.",
+    "Does prom season get busy enough to tell people to book early? The post only says you work solo.",
+    "Can the Straight Razor Beard Shave be booked back to back with a haircut? The post calls it its own appointment."
+  ]
+}

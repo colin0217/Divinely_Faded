@@ -1,0 +1,2726 @@
+{
+ "generated": "2026-10-24",
+ "rules": {
+  "one_owner": "Every keyword (EN and ES, compared exactly and after dropping stopwords, folding plurals and sorting words) belongs to exactly one page or post.",
+  "es_primary": "Eddy County Spanish planner term for the page's intent; if Eddy shows only a 10/mo floor long-tail variant and a head phrase has >=10x its US-es volume, the head phrase is primary and the Eddy variant a secondary; no evidence = natural phrase, low/no data."
+ },
+ "sources": {
+  "eddy": "Google Ads Keyword Planner ideas, Eddy County NM, English; 12-month average (pulled 2026-10-24). 10/mo is the planner's floor bucket.",
+  "eddy_es": "Google Ads Keyword Planner ideas, Eddy County NM, Spanish language setting; 12-month average. 10/mo is the floor bucket.",
+  "carlsbad": "Google Ads Keyword Planner ideas, Carlsbad NM (city).",
+  "us": "Google Ads Keyword Planner, United States, English, 12-month average (pulled 2026-10-24).",
+  "us_es": "Google Ads Keyword Planner, United States, Spanish language setting (pulled 2026-10-24). The planner does not split volume by language: an English string returns the same number under es (e.g. 'taper fade' 246,000 in both), so only Spanish phrases measure Spanish demand.",
+  "gbp": "Divinely Faded Google Business Profile search terms, Oct 2025 to Sep 2026 (12-month totals; '<15' = Google's privacy threshold).",
+  "kd": "Keyword difficulty 0-100 (clickstream-modelled, US English), pulled 2026-10-24.",
+  "autocomplete": "Google autocomplete suggestions for Carlsbad barber seeds (EN + ES).",
+  "masked": "Google withholds volume for many children/youth terms (planner and clickstream both return nothing). Proxy: 'corte de pelo para niños' 2,400/mo US-es and autocomplete."
+ },
+ "pages": [
+  {
+   "id": "home",
+   "en_url": "/",
+   "es_url_draft": "/es/",
+   "es_url_recommended": "/es/",
+   "en": {
+    "primary": {
+     "kw": "barber shop carlsbad nm",
+     "evidence": "US 480/mo · GBP 99/12 mo · autocomplete",
+     "us": 480,
+     "gbp_12mo": 99,
+     "autocomplete": true
+    },
+    "head_term": {
+     "kw": "barber shop",
+     "evidence": "Eddy Co. 260/mo · Carlsbad 210/mo · US 673,000/mo · GBP 40/12 mo",
+     "us": 673000,
+     "eddy": 260,
+     "carlsbad": 210,
+     "gbp_12mo": 40
+    },
+    "secondary": [
+     {
+      "kw": "barbershop near me",
+      "evidence": "Eddy Co. 720/mo · Carlsbad 390/mo · US 2,740,000/mo · GBP 218/12 mo",
+      "us": 2740000,
+      "eddy": 720,
+      "carlsbad": 390,
+      "gbp_12mo": 218
+     },
+     {
+      "kw": "barber near me",
+      "evidence": "Eddy Co. 140/mo · Carlsbad 90/mo · US 1,000,000/mo · GBP <15/12 mo · autocomplete",
+      "us": 1000000,
+      "eddy": 140,
+      "carlsbad": 90,
+      "gbp_12mo": "<15",
+      "autocomplete": true
+     },
+     {
+      "kw": "barber carlsbad nm",
+      "evidence": "US 480/mo · GBP 16/12 mo · autocomplete",
+      "us": 480,
+      "gbp_12mo": 16,
+      "autocomplete": true
+     },
+     {
+      "kw": "barbershop carlsbad nm",
+      "evidence": "GBP 39/12 mo · autocomplete",
+      "gbp_12mo": 39,
+      "autocomplete": true
+     }
+    ]
+   },
+   "es": {
+    "primary": {
+     "kw": "barbería cerca de mí",
+     "evidence": "Eddy Co. (es) 70/mo · US-es 165,000/mo · GBP <15/12 mo",
+     "us_es": 165000,
+     "eddy_es": 70,
+     "gbp_12mo": "<15"
+    },
+    "secondary": [
+     {
+      "kw": "barbería",
+      "evidence": "Eddy Co. (es) 30/mo · US-es 40,500/mo · GBP <15/12 mo",
+      "us_es": 40500,
+      "eddy_es": 30,
+      "gbp_12mo": "<15"
+     },
+     {
+      "kw": "barberos cerca de mi",
+      "evidence": "Eddy Co. (es) 10/mo · US-es 880/mo",
+      "us_es": 880,
+      "eddy_es": 10
+     },
+     {
+      "kw": "barbería en carlsbad nm",
+      "evidence": "low/no data",
+      "us_es": null
+     }
+    ]
+   },
+   "es_slug": null
+  },
+  {
+   "id": "services",
+   "en_url": "/services/",
+   "es_url_draft": "/es/servicios/",
+   "es_url_recommended": "/es/servicios/",
+   "en": {
+    "primary": {
+     "kw": "barber services carlsbad nm",
+     "evidence": "low/no data"
+    },
+    "head_term": {
+     "kw": "barber services",
+     "evidence": "Eddy Co. 10/mo · Carlsbad 10/mo · US 880/mo",
+     "us": 880,
+     "eddy": 10,
+     "carlsbad": 10
+    },
+    "secondary": [
+     {
+      "kw": "barber services",
+      "evidence": "Eddy Co. 10/mo · Carlsbad 10/mo · US 880/mo",
+      "us": 880,
+      "eddy": 10,
+      "carlsbad": 10
+     },
+     {
+      "kw": "barber price list",
+      "evidence": "Eddy Co. 10/mo · Carlsbad 10/mo · US 320/mo",
+      "us": 320,
+      "eddy": 10,
+      "carlsbad": 10
+     },
+     {
+      "kw": "haircut prices near me",
+      "evidence": "Eddy Co. 10/mo · Carlsbad 10/mo · US 1,300/mo",
+      "us": 1300,
+      "eddy": 10,
+      "carlsbad": 10
+     },
+     {
+      "kw": "men's haircut prices near me",
+      "evidence": "Eddy Co. 10/mo · Carlsbad 10/mo",
+      "eddy": 10,
+      "carlsbad": 10
+     }
+    ]
+   },
+   "es": {
+    "primary": {
+     "kw": "servicios de barbería",
+     "evidence": "US-es 20/mo",
+     "us_es": 20
+    },
+    "secondary": [
+     {
+      "kw": "precios de barbería",
+      "evidence": "US-es 10/mo",
+      "us_es": 10
+     },
+     {
+      "kw": "precio corte de pelo",
+      "evidence": "US-es 20/mo",
+      "us_es": 20
+     }
+    ]
+   },
+   "es_slug": null
+  },
+  {
+   "id": "services-haircuts",
+   "en_url": "/services/haircuts/",
+   "es_url_draft": "/es/servicios/cortes-de-cabello/",
+   "es_url_recommended": "/es/servicios/cortes-de-cabello/",
+   "en": {
+    "primary": {
+     "kw": "mens haircut carlsbad nm",
+     "evidence": "low/no data"
+    },
+    "head_term": {
+     "kw": "mens haircut",
+     "evidence": "Eddy Co. 110/mo · Carlsbad 70/mo · US 450,000/mo",
+     "us": 450000,
+     "eddy": 110,
+     "carlsbad": 70
+    },
+    "secondary": [
+     {
+      "kw": "haircut near me",
+      "evidence": "Eddy Co. 390/mo · Carlsbad 260/mo · US 1,220,000/mo · autocomplete",
+      "us": 1220000,
+      "eddy": 390,
+      "carlsbad": 260,
+      "autocomplete": true
+     },
+     {
+      "kw": "mens haircut",
+      "evidence": "Eddy Co. 110/mo · Carlsbad 70/mo · US 450,000/mo",
+      "us": 450000,
+      "eddy": 110,
+      "carlsbad": 70
+     },
+     {
+      "kw": "mens haircuts near me",
+      "evidence": "Eddy Co. 20/mo · Carlsbad 10/mo",
+      "eddy": 20,
+      "carlsbad": 10
+     },
+     {
+      "kw": "haircut carlsbad nm",
+      "evidence": "US 210/mo · GBP <15/12 mo · autocomplete",
+      "us": 210,
+      "gbp_12mo": "<15",
+      "autocomplete": true
+     }
+    ]
+   },
+   "es": {
+    "primary": {
+     "kw": "cortes de pelo para hombres",
+     "evidence": "Eddy Co. (es) 70/mo · US-es 90,500/mo",
+     "us_es": 90500,
+     "eddy_es": 70
+    },
+    "secondary": [
+     {
+      "kw": "cortes de cabello para hombre",
+      "evidence": "Eddy Co. (es) 30/mo · US-es 74,000/mo",
+      "us_es": 74000,
+      "eddy_es": 30
+     },
+     {
+      "kw": "corte de pelo hombre",
+      "evidence": "Eddy Co. (es) 10/mo · US-es 74,000/mo",
+      "us_es": 74000,
+      "eddy_es": 10
+     },
+     {
+      "kw": "corte de cabello hombre",
+      "evidence": "Eddy Co. (es) 10/mo · US-es 8,100/mo",
+      "us_es": 8100,
+      "eddy_es": 10
+     }
+    ]
+   },
+   "es_slug": null
+  },
+  {
+   "id": "services-kids",
+   "en_url": "/services/kids-haircuts/",
+   "es_url_draft": "/es/servicios/cortes-para-ninos/",
+   "es_url_recommended": "/es/servicios/cortes-para-ninos/",
+   "en": {
+    "primary": {
+     "kw": "kids haircut carlsbad nm",
+     "evidence": "low/no data"
+    },
+    "head_term": {
+     "kw": "kids haircut",
+     "evidence": "KD 40 · volume withheld by Google (youth term)",
+     "kd": 40,
+     "masked": true
+    },
+    "secondary": [
+     {
+      "kw": "kids haircuts",
+      "evidence": "volume withheld by Google (youth term)",
+      "us": null,
+      "masked": true
+     },
+     {
+      "kw": "boys haircuts",
+      "evidence": "KD 22 · volume withheld by Google (youth term)",
+      "us": null,
+      "kd": 22,
+      "masked": true
+     },
+     {
+      "kw": "childrens hair cut near me",
+      "evidence": "Eddy Co. 10/mo · Carlsbad 10/mo",
+      "eddy": 10,
+      "carlsbad": 10
+     },
+     {
+      "kw": "barber shop family",
+      "evidence": "GBP <15/12 mo",
+      "gbp_12mo": "<15"
+     }
+    ]
+   },
+   "es": {
+    "primary": {
+     "kw": "corte de pelo para niños",
+     "evidence": "Eddy Co. (es) 10/mo · US-es 2,400/mo",
+     "us_es": 2400,
+     "eddy_es": 10
+    },
+    "secondary": [
+     {
+      "kw": "cortes para niños",
+      "evidence": "US-es 1,000/mo",
+      "us_es": 1000
+     },
+     {
+      "kw": "corte de cabello para niños",
+      "evidence": "US-es 720/mo",
+      "us_es": 720
+     }
+    ]
+   },
+   "es_slug": null
+  },
+  {
+   "id": "services-beard-shaves",
+   "en_url": "/services/beard-and-shaves/",
+   "es_url_draft": "/es/servicios/barba-y-afeitado/",
+   "es_url_recommended": "/es/servicios/barba-y-afeitado/",
+   "en": {
+    "primary": {
+     "kw": "beard trim carlsbad nm",
+     "evidence": "low/no data"
+    },
+    "head_term": {
+     "kw": "beard trim",
+     "evidence": "Eddy Co. 10/mo · Carlsbad 10/mo · US 18,100/mo",
+     "us": 18100,
+     "eddy": 10,
+     "carlsbad": 10
+    },
+    "secondary": [
+     {
+      "kw": "beard trim near me",
+      "evidence": "Eddy Co. 10/mo · Carlsbad 10/mo · US 22,200/mo",
+      "us": 22200,
+      "eddy": 10,
+      "carlsbad": 10
+     },
+     {
+      "kw": "straight razor shave",
+      "evidence": "Eddy Co. 10/mo · Carlsbad 10/mo · US 4,400/mo",
+      "us": 4400,
+      "eddy": 10,
+      "carlsbad": 10
+     },
+     {
+      "kw": "hot towel shave",
+      "evidence": "Eddy Co. 10/mo · US 1,900/mo",
+      "us": 1900,
+      "eddy": 10
+     },
+     {
+      "kw": "haircut and beard trim near me",
+      "evidence": "Eddy Co. 10/mo · Carlsbad 10/mo",
+      "eddy": 10,
+      "carlsbad": 10
+     }
+    ]
+   },
+   "es": {
+    "primary": {
+     "kw": "corte de barba",
+     "evidence": "US-es 3,600/mo",
+     "us_es": 3600
+    },
+    "secondary": [
+     {
+      "kw": "corte de barba para hombre",
+      "evidence": "Eddy Co. (es) 10/mo",
+      "eddy_es": 10
+     },
+     {
+      "kw": "arreglo de barba",
+      "evidence": "US-es 70/mo",
+      "us_es": 70
+     },
+     {
+      "kw": "afeitado con navaja",
+      "evidence": "US-es 10/mo",
+      "us_es": 10
+     }
+    ]
+   },
+   "es_slug": null
+  },
+  {
+   "id": "services-facials",
+   "en_url": "/services/mens-facials/",
+   "es_url_draft": "/es/servicios/faciales-para-hombres/",
+   "es_url_recommended": "/es/servicios/faciales-para-hombres/",
+   "en": {
+    "primary": {
+     "kw": "mens facial carlsbad nm",
+     "evidence": "low/no data"
+    },
+    "head_term": {
+     "kw": "mens facial",
+     "evidence": "Eddy Co. 10/mo · Carlsbad 10/mo · US 3,600/mo",
+     "us": 3600,
+     "eddy": 10,
+     "carlsbad": 10
+    },
+    "secondary": [
+     {
+      "kw": "mens facial",
+      "evidence": "Eddy Co. 10/mo · Carlsbad 10/mo · US 3,600/mo",
+      "us": 3600,
+      "eddy": 10,
+      "carlsbad": 10
+     },
+     {
+      "kw": "facial for men",
+      "evidence": "Eddy Co. 10/mo · Carlsbad 10/mo · US 2,400/mo",
+      "us": 2400,
+      "eddy": 10,
+      "carlsbad": 10
+     },
+     {
+      "kw": "men's facial near me",
+      "evidence": "Eddy Co. 10/mo · Carlsbad 10/mo · US 8,100/mo",
+      "us": 8100,
+      "eddy": 10,
+      "carlsbad": 10
+     }
+    ]
+   },
+   "es": {
+    "primary": {
+     "kw": "facial para hombres",
+     "evidence": "US-es 170/mo",
+     "us_es": 170
+    },
+    "secondary": [
+     {
+      "kw": "faciales para hombres",
+      "evidence": "US-es 170/mo",
+      "us_es": 170
+     },
+     {
+      "kw": "limpieza facial para hombres",
+      "evidence": "US-es 140/mo",
+      "us_es": 140
+     }
+    ]
+   },
+   "es_slug": null
+  },
+  {
+   "id": "services-braids",
+   "en_url": "/services/braids/",
+   "es_url_draft": "/es/servicios/trenzas/",
+   "es_url_recommended": "/es/servicios/trenzas/",
+   "en": {
+    "primary": {
+     "kw": "braids for men carlsbad nm",
+     "evidence": "low/no data"
+    },
+    "head_term": {
+     "kw": "braids for men",
+     "evidence": "Eddy Co. 10/mo · Carlsbad 10/mo · US 40,500/mo",
+     "us": 40500,
+     "eddy": 10,
+     "carlsbad": 10
+    },
+    "secondary": [
+     {
+      "kw": "braids for men",
+      "evidence": "Eddy Co. 10/mo · Carlsbad 10/mo · US 40,500/mo",
+      "us": 40500,
+      "eddy": 10,
+      "carlsbad": 10
+     },
+     {
+      "kw": "cornrows for men",
+      "evidence": "US 40,500/mo",
+      "us": 40500
+     },
+     {
+      "kw": "box braids men",
+      "evidence": "US 33,100/mo",
+      "us": 33100
+     },
+     {
+      "kw": "men's braids",
+      "evidence": "US 40,500/mo",
+      "us": 40500
+     }
+    ]
+   },
+   "es": {
+    "primary": {
+     "kw": "trenzas para hombre",
+     "evidence": "US-es 14,800/mo",
+     "us_es": 14800
+    },
+    "secondary": [
+     {
+      "kw": "trenzas pegadas hombre",
+      "evidence": "US-es 260/mo",
+      "us_es": 260
+     },
+     {
+      "kw": "cortes con trenzas para hombres",
+      "evidence": "Eddy Co. (es) 10/mo",
+      "eddy_es": 10
+     }
+    ]
+   },
+   "es_slug": null
+  },
+  {
+   "id": "services-designs",
+   "en_url": "/services/hair-designs/",
+   "es_url_draft": "/es/servicios/disenos-de-cabello/",
+   "es_url_recommended": "/es/servicios/disenos-de-cabello/",
+   "en": {
+    "primary": {
+     "kw": "hair designs for men carlsbad nm",
+     "evidence": "low/no data"
+    },
+    "head_term": {
+     "kw": "hair designs for men",
+     "evidence": "US 6,600/mo",
+     "us": 6600
+    },
+    "secondary": [
+     {
+      "kw": "hair designs for men",
+      "evidence": "US 6,600/mo",
+      "us": 6600
+     },
+     {
+      "kw": "fade with design",
+      "evidence": "US 2,900/mo",
+      "us": 2900
+     },
+     {
+      "kw": "hair design",
+      "evidence": "Eddy Co. 10/mo · Carlsbad 10/mo · US 18,100/mo",
+      "us": 18100,
+      "eddy": 10,
+      "carlsbad": 10
+     },
+     {
+      "kw": "haircut design",
+      "evidence": "Eddy Co. 10/mo · Carlsbad 10/mo",
+      "eddy": 10,
+      "carlsbad": 10
+     }
+    ]
+   },
+   "es": {
+    "primary": {
+     "kw": "corte de pelo con diseño",
+     "evidence": "US-es 2,900/mo",
+     "us_es": 2900
+    },
+    "secondary": [
+     {
+      "kw": "diseños de corte de pelo",
+      "evidence": "US-es 2,900/mo",
+      "us_es": 2900
+     },
+     {
+      "kw": "diseño de pelo hombre",
+      "evidence": "Eddy Co. (es) 10/mo · US-es 140/mo",
+      "us_es": 140,
+      "eddy_es": 10
+     },
+     {
+      "kw": "corte con diseño",
+      "evidence": "US-es 480/mo",
+      "us_es": 480
+     }
+    ]
+   },
+   "es_slug": null
+  },
+  {
+   "id": "services-color",
+   "en_url": "/services/color-and-perm/",
+   "es_url_draft": "/es/servicios/color-y-permanente/",
+   "es_url_recommended": "/es/servicios/color-y-permanente/",
+   "en": {
+    "primary": {
+     "kw": "mens hair color carlsbad nm",
+     "evidence": "low/no data"
+    },
+    "head_term": {
+     "kw": "mens hair color",
+     "evidence": "Eddy Co. 10/mo · Carlsbad 10/mo · US 9,900/mo",
+     "us": 9900,
+     "eddy": 10,
+     "carlsbad": 10
+    },
+    "secondary": [
+     {
+      "kw": "mens hair color",
+      "evidence": "Eddy Co. 10/mo · Carlsbad 10/mo · US 9,900/mo",
+      "us": 9900,
+      "eddy": 10,
+      "carlsbad": 10
+     },
+     {
+      "kw": "mens perm",
+      "evidence": "US 33,100/mo",
+      "us": 33100
+     },
+     {
+      "kw": "platinum blonde men",
+      "evidence": "US 2,900/mo",
+      "us": 2900
+     },
+     {
+      "kw": "bleached hair men",
+      "evidence": "US 5,400/mo",
+      "us": 5400
+     }
+    ]
+   },
+   "es": {
+    "primary": {
+     "kw": "tinte de pelo para hombre",
+     "evidence": "US-es 320/mo",
+     "us_es": 320
+    },
+    "secondary": [
+     {
+      "kw": "permanente para hombre",
+      "evidence": "US-es 320/mo",
+      "us_es": 320
+     },
+     {
+      "kw": "pelo platinado hombre",
+      "evidence": "US-es 140/mo",
+      "us_es": 140
+     },
+     {
+      "kw": "tinte para hombre",
+      "evidence": "US-es 260/mo",
+      "us_es": 260
+     }
+    ]
+   },
+   "es_slug": null
+  },
+  {
+   "id": "styles",
+   "en_url": "/styles/",
+   "es_url_draft": "/es/estilos/",
+   "es_url_recommended": "/es/estilos/",
+   "en": {
+    "primary": {
+     "kw": "haircut styles carlsbad nm",
+     "evidence": "low/no data"
+    },
+    "head_term": {
+     "kw": "haircut styles",
+     "evidence": "low/no data"
+    },
+    "secondary": [
+     {
+      "kw": "fade haircut carlsbad nm",
+      "evidence": "low/no data"
+     },
+     {
+      "kw": "haircut styles for men",
+      "evidence": "US 450,000/mo",
+      "us": 450000
+     },
+     {
+      "kw": "mens haircut names",
+      "evidence": "US 6,600/mo",
+      "us": 6600
+     }
+    ]
+   },
+   "es": {
+    "primary": {
+     "kw": "estilos de corte de cabello para hombre",
+     "evidence": "Eddy Co. (es) 10/mo · US-es 2,900/mo",
+     "us_es": 2900,
+     "eddy_es": 10
+    },
+    "secondary": [
+     {
+      "kw": "tipos de cortes de cabello para hombres",
+      "evidence": "Eddy Co. (es) 10/mo · US-es 2,400/mo",
+      "us_es": 2400,
+      "eddy_es": 10
+     },
+     {
+      "kw": "cortes de pelo para hombres modernos",
+      "evidence": "US-es 2,900/mo",
+      "us_es": 2900
+     },
+     {
+      "kw": "desvanecido",
+      "evidence": "Eddy Co. (es) 10/mo · US-es 1,900/mo",
+      "us_es": 1900,
+      "eddy_es": 10
+     }
+    ]
+   },
+   "es_slug": null
+  },
+  {
+   "id": "styles-skin-fade",
+   "en_url": "/styles/skin-fade/",
+   "es_url_draft": "/es/estilos/skin-fade/",
+   "es_url_recommended": "/es/estilos/skin-fade/",
+   "en": {
+    "primary": {
+     "kw": "skin fade carlsbad nm",
+     "evidence": "low/no data"
+    },
+    "head_term": {
+     "kw": "skin fade",
+     "evidence": "Eddy Co. 10/mo · Carlsbad 10/mo · US 40,500/mo",
+     "us": 40500,
+     "eddy": 10,
+     "carlsbad": 10
+    },
+    "secondary": [
+     {
+      "kw": "skin fade",
+      "evidence": "Eddy Co. 10/mo · Carlsbad 10/mo · US 40,500/mo",
+      "us": 40500,
+      "eddy": 10,
+      "carlsbad": 10
+     },
+     {
+      "kw": "skin fade haircut",
+      "evidence": "Eddy Co. 10/mo · Carlsbad 10/mo · US 14,800/mo",
+      "us": 14800,
+      "eddy": 10,
+      "carlsbad": 10
+     },
+     {
+      "kw": "low skin fade",
+      "evidence": "low/no data"
+     },
+     {
+      "kw": "what is a skin fade",
+      "evidence": "US 1,600/mo",
+      "us": 1600
+     }
+    ]
+   },
+   "es": {
+    "primary": {
+     "kw": "corte skin fade",
+     "evidence": "US-es 70/mo",
+     "us_es": 70
+    },
+    "secondary": [
+     {
+      "kw": "skin fade",
+      "evidence": "US-es 40,500/mo",
+      "us_es": 40500
+     },
+     {
+      "kw": "corte desvanecido",
+      "evidence": "Eddy Co. (es) 10/mo · US-es 1,900/mo",
+      "us_es": 1900,
+      "eddy_es": 10
+     },
+     {
+      "kw": "degradado",
+      "evidence": "US-es 1,600/mo",
+      "us_es": 1600
+     }
+    ]
+   },
+   "es_slug": {
+    "slug": "skin-fade",
+    "keep_english": true,
+    "why": "'corte skin fade' 70/mo US-es; no Spanish rendering ('degradado a piel') returns volume"
+   }
+  },
+  {
+   "id": "styles-low-taper-fade",
+   "en_url": "/styles/low-taper-fade/",
+   "es_url_draft": "/es/estilos/low-taper-fade/",
+   "es_url_recommended": "/es/estilos/low-taper-fade/",
+   "en": {
+    "primary": {
+     "kw": "low taper fade carlsbad nm",
+     "evidence": "low/no data"
+    },
+    "head_term": {
+     "kw": "low taper fade",
+     "evidence": "Eddy Co. 110/mo · Carlsbad 70/mo · US 550,000/mo",
+     "us": 550000,
+     "eddy": 110,
+     "carlsbad": 70
+    },
+    "secondary": [
+     {
+      "kw": "low taper fade",
+      "evidence": "Eddy Co. 110/mo · Carlsbad 70/mo · US 550,000/mo",
+      "us": 550000,
+      "eddy": 110,
+      "carlsbad": 70
+     },
+     {
+      "kw": "taper fade",
+      "evidence": "Eddy Co. 70/mo · Carlsbad 50/mo · US 246,000/mo",
+      "us": 246000,
+      "eddy": 70,
+      "carlsbad": 50
+     },
+     {
+      "kw": "low taper",
+      "evidence": "Eddy Co. 30/mo · Carlsbad 20/mo · US 165,000/mo",
+      "us": 165000,
+      "eddy": 30,
+      "carlsbad": 20
+     },
+     {
+      "kw": "low taper vs mid taper",
+      "evidence": "US 3,600/mo",
+      "us": 3600
+     }
+    ]
+   },
+   "es": {
+    "primary": {
+     "kw": "taper bajo",
+     "evidence": "US-es 1,300/mo",
+     "us_es": 1300
+    },
+    "secondary": [
+     {
+      "kw": "corte taper fade",
+      "evidence": "Eddy Co. (es) 10/mo · US-es 2,400/mo",
+      "us_es": 2400,
+      "eddy_es": 10
+     },
+     {
+      "kw": "corte low taper",
+      "evidence": "US-es 210/mo",
+      "us_es": 210
+     },
+     {
+      "kw": "taper fade bajo",
+      "evidence": "Eddy Co. (es) 10/mo",
+      "eddy_es": 10
+     }
+    ]
+   },
+   "es_slug": {
+    "slug": "low-taper-fade",
+    "keep_english": true,
+    "why": "Spanish searchers keep 'taper' in English ('taper bajo' 1,300, 'corte taper fade' 2,400, 'corte low taper' 210 US-es); the English slug matches the cut's name in the chair"
+   }
+  },
+  {
+   "id": "styles-burst-fade",
+   "en_url": "/styles/burst-fade/",
+   "es_url_draft": "/es/estilos/burst-fade/",
+   "es_url_recommended": "/es/estilos/burst-fade/",
+   "en": {
+    "primary": {
+     "kw": "burst fade carlsbad nm",
+     "evidence": "low/no data"
+    },
+    "head_term": {
+     "kw": "burst fade",
+     "evidence": "Eddy Co. 140/mo · Carlsbad 90/mo · US 368,000/mo",
+     "us": 368000,
+     "eddy": 140,
+     "carlsbad": 90
+    },
+    "secondary": [
+     {
+      "kw": "burst fade",
+      "evidence": "Eddy Co. 140/mo · Carlsbad 90/mo · US 368,000/mo",
+      "us": 368000,
+      "eddy": 140,
+      "carlsbad": 90
+     },
+     {
+      "kw": "burst fade vs taper",
+      "evidence": "US 170/mo",
+      "us": 170
+     },
+     {
+      "kw": "burst fade curly hair",
+      "evidence": "Eddy Co. 10/mo · Carlsbad 10/mo · US 12,100/mo",
+      "us": 12100,
+      "eddy": 10,
+      "carlsbad": 10
+     },
+     {
+      "kw": "burst fade straight hair",
+      "evidence": "Eddy Co. 10/mo · Carlsbad 10/mo",
+      "eddy": 10,
+      "carlsbad": 10
+     }
+    ]
+   },
+   "es": {
+    "primary": {
+     "kw": "corte burst fade",
+     "evidence": "US-es 480/mo",
+     "us_es": 480
+    },
+    "secondary": [
+     {
+      "kw": "burst fade",
+      "evidence": "US-es 368,000/mo",
+      "us_es": 368000
+     },
+     {
+      "kw": "corte de pelo burst fade",
+      "evidence": "low/no data"
+     }
+    ]
+   },
+   "es_slug": {
+    "slug": "burst-fade",
+    "keep_english": true,
+    "why": "'corte burst fade' 480/mo US-es; no Spanish name exists"
+   }
+  },
+  {
+   "id": "styles-modern-mullet",
+   "en_url": "/styles/modern-mullet/",
+   "es_url_draft": "/es/estilos/mullet-moderno/",
+   "es_url_recommended": "/es/estilos/mullet-moderno/",
+   "en": {
+    "primary": {
+     "kw": "modern mullet carlsbad nm",
+     "evidence": "low/no data"
+    },
+    "head_term": {
+     "kw": "modern mullet",
+     "evidence": "Eddy Co. 70/mo · Carlsbad 50/mo · US 450,000/mo",
+     "us": 450000,
+     "eddy": 70,
+     "carlsbad": 50
+    },
+    "secondary": [
+     {
+      "kw": "modern mullet",
+      "evidence": "Eddy Co. 70/mo · Carlsbad 50/mo · US 450,000/mo",
+      "us": 450000,
+      "eddy": 70,
+      "carlsbad": 50
+     },
+     {
+      "kw": "burst fade mullet",
+      "evidence": "Eddy Co. 20/mo · Carlsbad 10/mo · US 60,500/mo",
+      "us": 60500,
+      "eddy": 20,
+      "carlsbad": 10
+     },
+     {
+      "kw": "modern mullet fade",
+      "evidence": "Eddy Co. 10/mo · Carlsbad 10/mo",
+      "eddy": 10,
+      "carlsbad": 10
+     },
+     {
+      "kw": "modern mullet curly hair",
+      "evidence": "low/no data"
+     }
+    ]
+   },
+   "es": {
+    "primary": {
+     "kw": "mullet moderno",
+     "evidence": "US-es 1,300/mo",
+     "us_es": 1300
+    },
+    "secondary": [
+     {
+      "kw": "corte mullet",
+      "evidence": "Eddy Co. (es) 10/mo · US-es 6,600/mo",
+      "us_es": 6600,
+      "eddy_es": 10
+     },
+     {
+      "kw": "corte de pelo mullet",
+      "evidence": "Eddy Co. (es) 10/mo · US-es 1,600/mo",
+      "us_es": 1600,
+      "eddy_es": 10
+     },
+     {
+      "kw": "mullet hombre",
+      "evidence": "US-es 720/mo",
+      "us_es": 720
+     }
+    ]
+   },
+   "es_slug": {
+    "slug": "mullet-moderno",
+    "keep_english": false,
+    "why": "'mullet moderno' 1,300/mo US-es vs 'corte mullet moderno' 90; Spanish word order is what people type"
+   }
+  },
+  {
+   "id": "styles-textured-fringe",
+   "en_url": "/styles/textured-fringe/",
+   "es_url_draft": "/es/estilos/fleco-texturizado/",
+   "es_url_recommended": "/es/estilos/fleco-texturizado/",
+   "en": {
+    "primary": {
+     "kw": "textured fringe carlsbad nm",
+     "evidence": "low/no data"
+    },
+    "head_term": {
+     "kw": "textured fringe",
+     "evidence": "US 165,000/mo",
+     "us": 165000
+    },
+    "secondary": [
+     {
+      "kw": "textured fringe",
+      "evidence": "US 165,000/mo",
+      "us": 165000
+     },
+     {
+      "kw": "textured fringe low taper",
+      "evidence": "Eddy Co. 10/mo · Carlsbad 10/mo · US 14,800/mo",
+      "us": 14800,
+      "eddy": 10,
+      "carlsbad": 10
+     },
+     {
+      "kw": "textured fringe haircut",
+      "evidence": "Eddy Co. 10/mo · Carlsbad 10/mo · US 22,200/mo",
+      "us": 22200,
+      "eddy": 10,
+      "carlsbad": 10
+     },
+     {
+      "kw": "edgar haircut",
+      "evidence": "Eddy Co. 50/mo · Carlsbad 30/mo · US 135,000/mo",
+      "us": 135000,
+      "eddy": 50,
+      "carlsbad": 30
+     }
+    ]
+   },
+   "es": {
+    "primary": {
+     "kw": "flequillo texturizado hombre",
+     "evidence": "Eddy Co. (es) 10/mo · US-es 30/mo",
+     "us_es": 30,
+     "eddy_es": 10
+    },
+    "secondary": [
+     {
+      "kw": "fleco texturizado",
+      "evidence": "US-es 10/mo",
+      "us_es": 10
+     },
+     {
+      "kw": "corte con fleco",
+      "evidence": "US-es 170/mo",
+      "us_es": 170
+     },
+     {
+      "kw": "textured fringe",
+      "evidence": "US-es 165,000/mo",
+      "us_es": 165000
+     }
+    ]
+   },
+   "es_slug": {
+    "slug": "fleco-texturizado",
+    "keep_english": false,
+    "why": "no clear signal: 'flequillo texturizado hombre' 30, 'fleco texturizado' 10, 'corte textured fringe' 10 US-es; keep the readable Spanish draft ('fleco' is the Mexican word)"
+   }
+  },
+  {
+   "id": "styles-buzz-cut",
+   "en_url": "/styles/buzz-cut/",
+   "es_url_draft": "/es/estilos/buzz-cut/",
+   "es_url_recommended": "/es/estilos/buzz-cut/",
+   "en": {
+    "primary": {
+     "kw": "buzz cut carlsbad nm",
+     "evidence": "low/no data"
+    },
+    "head_term": {
+     "kw": "buzz cut",
+     "evidence": "Eddy Co. 50/mo · Carlsbad 30/mo · US 301,000/mo",
+     "us": 301000,
+     "eddy": 50,
+     "carlsbad": 30
+    },
+    "secondary": [
+     {
+      "kw": "buzz cut",
+      "evidence": "Eddy Co. 50/mo · Carlsbad 30/mo · US 301,000/mo",
+      "us": 301000,
+      "eddy": 50,
+      "carlsbad": 30
+     },
+     {
+      "kw": "crew cut",
+      "evidence": "US 135,000/mo",
+      "us": 135000
+     },
+     {
+      "kw": "high and tight",
+      "evidence": "Eddy Co. 10/mo · Carlsbad 10/mo · US 14,800/mo",
+      "us": 14800,
+      "eddy": 10,
+      "carlsbad": 10
+     },
+     {
+      "kw": "crew cut vs buzz cut",
+      "evidence": "US 1,300/mo",
+      "us": 1300
+     }
+    ]
+   },
+   "es": {
+    "primary": {
+     "kw": "corte buzz cut",
+     "evidence": "Eddy Co. (es) 10/mo · US-es 720/mo",
+     "us_es": 720,
+     "eddy_es": 10
+    },
+    "secondary": [
+     {
+      "kw": "corte de pelo buzz cut",
+      "evidence": "US-es 480/mo",
+      "us_es": 480
+     },
+     {
+      "kw": "buzz cut hombre",
+      "evidence": "US-es 260/mo",
+      "us_es": 260
+     },
+     {
+      "kw": "corte rapado",
+      "evidence": "Eddy Co. (es) 10/mo · US-es 110/mo",
+      "us_es": 110,
+      "eddy_es": 10
+     }
+    ]
+   },
+   "es_slug": {
+    "slug": "buzz-cut",
+    "keep_english": true,
+    "why": "'corte buzz cut' 720 + 'corte de pelo buzz cut' 480 vs 'corte rapado' 110 US-es"
+   }
+  },
+  {
+   "id": "styles-slick-back",
+   "en_url": "/styles/slick-back/",
+   "es_url_draft": "/es/estilos/peinado-hacia-atras/",
+   "es_url_recommended": "/es/estilos/peinado-hacia-atras/",
+   "en": {
+    "primary": {
+     "kw": "slick back haircut carlsbad nm",
+     "evidence": "low/no data"
+    },
+    "head_term": {
+     "kw": "slick back haircut",
+     "evidence": "Eddy Co. 10/mo · Carlsbad 10/mo · US 22,200/mo",
+     "us": 22200,
+     "eddy": 10,
+     "carlsbad": 10
+    },
+    "secondary": [
+     {
+      "kw": "slick back haircut",
+      "evidence": "Eddy Co. 10/mo · Carlsbad 10/mo · US 22,200/mo",
+      "us": 22200,
+      "eddy": 10,
+      "carlsbad": 10
+     },
+     {
+      "kw": "slick back haircut with fade",
+      "evidence": "low/no data"
+     },
+     {
+      "kw": "slick back undercut",
+      "evidence": "Eddy Co. 10/mo · Carlsbad 10/mo · US 4,400/mo",
+      "us": 4400,
+      "eddy": 10,
+      "carlsbad": 10
+     },
+     {
+      "kw": "slick back haircut with taper",
+      "evidence": "low/no data"
+     }
+    ]
+   },
+   "es": {
+    "primary": {
+     "kw": "peinado hacia atrás hombre",
+     "evidence": "US-es 260/mo",
+     "us_es": 260
+    },
+    "secondary": [
+     {
+      "kw": "corte slick back",
+      "evidence": "US-es 170/mo",
+      "us_es": 170
+     },
+     {
+      "kw": "peinado hacia atrás",
+      "evidence": "US-es 110/mo",
+      "us_es": 110
+     },
+     {
+      "kw": "cortes de pelo hacia atras",
+      "evidence": "Eddy Co. (es) 10/mo",
+      "eddy_es": 10
+     }
+    ]
+   },
+   "es_slug": {
+    "slug": "peinado-hacia-atras",
+    "keep_english": false,
+    "why": "'peinado hacia atrás hombre' 260 + 'peinado hacia atrás' 110 vs 'corte slick back' 170 + 'slick back hombre' 30 US-es"
+   }
+  },
+  {
+   "id": "styles-curly-top-fade",
+   "en_url": "/styles/curly-top-fade/",
+   "es_url_draft": "/es/estilos/fade-con-rizos/",
+   "es_url_recommended": "/es/estilos/curly-top-fade/",
+   "en": {
+    "primary": {
+     "kw": "curly top fade carlsbad nm",
+     "evidence": "low/no data"
+    },
+    "head_term": {
+     "kw": "curly top fade",
+     "evidence": "Eddy Co. 10/mo · Carlsbad 10/mo · US 1,600/mo",
+     "us": 1600,
+     "eddy": 10,
+     "carlsbad": 10
+    },
+    "secondary": [
+     {
+      "kw": "curly top fade",
+      "evidence": "Eddy Co. 10/mo · Carlsbad 10/mo · US 1,600/mo",
+      "us": 1600,
+      "eddy": 10,
+      "carlsbad": 10
+     },
+     {
+      "kw": "haircuts for curly hair men",
+      "evidence": "Eddy Co. 10/mo · Carlsbad 10/mo · US 74,000/mo",
+      "us": 74000,
+      "eddy": 10,
+      "carlsbad": 10
+     },
+     {
+      "kw": "low curly top fade",
+      "evidence": "low/no data"
+     },
+     {
+      "kw": "curly hair skin fade",
+      "evidence": "low/no data"
+     }
+    ]
+   },
+   "es": {
+    "primary": {
+     "kw": "cortes para pelo chino hombre",
+     "evidence": "Eddy Co. (es) 10/mo · US-es 260/mo",
+     "us_es": 260,
+     "eddy_es": 10
+    },
+    "secondary": [
+     {
+      "kw": "pelo chino hombre",
+      "evidence": "US-es 720/mo",
+      "us_es": 720
+     },
+     {
+      "kw": "curly top",
+      "evidence": "US-es 3,600/mo",
+      "us_es": 3600
+     },
+     {
+      "kw": "corte de pelo rizado hombre",
+      "evidence": "US-es 480/mo",
+      "us_es": 480
+     }
+    ]
+   },
+   "es_slug": {
+    "slug": "curly-top-fade",
+    "keep_english": true,
+    "why": "CHANGE the draft 'fade-con-rizos' (10/mo): Mexican Spanish says 'pelo chino' (720) and keeps 'curly top' in English (3,600 US-es); use /es/estilos/curly-top-fade/ and write 'pelo chino' in the copy"
+   }
+  },
+  {
+   "id": "styles-hard-part",
+   "en_url": "/styles/hard-part/",
+   "es_url_draft": "/es/estilos/raya-marcada/",
+   "es_url_recommended": "/es/estilos/corte-con-raya/",
+   "en": {
+    "primary": {
+     "kw": "hard part haircut carlsbad nm",
+     "evidence": "low/no data"
+    },
+    "head_term": {
+     "kw": "hard part haircut",
+     "evidence": "US 3,600/mo",
+     "us": 3600
+    },
+    "secondary": [
+     {
+      "kw": "hard part haircut",
+      "evidence": "US 3,600/mo",
+      "us": 3600
+     },
+     {
+      "kw": "hard part fade",
+      "evidence": "US 720/mo",
+      "us": 720
+     },
+     {
+      "kw": "what is a hard part",
+      "evidence": "US 70/mo",
+      "us": 70
+     }
+    ]
+   },
+   "es": {
+    "primary": {
+     "kw": "corte de pelo con raya",
+     "evidence": "US-es 480/mo",
+     "us_es": 480
+    },
+    "secondary": [
+     {
+      "kw": "corte de pelo para hombre con raya",
+      "evidence": "Eddy Co. (es) 10/mo",
+      "eddy_es": 10
+     },
+     {
+      "kw": "raya en el pelo hombre",
+      "evidence": "US-es 170/mo",
+      "us_es": 170
+     },
+     {
+      "kw": "hard part",
+      "evidence": "US-es 2,400/mo",
+      "us_es": 2400
+     }
+    ]
+   },
+   "es_slug": {
+    "slug": "corte-con-raya",
+    "keep_english": false,
+    "why": "CHANGE the draft 'raya-marcada' (10/mo): 'corte de pelo con raya' 480 and 'corte con raya' 210 US-es are what people type"
+   }
+  },
+  {
+   "id": "styles-textured-crop",
+   "en_url": "/styles/textured-crop/",
+   "es_url_draft": "/es/estilos/crop-texturizado/",
+   "es_url_recommended": "/es/estilos/crop-texturizado/",
+   "en": {
+    "primary": {
+     "kw": "textured crop carlsbad nm",
+     "evidence": "low/no data"
+    },
+    "head_term": {
+     "kw": "textured crop",
+     "evidence": "US 60,500/mo",
+     "us": 60500
+    },
+    "secondary": [
+     {
+      "kw": "textured crop",
+      "evidence": "US 60,500/mo",
+      "us": 60500
+     },
+     {
+      "kw": "french crop",
+      "evidence": "US 74,000/mo",
+      "us": 74000
+     },
+     {
+      "kw": "textured crop low fade",
+      "evidence": "Eddy Co. 10/mo · Carlsbad 10/mo",
+      "eddy": 10,
+      "carlsbad": 10
+     },
+     {
+      "kw": "french crop vs textured crop",
+      "evidence": "low/no data"
+     }
+    ]
+   },
+   "es": {
+    "primary": {
+     "kw": "crop texturizado",
+     "evidence": "US-es 390/mo",
+     "us_es": 390
+    },
+    "secondary": [
+     {
+      "kw": "corte french crop",
+      "evidence": "Eddy Co. (es) 10/mo · US-es 390/mo",
+      "us_es": 390,
+      "eddy_es": 10
+     },
+     {
+      "kw": "corte crop",
+      "evidence": "US-es 70/mo",
+      "us_es": 70
+     },
+     {
+      "kw": "corte texturizado hombre",
+      "evidence": "Eddy Co. (es) 10/mo",
+      "eddy_es": 10
+     }
+    ]
+   },
+   "es_slug": {
+    "slug": "crop-texturizado",
+    "keep_english": false,
+    "why": "'crop texturizado' 390/mo US-es, a Spanish phrase in its own right"
+   }
+  },
+  {
+   "id": "about",
+   "en_url": "/about/",
+   "es_url_draft": "/es/sobre-mi/",
+   "es_url_recommended": "/es/sobre-mi/",
+   "en": {
+    "primary": {
+     "kw": "tim murillo barber carlsbad nm",
+     "evidence": "low/no data"
+    },
+    "head_term": {
+     "kw": "tim murillo barber",
+     "evidence": "low/no data"
+    },
+    "secondary": [
+     {
+      "kw": "divinely faded carlsbad nm",
+      "evidence": "autocomplete",
+      "autocomplete": true
+     },
+     {
+      "kw": "timothy murillo",
+      "evidence": "low/no data"
+     },
+     {
+      "kw": "divinely faded",
+      "evidence": "US 10/mo · autocomplete",
+      "us": 10,
+      "autocomplete": true
+     }
+    ]
+   },
+   "es": {
+    "primary": {
+     "kw": "barbero en carlsbad nm",
+     "evidence": "low/no data"
+    },
+    "secondary": [
+     {
+      "kw": "barbero",
+      "evidence": "Eddy Co. (es) 10/mo · US-es 5,400/mo",
+      "us_es": 5400,
+      "eddy_es": 10
+     },
+     {
+      "kw": "barberos",
+      "evidence": "US-es 5,400/mo",
+      "us_es": 5400
+     }
+    ]
+   },
+   "es_slug": null
+  },
+  {
+   "id": "visit",
+   "en_url": "/visit/",
+   "es_url_draft": "/es/visitanos/",
+   "es_url_recommended": "/es/visitanos/",
+   "en": {
+    "primary": {
+     "kw": "barber shop open saturday carlsbad nm",
+     "evidence": "low/no data"
+    },
+    "head_term": {
+     "kw": "barber shop open saturday",
+     "evidence": "low/no data"
+    },
+    "secondary": [
+     {
+      "kw": "barbers near me open now",
+      "evidence": "Eddy Co. 10/mo",
+      "eddy": 10
+     },
+     {
+      "kw": "barbers near me open today",
+      "evidence": "Eddy Co. 10/mo · Carlsbad 10/mo",
+      "eddy": 10,
+      "carlsbad": 10
+     },
+     {
+      "kw": "barber open saturday",
+      "evidence": "US 260/mo",
+      "us": 260
+     },
+     {
+      "kw": "barbershop near me open saturday",
+      "evidence": "US 20/mo",
+      "us": 20
+     }
+    ]
+   },
+   "es": {
+    "primary": {
+     "kw": "barbería abierta cerca de mí",
+     "evidence": "Eddy Co. (es) 10/mo · US-es 1,600/mo",
+     "us_es": 1600,
+     "eddy_es": 10
+    },
+    "secondary": [
+     {
+      "kw": "barbería cerca de mí abierta",
+      "evidence": "Eddy Co. (es) 10/mo · US-es 210/mo",
+      "us_es": 210,
+      "eddy_es": 10
+     },
+     {
+      "kw": "barbería abierta hoy",
+      "evidence": "US-es 90/mo",
+      "us_es": 90
+     },
+     {
+      "kw": "barbería abierta sábado",
+      "evidence": "low/no data",
+      "us_es": null
+     }
+    ]
+   },
+   "es_slug": null
+  },
+  {
+   "id": "faq",
+   "en_url": "/faq/",
+   "es_url_draft": "/es/preguntas-frecuentes/",
+   "es_url_recommended": "/es/preguntas-frecuentes/",
+   "en": {
+    "primary": {
+     "kw": "how much is a haircut carlsbad nm",
+     "evidence": "low/no data"
+    },
+    "head_term": {
+     "kw": "how much is a haircut",
+     "evidence": "US 2,400/mo",
+     "us": 2400
+    },
+    "secondary": [
+     {
+      "kw": "how much is a haircut",
+      "evidence": "US 2,400/mo",
+      "us": 2400
+     },
+     {
+      "kw": "how much is a men's haircut",
+      "evidence": "US 720/mo",
+      "us": 720
+     },
+     {
+      "kw": "barbers open on sunday near me",
+      "evidence": "Eddy Co. 10/mo · Carlsbad 10/mo",
+      "eddy": 10,
+      "carlsbad": 10
+     }
+    ]
+   },
+   "es": {
+    "primary": {
+     "kw": "cuánto cuesta un corte de pelo",
+     "evidence": "US-es 30/mo",
+     "us_es": 30
+    },
+    "secondary": [
+     {
+      "kw": "cuánto cuesta un corte de pelo hombre",
+      "evidence": "US-es 10/mo",
+      "us_es": 10
+     },
+     {
+      "kw": "preguntas frecuentes barbería",
+      "evidence": "low/no data"
+     }
+    ]
+   },
+   "es_slug": null
+  }
+ ],
+ "blog_keywords_reserved": [
+  {
+   "id": "E8",
+   "slug": "/blog/which-haircut-service-to-book/",
+   "en": [
+    "luxury haircut",
+    "what is a signature haircut"
+   ],
+   "es": null
+  },
+  {
+   "id": "S39",
+   "slug": "/blog/kids-hair-designs/",
+   "en": [
+    "kids haircut designs",
+    "boys haircut designs"
+   ],
+   "es": "diseños en el pelo"
+  },
+  {
+   "id": "K7",
+   "slug": "/blog/father-son-haircut/",
+   "en": [
+    "father son haircut"
+   ],
+   "es": null
+  },
+  {
+   "id": "C7",
+   "slug": "/blog/how-long-does-a-perm-take/",
+   "en": [
+    "how long does a perm take"
+   ],
+   "es": null
+  },
+  {
+   "id": "E2",
+   "slug": "/blog/barbershop-etiquette/",
+   "en": [
+    "barbershop etiquette",
+    "barber etiquette"
+   ],
+   "es": null
+  },
+  {
+   "id": "M4",
+   "slug": "/blog/beard-dandruff/",
+   "en": [
+    "beard dandruff",
+    "dry beard",
+    "itchy beard",
+    "how to get rid of beard dandruff"
+   ],
+   "es": "caspa en la barba"
+  },
+  {
+   "id": "B6",
+   "slug": "/blog/how-long-to-braid-hair/",
+   "en": [
+    "how long does it take to braid hair"
+   ],
+   "es": null
+  },
+  {
+   "id": "K3",
+   "slug": "/blog/back-to-school-haircuts/",
+   "en": [
+    "back to school haircuts",
+    "back to school haircuts for boys"
+   ],
+   "es": null
+  },
+  {
+   "id": "L2",
+   "slug": "/blog/barber-open-on-holidays/",
+   "en": [
+    "barber open on holidays",
+    "holiday haircut"
+   ],
+   "es": null
+  },
+  {
+   "id": "C2",
+   "slug": "/blog/how-long-to-bleach-hair/",
+   "en": [
+    "how long does it take to bleach hair"
+   ],
+   "es": null
+  },
+  {
+   "id": "N9",
+   "slug": "/blog/new-to-carlsbad-nm-barber/",
+   "en": [
+    "living in carlsbad nm",
+    "moving to carlsbad nm"
+   ],
+   "es": null
+  },
+  {
+   "id": "K1",
+   "slug": "/blog/first-haircut/",
+   "en": [
+    "first haircut",
+    "baby's first haircut",
+    "when should baby get first haircut"
+   ],
+   "es": "primer corte de pelo bebe"
+  },
+  {
+   "id": "M9",
+   "slug": "/blog/what-is-a-hot-towel-shave/",
+   "en": [
+    "what is a hot towel shave",
+    "hot towel shave benefits"
+   ],
+   "es": "afeitado con toalla caliente"
+  },
+  {
+   "id": "S10",
+   "slug": "/blog/low-fade-haircut/",
+   "en": [
+    "low fade haircut",
+    "low fade"
+   ],
+   "es": "desvanecido bajo"
+  },
+  {
+   "id": "M19",
+   "slug": "/blog/beard-fade/",
+   "en": [
+    "beard fade"
+   ],
+   "es": "barba desvanecida"
+  },
+  {
+   "id": "B4",
+   "slug": "/blog/braids-with-fade/",
+   "en": [
+    "braids with fade",
+    "braids and fade"
+   ],
+   "es": "trenzas con fade"
+  },
+  {
+   "id": "E3",
+   "slug": "/blog/how-to-book-on-booksy/",
+   "en": [
+    "how to book on booksy"
+   ],
+   "es": null
+  },
+  {
+   "id": "S15",
+   "slug": "/blog/line-up-haircut/",
+   "en": [
+    "line up haircut",
+    "what is a line up",
+    "shape up vs line up"
+   ],
+   "es": null
+  },
+  {
+   "id": "S32",
+   "slug": "/blog/comb-over-vs-side-part/",
+   "en": [
+    "comb over vs side part",
+    "side part haircut"
+   ],
+   "es": null
+  },
+  {
+   "id": "M2",
+   "slug": "/blog/how-long-does-a-fade-last/",
+   "en": [
+    "how long does a fade last",
+    "how to maintain a fade",
+    "how to make a fade last longer"
+   ],
+   "es": "cuanto dura un fade"
+  },
+  {
+   "id": "M11",
+   "slug": "/blog/what-happens-during-a-mens-facial/",
+   "en": [
+    "what happens during a facial",
+    "how often should men get a facial",
+    "men's facial benefits"
+   ],
+   "es": "beneficios del facial para hombres"
+  },
+  {
+   "id": "S2",
+   "slug": "/blog/fade-vs-taper/",
+   "en": [
+    "fade vs taper",
+    "difference between fade and taper",
+    "low taper vs low fade",
+    "low fade vs low taper"
+   ],
+   "es": "diferencia entre fade y taper"
+  },
+  {
+   "id": "N2",
+   "slug": "/blog/braids-for-short-hair-men/",
+   "en": [
+    "braids for short hair men",
+    "how long does hair need to be for braids"
+   ],
+   "es": "trenzas para hombre pelo corto"
+  },
+  {
+   "id": "M15",
+   "slug": "/blog/nose-and-ear-waxing-men/",
+   "en": [
+    "nose waxing men",
+    "ear waxing men"
+   ],
+   "es": "depilacion de nariz"
+  },
+  {
+   "id": "N1",
+   "slug": "/blog/low-maintenance-haircuts-for-men/",
+   "en": [
+    "low maintenance haircuts for men",
+    "low maintenance haircuts"
+   ],
+   "es": "corte de pelo con gorra"
+  },
+  {
+   "id": "M14",
+   "slug": "/blog/mens-eyebrow-trim/",
+   "en": [
+    "men's eyebrow trim",
+    "eyebrow grooming men"
+   ],
+   "es": "cejas hombre"
+  },
+  {
+   "id": "N4",
+   "slug": "/blog/how-long-does-a-haircut-take/",
+   "en": [
+    "how long does a men's haircut take",
+    "how long does a haircut take"
+   ],
+   "es": null
+  },
+  {
+   "id": "L3",
+   "slug": "/blog/prom-haircuts/",
+   "en": [
+    "prom haircuts",
+    "prom haircuts for guys"
+   ],
+   "es": null
+  },
+  {
+   "id": "S7",
+   "slug": "/blog/what-is-a-drop-fade/",
+   "en": [
+    "what is a drop fade",
+    "drop fade",
+    "drop fade vs burst fade"
+   ],
+   "es": "drop fade"
+  },
+  {
+   "id": "L1",
+   "slug": "/blog/christmas-on-the-pecos-haircut/",
+   "en": [
+    "christmas on the pecos",
+    "christmas haircut"
+   ],
+   "es": null
+  },
+  {
+   "id": "L4",
+   "slug": "/blog/graduation-haircut/",
+   "en": [
+    "graduation haircut",
+    "senior picture haircut"
+   ],
+   "es": "cortes de pelo para graduacion"
+  },
+  {
+   "id": "S27",
+   "slug": "/blog/low-taper-fade-straight-hair/",
+   "en": [
+    "low taper fade straight hair"
+   ],
+   "es": null
+  },
+  {
+   "id": "M1",
+   "slug": "/blog/how-often-should-you-get-a-haircut/",
+   "en": [
+    "how often should you get a haircut",
+    "how often should men get a haircut",
+    "how often should you get a fade"
+   ],
+   "es": "cada cuanto cortarse el pelo"
+  },
+  {
+   "id": "M16",
+   "slug": "/blog/summer-haircuts-for-men/",
+   "en": [
+    "summer haircuts for men"
+   ],
+   "es": "cortes de pelo para el verano hombre"
+  },
+  {
+   "id": "N8",
+   "slug": "/blog/haircuts-for-cowboy-hats/",
+   "en": [
+    "cowboy haircut",
+    "western haircuts for men"
+   ],
+   "es": "corte vaquero"
+  },
+  {
+   "id": "B1",
+   "slug": "/blog/how-long-do-braids-last-men/",
+   "en": [
+    "how long do braids last men"
+   ],
+   "es": null
+  },
+  {
+   "id": "L5",
+   "slug": "/blog/groom-haircut/",
+   "en": [
+    "groom haircut",
+    "haircut before wedding",
+    "wedding haircut for groom"
+   ],
+   "es": "corte de pelo para boda hombre"
+  },
+  {
+   "id": "L7",
+   "slug": "/blog/new-year-haircut/",
+   "en": [
+    "new year haircut"
+   ],
+   "es": null
+  },
+  {
+   "id": "E5",
+   "slug": "/blog/what-to-ask-for-at-the-barber/",
+   "en": [
+    "what to ask for at the barber",
+    "how to ask for a haircut",
+    "what to tell your barber"
+   ],
+   "es": "que pedir en la barberia"
+  },
+  {
+   "id": "L6",
+   "slug": "/blog/haircut-for-job-interview/",
+   "en": [
+    "haircut for job interview"
+   ],
+   "es": "corte de pelo para entrevista"
+  },
+  {
+   "id": "M10",
+   "slug": "/blog/how-to-maintain-a-shaved-head/",
+   "en": [
+    "how to maintain a shaved head",
+    "head shave tips",
+    "shaved head vs buzz cut"
+   ],
+   "es": "cabeza rapada"
+  },
+  {
+   "id": "M13",
+   "slug": "/blog/scalp-massage/",
+   "en": [
+    "scalp massage benefits"
+   ],
+   "es": null
+  },
+  {
+   "id": "N6",
+   "slug": "/blog/frosted-tips-men/",
+   "en": [
+    "frosted tips",
+    "highlights for men"
+   ],
+   "es": "rayitos para hombre"
+  },
+  {
+   "id": "K4",
+   "slug": "/blog/boys-fade-haircuts/",
+   "en": [
+    "boys fade haircut"
+   ],
+   "es": null
+  },
+  {
+   "id": "K6",
+   "slug": "/blog/teen-haircuts/",
+   "en": [
+    "teen boy haircuts"
+   ],
+   "es": null
+  },
+  {
+   "id": "C4",
+   "slug": "/blog/types-of-perms-for-men/",
+   "en": [
+    "types of perms for men",
+    "types of perms",
+    "wavy perm men"
+   ],
+   "es": "tipos de permanente hombre"
+  },
+  {
+   "id": "E6",
+   "slug": "/blog/dont-like-your-haircut/",
+   "en": [
+    "how to fix a bad haircut",
+    "how to tell your barber you don't like your haircut"
+   ],
+   "es": null
+  },
+  {
+   "id": "N7",
+   "slug": "/blog/broccoli-haircut/",
+   "en": [
+    "broccoli haircut",
+    "broccoli perm"
+   ],
+   "es": null
+  },
+  {
+   "id": "K2",
+   "slug": "/blog/kids-calm-in-barber-chair/",
+   "en": [
+    "how to keep kids calm during haircut",
+    "kids scared of haircut"
+   ],
+   "es": null
+  },
+  {
+   "id": "S26",
+   "slug": "/blog/blowout-taper/",
+   "en": [
+    "blowout taper"
+   ],
+   "es": null
+  },
+  {
+   "id": "S9",
+   "slug": "/blog/mid-taper-fade/",
+   "en": [
+    "mid taper fade",
+    "mid taper",
+    "what is a mid taper fade",
+    "how to ask for a mid taper fade"
+   ],
+   "es": "corte mid taper"
+  },
+  {
+   "id": "C5",
+   "slug": "/blog/how-long-does-a-perm-last/",
+   "en": [
+    "how long does a perm last",
+    "how long do perms last men"
+   ],
+   "es": "cuanto dura una permanente"
+  },
+  {
+   "id": "B2",
+   "slug": "/blog/cornrows-vs-box-braids/",
+   "en": [
+    "cornrows vs box braids"
+   ],
+   "es": "box braids"
+  },
+  {
+   "id": "C1",
+   "slug": "/blog/is-bleaching-hair-bad/",
+   "en": [
+    "is bleaching hair bad",
+    "how to bleach hair men"
+   ],
+   "es": "decoloracion"
+  },
+  {
+   "id": "S13",
+   "slug": "/blog/clipper-guard-sizes/",
+   "en": [
+    "clipper guard sizes",
+    "haircut numbers",
+    "buzz cut lengths",
+    "buzz cut numbers"
+   ],
+   "es": "numeros de corte de pelo"
+  },
+  {
+   "id": "S6",
+   "slug": "/blog/high-fade-vs-low-fade/",
+   "en": [
+    "high fade vs low fade",
+    "low fade vs high fade",
+    "high fade",
+    "low fade vs mid fade"
+   ],
+   "es": "desvanecido alto"
+  },
+  {
+   "id": "E4",
+   "slug": "/blog/barber-vs-hair-salon/",
+   "en": [
+    "barber vs hair salon",
+    "barber vs stylist"
+   ],
+   "es": "barberia vs peluqueria"
+  },
+  {
+   "id": "L8",
+   "slug": "/blog/haircut-near-carlsbad-caverns/",
+   "en": [
+    "barber near carlsbad caverns",
+    "things to do in carlsbad nm"
+   ],
+   "es": null
+  },
+  {
+   "id": "S21",
+   "slug": "/blog/haircuts-for-thick-hair-men/",
+   "en": [
+    "haircuts for thick hair men"
+   ],
+   "es": "cortes para pelo grueso hombre"
+  },
+  {
+   "id": "S24",
+   "slug": "/blog/haircuts-for-big-forehead/",
+   "en": [
+    "haircut for big forehead men"
+   ],
+   "es": "cortes para frente grande hombre"
+  },
+  {
+   "id": "S36",
+   "slug": "/blog/wolf-cut-vs-mullet/",
+   "en": [
+    "wolf cut vs mullet",
+    "wolf cut men"
+   ],
+   "es": null
+  },
+  {
+   "id": "E1",
+   "slug": "/blog/how-much-to-tip-barber/",
+   "en": [
+    "how much to tip barber",
+    "barber tip",
+    "how much to tip for a haircut"
+   ],
+   "es": "cuanto dar de propina"
+  },
+  {
+   "id": "C3",
+   "slug": "/blog/bleached-hair-aftercare/",
+   "en": [
+    "how to care for bleached hair",
+    "how to tone blonde hair",
+    "purple shampoo for men",
+    "how to keep platinum hair"
+   ],
+   "es": "cuidado del pelo decolorado"
+  },
+  {
+   "id": "M8",
+   "slug": "/blog/straight-razor-shave-vs-regular-shave/",
+   "en": [
+    "straight razor shave vs regular shave"
+   ],
+   "es": "afeitado tradicional"
+  },
+  {
+   "id": "K5",
+   "slug": "/blog/how-often-kids-haircut/",
+   "en": [
+    "how often should kids get a haircut"
+   ],
+   "es": null
+  },
+  {
+   "id": "S25",
+   "slug": "/blog/haircut-for-face-shape/",
+   "en": [
+    "haircut for face shape men",
+    "haircut for oval face men"
+   ],
+   "es": "cortes para rostro ovalado hombre"
+  },
+  {
+   "id": "M12",
+   "slug": "/blog/wash-hair-before-haircut/",
+   "en": [
+    "should i wash my hair before a haircut"
+   ],
+   "es": null
+  },
+  {
+   "id": "S8",
+   "slug": "/blog/mid-fade-haircut/",
+   "en": [
+    "mid fade haircut",
+    "mid fade"
+   ],
+   "es": "fade medio"
+  },
+  {
+   "id": "S43",
+   "slug": "/blog/haircuts-for-older-men/",
+   "en": [
+    "haircuts for older men"
+   ],
+   "es": null
+  },
+  {
+   "id": "N11",
+   "slug": "/blog/medium-length-haircuts-for-men/",
+   "en": [
+    "medium length haircuts for men"
+   ],
+   "es": "corte de pelo mediano hombre"
+  },
+  {
+   "id": "S38",
+   "slug": "/blog/how-long-does-a-hair-design-last/",
+   "en": [
+    "how long does a hair design last"
+   ],
+   "es": "rayas en el pelo"
+  },
+  {
+   "id": "S5",
+   "slug": "/blog/types-of-fades/",
+   "en": [
+    "types of fades",
+    "fade types"
+   ],
+   "es": "tipos de fade"
+  },
+  {
+   "id": "N5",
+   "slug": "/blog/patchy-beard/",
+   "en": [
+    "patchy beard",
+    "how to grow a fuller beard"
+   ],
+   "es": null
+  },
+  {
+   "id": "E7",
+   "slug": "/blog/how-to-find-a-good-barber/",
+   "en": [
+    "how to find a good barber"
+   ],
+   "es": null
+  },
+  {
+   "id": "S31",
+   "slug": "/blog/how-to-slick-back-hair/",
+   "en": [
+    "how to slick back hair"
+   ],
+   "es": "como peinar el pelo hacia atras"
+  },
+  {
+   "id": "M6",
+   "slug": "/blog/3-month-beard-rule/",
+   "en": [
+    "3 month beard rule"
+   ],
+   "es": null
+  },
+  {
+   "id": "S35",
+   "slug": "/blog/how-to-grow-a-mullet/",
+   "en": [
+    "how to grow a mullet",
+    "how long does it take to grow a mullet"
+   ],
+   "es": null
+  },
+  {
+   "id": "C6",
+   "slug": "/blog/is-a-perm-bad-for-your-hair/",
+   "en": [
+    "is a perm bad for your hair",
+    "perm vs natural curls"
+   ],
+   "es": null
+  },
+  {
+   "id": "S42",
+   "slug": "/blog/haircuts-for-men-with-glasses/",
+   "en": [
+    "haircuts for men with glasses"
+   ],
+   "es": null
+  },
+  {
+   "id": "S29",
+   "slug": "/blog/how-to-style-textured-fringe/",
+   "en": [
+    "how to style a textured fringe",
+    "how to style textured fringe"
+   ],
+   "es": null
+  },
+  {
+   "id": "S17",
+   "slug": "/blog/how-to-shape-a-beard/",
+   "en": [
+    "how to shape a beard",
+    "beard neckline",
+    "how to trim beard neckline",
+    "how to clean up neckline"
+   ],
+   "es": "como arreglar la barba"
+  },
+  {
+   "id": "S22",
+   "slug": "/blog/haircuts-for-wavy-hair-men/",
+   "en": [
+    "haircuts for wavy hair men"
+   ],
+   "es": null
+  },
+  {
+   "id": "S40",
+   "slug": "/blog/military-haircut/",
+   "en": [
+    "military haircut"
+   ],
+   "es": "corte militar"
+  },
+  {
+   "id": "S34",
+   "slug": "/blog/modern-mullet-vs-mullet/",
+   "en": [
+    "modern mullet vs mullet"
+   ],
+   "es": null
+  },
+  {
+   "id": "S18",
+   "slug": "/blog/beard-styles-for-round-face/",
+   "en": [
+    "beard styles for round face"
+   ],
+   "es": "estilos de barba para cara redonda"
+  },
+  {
+   "id": "S20",
+   "slug": "/blog/haircuts-for-thin-hair-men/",
+   "en": [
+    "haircuts for thin hair men"
+   ],
+   "es": "cortes para pelo fino hombre"
+  },
+  {
+   "id": "M3",
+   "slug": "/blog/how-to-grow-out-a-buzz-cut/",
+   "en": [
+    "how to grow out a buzz cut",
+    "how to grow out a fade",
+    "how to grow your hair out men",
+    "awkward stage hair men"
+   ],
+   "es": null
+  },
+  {
+   "id": "M17",
+   "slug": "/blog/winter-haircuts-for-men/",
+   "en": [
+    "winter haircuts men",
+    "fall haircuts for men"
+   ],
+   "es": null
+  },
+  {
+   "id": "M7",
+   "slug": "/blog/how-to-avoid-razor-bumps/",
+   "en": [
+    "how to avoid razor bumps"
+   ],
+   "es": "irritacion al afeitar"
+  },
+  {
+   "id": "S23",
+   "slug": "/blog/haircuts-for-receding-hairline/",
+   "en": [
+    "haircuts for receding hairline"
+   ],
+   "es": "cortes para entradas hombre"
+  },
+  {
+   "id": "N10",
+   "slug": "/blog/haircuts-for-round-face-men/",
+   "en": [
+    "haircut for round face men"
+   ],
+   "es": "cortes para cara redonda hombre"
+  },
+  {
+   "id": "M21",
+   "slug": "/blog/mens-skincare-routine/",
+   "en": [
+    "men's skincare routine"
+   ],
+   "es": null
+  },
+  {
+   "id": "B5",
+   "slug": "/blog/how-to-sleep-with-braids/",
+   "en": [
+    "how to sleep with braids",
+    "how to take care of braids men"
+   ],
+   "es": "como dormir con trenzas"
+  },
+  {
+   "id": "S46",
+   "slug": "/blog/how-to-style-short-hair-men/",
+   "en": [
+    "how to style short hair men"
+   ],
+   "es": null
+  },
+  {
+   "id": "S14",
+   "slug": "/blog/321-buzz-cut/",
+   "en": [
+    "321 buzz cut"
+   ],
+   "es": null
+  },
+  {
+   "id": "M20",
+   "slug": "/blog/how-to-trim-mustache/",
+   "en": [
+    "how to trim mustache"
+   ],
+   "es": null
+  },
+  {
+   "id": "M22",
+   "slug": "/blog/beard-brush-vs-comb/",
+   "en": [
+    "beard brush vs comb",
+    "how to wash your beard"
+   ],
+   "es": null
+  },
+  {
+   "id": "S45",
+   "slug": "/blog/pomade-vs-clay/",
+   "en": [
+    "pomade vs clay",
+    "pomade vs wax"
+   ],
+   "es": null
+  },
+  {
+   "id": "N3",
+   "slug": "/blog/how-to-wash-braids/",
+   "en": [
+    "how to wash braids"
+   ],
+   "es": null
+  },
+  {
+   "id": "M5",
+   "slug": "/blog/beard-oil-vs-beard-balm/",
+   "en": [
+    "beard oil vs beard balm"
+   ],
+   "es": "aceite para barba"
+  }
+ ],
+ "suggested_content_changes": [
+  {
+   "id": "services",
+   "file": "content/en/services.json",
+   "remove": [
+    "barber shop"
+   ],
+   "add": [
+    "barber services"
+   ]
+  },
+  {
+   "id": "services-haircuts",
+   "file": "content/en/services-haircuts.json",
+   "remove": [
+    "barber carlsbad nm"
+   ],
+   "add": []
+  },
+  {
+   "id": "services-kids",
+   "file": "content/en/services-kids.json",
+   "remove": [
+    "kids haircut carlsbad"
+   ],
+   "add": []
+  },
+  {
+   "id": "services-beard-shaves",
+   "file": "content/en/services-beard-shaves.json",
+   "remove": [
+    "head shave",
+    "beard line up"
+   ],
+   "add": []
+  },
+  {
+   "id": "services-facials",
+   "file": "content/en/services-facials.json",
+   "remove": [
+    "men's facial"
+   ],
+   "add": [
+    "facial for men",
+    "men's facial near me"
+   ]
+  },
+  {
+   "id": "services-braids",
+   "file": "content/en/services-braids.json",
+   "remove": [
+    "hair braiding near me"
+   ],
+   "add": []
+  },
+  {
+   "id": "services-designs",
+   "file": "content/en/services-designs.json",
+   "remove": [
+    "hair design for men"
+   ],
+   "add": []
+  },
+  {
+   "id": "services-color",
+   "file": "content/en/services-color.json",
+   "remove": [
+    "men's perm",
+    "perm for men",
+    "perm salon near me"
+   ],
+   "add": [
+    "mens perm"
+   ]
+  },
+  {
+   "id": "styles",
+   "file": "content/en/styles.json",
+   "remove": [
+    "mid fade",
+    "high fade",
+    "drop fade"
+   ],
+   "add": [
+    "haircut styles for men",
+    "mens haircut names"
+   ]
+  },
+  {
+   "id": "styles-low-taper-fade",
+   "file": "content/en/styles-low-taper-fade.json",
+   "remove": [
+    "mid taper fade",
+    "low fade"
+   ],
+   "add": [
+    "low taper"
+   ]
+  },
+  {
+   "id": "styles-buzz-cut",
+   "file": "content/en/styles-buzz-cut.json",
+   "remove": [
+    "buzz cut fade"
+   ],
+   "add": []
+  },
+  {
+   "id": "about",
+   "file": "content/en/about.json",
+   "remove": [
+    "barber in carlsbad nm"
+   ],
+   "add": [
+    "divinely faded"
+   ]
+  },
+  {
+   "id": "visit",
+   "file": "content/en/visit.json",
+   "remove": [
+    "barber near me",
+    "barber shops in carlsbad nm",
+    "carlsbad nm barber shop"
+   ],
+   "add": [
+    "barber open saturday",
+    "barbershop near me open saturday"
+   ]
+  },
+  {
+   "id": "faq",
+   "file": "content/en/faq.json",
+   "remove": [
+    "what to ask for at the barber"
+   ],
+   "add": [
+    "how much is a men's haircut"
+   ]
+  }
+ ],
+ "spanish_required_volumes": [
+  {
+   "kw": "corte low taper",
+   "us_es": 210,
+   "eddy_es": null,
+   "evidence": "US-es 210/mo"
+  },
+  {
+   "kw": "degradado bajo",
+   "us_es": 590,
+   "eddy_es": null,
+   "evidence": "US-es 590/mo"
+  },
+  {
+   "kw": "corte burst fade",
+   "us_es": 480,
+   "eddy_es": null,
+   "evidence": "US-es 480/mo"
+  },
+  {
+   "kw": "mullet moderno",
+   "us_es": 1300,
+   "eddy_es": null,
+   "evidence": "US-es 1,300/mo"
+  },
+  {
+   "kw": "corte de pelo para niños",
+   "us_es": 2400,
+   "eddy_es": 10,
+   "evidence": "Eddy Co. (es) 10/mo · US-es 2,400/mo"
+  },
+  {
+   "kw": "trenzas para hombre",
+   "us_es": 14800,
+   "eddy_es": null,
+   "evidence": "US-es 14,800/mo"
+  },
+  {
+   "kw": "barbería cerca de mí",
+   "us_es": 165000,
+   "eddy_es": 70,
+   "evidence": "Eddy Co. (es) 70/mo · US-es 165,000/mo · GBP <15/12 mo"
+  },
+  {
+   "kw": "barbería en carlsbad nm",
+   "us_es": null,
+   "eddy_es": null,
+   "evidence": "low/no data"
+  },
+  {
+   "kw": "corte de cabello hombre",
+   "us_es": 8100,
+   "eddy_es": 10,
+   "evidence": "Eddy Co. (es) 10/mo · US-es 8,100/mo"
+  },
+  {
+   "kw": "fade bajo",
+   "us_es": 880,
+   "eddy_es": 10,
+   "evidence": "Eddy Co. (es) 10/mo · US-es 880/mo"
+  },
+  {
+   "kw": "taper fade",
+   "us_es": 246000,
+   "eddy_es": null,
+   "evidence": "US-es 246,000/mo"
+  },
+  {
+   "kw": "corte mullet",
+   "us_es": 6600,
+   "eddy_es": 10,
+   "evidence": "Eddy Co. (es) 10/mo · US-es 6,600/mo"
+  },
+  {
+   "kw": "diseños de cabello hombre",
+   "us_es": 10,
+   "eddy_es": null,
+   "evidence": "US-es 10/mo"
+  },
+  {
+   "kw": "facial para hombres",
+   "us_es": 170,
+   "eddy_es": null,
+   "evidence": "US-es 170/mo"
+  },
+  {
+   "kw": "afeitado con navaja",
+   "us_es": 10,
+   "eddy_es": null,
+   "evidence": "US-es 10/mo"
+  }
+ ]
+}

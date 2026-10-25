@@ -1,0 +1,158 @@
+{
+  "id": "post-father-son-haircut",
+  "locale": "es",
+  "slug": "/es/blog/corte-papa-e-hijo/",
+  "alt": "/blog/father-son-haircut/",
+  "date": "2026-11-02",
+  "plan_rank": 3,
+  "title": "Corte para papá e hijo: agendar uno tras otro",
+  "eyebrow": "NIÑOS",
+  "hero": "pexels-7697674-father-son-barbershop",
+  "hero_alt": "Un papá y su hijo pequeño juntos en una barbería",
+  "image_plan": "pexels: father son barbershop → stock photo (Pexels), not Divinely Faded work",
+  "card_text": "Dos citas seguidas en Booksy, el servicio adecuado para cada uno y si conviene ir con el mismo corte.",
+  "lede": [
+    "Para un corte de papá e hijo en un solo viaje, agenda dos citas en Booksy en horarios seguidos y elige el servicio que le quede a cada uno. Los dos se sientan en la misma silla, uno después del otro.",
+    "Trabajo solo, así que siempre es un corte a la vez. Aquí te explico cómo acomodar las dos citas, qué agendar y cómo decidir si van con el mismo corte."
+  ],
+  "seo": {
+    "title": "Corte para papá e hijo: uno tras otro | Carlsbad, NM",
+    "description": "Corte para papá e hijo en Carlsbad, NM: agenda dos citas seguidas en Booksy, elige un servicio para cada uno y decide si van con el mismo corte.",
+    "primary": "corte papá e hijo",
+    "secondary": []
+  },
+  "breadcrumb": [
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Blog",
+      "/es/blog/"
+    ],
+    [
+      "Corte papá e hijo",
+      "/es/blog/corte-papa-e-hijo/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / CITAS",
+      "heading": "Dos horarios, un viaje.",
+      "lead": "Agéndalos seguidos.",
+      "paragraphs": [
+        "Elige el primer horario en Booksy y agéndalo. Luego agenda el horario que empieza cuando termina ese. Cada cita va por separado, con su propio servicio.",
+        "Booksy separa {{minutes:essential-haircut}} para un Essential Haircut (corte esencial) y {{minutes:signature-cut}} para un Signature Cut (corte distintivo), así que suma los dos que elijas para saber cuánto tiempo vas a estar en la barbería.",
+        "El sábado, de 8:00 AM a 2:00 PM, es el día sin escuela de por medio, así que es el que conviene agendar con tiempo. Si no encuentras dos horarios disponibles juntos, mándame un mensaje al {{phone}} antes de conformarte con dos viajes separados."
+      ],
+      "link": {
+        "label": "CORTES PARA NIÑOS",
+        "href": "page:services-kids"
+      }
+    },
+    {
+      "type": "list",
+      "eyebrow": "02 / QUÉ AGENDAR",
+      "heading": "Elige para cada uno.",
+      "lead": "Dos citas no necesitan el mismo servicio.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "Un corte limpio con acabado de navaja en la nuca. Le queda natural al hijo, o a un papá sin barba.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "El corte más un corte de barba o delineado (line-up) y toque final con toalla caliente. Agéndalo para el papá cuya barba debe ir con su desvanecido (fade).",
+          "book": true
+        },
+        {
+          "title": "Extra de diseño en el pelo",
+          "meta": "{{addon:hair-design}}",
+          "body": "Líneas o una curva de diseño libre (freestyle) cortadas en un desvanecido. Agrégalo a la cita del hijo si quiere algo propio."
+        },
+        {
+          "title": "Todas las opciones de corte",
+          "meta": "Compara",
+          "body": "La página de cortes muestra los tres servicios de corte y lo que los distingue.",
+          "href": "page:services-haircuts",
+          "link_label": "VER LOS CORTES"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / QUIÉN VA PRIMERO",
+      "heading": "¿Primero el hijo o el papá?",
+      "lead": "No hay regla.",
+      "paragraphs": [
+        "A un niño más pequeño muchas veces le va mejor pasar primero, mientras todavía tiene paciencia y antes de tener que esperar. A un hijo más grande puede darle igual, así que deja que él decida.",
+        "Pase quien pase segundo, planea el día según lo que dura la primera cita, para que nadie ande con prisa a lo siguiente."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / IGUALES",
+      "heading": "Iguales o no.",
+      "lead": "Las dos opciones están bien.",
+      "paragraphs": [
+        "Los cortes iguales salen fáciles en una foto, pero nadie tiene que ir igual. El mismo desvanecido se puede ver distinto en un papá y en un hijo, porque el tipo de pelo, el grosor y la forma de la cabeza cambian cómo queda un corte, y yo adapto cada uno a la cabeza que tengo enfrente.",
+        "Si quieren ir iguales, elijan un estilo y enséñenme una foto. Un taper bajo es fácil de compartir, porque queda bien en pelo lacio, ondulado o chino. Si cada uno prefiere su propio look, díganmelo al empezar cada corte.",
+        "Ir iguales tampoco tiene que ser exacto. El mismo desvanecido a los lados con la parte de arriba distinta es una forma fácil de verse de la familia sin parecer gemelos."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "05 / PRIMER CORTE JUNTOS",
+      "heading": "Que sea fácil para él.",
+      "lead": "Sobre todo con un hijo pequeño.",
+      "paragraphs": [
+        "Si es uno de los primeros cortes de barbería de tu hijo, cuéntale lo que viene antes de llegar: la capa, el zumbido de la máquina cerca de la oreja, la sensación fresca de la navaja en la nuca. Los niños que saben qué esperar casi siempre se sientan más tranquilos.",
+        "Deja que elija su propio corte con las fotos de mi página de cortes para niños, o que decida ir igual que tú. Un corte que fue idea suya es un corte para el que se sienta con gusto."
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / PREGUNTAS",
+      "heading": "Los papás preguntan.",
+      "items": [
+        {
+          "q": "¿Cuánto cuestan dos cortes seguidos?",
+          "a": "Cada cita tiene su precio como cualquier otra: el Essential Haircut cuesta {{price:essential-haircut}} y el Signature Cut {{price:signature-cut}}. Pagas después del servicio en efectivo, con tarjeta, por Zelle o por Cash App."
+        },
+        {
+          "q": "¿Puedo agendar las dos citas a la vez?",
+          "a": "Agéndalas una después de la otra en Booksy. Si el segundo horario no está disponible justo después del primero, mándame un mensaje y pregúntame."
+        },
+        {
+          "q": "¿El papá puede arreglarse la barba en el mismo viaje?",
+          "a": "Sí. Agenda el Signature Cut para el papá, y el corte de barba o el delineado se hace en su propia cita. Trabajo una silla a la vez, así que las dos citas igual van una después de la otra."
+        },
+        {
+          "q": "¿Y si uno de los dos no puede llegar?",
+          "a": "Cancela esa cita en Booksy lo antes que puedas, para que el horario le quede a alguien más. Si no llegas a tu cita o cancelas de último momento, se puede cobrar un cargo por cancelación."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "LA MISMA SILLA",
+      "heading": "Un viaje.<br>Dos cortes frescos.",
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "services-kids",
+    "services-haircuts"
+  ],
+  "tim_questions": [
+    "Can a family member wait inside the shop during the other person's cut? (the post avoids saying so)",
+    "Does Booksy let one account book two people back to back, or should each person book separately?"
+  ]
+}

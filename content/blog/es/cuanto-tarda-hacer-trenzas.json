@@ -1,0 +1,172 @@
+{
+  "id": "post-how-long-to-braid-hair",
+  "locale": "es",
+  "slug": "/es/blog/cuanto-tarda-hacer-trenzas/",
+  "alt": "/blog/how-long-to-braid-hair/",
+  "date": "2026-11-02",
+  "plan_rank": 7,
+  "title": "¿Cuánto tarda hacer trenzas? Lo que cubren dos horas",
+  "eyebrow": "TRENZAS",
+  "hero": "braids-top",
+  "hero_alt": "Trenzas pegadas hacia atrás sobre los lados desvanecidos, vistas desde arriba",
+  "image_plan": null,
+  "card_text": "Booksy separa dos horas para las trenzas. Esto es lo que cambia el tiempo, por qué el precio varía y cómo planear.",
+  "lede": [
+    "En mi barbería, las trenzas (en Booksy aparece como Braids) se agendan como una cita de {{minutes:braids}} en Booksy, y el precio varía según el estilo. Ese es el tiempo que dejo libre para un peinado de trenzas personalizado.",
+    "Cuánto tarda hacer trenzas en cualquier lugar depende de cuántas trenzas son, qué tan largo y grueso es el pelo y qué tan elaborado es el patrón. Esto es lo que llena ese tiempo y cómo planear alrededor de él."
+  ],
+  "seo": {
+    "title": "¿Cuánto tarda hacer trenzas? Lo que cubren dos horas",
+    "description": "¿Cuánto tarda hacer trenzas? En Divinely Faded, en Carlsbad, NM, las trenzas son una cita de 2 horas. Lo que cambia el tiempo y el precio.",
+    "primary": "cuánto tarda hacer trenzas",
+    "secondary": []
+  },
+  "breadcrumb": [
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Blog",
+      "/es/blog/"
+    ],
+    [
+      "Cuánto tardan las trenzas",
+      "/es/blog/cuanto-tarda-hacer-trenzas/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / LO QUE CAMBIA EL TIEMPO",
+      "heading": "Filas, largo, patrón.",
+      "lead": "Lo que marca el ritmo.",
+      "subsections": [
+        {
+          "heading": "Número de trenzas",
+          "paragraphs": [
+            "Más trenzas significa más rayas y más trenzado. Unas cuantas filas gruesas van más rápido que muchas delgadas."
+          ]
+        },
+        {
+          "heading": "Largo y grosor",
+          "paragraphs": [
+            "El pelo más largo y grueso tarda más en separarse en secciones, y cada trenza tiene más camino antes de llegar a la punta."
+          ]
+        },
+        {
+          "heading": "Quitar trenzas viejas",
+          "paragraphs": [
+            "¿Vienes todavía con trenzas puestas? Dímelo en tu mensaje, porque quitarlas también toma tiempo."
+          ]
+        },
+        {
+          "heading": "El patrón",
+          "paragraphs": [
+            "Las filas derechas hacia atrás son las más sencillas de partir. Las curvas, los pares que se juntan en la coronilla y los detalles de acabado en las puntas piden más planeación."
+          ]
+        }
+      ],
+      "paragraphs": [
+        "Cada peinado de trenzas es personalizado, así que no hay un número que sirva para todos los estilos. Booksy separa {{minutes:braids}} para la cita de todos modos."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / PRECIO",
+      "heading": "Por qué dice Varía.",
+      "lead": "El estilo pone el precio.",
+      "paragraphs": [
+        "En Booksy el precio de las trenzas dice “{{price:braids}}” porque depende del estilo. Un peinado sencillo y uno elaborado no cuestan lo mismo.",
+        "La forma más rápida de tener un número real es un mensaje. Manda una foto de las trenzas que quieres al {{phone}} y pregúntame antes de agendar.",
+        "Cada peinado que trenzo es personalizado, así que en ese mensaje definimos exactamente lo que vas a recibir. Cuando ya quedamos en el estilo, agenda el horario de trenzas en Booksy y listo."
+      ],
+      "link": {
+        "label": "VER LA PÁGINA DE TRENZAS",
+        "href": "page:services-braids"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / PLANEACIÓN",
+      "heading": "Libera el tiempo.",
+      "lead": "Siéntate una vez, por un buen rato.",
+      "paragraphs": [
+        "Elige una mañana o una tarde en la que puedas quedarte sentado {{minutes:braids}} sin ver el reloj. Booksy muestra los horarios disponibles, y el sábado abro de 8:00 AM a 2:00 PM, así que un peinado de trenzas en sábado que empiece a las 8 te deja la tarde libre.",
+        "¿No sabes cómo debe venir tu pelo, lavado o no? Pregúntalo en el mismo mensaje de tu foto.",
+        "Pagas cuando las trenzas están terminadas, y la cita se agenda como cualquier otra. Si tienes que cancelar, hazlo con tiempo: dos horas vacías son difíciles de llenar, y Booksy puede cobrar un cargo si no llegas a tu cita o cancelas de último momento."
+      ],
+      "link": {
+        "label": "MÁS RESPUESTAS EN LAS PREGUNTAS FRECUENTES",
+        "href": "page:faq"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / DENTRO DE LA CITA",
+      "heading": "En qué se van dos horas.",
+      "lead": "Planear, partir, trenzar, terminar.",
+      "paragraphs": [
+        "Un peinado de trenzas por lo general sigue el mismo orden. Vemos tu foto y decidimos el patrón. El pelo se parte en filas, luego cada fila se trenza hasta la punta, y el peinado se revisa y se termina. Mírate en el espejo, de frente y por atrás, antes de irte.",
+        "Hacer las rayas es donde se va buena parte del tiempo. Las rayas limpias y parejas son las que hacen que las filas se vean nítidas, y no son algo para apurar.",
+        "Muchos de los peinados de mi página de trenzas combinan filas arriba con un lado con desvanecido (fade) o con taper. Si quieres ese look, menciona el desvanecido en tu mensaje, para que planeemos el tiempo con eso en cuenta."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "05 / EL TIEMPO EN LA SILLA",
+      "heading": "Ponte cómodo.",
+      "lead": "Que las dos horas se te hagan fáciles.",
+      "paragraphs": [
+        "Come antes de venir, carga tu teléfono y ponte algo cómodo en el cuello y los hombros. Dos horas en una silla se pasan más fácil cuando no tienes hambre ni estás inquieto.",
+        "Planea cómo llegas y lo que tengas después según la cita completa, para que no estés viendo la puerta al final. Un peinado de trenzas recién hecho se ve más nítido al principio, así que si las trenzas son para un evento, agenda cerca de la fecha."
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / PREGUNTAS",
+      "heading": "Preguntas de trenzas.",
+      "items": [
+        {
+          "q": "¿Cuánto tarda hacer trenzas?",
+          "a": "Depende del número de trenzas, el largo del pelo y el patrón. En Divinely Faded, las trenzas se agendan como una cita de {{minutes:braids}}."
+        },
+        {
+          "q": "¿Cuánto cuestan las trenzas?",
+          "a": "Varía según el estilo. Mándame una foto de lo que quieres y pregúntame antes de agendar."
+        },
+        {
+          "q": "¿Las trenzas tardan más que un corte?",
+          "a": "Sí. Las trenzas se agendan por {{minutes:braids}}, mientras que un Essential Haircut (corte esencial) toma {{minutes:essential-haircut}}."
+        },
+        {
+          "q": "¿Mando una foto de las trenzas que quiero?",
+          "a": "Sí, por favor. Mándala antes de agendar, para que platiquemos el estilo y el precio."
+        },
+        {
+          "q": "¿Cuándo puedo agendar trenzas?",
+          "a": "En cualquier horario disponible en Booksy que alcance para los {{minutes:braids}} completos. El sábado trabajo de 8:00 AM a 2:00 PM, y cierro el miércoles y el domingo."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "TRENZAS",
+      "heading": "Dos horas.<br>Filas limpias.",
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "services-braids",
+    "faq"
+  ],
+  "tim_questions": [
+    "Does any braid style run past the 2-hour Booksy block?",
+    "Should clients come with washed and detangled hair? (the post tells them to ask)",
+    "Is a fade under the braids included in the braids booking, or booked separately?",
+    "Do you braid kids' hair? Do you supply cuffs or extensions?"
+  ]
+}

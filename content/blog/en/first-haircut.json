@@ -1,0 +1,179 @@
+{
+  "id": "post-first-haircut",
+  "locale": "en",
+  "slug": "/blog/first-haircut/",
+  "date": "2026-11-02",
+  "plan_rank": 12,
+  "title": "Your Child's First Haircut: What to Expect at the Barbershop",
+  "eyebrow": "KIDS",
+  "hero": "cut-kids-low-fade",
+  "hero_alt": "Boy's low fade with a short top and a squared line-up",
+  "image_plan": null,
+  "card_text": "No set age, a little prep at home, and a parent close by: how a child's first haircut works in my chair.",
+  "lede": [
+    "There's no set age for a child's first haircut. Book it when the hair starts falling in their eyes, curling over the ears or tangling every morning, or when you want them looking tidy for a photo. At my shop in Carlsbad, a first haircut is booked on Booksy like any other appointment, and the Essential Haircut ({{price:essential-haircut}}, {{minutes:essential-haircut}}) covers a kid's cut.",
+    "Here's how to get your child ready, what to bring along, and what happens once they're up in the chair."
+  ],
+  "seo": {
+    "title": "Your Child's First Haircut: What to Expect | Carlsbad, NM",
+    "description": "A child's first haircut at Divinely Faded in Carlsbad, NM: when to book it, how to prepare your kid, what to bring and what happens in the chair.",
+    "primary": "first haircut",
+    "secondary": [
+      "baby's first haircut",
+      "when should baby get first haircut"
+    ]
+  },
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Blog",
+      "/blog/"
+    ],
+    [
+      "First Haircut",
+      "/blog/first-haircut/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / WHEN",
+      "heading": "When it's time.",
+      "lead": "Watch the hair, not the calendar.",
+      "paragraphs": [
+        "Hair comes in at its own pace on every child. One toddler has a full head of it early; another barely needs a trim for a long while. The signs are practical: bangs poking at the eyes, hair sitting on the collar, knots that turn brushing into a fight.",
+        "Some families plan the first cut around a birthday or holiday photos. That works too. Just book it a few days before the photo rather than the morning of, so nobody is rushed.",
+        "If your child is very young, text me at {{phone}} before you book. We can talk through what you're hoping for and whether a first cut makes sense yet."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / GETTING READY",
+      "heading": "Prepare at home.",
+      "lead": "A preview makes the real thing easier.",
+      "subsections": [
+        {
+          "heading": "Tell them what's coming",
+          "paragraphs": [
+            "Describe it in their words: a cape over the shoulders, clippers that hum, a mirror at the end to see the new look. Nothing in the chair should be a surprise."
+          ]
+        },
+        {
+          "heading": "Pick a good hour",
+          "paragraphs": [
+            "Choose a slot when your child is usually rested and fed. A morning after breakfast tends to go easier than the tail end of a long day. Saturday runs 8:00 AM to 2:00 PM if a weekday won't work."
+          ]
+        },
+        {
+          "heading": "Bring something to hold",
+          "paragraphs": [
+            "A favorite toy, or a show playing on your phone with the sound low, keeps small hands busy and eyes forward."
+          ]
+        },
+        {
+          "heading": "Decide how much comes off",
+          "paragraphs": [
+            "A first cut doesn't have to be dramatic. Clearing the hair from the eyes, ears and neck still counts. If you'd like something shaped, like a short fade, save a photo of it to show me."
+          ]
+        },
+        {
+          "heading": "Dress for clippings",
+          "paragraphs": [
+            "Put your child in a shirt that's easy to swap, or pack a spare. Tiny clippings like to sneak under a collar, and a fresh shirt on the way out keeps the itching out of the car."
+          ]
+        }
+      ],
+      "link": {
+        "label": "BOOKING AND HOURS FAQ",
+        "href": "page:faq"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / IN THE CHAIR",
+      "heading": "What happens.",
+      "lead": "Same chair, smaller client.",
+      "paragraphs": [
+        "Your child sits in the same chair every adult does. I work solo, so the person who says hello is the person who cuts their hair from start to finish, and the same barber they'll see next time.",
+        "Little kids move. That's normal, and a wiggly first cut is still a good first cut. The ears and the neckline are where stillness matters most, so that's the moment a calm word from you helps.",
+        "Stay where your child can see you. When it's done, take the photo. A first haircut only happens once.",
+        "There's no need to settle the next visit on the spot. See how this first cut grows, then book again on Booksy whenever the hair starts getting in the way."
+      ],
+      "link": {
+        "label": "KIDS' HAIRCUTS",
+        "href": "page:services-kids"
+      }
+    },
+    {
+      "type": "list",
+      "eyebrow": "04 / WHAT TO BOOK",
+      "heading": "Booking a first cut.",
+      "lead": "Kids book from the regular menu.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "The haircut shaped to your child's head, a straight razor cleanup along the neck and a finished style. It's the booking that covers a kid's cut.",
+          "book": true
+        },
+        {
+          "title": "Kids' haircuts",
+          "meta": "Kids welcome",
+          "body": "Real cuts on young clients from my chair, like the low fade with a squared line-up at the top of this post, and how parents book them.",
+          "href": "page:services-kids",
+          "link_label": "SEE KIDS' CUTS"
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "05 / PARENTS ASK",
+      "heading": "First-cut questions.",
+      "items": [
+        {
+          "q": "When should a baby get a first haircut?",
+          "a": "There's no right age. Book it when the hair gets in the way or bothers your child, or when you want a neater look for photos. For a very young child, text me before you book."
+        },
+        {
+          "q": "How long does a first haircut take?",
+          "a": "Booksy holds {{minutes:essential-haircut}} for the Essential Haircut. That gives a nervous first-timer room to settle in without anyone watching the clock."
+        },
+        {
+          "q": "Can I stay with my child?",
+          "a": "Yes. Come in with them and stay close, where they can see you the whole time."
+        },
+        {
+          "q": "What if my child cries?",
+          "a": "It happens, and it's fine. A parent nearby, a favorite toy and a short pause usually settle things."
+        },
+        {
+          "q": "When do I pay?",
+          "a": "After the cut, in full, by cash, card, Zelle or Cash App."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "FIRST CUT",
+      "heading": "Small client.<br>Big moment.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "services-kids",
+    "faq"
+  ],
+  "tim_questions": [
+    "What is the youngest age you cut? The post tells parents of very young children to text first.",
+    "Can a small child sit on a parent's lap, or do you use a booster seat?",
+    "On a toddler's first cut, do you still use the straight razor at the neck, or skip it?",
+    "Can parents keep a lock of hair from the first cut? Left out of the copy.",
+    "Do you talk kids through the cut in any particular way you'd like described? (the post only says a parent's calm word helps)"
+  ]
+}

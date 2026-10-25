@@ -1,0 +1,82 @@
+{
+  "id": "styles-textured-fringe",
+  "locale": "es",
+  "slug": "/es/estilos/fleco-texturizado/",
+  "alt": "/styles/textured-fringe/",
+  "nav_label": "Fleco texturizado",
+  "card_text": "Pelo hacia adelante con las puntas desfiladas.",
+  "breadcrumb": [["Inicio", "/es/"], ["Estilos", "/es/estilos/"], ["Fleco texturizado", "/es/estilos/fleco-texturizado/"]],
+  "seo": {
+    "title": "Fleco texturizado en Carlsbad, NM | Divinely Faded",
+    "description": "Flequillo texturizado en Carlsbad, NM: pelo hacia adelante, puntas desfiladas y lados con taper. Tres ejemplos reales de mi barbería. Agenda en Booksy.",
+    "primary": "flequillo texturizado hombre",
+    "secondary": ["fleco texturizado", "corte con fleco", "textured fringe"],
+    "og_photo": "cut-straight-fringe-taper"
+  },
+  "schema": { "type": "Service", "service_ids": ["essential-haircut", "signature-cut"] },
+  "photo_alt": {
+    "cut-straight-fringe-taper": "Fleco texturizado que cae recto hacia adelante, con una esquina marcada en la sien y un taper hasta la piel en la patilla",
+    "cut-taper-heavy-fringe": "Fleco texturizado pesado, con la parte de arriba larga llevada hacia adelante sobre un taper bajo alrededor de la oreja",
+    "cut-taper-textured-fringe": "Vista de atrás de un corte con fleco texturizado, con la coronilla desfilada sobre un taper que termina en el contorno de la nuca"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "ESTILOS / FLECO TEXTURIZADO",
+      "h1": "Fleco texturizado.",
+      "paragraphs": [
+        "Pelo hacia adelante, puntas desfiladas, lados con taper. Eso es un fleco texturizado en una sola frase.",
+        "El fleco cae sobre la frente en lugar de ir hacia atrás, y las puntas se cortan para que se separen en mechones en vez de quedar en un solo bloque. Un taper o un desvanecido (fade) bajo en los lados deja el peso arriba y al frente, que es donde vive el estilo."
+      ],
+      "link": { "label": "AGENDA ESTE CORTE", "href": "booksy" },
+      "photos": ["cut-straight-fringe-taper", "cut-taper-heavy-fringe"]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / TRES VERSIONES",
+      "heading": "Una idea, tres pesos.",
+      "lead": "De ligero a pesado.",
+      "paragraphs": [
+        "En la primera foto el fleco cae recto hacia adelante, con una esquina nítida en la sien y piel en la patilla. En la segunda, la parte de arriba es más larga y pesada, llevada hacia adelante sobre un taper bajo alrededor de la oreja.",
+        "La tercera muestra la parte de atrás del corte: una coronilla desfilada y texturizada sobre un taper que termina en el contorno de la nuca. Desde atrás, un buen corte con fleco también debe verse intencional."
+      ],
+      "photos": ["cut-taper-textured-fringe"]
+    },
+    {
+      "type": "list",
+      "eyebrow": "03 / CÓMO AGENDARLO",
+      "heading": "Para agendarlo.",
+      "lead": "Casi todos los cortes con fleco son un solo servicio.",
+      "items": [
+        { "title": "Essential Haircut", "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}", "body": "Fleco, parte de arriba y taper en una sola cita, más un acabado con navaja en la nuca y peinado final.", "href": "page:services-haircuts", "book": true },
+        { "title": "Signature Cut", "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}", "body": "Elígelo si también quieres que te recorte o te haga el delineado (line-up) del vello facial; la toalla caliente viene incluida.", "href": "page:services-haircuts", "book": true }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / MANTENIMIENTO",
+      "heading": "El fleco es el reloj.",
+      "lead": "Cuando te llega a los ojos, vuelve a agendar.",
+      "paragraphs": [
+        "Un fleco texturizado te avisa cuándo toca: en cuanto el frente empieza a taparte los ojos, la forma se perdió. El taper de los lados normalmente pide atención un poco antes. En el día a día es un estilo de poco esfuerzo: no hay raya que acomodar ni hace falta peine."
+      ],
+      "photos": []
+    },
+    {
+      "type": "faq",
+      "eyebrow": "05 / PREGUNTAS",
+      "heading": "Preguntas sobre el fleco.",
+      "items": [
+        { "q": "¿Qué significa fleco texturizado?", "a": "El fleco es el pelo que cae sobre la frente; texturizado significa que las puntas se cortan disparejas a propósito para que se separen. Juntos: un frente hacia adelante que se ve suelto en vez de recto y parejo." },
+        { "q": "¿Cómo se logra un fleco texturizado despeinado?", "a": "El corte hace casi todo, porque las puntas tienen que ir desfiladas. Después, échalo hacia adelante con la mano y olvídate del peine. Al final de tu corte pregúntame cómo mantenerlo así." },
+        { "q": "¿Un fleco texturizado es lo mismo que un corte Edgar?", "a": "Son estilos parecidos. Un corte Edgar normalmente lleva una línea recta y pareja en la frente y un desvanecido marcado. Un fleco texturizado es más suave y más desfilado en las puntas. Quieras el que quieras, trae una foto para que los dos pensemos en el mismo corte." },
+        { "q": "¿A quién no le conviene un fleco?", "a": "A quien no soporta que el pelo le toque las cejas, o a quien tiene un remolino fuerte justo en el nacimiento del pelo, al frente, que empuja el pelo hacia arriba en vez de hacia adelante." }
+      ]
+    }
+  ],
+  "related": ["styles-textured-crop", "styles-low-taper-fade", "styles-modern-mullet", "services-haircuts"],
+  "tim_questions": [
+    "Do you cut the blunt-line edgar as well? The textured fringe page only calls the edgar a related look and never calls your cut an edgar. If you do cut it, the page can say so.",
+    "How long do you tell people a textured fringe lasts between cuts, and any styling advice (no brand names)? Intervals and product tips were removed because they weren't yours."
+  ]
+}

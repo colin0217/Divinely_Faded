@@ -1,0 +1,143 @@
+{
+  "id": "faq",
+  "locale": "en",
+  "slug": "/faq/",
+  "alt": "/es/preguntas-frecuentes/",
+  "nav_label": "FAQ",
+  "card_text": "Prices, hours, holidays, payment and kids, answered short.",
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "FAQ",
+      "/faq/"
+    ]
+  ],
+  "seo": {
+    "title": "How Much Is a Haircut? Barber FAQ in Carlsbad, NM",
+    "description": "Straight answers from Tim at Divinely Faded in Carlsbad, NM: haircut prices, hours, Saturdays, holidays, payment, kids and how long each service takes.",
+    "primary": "how much is a haircut carlsbad nm",
+    "secondary": [
+      "how much is a haircut",
+      "barbers open on sunday near me",
+      "what to ask for at the barber"
+    ],
+    "og_photo": "team-tim-portrait"
+  },
+  "schema": {
+    "type": "FAQPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "FAQ",
+      "h1": "Questions.",
+      "paragraphs": [
+        "Haircuts are {{price:essential-haircut}}, {{price:signature-cut}} or {{price:luxury-grooming}}, and every visit is booked on Booksy. Straight answers on booking, hours, prices and what happens in the chair. If yours isn't here, text me."
+      ],
+      "link": {
+        "label": "TEXT ME",
+        "href": "sms"
+      },
+      "photos": []
+    },
+    {
+      "type": "faq",
+      "eyebrow": "01 / BOOKING & HOURS",
+      "heading": "When and how.",
+      "items": [
+        {
+          "q": "Do I need an appointment?",
+          "a": "Yes. Divinely Faded is appointment only, and every booking goes through Booksy. Pick your service, pick your time, and you're set."
+        },
+        {
+          "q": "What are your hours?",
+          "a": "Monday, Tuesday, Thursday and Friday from 9:00 AM to noon and again from 12:30 to 5:00 PM. Saturday from 8:00 AM to 2:00 PM."
+        },
+        {
+          "q": "Are you open on Saturday?",
+          "a": "Yes, 8:00 AM to 2:00 PM. It's the one weekend day I cut."
+        },
+        {
+          "q": "Are you open Sunday or Wednesday?",
+          "a": "No. The shop is closed every Wednesday and every Sunday."
+        },
+        {
+          "q": "Are you open on holidays?",
+          "a": "Yes, on my normal schedule for that day of the week. If you book on the holiday itself, there's a {{holiday_fee}} holiday fee on top of the service."
+        },
+        {
+          "q": "How do I reach you?",
+          "a": "Text {{phone}}. I'd rather get a text than a call, but calls work too."
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "02 / PRICES & PAYMENT",
+      "heading": "What it costs.",
+      "items": [
+        {
+          "q": "How much is a haircut?",
+          "a": "The Essential Haircut is {{price:essential-haircut}}. The Signature Cut, which includes a beard trim or line-up and a hot towel finish, is {{price:signature-cut}}. The Luxury Grooming Experience is {{price:luxury-grooming}}. Every service and add-on is listed on the services page."
+        },
+        {
+          "q": "What payment do you take?",
+          "a": "I take cash, card, Zelle and Cash App. You pay in full after your service, not before."
+        },
+        {
+          "q": "What happens if I miss my appointment or cancel late?",
+          "a": "No-shows and late cancellations may be charged a cancellation fee through Booksy. If something comes up, cancel on Booksy as early as you can."
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "03 / IN THE CHAIR",
+      "heading": "What to expect.",
+      "items": [
+        {
+          "q": "Do you cut kids' hair?",
+          "a": "Yes, kids are welcome. Book them on Booksy the same way you'd book yourself."
+        },
+        {
+          "q": "How long does each service take?",
+          "a": "Essential Haircut {{minutes:essential-haircut}}. Signature Cut {{minutes:signature-cut}}. Luxury Grooming Experience {{minutes:luxury-grooming}}. Straight Razor Beard Shave {{minutes:straight-razor-beard-shave}}. Head & Beard Shave {{minutes:head-beard-shave}}. Express Facial {{minutes:express-facial}}. Deluxe Facial {{minutes:deluxe-facial}}. Braids {{minutes:braids}}. Perm {{minutes:perm}}. Color Transformation {{minutes:color-transformation}}."
+        },
+        {
+          "q": "What should I ask for?",
+          "a": "A photo of the cut you want does most of the talking. Tell me how short you want the sides, how much to leave on top, and whether the beard needs work, because on Booksy a beard trim or line-up comes with the Signature Cut."
+        },
+        {
+          "q": "How long do braids take?",
+          "a": "Booksy holds {{minutes:braids}} for braids, and the price varies with the style you choose."
+        },
+        {
+          "q": "Do you dye beards?",
+          "a": "No. Beard dyeing and capillary treatments aren't on my menu. Toupee services are coming soon."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "ALL SET",
+      "heading": "Got your answer?<br>Grab a time.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "services",
+    "visit",
+    "services-haircuts"
+  ],
+  "tim_questions": [
+    "[TIM?] Confirm weekday hours (Mon/Tue/Thu/Fri 9:00 AM–12:00 PM and 12:30–5:00 PM per Booksy).",
+    "Parking (left off the page; unknown).",
+    "Does a beard trim or line-up always mean the Signature Cut, or can it be added another way? (The 'What should I ask for' answer says to book the Signature Cut for beard work, which matches the Booksy menu.)"
+  ]
+}
