@@ -4,15 +4,31 @@
   "slug": "/styles/",
   "alt": "/es/estilos/",
   "nav_label": "Styles",
-  "breadcrumb": [["Home", "/"], ["Styles", "/styles/"]],
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Styles",
+      "/styles/"
+    ]
+  ],
   "seo": {
     "title": "Haircut Styles in Carlsbad, NM | Divinely Faded",
     "description": "Fades, tapers, mullets, crops and more, cut in Carlsbad, NM. Real photos of every style, what to ask for and which service to book on Booksy.",
     "primary": "haircut styles carlsbad nm",
-    "secondary": ["fade haircut carlsbad nm", "mid fade", "high fade", "drop fade"],
+    "secondary": [
+      "fade haircut carlsbad nm",
+      "mid fade",
+      "high fade",
+      "drop fade"
+    ],
     "og_photo": "cut-high-skin-fade-full-beard"
   },
-  "schema": { "type": "CollectionPage" },
+  "schema": {
+    "type": "CollectionPage"
+  },
   "photo_alt": {
     "cut-high-skin-fade-full-beard": "High skin fade under a short buzzed top, a razor line above the ear and a full, squared beard"
   },
@@ -25,25 +41,60 @@
         "Every cut in this library is shown with real photos from Divinely Faded in Carlsbad. Open a style to see what it is, who it suits, how to keep it sharp and which Booksy service to choose.",
         "Not sure what your cut is called? Bring a picture. Every Essential Haircut is tailored to you, so a photo of the look you want is the fastest place to start."
       ],
-      "link": { "label": "BOOK A CUT", "href": "booksy" },
-      "photos": ["cut-high-skin-fade-full-beard"]
+      "link": {
+        "label": "BOOK A CUT",
+        "href": "booksy"
+      },
+      "photos": [
+        "cut-high-skin-fade-full-beard"
+      ]
     },
     {
-      "type": "list",
+      "type": "cards",
       "eyebrow": "02 / THE LIBRARY",
       "heading": "Find your cut.",
       "lead": "Ten styles, one chair.",
       "items": [
-        { "title": "Skin Fade", "body": "Bare skin at the sides and back, blending into whatever length stays on top.", "href": "page:styles-skin-fade", "book": false },
-        { "title": "Low Taper Fade", "body": "Only the sideburns and nape come down. The mid taper lives here too.", "href": "page:styles-low-taper-fade", "book": false },
-        { "title": "Burst Fade", "body": "A semicircle of skin around the ear, with fullness kept at the back.", "href": "page:styles-burst-fade", "book": false },
-        { "title": "Modern Mullet", "body": "Tight faded sides and real length in back, burst fade mullet included.", "href": "page:styles-modern-mullet", "book": false },
-        { "title": "Textured Fringe", "body": "Worn forward onto the forehead with choppy ends and tapered sides.", "href": "page:styles-textured-fringe", "book": false },
-        { "title": "Buzz Cut", "body": "One short length all over. Crew cuts and the high and tight, too.", "href": "page:styles-buzz-cut", "book": false },
-        { "title": "Slick Back", "body": "Length on top combed back off the face, over a taper or a fade.", "href": "page:styles-slick-back", "book": false },
-        { "title": "Curly Top Fade", "body": "Natural curls up top, faded sides so the texture stands out.", "href": "page:styles-curly-top-fade", "book": false },
-        { "title": "Hard Part", "body": "A razor-cut part that holds its line without a comb.", "href": "page:styles-hard-part", "book": false },
-        { "title": "Textured Crop", "body": "A short, broken-up top brought forward into a fringe over tight sides.", "href": "page:styles-textured-crop", "book": false }
+        {
+          "id": "styles-skin-fade",
+          "text": "Bare skin at the sides and back, blending into whatever length stays on top."
+        },
+        {
+          "id": "styles-low-taper-fade",
+          "text": "Only the sideburns and nape come down. The mid taper lives here too."
+        },
+        {
+          "id": "styles-burst-fade",
+          "text": "A semicircle of skin around the ear, with fullness kept at the back."
+        },
+        {
+          "id": "styles-modern-mullet",
+          "text": "Tight faded sides and real length in back, burst fade mullet included."
+        },
+        {
+          "id": "styles-textured-fringe",
+          "text": "Worn forward onto the forehead with choppy ends and tapered sides."
+        },
+        {
+          "id": "styles-buzz-cut",
+          "text": "One short length all over. Crew cuts and the high and tight, too."
+        },
+        {
+          "id": "styles-slick-back",
+          "text": "Length on top combed back off the face, over a taper or a fade."
+        },
+        {
+          "id": "styles-curly-top-fade",
+          "text": "Natural curls up top, faded sides so the texture stands out."
+        },
+        {
+          "id": "styles-hard-part",
+          "text": "A razor-cut part that holds its line without a comb."
+        },
+        {
+          "id": "styles-textured-crop",
+          "text": "A short, broken-up top brought forward into a fringe over tight sides."
+        }
       ]
     },
     {
@@ -57,7 +108,11 @@
       "photos": []
     }
   ],
-  "related": ["services-haircuts", "services-beard-shaves", "faq"],
+  "related": [
+    "services-haircuts",
+    "services-beard-shaves",
+    "faq"
+  ],
   "tim_questions": [
     "Photo allocation: cut-high-skin-fade-full-beard was assigned to the textured crop page, but it shows a buzzed top with a high skin fade, not a crop, so it is used on the styles hub instead."
   ]

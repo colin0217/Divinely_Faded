@@ -21,6 +21,7 @@
   ],
   "closed": ["We", "Su"],
   "holidays": "Open on holidays at regular hours; $20 holiday fee on the holiday itself.",
+  "holiday_fee": 20,
   "payment": ["Cash", "Card", "Zelle", "Cash App"],
   "policy": "No-shows and late cancellations may be charged a cancellation fee (Booksy). Payment is due in full after the service.",
   "services": [

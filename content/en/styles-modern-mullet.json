@@ -68,7 +68,7 @@
       "items": [
         { "title": "Essential Haircut", "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}", "body": "Faded sides, a shaped back and a textured top, with straight razor work along the neck before it is styled.", "href": "page:services-haircuts", "book": true },
         { "title": "Signature Cut", "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}", "body": "The mullet, plus a trim or line-up for the beard and a hot towel to close.", "href": "page:services-haircuts", "book": true },
-        { "title": "Color Transformation", "meta": "{{price:color-transformation}} · {{minutes:color-transformation}}", "body": "Platinum like the first photo is bleach and tone work, booked as its own service. Book it alongside your cut [TIM?].", "href": "page:services-color", "book": true }
+        { "title": "Color Transformation", "meta": "{{price:color-transformation}} · {{minutes:color-transformation}}", "body": "Platinum like the first photo is bleach and tone work, booked as its own service. Text me before you book a cut and color together.", "href": "page:services-color", "book": true }
       ]
     },
     {

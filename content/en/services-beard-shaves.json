@@ -69,7 +69,7 @@
       "eyebrow": "05 / QUESTIONS",
       "heading": "Good to know.",
       "items": [
-        { "q": "Can I get a beard trim without a haircut?", "a": "On Booksy the beard trim comes with the Signature Cut. For a beard-only visit, text me first [TIM?]." },
+        { "q": "Can I get a beard trim without a haircut?", "a": "On Booksy the beard trim comes with the Signature Cut. For a beard-only visit, text me first." },
         { "q": "Do you dye beards?", "a": "No. Beard dyeing isn't something I offer." },
         { "q": "How long is a straight razor shave?", "a": "Booksy sets aside {{minutes:straight-razor-beard-shave}}, towels included." }
       ]

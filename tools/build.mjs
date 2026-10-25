@@ -13,7 +13,8 @@ const facts = read("content/facts.json");
 const SITE = (process.env.SITE_URL || facts.site_url).replace(/\/$/, "");
 const argToday = process.argv.includes("--today") ? process.argv[process.argv.indexOf("--today") + 1] : null;
 const TODAY = argToday || new Intl.DateTimeFormat("en-CA", { timeZone: "America/Denver" }).format(new Date());
-const photosMan = fs.existsSync(path.join(ROOT, "assets/photos/manifest.json")) ? read("assets/photos/manifest.json") : {};
+const MAN = "assets/photos/manifest.json";
+let photosMan = fs.existsSync(path.join(ROOT, MAN)) ? read(MAN) : {};
 
 // ---------- chrome strings ----------
 const T = {
@@ -25,7 +26,7 @@ const T = {
     policies: "Booking &amp; Cancellation Policies", directions: "Directions", text: "Text", call: "Call",
     hours: "Mon, Tue, Thu, Fri 9–12 &amp; 12:30–5 · Sat 8–2 · Closed Wed &amp; Sun",
     designed: "Designed by", powered: "Powered by", ctaEyebrow: "READY WHEN YOU ARE", ctaHead: "Take a seat.", ctaBook: "BOOK ON BOOKSY", ctaText: "TEXT TIM", ctaCall: "CALL",
-    bookThis: "Book this service", varies: "Varies", min: "min", hr: "hr", crumbHome: "Home", footerPhotoAlt: "Tim seated in his barbershop",
+    bookThis: "Book this service", learnMore: "SEE THE STYLE", varies: "Varies", min: "min", hr: "hr", crumbHome: "Home", footerPhotoAlt: "Tim seated in his barbershop",
   },
   es: {
     lang: "es", home: "/es/", book: "RESERVAR CITA", menuOpen: "Abrir navegación", skip: "Ir al contenido",
@@ -35,7 +36,7 @@ const T = {
     policies: "Políticas de reserva y cancelación", directions: "Cómo llegar", text: "Mensaje", call: "Llamar",
     hours: "Lun, mar, jue, vie 9–12 y 12:30–5 · Sáb 8–2 · Cerrado miér y dom",
     designed: "Diseñado por", powered: "Desarrollado por", ctaEyebrow: "CUANDO ESTÉS LISTO", ctaHead: "Toma asiento.", ctaBook: "RESERVA EN BOOKSY", ctaText: "MENSAJE A TIM", ctaCall: "LLAMAR",
-    bookThis: "Reservar este servicio", varies: "Varía", min: "min", hr: "h", crumbHome: "Inicio", footerPhotoAlt: "Tim sentado en su barbería",
+    bookThis: "Reservar este servicio", learnMore: "VER EL ESTILO", varies: "Varía", min: "min", hr: "h", crumbHome: "Inicio", footerPhotoAlt: "Tim sentado en su barbería",
   },
 };
 
@@ -51,6 +52,27 @@ const live = (p) => !p._post || (p.date && p.date <= TODAY);
 const all = [...pages, ...posts.filter(live)];
 const byKey = new Map(all.map((p) => [`${p.locale}:${p.id}`, p]));
 
+// ---------- photo preflight: fetch any library photo the content uses but the manifest lacks ----------
+{
+  const used = new Set();
+  const walk = (v, k) => {
+    if (Array.isArray(v)) return v.forEach((x) => walk(x, k));
+    if (v && typeof v === "object") return Object.entries(v).forEach(([kk, x]) => walk(x, kk));
+    if (typeof v === "string" && ["photos", "photo", "og_photo", "hero", "card_photo"].includes(k) && /^[a-z0-9-]+$/.test(v)) used.add(v);
+  };
+  all.forEach((p) => walk(p));
+  const lacking = () => [...used].filter((n) => !photosMan[n] || !fs.existsSync(path.join(ROOT, `assets/photos/${n}-1200.webp`)));
+  if (lacking().length) {
+    const { spawnSync } = await import("node:child_process");
+    const r = spawnSync("python3", [path.join(ROOT, "tools/photos.py"), ...lacking()], { stdio: "inherit" });
+    photosMan = fs.existsSync(path.join(ROOT, MAN)) ? read(MAN) : {};
+    if (r.status !== 0 || lacking().length) {
+      console.error(`build: photos missing from ${MAN}: ${lacking().join(", ")}\n  run: python3 tools/photos.py ${lacking().join(" ")}  (needs network + Pillow)`);
+      process.exit(1);
+    }
+  }
+}
+
 // ---------- helpers ----------
 const MISSING = new Set();
 const esc = (s) => String(s ?? "").replace(/&(?!(#\d+|#x[0-9a-f]+|[a-z]+);)/gi, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
@@ -62,6 +84,7 @@ function fill(s, t) {
     .replace(/\{\{price:([a-z0-9-]+)\}\}/g, (_, id) => (svc(id).price == null ? t.varies : `$${svc(id).price}`))
     .replace(/\{\{minutes:([a-z0-9-]+)\}\}/g, (_, id) => minutes(svc(id).minutes, t))
     .replace(/\{\{addon:([a-z0-9-]+)\}\}/g, (_, id) => { const a = facts.addons.find((x) => x.name.toLowerCase().replace(/&/g, "").replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "") === id); if (!a) throw new Error(`unknown addon ${id}`); return `$${a.price}`; })
+    .replace(/\{\{holiday_fee\}\}/g, `$${facts.holiday_fee}`)
     .replace(/\{\{phone\}\}/g, facts.phone.display)
     .replace(/\{\{address\}\}/g, `${facts.address.street}, ${facts.address.city}, ${facts.address.region} ${facts.address.postal}`);
 }
@@ -106,7 +129,8 @@ function blockHTML(b, p, t, first) {
         const title = it.title || it.q, body = it.body || it.a;
         const meta = it.meta ? `<span class="price">${html(fill(it.meta, t))}</span>` : "";
         const book = it.book ? `<a class="pill" href="${facts.booksy}" target="_blank" rel="noopener">${t.bookThis}</a>` : "";
-        return `<details><summary><span>${html(fill(title, t))}</span>${meta}<span class="plus">+</span></summary><div class="service-detail"><p>${html(fill(body, t))}</p>${book}</div></details>`;
+        const more = it.href ? `<a class="text-link" href="${esc(href(it.href, L))}"${aAttrs(href(it.href, L))}>${esc(it.link_label || t.learnMore)}</a>` : "";
+        return `<details><summary><span>${html(fill(title, t))}</span>${meta}<span class="plus">+</span></summary><div class="service-detail"><p>${html(fill(body, t))}</p>${more}${book}</div></details>`;
       }).join("");
       return `<section class="services df-section${b.type === "faq" ? " df-faq" : ""}" data-df-reveal-group><div class="section-heading"><span class="eyebrow" data-df-reveal>${esc(b.eyebrow)}</span><${H} data-df-reveal>${html(b.heading)}</${H}>${b.lead ? `<p data-df-reveal>${html(fill(b.lead, t))}</p>` : ""}</div><div class="service-list">${items}</div></section>`;
     }
@@ -117,8 +141,13 @@ function blockHTML(b, p, t, first) {
       return `<section class="services df-section" data-df-reveal-group><div class="section-heading"><span class="eyebrow" data-df-reveal>${esc(b.eyebrow)}</span><${H} data-df-reveal>${html(b.heading)}</${H}>${b.lead ? `<p data-df-reveal>${html(fill(b.lead, t))}</p>` : ""}</div><table class="df-table" data-df-reveal><thead><tr>${b.columns.map((c) => `<th scope="col">${esc(c)}</th>`).join("")}</tr></thead><tbody>${rows.map((r) => `<tr>${r.map((c) => `<td>${esc(c)}</td>`).join("")}</tr>`).join("")}</tbody></table>${paras ? `<div class="df-prose">${paras}</div>` : ""}</section>`;
     }
     case "cards": {
-      const items = (b.items || b.pages || []).map((id) => byKey.get(`${L}:${id}`)).filter(Boolean);
-      return `<section class="services df-section" data-df-reveal-group><div class="section-heading"><span class="eyebrow" data-df-reveal>${esc(b.eyebrow)}</span><${H} data-df-reveal>${html(b.heading)}</${H}>${b.lead ? `<p data-df-reveal>${html(fill(b.lead, t))}</p>` : ""}</div><div class="df-cards">${items.map((q) => { const ph = q.card_photo || q.seo?.og_photo || q.hero; return `<a class="df-card" data-df-reveal href="${q.slug}">${ph ? img(ph, altOf(q, ph) || q.nav_label || "", { sizes: "(min-width:701px) 33vw, 100vw" }) : ""}<h3>${esc(q.nav_label || q.title)}</h3><p>${esc(q.card_text || q.seo?.description || "")}</p></a>`; }).join("")}</div></section>`;
+      // items: page ids, or { id, text } to override the card line
+      const items = (b.items || b.pages || []).map((it) => (typeof it === "string" ? { id: it } : it)).map((it) => {
+        const q = byKey.get(`${L}:${it.id}`);
+        if (!q) { MISSING.add(`page:${it.id}`); return null; }
+        return { q, text: it.text };
+      }).filter(Boolean);
+      return `<section class="services df-section" data-df-reveal-group><div class="section-heading"><span class="eyebrow" data-df-reveal>${esc(b.eyebrow)}</span><${H} data-df-reveal>${html(b.heading)}</${H}>${b.lead ? `<p data-df-reveal>${html(fill(b.lead, t))}</p>` : ""}</div><div class="df-cards">${items.map(({ q, text }) => { const ph = q.card_photo || q.seo?.og_photo || q.hero; return `<a class="df-card" data-df-reveal href="${q.slug}">${ph ? img(ph, altOf(q, ph) || q.nav_label || "", { sizes: "(min-width:701px) 33vw, 100vw" }) : ""}<h3>${esc(q.nav_label || q.title)}</h3><p>${esc(text || q.card_text || q.seo?.description || "")}</p></a>`; }).join("")}</div></section>`;
     }
     default:
       throw new Error(`${p._file}: unknown block type ${b.type}`);
@@ -225,11 +254,14 @@ function renderPost(p, t) {
 
 // ---------- write ----------
 let n = 0;
+const LEAKS = [];
 for (const p of all) {
   if (p.id === "home" && p.locale === "en") continue; // Colin's homepage is hand-maintained; chrome stamped below
   const out = path.join(ROOT, p.slug === "/" ? "index.html" : p.slug.replace(/^\//, "") + "index.html");
+  const page = renderPage(p);
+  for (const [re, what] of [[/\[TIM\?\]/, "[TIM?] marker"], [/\{\{[^}]*\}\}/, "unfilled {{token}}"], [/#missing-/, "#missing- link"]]) if (re.test(page)) LEAKS.push(`${p._file}: ${what}`);
   fs.mkdirSync(path.dirname(out), { recursive: true });
-  fs.writeFileSync(out, renderPage(p));
+  fs.writeFileSync(out, page);
   n++;
 }
 // Remove built posts that are not live yet (date-gate), so a rebuild never leaks a future post.
@@ -249,4 +281,5 @@ home = home.replace(/<nav class="header-links">[\s\S]*?<\/nav><\/header><nav id=
 fs.writeFileSync(homePath, home);
 
 if (MISSING.size) console.warn(`links to pages not written yet: ${[...MISSING].join(", ")}`);
+if (LEAKS.length) { console.error(`build: unpublishable output (pages were written; fix the content and rebuild):\n  ${LEAKS.join("\n  ")}`); process.exitCode = 1; }
 console.log(`built ${n} pages (${posts.filter(live).length}/${posts.length} posts live as of ${TODAY}); homepage chrome stamped; SITE=${SITE}`);

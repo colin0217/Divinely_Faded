@@ -56,7 +56,7 @@
       "items": [
         { "title": "Essential Haircut", "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}", "body": "Your fade and top, shaped for your head, and a razor-clean neckline.", "href": "page:services-haircuts", "book": true },
         { "title": "Signature Cut", "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}", "body": "Brings your beard into the same visit, finished with a hot towel.", "href": "page:services-haircuts", "book": true },
-        { "title": "Hair design add-on", "meta": "{{addon:hair-design}}", "body": "Shaved lines are design work. Add it to your haircut on Booksy for the part line [TIM?].", "href": "page:services-designs", "book": false }
+        { "title": "Hair design add-on", "meta": "{{addon:hair-design}}", "body": "Shaved lines are design work. Not sure if your part line needs the add-on? Text me a photo before you book.", "href": "page:services-designs", "book": false }
       ]
     },
     {

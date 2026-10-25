@@ -30,7 +30,7 @@
       "heading": "When and how.",
       "items": [
         { "q": "Do I need an appointment?", "a": "Yes. Divinely Faded is appointment only, and every booking goes through Booksy. Pick your service, pick your time, and you're set." },
-        { "q": "What are your hours?", "a": "Monday, Tuesday, Thursday and Friday from 9:00 AM to noon and again from 12:30 to 5:00 PM [TIM?]. Saturday from 8:00 AM to 2:00 PM." },
+        { "q": "What are your hours?", "a": "Monday, Tuesday, Thursday and Friday from 9:00 AM to noon and again from 12:30 to 5:00 PM. Saturday from 8:00 AM to 2:00 PM." },
         { "q": "Are you open on Saturday?", "a": "Yes, 8:00 AM to 2:00 PM. It's the one weekend day I cut." },
         { "q": "Are you open Sunday or Wednesday?", "a": "No. The shop is closed every Wednesday and every Sunday." },
         { "q": "Are you open on holidays?", "a": "Yes, on my normal schedule for that day of the week. If you book on the holiday itself, there's a {{holiday_fee}} holiday fee on top of the service." },

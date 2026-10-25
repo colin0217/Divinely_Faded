@@ -47,11 +47,11 @@
       "lead": "Closed Wednesday and Sunday.",
       "columns": ["Day", "Hours"],
       "rows": [
-        ["Monday", "9:00 AM–12:00 PM, 12:30–5:00 PM [TIM?]"],
-        ["Tuesday", "9:00 AM–12:00 PM, 12:30–5:00 PM [TIM?]"],
+        ["Monday", "9:00 AM–12:00 PM, 12:30–5:00 PM"],
+        ["Tuesday", "9:00 AM–12:00 PM, 12:30–5:00 PM"],
         ["Wednesday", "Closed"],
-        ["Thursday", "9:00 AM–12:00 PM, 12:30–5:00 PM [TIM?]"],
-        ["Friday", "9:00 AM–12:00 PM, 12:30–5:00 PM [TIM?]"],
+        ["Thursday", "9:00 AM–12:00 PM, 12:30–5:00 PM"],
+        ["Friday", "9:00 AM–12:00 PM, 12:30–5:00 PM"],
         ["Saturday", "8:00 AM–2:00 PM"],
         ["Sunday", "Closed"]
       ]
