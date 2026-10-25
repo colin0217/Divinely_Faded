@@ -6,9 +6,9 @@
   "plan_rank": 11,
   "title": "New to Carlsbad, NM? How to Find Your Barber",
   "eyebrow": "LOCAL",
-  "hero": null,
-  "hero_alt": null,
-  "image_plan": "pexels: new mexico small town street",
+  "hero": "cut-skin-fade-long-beard",
+  "hero_alt": "Skin fade with a long, shaped beard, cut at Divinely Faded",
+  "image_plan": "Tim library (stock town photos were not Carlsbad)",
   "card_text": "Just moved to Carlsbad? Where the shop is, how far it is from nearby towns, how booking works and what a first visit looks like.",
   "lede": [
     "New to Carlsbad, NM and looking for a barber? Check three things before you book anyone: whether their own photos show the cut you wear, whether prices and times are posted up front, and how booking works. Divinely Faded is my one-chair shop at {{address}}. It runs by appointment only, and every visit is booked on Booksy.",
@@ -23,9 +23,18 @@
     ]
   },
   "breadcrumb": [
-    ["Home", "/"],
-    ["Blog", "/blog/"],
-    ["New to Carlsbad", "/blog/new-to-carlsbad-nm-barber/"]
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Blog",
+      "/blog/"
+    ],
+    [
+      "New to Carlsbad",
+      "/blog/new-to-carlsbad-nm-barber/"
+    ]
   ],
   "blocks": [
     {
@@ -69,7 +78,11 @@
       "eyebrow": "02 / GETTING HERE",
       "heading": "Living outside town?",
       "lead": "Real driving distances from the shop on Halagueno Street.",
-      "columns": ["Town", "Miles", "Drive"],
+      "columns": [
+        "Town",
+        "Miles",
+        "Drive"
+      ],
       "rows": "nearby",
       "paragraphs": [
         "If home is in La Huerta or Happy Valley, the drive is a few minutes. From Artesia it is the longest on this list, about 44 minutes, so lock in the slot on Booksy before you set out rather than hoping something opens up.",

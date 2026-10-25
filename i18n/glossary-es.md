@@ -426,3 +426,32 @@ The lead applies these; I did not edit `build.mjs`. "Booking" verbs follow §3: 
 | style library (hub) | **catálogo** (eyebrow *02 / EL CATÁLOGO*) | es-styles, 2026-10-24 |
 | look (noun) | **look** | es-styles, 2026-10-24 |
 | puff out (hair) | **esponjarse** | es-styles, 2026-10-24 |
+| perm rods | **tubos** (*poner los tubos*) | es-blog-1, 2026-10-24 |
+| waving solution / neutralizer (perm) | **solución para permanente / neutralizante** | es-blog-1, 2026-10-24 |
+| bleach (the product) / lift (verb, noun) | **decolorante / aclarar, el aclarado** | es-blog-1, 2026-10-24 |
+| toner | **matizador** (step: *matizado*) | es-blog-1, 2026-10-24 |
+| curls (noun) | **chinos** (*chinos apretados*, *un chino más cerrado*) | es-blog-1, 2026-10-24 |
+| flakes / flaking (skin) | **escamas / descamación** (*se descama*) | es-blog-1, 2026-10-24 |
+| seborrheic dermatitis | **dermatitis seborreica** | es-blog-1, 2026-10-24 |
+| parting / parts (braids) | **hacer las rayas / las rayas** | es-blog-1, 2026-10-24 |
+| detailed (braid set, pattern) | **elaborado** (never *detallado*) | es-blog-1, 2026-10-24 |
+| "Booksy holds / blocks N min" | **Booksy separa / bloquea {{minutes}}** (avoids *apartar*) | es-blog-1, 2026-10-24 |
+| picture day / dress code | **el día de la foto escolar / código de vestimenta** | es-blog-1, 2026-10-24 |
+| back to school / winter break | **regreso a clases / vacaciones de invierno** | es-blog-1, 2026-10-24 |
+| Thanksgiving / Christmas Day / New Year's Day | **Día de Acción de Gracias / Navidad (el día de Navidad) / Año Nuevo** | es-blog-1, 2026-10-24 |
+| Christmas Eve / New Year's Eve | **Nochebuena / la víspera de Año Nuevo** | es-blog-1, 2026-10-24 |
+| earbuds / glasses | **audífonos / lentes** | es-blog-1, 2026-10-24 |
+| dark brown (hair) | **café oscuro** | es-blog-1, 2026-10-24 |
+| sharp / crisp (edge, line-up, fade) | **nítido** (*un delineado nítido*, *en su punto más nítido*); never *marcado* for a line-up | es-blog-2, 2026-10-24 |
+| neckline (of a beard, under the jaw) | **la línea del cuello** (the hair nape stays *contorno de la nuca*) | es-blog-2, 2026-10-24 |
+| ledge / step (abrupt break in a blend) | **escalón** | es-blog-2, 2026-10-24 |
+| beard fade (blog keyword) | **barba desvanecida** (*desvanecer la barba*); not *barba degradada* in copy (slug `/es/blog/barba-degradada/` is plan-locked) | es-blog-2, 2026-10-24 |
+| comb over | **comb-over**, glossed once per page as *peinado de lado (comb-over)*; side part stays *raya de lado* (not *raya al lado*, which survives only in the plan-locked slug) | es-blog-2, 2026-10-24 |
+| hard hat / headband (of a hard hat) / brim | **casco / la banda / el ala** | es-blog-3, 2026-10-24 |
+| well site / the potash mines / plant | **un pozo / las minas de potasa / una planta** | es-blog-3, 2026-10-24 |
+| inches (hair length) | **pulgadas** (*unas dos pulgadas*); never convert to cm | es-blog-3, 2026-10-24 |
+| trimmer (nose / personal, not the barber's detail clipper) | **recortadora** (barber's detail trimmer stays *patillera*) | es-blog-3, 2026-10-24 |
+| scrub-down (skin) | **una tallada a fondo** | es-blog-3, 2026-10-24 |
+| tux / suit / collar | **esmoquin / traje / el cuello de la camisa** | es-blog-3, 2026-10-24 |
+| freshly buzzed / just-cut (look) | **recién rapado / recién cortado** | es-blog-3, 2026-10-24 |
+| eyebrow trim (service, prose) | **recorte de cejas** (plan title keeps *arreglo de cejas*); the add-on is *el extra de cejas*, "En Booksy aparece como Eyebrows." | es-blog-3, 2026-10-24 |

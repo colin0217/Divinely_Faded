@@ -288,6 +288,7 @@ for (const p of all) {
 for (const p of posts.filter((x) => !live(x))) {
   const out = path.join(ROOT, p.slug.replace(/^\//, ""), "index.html");
   if (fs.existsSync(out)) fs.rmSync(out);
+  if (fs.existsSync(path.dirname(out)) && !fs.readdirSync(path.dirname(out)).length) fs.rmdirSync(path.dirname(out)); // no empty folders left behind
 }
 
 // Bilingual 404 (Vercel serves /404.html): Colin's chrome, noindex, no canonical, no JSON-LD.

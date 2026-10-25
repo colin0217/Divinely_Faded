@@ -1,0 +1,158 @@
+{
+  "id": "post-beard-dandruff",
+  "locale": "es",
+  "slug": "/es/blog/caspa-en-la-barba/",
+  "alt": "/blog/beard-dandruff/",
+  "date": "2026-11-02",
+  "plan_rank": 6,
+  "title": "Caspa en la barba en clima seco: causas y soluciones",
+  "eyebrow": "CUIDADO",
+  "hero": "shave-head-beard-trim",
+  "hero_alt": "Cabeza afeitada al ras con una barba entrecana completa y recortada",
+  "image_plan": null,
+  "card_text": "Por qué la barba se descama con el aire seco de Carlsbad, qué ayuda en casa y qué puede y no puede hacer una visita al barbero.",
+  "lede": [
+    "La caspa en la barba son escamas de la piel que está debajo de tu barba, no del pelo. El aire seco, los baños largos con agua caliente y una barba que atrapa piel muerta la empeoran, y el aire desértico de Carlsbad no ayuda. La solución empieza por la piel: mantenla limpia, no la reseques y mantén la barba recortada para que sea más fácil limpiarla hasta la piel.",
+    "Soy barbero, no doctor, así que esto es en lo que te puedo ayudar en la silla, y cuándo llevarlo con alguien más."
+  ],
+  "seo": {
+    "title": "Caspa en la barba en clima seco: causas y soluciones",
+    "description": "Caspa en la barba y aire seco en Carlsbad, NM: por qué la piel bajo la barba se descama y pica, soluciones sencillas y cómo ayuda un corte o un facial.",
+    "primary": "caspa en la barba",
+    "secondary": []
+  },
+  "breadcrumb": [
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Blog",
+      "/es/blog/"
+    ],
+    [
+      "Caspa en la barba",
+      "/es/blog/caspa-en-la-barba/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / CAUSAS",
+      "heading": "Por qué se descama.",
+      "lead": "Casi siempre es una de dos cosas.",
+      "paragraphs": [
+        "La primera es simple piel seca. La piel bajo la barba pierde humedad, se siente tirante y con comezón, y suelta escamitas blancas. La segunda es una condición común de la piel llamada dermatitis seborreica, que suele dejar escamas más grandes, grasosas y amarillentas, junto con enrojecimiento. La piel seca es un problema de humedad. La segunda merece que la revise un doctor.",
+        "Carlsbad está en el desierto de Chihuahua, y el aire seco le saca el agua a la piel. Los baños largos con agua caliente y el jabón fuerte la resecan todavía más. Una barba tupida también retiene piel muerta que de otro modo se iría con el agua."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / EN CASA",
+      "heading": "Hazlo sencillo.",
+      "lead": "Empieza por la piel, no por el pelo.",
+      "paragraphs": [
+        "Lávate la barba cuando te laves la cara, y enjuaga hasta la piel, no solo el pelo de encima. El jabón que se queda en la barba es otra fuente de comezón. Sécala con toquecitos en vez de tallarla con la toalla.",
+        "Si las escamas siguen, se extienden o vienen con enrojecimiento o dolor, ve con un doctor o un dermatólogo. Tal vez haga falta un jabón o una crema con medicamento, y esa decisión les toca a ellos, no a mí."
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "03 / EN LA SILLA",
+      "heading": "Lo que hace una visita.",
+      "lead": "Bordes limpios, toallas calientes, un respiro para la piel.",
+      "items": [
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "Tu corte de pelo más un corte de barba o delineado (line-up) y toque final con toalla caliente. El corte de barba quita las puntas secas y abiertas, y la toalla caliente suaviza la barba y la piel de abajo.",
+          "href": "page:services-beard-shaves",
+          "link_label": "BARBA Y AFEITADO",
+          "book": true
+        },
+        {
+          "title": "Straight Razor Beard Shave",
+          "meta": "{{price:straight-razor-beard-shave}} · {{minutes:straight-razor-beard-shave}}",
+          "body": "¿Listo para empezar de cero? Un afeitado tradicional quita la barba por completo, con toallas calientes, crema de afeitar y un aftershave calmante.",
+          "book": true
+        },
+        {
+          "title": "Express Facial",
+          "meta": "{{price:express-facial}} · {{minutes:express-facial}}",
+          "body": "Masaje, vapor, limpieza profunda, exfoliación suave y crema hidratante. Vale la pena agendarlo cuando la resequedad también llega a tus mejillas y tu frente.",
+          "href": "page:services-facials",
+          "link_label": "FACIALES PARA HOMBRES",
+          "book": true
+        },
+        {
+          "title": "Luxury Grooming Experience",
+          "meta": "{{price:luxury-grooming}} · {{minutes:luxury-grooming}}",
+          "body": "El corte con modelado de barba, vapor facial y dos toallas calientes en una sola cita, para cuando la barba y la piel necesitan tiempo.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / PEOR EN INVIERNO",
+      "heading": "Cuándo empeora.",
+      "lead": "Aire seco, luego calor seco.",
+      "paragraphs": [
+        "Los meses fríos lo empeoran. El aire de afuera ya es seco, la calefacción de adentro lo seca más, y un baño largo con agua caliente se siente bien justo cuando más reseca.",
+        "Los días largos al aire libre con viento y sol también resecan la piel. Si tu trabajo te tiene afuera, la piel bajo tu barba aguanta eso todo el día."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "05 / LO QUE NO DEBES HACER",
+      "heading": "No toques las escamas.",
+      "lead": "Rascarte lo mantiene.",
+      "paragraphs": [
+        "No te arranques ni te rasques las escamas. Eso irrita la piel y mantiene el ciclo. Sáltate el tallado fuerte con la toalla después de bañarte, y no escondas la descamación bajo una barba que dejas crecer sin arreglarle nunca la forma."
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / PREGUNTAS",
+      "heading": "Preguntas de caspa en la barba.",
+      "items": [
+        {
+          "q": "¿Cómo me quito la caspa de la barba?",
+          "a": "Empieza por la piel. Lávate la barba cuando te laves la cara, enjuaga hasta la piel y bájale a los baños largos con agua caliente. Si la descamación sigue o la piel se pone roja y adolorida, ve con un doctor, porque puede ser una condición de la piel que necesita tratamiento."
+        },
+        {
+          "q": "¿Por qué me da comezón la barba?",
+          "a": "La piel seca bajo el pelo es la razón más común, y el aire seco la empeora. Una barba nueva también puede dar comezón mientras crecen los pelos cortos. Si la comezón viene con sarpullido o enrojecimiento, que te la revise un doctor."
+        },
+        {
+          "q": "¿Recortar la barba ayuda con la caspa?",
+          "a": "Un corte de barba no trata la piel. Lo que sí hace es quitar las puntas abiertas y hacer que la barba sea más fácil de mantener limpia hasta la piel."
+        },
+        {
+          "q": "¿Debo afeitarme la barba para quitarme la caspa?",
+          "a": "No tienes que hacerlo. Afeitarte deja la piel al descubierto y la hace fácil de lavar, pero la descamación viene de la piel misma, así que puede regresar cuando la barba vuelva a crecer."
+        },
+        {
+          "q": "¿Tratas condiciones del cuero cabelludo o de la piel?",
+          "a": "No. Los tratamientos capilares no están en mi menú, y cualquier cosa que parezca una condición de la piel le toca a un doctor."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "TRABAJO DE BARBA",
+      "heading": "Piel limpia.<br>Barba nítida.",
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "services-beard-shaves",
+    "services-facials"
+  ],
+  "tim_questions": [
+    "Is there an at-home beard routine or product type (beard oil, conditioner) you want to recommend? Left out pending your OK; the post only gives general washing advice and points to a doctor."
+  ]
+}

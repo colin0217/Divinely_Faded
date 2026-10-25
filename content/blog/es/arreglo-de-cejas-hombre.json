@@ -1,0 +1,179 @@
+{
+  "id": "post-mens-eyebrow-trim",
+  "locale": "es",
+  "slug": "/es/blog/arreglo-de-cejas-hombre/",
+  "alt": "/blog/mens-eyebrow-trim/",
+  "date": "2026-11-02",
+  "plan_rank": 26,
+  "title": "Arreglo de cejas para hombres: lo que hace el barbero",
+  "eyebrow": "ARREGLO PERSONAL",
+  "hero": "pexels-9775429-eyebrows",
+  "hero_alt": "Primer plano del rostro de un hombre con cejas naturales y arregladas",
+  "image_plan": "pexels: barber trimming eyebrows → stock photo (Pexels), not Divinely Faded work",
+  "card_text": "Un recorte, no un cambio de forma: se acortan los pelos largos, se arreglan los sueltos y tu ceja queda natural. Extra de {{addon:eyebrows}} en Booksy.",
+  "lede": [
+    "Un recorte de cejas para hombre en la barbería acorta los pelos largos y arregla los sueltos, manteniendo la forma que tus cejas ya tienen. No es un cambio de forma, y no es una ceja delgada y arqueada. En mi barbería es el extra de cejas, {{addon:eyebrows}}, que se agenda con tu cita. En Booksy aparece como Eyebrows.",
+    "Aquí te explico qué incluye el recorte, qué deja igual y cómo agregarlo en Booksy."
+  ],
+  "seo": {
+    "title": "Arreglo de cejas para hombres | Carlsbad, NM",
+    "description": "Recorte de cejas para hombres en Carlsbad, NM: qué recorta el barbero, por qué no cambia la forma y cómo agregar cejas por {{addon:eyebrows}} en Divinely Faded.",
+    "primary": "cejas hombre",
+    "secondary": []
+  },
+  "breadcrumb": [
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Blog",
+      "/es/blog/"
+    ],
+    [
+      "Arreglo de cejas",
+      "/es/blog/arreglo-de-cejas-hombre/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / LO QUE SE HACE",
+      "heading": "Recorte, no cambio de forma.",
+      "lead": "Tus cejas, solo más ordenadas.",
+      "subsections": [
+        {
+          "heading": "Largo",
+          "paragraphs": [
+            "Los pelos de la ceja que crecen largos empiezan a doblarse hacia abajo, hacia el ojo, o a pararse derecho hacia afuera. Se peinan hacia arriba y se recortan las puntas que pasan de la línea de la ceja."
+          ]
+        },
+        {
+          "heading": "Pelos sueltos",
+          "paragraphs": [
+            "Los pelos que se salen de la línea natural de la ceja, por arriba o por abajo, se arreglan para que la orilla se vea limpia."
+          ]
+        },
+        {
+          "heading": "El centro",
+          "paragraphs": [
+            "El pelo entre las cejas se limpia para que dos cejas se vean como dos cejas. Es una limpieza, no un hueco marcado."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / LO QUE SE QUEDA",
+      "heading": "Lo que no toco.",
+      "lead": "Natural, no dibujada.",
+      "paragraphs": [
+        "El arco con el que naciste, el grosor y la forma general se quedan. Un buen recorte de cejas casi no se nota. La gente nota que te ves arreglado; no debería poder señalar tus cejas y decir por qué.",
+        "Si lo que buscas es un cambio dramático de forma, ese es un servicio distinto al que está en mi menú. El extra de cejas se trata de mantener limpio lo que ya tienes.",
+        "Las cejas delgadas o con huecos se quedan como están. Un recorte solo quita pelo; no puede agregar, así que si no hay mucho, no hay mucho que hacer, y te lo voy a decir."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / PARA QUÉ",
+      "heading": "Por qué un corte marcado lo necesita.",
+      "lead": "La cara queda dentro del marco.",
+      "paragraphs": [
+        "Un desvanecido (fade) fresco y un delineado (line-up) nítido llevan la mirada hacia tu cara. Unas cejas largas y tupidas debajo de un nacimiento del pelo nítido pueden hacer que todo el look se sienta a medias. Un recorte rápido las empareja con todo lo demás.",
+        "También se nota en las fotos. Una boda, una foto profesional nueva, una foto familiar: la cámara capta pelos sueltos de la ceja que nunca notarías en el espejo del baño.",
+        "Con los años, las cejas también se pueden volver más duras y más largas, y unos cuantos pelos largos y tiesos pueden hacer que una cara se vea cansada. Un recorte se encarga de eso sin que nadie note que se hizo."
+      ],
+      "link": {
+        "label": "VER LOS CORTES",
+        "href": "page:services-haircuts"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / ENTRE VISITAS",
+      "heading": "En casa, no las toques.",
+      "lead": "Aquí, menos es más.",
+      "paragraphs": [
+        "La forma más rápida de arruinar una ceja es arreglarla frente al espejo del baño. Sacar con pinzas un hueco en el centro o recortar la orilla de arriba en línea recta es como las cejas terminan delgadas, disparejas o con una forma distinta en cada lado.",
+        "Las cejas quedan entre el nacimiento del pelo y la barba. Cuando esos dos están marcados y a las cejas se les deja hacer lo suyo, el centro de la cara es lo que la gente nota. Un recorte en la barbería une las tres cosas.",
+        "Si salen unos cuantos pelos largos antes de tu próxima cita, déjalos para la silla, o mándame un mensaje al {{phone}} y pregúntame."
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "05 / AGRÉGALO A",
+      "heading": "Combina bien con.",
+      "lead": "El extra de cejas cuesta {{addon:eyebrows}}.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "El corte con limpieza con navaja y peinado final. Agregar cejas hace que tu cara vaya con el corte fresco.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "Corte de barba o delineado con toque final de toalla caliente. Agrega las cejas y todo, del nacimiento del pelo a la quijada, recibe atención en una sola sentada.",
+          "book": true
+        },
+        {
+          "title": "Express Facial",
+          "meta": "{{price:express-facial}} · {{minutes:express-facial}}",
+          "body": "Masaje, vapor, limpieza profunda, exfoliación y crema hidratante. Unas cejas arregladas en la misma visita completan una renovación de toda la cara.",
+          "href": "page:services-facials",
+          "book": true
+        },
+        {
+          "title": "Depilación con cera de nariz y orejas",
+          "meta": "{{addon:nose-ear-wax}}",
+          "body": "El otro extra pequeño para la cara. Cejas, nariz y orejas juntas cubren los detalles que un corte no cubre."
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / PREGUNTAS",
+      "heading": "Preguntas sobre cejas.",
+      "items": [
+        {
+          "q": "¿Las cejas vienen en la Luxury Grooming Experience (experiencia de arreglo de lujo)?",
+          "a": "No. La Luxury incluye depilación con cera de nariz y orejas, pero las cejas son un extra aparte de {{addon:eyebrows}}."
+        },
+        {
+          "q": "¿Los barberos recortan cejas?",
+          "a": "Yo sí. En Divinely Faded es el extra de cejas, {{addon:eyebrows}}, que se agenda con tu servicio en Booksy."
+        },
+        {
+          "q": "¿Mis cejas se van a ver diferentes?",
+          "a": "Más ordenadas, no diferentes. La forma sigue siendo tuya; solo se quitan los pelos largos y sueltos."
+        },
+        {
+          "q": "¿Los hombres deben recortarse las cejas?",
+          "a": "Si ya empezaron a doblarse hacia tus ojos o a pararse hacia afuera, un recorte ayuda. Si ya están ordenadas, no hay nada que hacer."
+        },
+        {
+          "q": "¿Cuánto cuesta un recorte de cejas?",
+          "a": "{{addon:eyebrows}} como extra, y se paga con el resto de tu cuenta después del servicio."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "CEJAS",
+      "heading": "Conserva la forma.<br>Quita lo suelto.",
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "services-haircuts",
+    "services-facials"
+  ],
+  "tim_questions": [
+    "How do you do the Eyebrows add-on (comb and scissors, trimmer, razor, wax)? The post describes trimming long hairs, tidying strays and cleaning up between the brows, without naming a tool.",
+    "Can Eyebrows be added to a facial or a shave, or only to a haircut?"
+  ]
+}

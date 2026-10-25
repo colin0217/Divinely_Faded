@@ -1,0 +1,172 @@
+{
+  "id": "post-what-is-a-hot-towel-shave",
+  "locale": "es",
+  "slug": "/es/blog/afeitado-con-toalla-caliente/",
+  "alt": "/blog/what-is-a-hot-towel-shave/",
+  "date": "2026-11-02",
+  "plan_rank": 13,
+  "title": "¿Qué es un afeitado con toalla caliente? Lo que pasa en la silla",
+  "eyebrow": "AFEITADO",
+  "hero": "hot-towel",
+  "hero_alt": "Toalla caliente envuelta en la cara de un cliente reclinado antes de un afeitado",
+  "image_plan": null,
+  "card_text": "Toallas, espuma, navaja, aftershave: cada paso de un afeitado con toalla caliente, qué hace el calor y qué servicios incluyen toalla.",
+  "lede": [
+    "Un afeitado con toalla caliente es un afeitado tradicional. Primero van las toallas calientes para suavizar la barba y calentar la piel, luego la crema de afeitar y la navaja de barbero quitan el pelo, y un aftershave lo termina. En mi barbería ese es el Straight Razor Beard Shave (afeitado de barba con navaja): {{price:straight-razor-beard-shave}} por {{minutes:straight-razor-beard-shave}} en Booksy.",
+    "Aquí está cada paso en orden, lo que de verdad hace el calor por el afeitado y qué otros servicios incluyen una toalla caliente en la visita."
+  ],
+  "seo": {
+    "title": "¿Qué es un afeitado con toalla caliente? | Carlsbad, NM",
+    "description": "Qué es un afeitado con toalla caliente, paso a paso, en Divinely Faded en Carlsbad, NM: toallas, espuma, navaja y aftershave, y lo que hace el calor.",
+    "primary": "afeitado con toalla caliente",
+    "secondary": []
+  },
+  "breadcrumb": [
+    ["Inicio", "/es/"],
+    ["Blog", "/es/blog/"],
+    ["Toalla caliente", "/es/blog/afeitado-con-toalla-caliente/"]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / PASO A PASO",
+      "heading": "En orden.",
+      "lead": "Toalla, espuma, navaja, final.",
+      "subsections": [
+        {
+          "heading": "Recárgate",
+          "paragraphs": [
+            "La silla se reclina y tu cabeza descansa hacia atrás, como el cliente de la foto de arriba. Abre el cuello de la camisa o dóblalo hacia abajo para que la toalla pueda envolver la mandíbula y la garganta."
+          ]
+        },
+        {
+          "heading": "Las toallas",
+          "paragraphs": [
+            "Las toallas calientes envuelven la mitad de abajo de la cara y se quedan ahí un rato. El calor y la humedad penetran en los pelos de la barba, y eso es lo que los hace más fáciles de cortar."
+          ]
+        },
+        {
+          "heading": "La espuma",
+          "paragraphs": [
+            "La crema de afeitar va sobre la barba húmeda. Mantiene la piel resbalosa, para que la navaja se deslice sobre ella en vez de atorarse."
+          ]
+        },
+        {
+          "heading": "La navaja",
+          "paragraphs": [
+            "Luego viene la navaja, con la piel bien lisa debajo. En esta parte hay que quedarse quieto, y es la razón por la que un afeitado bien hecho nunca se hace con prisa."
+          ]
+        },
+        {
+          "heading": "El final",
+          "paragraphs": [
+            "Al último va un aftershave calmante, sobre la piel recién afeitada al ras.",
+            "Pásate la mano por la mandíbula antes de levantarte. Esa sensación lisa es para lo que sirvieron las toallas, la espuma y el trabajo lento de la navaja."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / POR QUÉ EL CALOR",
+      "heading": "Lo que hace la toalla.",
+      "lead": "Pelos más suaves, una pasada más fácil.",
+      "paragraphs": [
+        "Los pelos secos de la barba son tiesos. El agua tibia los suaviza, así que la navaja los corta en vez de jalarlos. Ese es el beneficio real al que se refiere la gente cuando habla de un afeitado con toalla caliente: menos jalones, menos raspones y un resultado más al ras desde la primera pasada.",
+        "También es la parte más tranquila de cualquier visita. Ojos cerrados, la cara calientita, y por un minuto o dos nadie necesita nada de ti.",
+        "Una toalla caliente no es un tratamiento médico. Si tienes la piel irritada, con granos o adolorida, dímelo antes de empezar, y lo que no se calme llévalo con un médico."
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "03 / CÓMO AGENDARLO",
+      "heading": "Dónde aparece la toalla.",
+      "lead": "Cuatro servicios de mi menú usan toallas calientes.",
+      "items": [
+        {
+          "title": "Straight Razor Beard Shave",
+          "meta": "{{price:straight-razor-beard-shave}} · {{minutes:straight-razor-beard-shave}}",
+          "body": "El afeitado completo con toalla caliente por sí solo: toallas, crema de afeitar premium, la navaja y un aftershave calmante, sin corte de pelo.",
+          "book": true
+        },
+        {
+          "title": "Head & Beard Shave",
+          "meta": "{{price:head-beard-shave}} · {{minutes:head-beard-shave}}",
+          "body": "La misma idea para la cabeza y la barba juntas: toallas calientes, un afeitado de precisión en las dos y un bálsamo aftershave para cerrar. Booksy le da una hora completa.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "Un corte con corte de barba o delineado (line-up), detalles con navaja y una toalla caliente para terminar. Aquí la toalla llega al final del corte, no antes de un afeitado completo.",
+          "href": "page:services-haircuts",
+          "link_label": "VER LOS CORTES",
+          "book": true
+        },
+        {
+          "title": "Luxury Grooming Experience",
+          "meta": "{{price:luxury-grooming}} · {{minutes:luxury-grooming}}",
+          "body": "Dos toallas calientes, vapor facial, modelado de barba, un lavado con masaje en el cuero cabelludo y el corte, todo en una sola cita.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / ANTES DE AGENDAR",
+      "heading": "Lo que debes saber.",
+      "lead": "Para que el afeitado salga bien.",
+      "paragraphs": [
+        "¿Te vas a quitar una barba larga y tupida? Primero mándame una foto al {{phone}}. Bajar una barba grande hasta la piel es un trabajo más grande que afeitar unos días de crecimiento, y ayuda saber lo que viene.",
+        "¿Quieres la toalla caliente pero piensas quedarte con la barba? Entonces agenda el Signature Cut (corte distintivo). Tu barba se recorta o se delinea junto con el corte, y la visita igual termina bajo una toalla caliente.",
+        "¿Te vas a afeitar para una boda, una entrevista o una foto? Agéndalo cerca de la fecha. Un afeitado al ras se ve más limpio justo después, y el crecimiento se empieza a notar otra vez rápido.",
+        "Pagas después del afeitado, en efectivo, tarjeta, Zelle o Cash App. Si cambian tus planes, cancela temprano en Booksy, porque si no llegas a tu cita o cancelas de último momento puede haber un cargo."
+      ],
+      "link": {
+        "label": "SERVICIOS DE BARBA Y AFEITADO",
+        "href": "page:services-beard-shaves"
+      }
+    },
+    {
+      "type": "faq",
+      "eyebrow": "05 / PREGUNTAS",
+      "heading": "Preguntas del afeitado.",
+      "items": [
+        {
+          "q": "¿Qué es un afeitado con toalla caliente?",
+          "a": "Un afeitado tradicional que empieza con toallas calientes para suavizar la barba, seguido de crema de afeitar, navaja y un aftershave."
+        },
+        {
+          "q": "¿Qué beneficios tiene un afeitado con toalla caliente?",
+          "a": "Los pelos suavizados se cortan más limpio, así que la navaja jala menos la piel. El calor también relaja, y esa es la mitad de la razón por la que la gente lo agenda."
+        },
+        {
+          "q": "¿Cuánto dura un afeitado con toalla caliente?",
+          "a": "Booksy separa {{minutes:straight-razor-beard-shave}} para el Straight Razor Beard Shave y {{minutes:head-beard-shave}} para el Head & Beard Shave (afeitado de cabeza y barba)."
+        },
+        {
+          "q": "¿Puedo pedir una toalla caliente con un corte?",
+          "a": "Sí. El Signature Cut termina con una toalla caliente, y la Luxury Grooming Experience (experiencia de arreglo de lujo) incluye dos."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "TOALLA CALIENTE",
+      "heading": "Recárgate.<br>Deja que suavice.",
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "services-beard-shaves",
+    "services-haircuts"
+  ],
+  "tim_questions": [
+    "Do you finish the shave with a cold towel, or go straight to the aftershave? Left out.",
+    "Does a long, full beard need trimming down first, and does that change the booking or price? The post only asks clients to text a photo first.",
+    "Is the aftershave suitable for sensitive skin? (no skin claims made in the post)"
+  ]
+}

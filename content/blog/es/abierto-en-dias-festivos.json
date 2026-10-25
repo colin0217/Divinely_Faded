@@ -1,0 +1,184 @@
+{
+  "id": "post-barber-open-on-holidays",
+  "locale": "es",
+  "slug": "/es/blog/abierto-en-dias-festivos/",
+  "alt": "/blog/barber-open-on-holidays/",
+  "date": "2026-11-02",
+  "plan_rank": 9,
+  "title": "Abierto en días festivos: cómo funcionan las citas y el cargo de {{holiday_fee}}",
+  "eyebrow": "LOCAL",
+  "hero": "shop-chair",
+  "hero_alt": "La silla de barbero negra capitonada de Divinely Faded, vacía entre citas",
+  "image_plan": null,
+  "card_text": "Horario normal en días festivos, cargo por día festivo solo el mismo día, y cerrado los miércoles y domingos como siempre.",
+  "lede": [
+    "Sí, abro en días festivos. La barbería mantiene su horario normal para ese día de la semana, y una cita el mismo día festivo lleva un cargo por día festivo de {{holiday_fee}} además del servicio. Los días alrededor de un festivo son días normales con precios normales.",
+    "El miércoles y el domingo siguen cerrados, haya festivo o no. Así funciona durante la temporada de fiestas."
+  ],
+  "seo": {
+    "title": "Abierto en días festivos: citas y el cargo de {{holiday_fee}}",
+    "description": "Barbería abierta en días festivos en Carlsbad, NM: Divinely Faded mantiene su horario normal, con un cargo de {{holiday_fee}} solo el día festivo. Cierra mié y dom.",
+    "primary": "barbería abierta en días festivos",
+    "secondary": []
+  },
+  "breadcrumb": [
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Blog",
+      "/es/blog/"
+    ],
+    [
+      "Abierto en días festivos",
+      "/es/blog/abierto-en-dias-festivos/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / CÓMO FUNCIONA",
+      "heading": "Horario normal, un cargo.",
+      "lead": "El calendario decide.",
+      "paragraphs": [
+        "Un día festivo no cambia mi horario. Si cae en lunes, martes, jueves o viernes, trabajo el horario entre semana. Si cae en sábado, es de 8:00 AM a 2:00 PM. Si cae en miércoles o domingo, la barbería está cerrada como cualquier otra semana.",
+        "El cargo de {{holiday_fee}} aplica solo a las citas del mismo día festivo. Agenda el día antes o el día después y pagas el precio normal. De cualquier forma, agendas por Booksy como cualquier otro día. El cargo es la misma cantidad fija sin importar lo que agendes, desde un Essential Haircut (corte esencial) hasta una Color Transformation (transformación de color). El pago funciona igual que siempre: efectivo, tarjeta, Zelle o Cash App, después del servicio."
+      ],
+      "link": {
+        "label": "VER HORARIO Y CÓMO LLEGAR",
+        "href": "page:visit"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / LOS GRANDES",
+      "heading": "De Acción de Gracias a Año Nuevo.",
+      "lead": "Fíjate en qué día de la semana cae.",
+      "paragraphs": [
+        "El Día de Acción de Gracias siempre cae en jueves, un día normal de trabajo para mí. El día de Navidad y el día de Año Nuevo se mueven por la semana de un año a otro, así que revisa qué día cae antes de hacer planes. Nochebuena y la víspera de Año Nuevo son otro tema, así que mándame un mensaje si estás planeando alrededor de alguna de las dos.",
+        "La semana de Acción de Gracias tiene un hueco que debes conocer: el miércoles antes es un miércoles normal, o sea, cerrado. El lunes y el martes de esa semana son tus opciones sin cargo antes del festivo.",
+        "¿Vienes a casa para las fiestas y te quedas en Loving, Malaga o Artesia? La página Visítanos muestra el tiempo en auto a la barbería desde cada pueblo cercano.",
+        "¿Quieres un corte fresco para las fotos familiares o una cena de fiesta? Los días justo antes del festivo no llevan cargo y están lo bastante cerca para que todavía te veas nítido ese día."
+      ]
+    },
+    {
+      "type": "table",
+      "eyebrow": "03 / ESTA TEMPORADA",
+      "heading": "Días festivos, 2026–27.",
+      "lead": "Los horarios disponibles salen en Booksy.",
+      "columns": [
+        "Día festivo",
+        "Fecha",
+        "Día",
+        "En la barbería"
+      ],
+      "rows": [
+        [
+          "Acción de Gracias",
+          "26 de noviembre de 2026",
+          "Jueves",
+          "Horario entre semana, cargo por día festivo"
+        ],
+        [
+          "Navidad",
+          "25 de diciembre de 2026",
+          "Viernes",
+          "Horario entre semana, cargo por día festivo"
+        ],
+        [
+          "Año Nuevo",
+          "1 de enero de 2027",
+          "Viernes",
+          "Horario entre semana, cargo por día festivo"
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "04 / EN LA CUENTA",
+      "heading": "Lo que cuesta un corte en día festivo.",
+      "lead": "El precio del servicio, más el cargo el mismo día festivo.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "El corte, limpieza de la nuca con navaja y peinado final, más el cargo de {{holiday_fee}} si lo agendas en el día festivo.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "El corte con corte de barba o delineado (line-up) y toque final con toalla caliente, más el cargo de {{holiday_fee}} el mismo día festivo. Una buena opción antes de una foto familiar.",
+          "book": true
+        },
+        {
+          "title": "Luxury Grooming Experience",
+          "meta": "{{price:luxury-grooming}} · {{minutes:luxury-grooming}}",
+          "body": "El tratamiento completo para una ocasión grande, con el mismo cargo de {{holiday_fee}} cuando cae en el día festivo.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "05 / LA SEMANA DEL FESTIVO",
+      "heading": "Elige tu día temprano.",
+      "lead": "Un barbero, un horario.",
+      "paragraphs": [
+        "Trabajo solo, así que una semana con festivo tiene las mismas horas que cualquier otra semana. Si quieres un día en particular, agéndalo en cuanto tengas tus planes. Los sábados antes de Navidad son de 8:00 AM a 2:00 PM, como siempre.",
+        "Todos los días festivos siguen la misma regla, no solo los de invierno: revisa el día de la semana, mira mi horario normal para ese día y cuenta con el cargo solo si agendas el mismo día festivo.",
+        "Los servicios largos necesitan empezar temprano en un día ocupado. Una Color Transformation toma {{minutes:color-transformation}} y las trenzas {{minutes:braids}}, así que elige un horario en la mañana si hay cena familiar esa noche.",
+        "Los planes de las fiestas cambian rápido. Si cambian los tuyos, cancela en Booksy lo antes que puedas, porque si no llegas a tu cita o cancelas de último momento se puede cobrar un cargo, sea festivo o no. ¿Preguntas sobre una fecha en particular? Mándame un mensaje al {{phone}}."
+      ],
+      "link": {
+        "label": "LEE LAS PREGUNTAS FRECUENTES",
+        "href": "page:faq"
+      }
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / PREGUNTAS",
+      "heading": "Preguntas de días festivos.",
+      "items": [
+        {
+          "q": "¿Las barberías abren en días festivos?",
+          "a": "La mía sí. Divinely Faded mantiene su horario normal en días festivos, y las citas del mismo día festivo llevan un cargo de {{holiday_fee}}."
+        },
+        {
+          "q": "¿Cuánto es el cargo por día festivo?",
+          "a": "{{holiday_fee}}, que se suma al servicio que agendes. Aplica solo el mismo día festivo."
+        },
+        {
+          "q": "¿Y si un día festivo cae en miércoles o domingo?",
+          "a": "La barbería cierra esos dos días cada semana, días festivos incluidos."
+        },
+        {
+          "q": "¿El día antes de un festivo cuesta más?",
+          "a": "No. Solo el mismo día festivo lleva el cargo."
+        },
+        {
+          "q": "¿Cómo pago el cargo por día festivo?",
+          "a": "Con el resto de la cuenta, después del servicio. Acepto efectivo, tarjeta, Zelle y Cash App."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "HORARIO EN DÍAS FESTIVOS",
+      "heading": "Abierto en el festivo.<br>Agenda antes.",
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "faq",
+    "visit"
+  ],
+  "tim_questions": [
+    "Which days count as holidays for the fee (e.g. Memorial Day, July 4, Labor Day, Christmas Eve, New Year's Eve)?",
+    "Is the holiday fee charged in Booksy or added at the chair?"
+  ]
+}

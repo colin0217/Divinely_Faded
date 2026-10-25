@@ -1,0 +1,166 @@
+{
+  "id": "post-christmas-on-the-pecos-haircut",
+  "locale": "es",
+  "slug": "/es/blog/corte-para-christmas-on-the-pecos/",
+  "alt": "/blog/christmas-on-the-pecos-haircut/",
+  "date": "2026-11-02",
+  "plan_rank": 30,
+  "title": "Un corte fresco antes de Christmas on the Pecos",
+  "eyebrow": "LOCAL",
+  "hero": "hero-tim-at-work",
+  "hero_alt": "Tim trabajando en el corte de un cliente en la silla de barbero",
+  "image_plan": null,
+  "card_text": "Christmas on the Pecos va del 27 de noviembre al 31 de diciembre. Cómo calcular un corte fresco antes de las fotos familiares y las fiestas.",
+  "lede": [
+    "Christmas on the Pecos va del 27 de noviembre al 31 de diciembre de 2026, y cierra el 24 de diciembre. Si tienes en tu calendario una noche ahí, fotos familiares o una cena de las fiestas, agenda tu corte unos días antes para que se vea fresco y asentado. Agenda temprano, también: trabajo solo, y la temporada tiene un número limitado de horarios disponibles.",
+    "Aquí te explico cómo se acomoda mi calendario con la temporada, incluidos los sábados y el cargo por día festivo de {{holiday_fee}}."
+  ],
+  "seo": {
+    "title": "Corte fresco antes de Christmas on the Pecos | Carlsbad, NM",
+    "description": "Christmas on the Pecos: del 27 de noviembre al 31 de diciembre de 2026. Agenda un corte fresco en Divinely Faded, Carlsbad, NM, antes de fotos y fiestas.",
+    "primary": "corte fresco antes de christmas on the pecos",
+    "secondary": []
+  },
+  "breadcrumb": [
+    ["Inicio", "/es/"],
+    ["Blog", "/es/blog/"],
+    ["Christmas on the Pecos", "/es/blog/corte-para-christmas-on-the-pecos/"]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / LAS FECHAS",
+      "heading": "Temporada y barbería, lado a lado.",
+      "lead": "Conoce los dos calendarios.",
+      "paragraphs": [
+        "La temporada del evento: del 27 de noviembre al 31 de diciembre de 2026, cerrado el 24 de diciembre. Los horarios y los boletos están en el sitio del propio evento, christmasonthepecos.com, así que revisa ahí antes de planear la noche.",
+        "Mi horario no cambia por la temporada. Corto lunes, martes, jueves y viernes, además del sábado de 8:00 AM a 2:00 PM. El miércoles y el domingo cierro, diciembre incluido.",
+        "La noche de apertura es el viernes 27 de noviembre. El Día de Acción de Gracias cae el día anterior, el jueves 26 de noviembre, y ese día abro en horario de entre semana con el cargo por día festivo agregado."
+      ]
+    },
+    {
+      "type": "table",
+      "eyebrow": "02 / SÁBADOS",
+      "heading": "Los sábados de la temporada.",
+      "lead": "Cada uno es de 8:00 AM a 2:00 PM.",
+      "columns": [
+        "Sábado",
+        "Cerca de esa fecha"
+      ],
+      "rows": [
+        [
+          "28 de noviembre de 2026",
+          "El día después de que abre la temporada"
+        ],
+        [
+          "5 de diciembre de 2026",
+          "Primer sábado de diciembre"
+        ],
+        [
+          "12 de diciembre de 2026",
+          "Mediados de diciembre"
+        ],
+        [
+          "19 de diciembre de 2026",
+          "Último sábado antes de Navidad"
+        ],
+        [
+          "26 de diciembre de 2026",
+          "El día después de Navidad"
+        ]
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / CUÁNDO CORTARTE",
+      "heading": "Unos días antes de las fotos.",
+      "lead": "Fresco, no recién salido de la silla.",
+      "paragraphs": [
+        "Para fotos familiares, busca cortarte unos días antes de la sesión. Los bordes tienen tiempo de relajarse, y todavía se ve nítido en las fotos.",
+        "¿Vas a Christmas on the Pecos con la familia, con cena después? Cualquier corte funciona; lo que importa es el horario. Elige la fecha de la salida y luego cuenta hacia atrás hasta el día disponible más cercano en Booksy.",
+        "¿Sale la barba en las fotos? El Signature Cut (corte distintivo), de {{price:signature-cut}} y {{minutes:signature-cut}}, agrega corte de barba o delineado (line-up) y toque final con toalla caliente. Para el tratamiento completo antes de una noche importante, la Luxury Grooming Experience (experiencia de arreglo de lujo) dura {{minutes:luxury-grooming}}."
+      ],
+      "link": {
+        "label": "VER LOS CORTES",
+        "href": "page:services-haircuts"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / SEMANA DE NAVIDAD",
+      "heading": "La semana de Navidad, sin rodeos.",
+      "lead": "Un cargo, el mismo día festivo.",
+      "paragraphs": [
+        "Este año, el día de Navidad cae en viernes. Abro en horario de entre semana, y las citas de ese día llevan el cargo por día festivo de {{holiday_fee}}. Los días de alrededor son días normales con precios normales.",
+        "El 24 de diciembre es jueves, y el evento cierra esa noche. Si quieres cortarte ese día, mándame un mensaje primero al {{phone}}.",
+        "El 31 de diciembre también es jueves, la última noche de la temporada. El día de Año Nuevo es el viernes 1 de enero de 2027, con el cargo por día festivo ese día.",
+        "¿Vienes manejando desde Whites City, Otis o Happy Valley? La página de visita tiene los tiempos en auto, cómo llegar y el horario completo."
+      ],
+      "link": {
+        "label": "PLANEA TU VISITA",
+        "href": "page:visit"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "05 / TODA LA FAMILIA",
+      "heading": "Todos en la foto.",
+      "lead": "Una vuelta, varios cortes.",
+      "paragraphs": [
+        "Los niños son bienvenidos, y se agendan del mismo menú que todos los demás, empezando por el Essential Haircut (corte esencial) de {{price:essential-haircut}}. Si toda la familia va a salir en la foto, agenda a cada persona como una cita aparte en Booksy, una después de otra, para que sea una sola vuelta a la barbería.",
+        "Las barbas salen en las fotos familiares más de lo que la gente cree. El Signature Cut mantiene la barba a la par del corte, para que nadie se vea a medias junto al árbol.",
+        "Planea primero los cortes y después la salida. El evento dura unas cinco semanas, pero cada una de esas semanas tiene un número limitado de horarios disponibles en mi silla.",
+        "El pago es igual que en cualquier visita: efectivo, tarjeta, Zelle o Cash App, después del servicio. Los planes de las fiestas cambian; cuando cambien los tuyos, cancela por Booksy con tiempo, porque Booksy puede cobrar un cargo si no llegas a tu cita o cancelas de último momento."
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / PREGUNTAS",
+      "heading": "Preguntas de la temporada.",
+      "items": [
+        {
+          "q": "¿Cuándo es Christmas on the Pecos en 2026?",
+          "a": "Del 27 de noviembre al 31 de diciembre de 2026, cerrado el 24 de diciembre. Revisa christmasonthepecos.com para horarios y boletos."
+        },
+        {
+          "q": "¿Cuándo debo cortarme el pelo antes de las fotos de Navidad?",
+          "a": "Unos días antes de las fotos. Agenda temprano en la temporada, porque soy el único barbero en la barbería."
+        },
+        {
+          "q": "¿Hay un cargo extra por cortarse el pelo el día de Navidad?",
+          "a": "Sí, el cargo por día festivo de {{holiday_fee}}, solo el mismo día festivo.",
+          "href": "page:faq",
+          "link_label": "MÁS RESPUESTAS"
+        },
+        {
+          "q": "¿Abres el sábado antes de Navidad?",
+          "a": "Sí. El sábado 19 de diciembre, de 8:00 AM a 2:00 PM."
+        },
+        {
+          "q": "¿Puedo agendar cortes para toda la familia antes de las fotos?",
+          "a": "Sí. Agenda a cada persona como su propia cita en Booksy, una tras otra. Los niños son bienvenidos."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "TEMPORADA DE FIESTAS",
+      "heading": "Agenda el corte.<br>Luego las fotos.",
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "services-haircuts",
+    "visit",
+    "faq"
+  ],
+  "tim_questions": [
+    "Is Christmas Eve (Thu, Dec 24) a holiday-fee day? The post tells people to text first.",
+    "Is New Year's Eve (Thu, Dec 31) a holiday-fee day? The post doesn't say either way.",
+    "Confirm the 'a few days before the photos' timing advice.",
+    "OK to name christmasonthepecos.com (as text, no link) as where to check times and tickets?"
+  ]
+}

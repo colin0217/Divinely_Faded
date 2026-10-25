@@ -119,6 +119,11 @@
   "h": 1200,
   "source": "https://divinely-faded.vercel.app/gbp-media/cut-skin-fade-hard-part-beard.jpg"
  },
+ "cut-skin-fade-long-beard": {
+  "w": 1200,
+  "h": 1600,
+  "source": "https://divinely-faded.vercel.app/gbp-media/cut-skin-fade-long-beard.jpg"
+ },
  "cut-slick-back-low-taper": {
   "w": 1200,
   "h": 1600,
@@ -194,6 +199,54 @@
   "h": 1600,
   "source": "https://divinely-faded.vercel.app/gbp-media/hot-towel.jpg"
  },
+ "pexels-32786444-man-curly-hair": {
+  "w": 2400,
+  "h": 1600,
+  "source": "https://www.pexels.com/photo/portrait-of-a-young-man-in-black-shirt-32786444/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "Ey\u00fcpcan Timur",
+  "treatment": "grayscale"
+ },
+ "pexels-36345557-work-crew": {
+  "w": 2400,
+  "h": 1600,
+  "source": "https://www.pexels.com/photo/construction-worker-holding-helmet-on-site-36345557/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "kakamussa Cinematographer Tanzania",
+  "treatment": "grayscale"
+ },
+ "pexels-6823515-booking-phone": {
+  "w": 2400,
+  "h": 1350,
+  "source": "https://www.pexels.com/photo/a-person-holding-a-smartphone-6823515/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "Artem Podrez",
+  "treatment": "grayscale"
+ },
+ "pexels-7697674-father-son-barbershop": {
+  "w": 2400,
+  "h": 1600,
+  "source": "https://www.pexels.com/photo/a-barber-looking-at-a-young-boy-s-hair-7697326/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "RDNE Stock project",
+  "treatment": "grayscale"
+ },
+ "pexels-8468129-tools-tray": {
+  "w": 2400,
+  "h": 1600,
+  "source": "https://www.pexels.com/photo/black-handled-scissors-beside-stainless-steel-scissors-8468129/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "Nataliya Vaitkevich",
+  "treatment": "grayscale"
+ },
+ "pexels-9775429-eyebrows": {
+  "w": 2400,
+  "h": 1600,
+  "source": "https://www.pexels.com/photo/close-up-of-a-man-s-face-9775429/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "SHVETS production",
+  "treatment": "grayscale"
+ },
  "shave-head-beard-trim": {
   "w": 1200,
   "h": 1200,
@@ -223,21 +276,5 @@
   "w": 1280,
   "h": 720,
   "source": "https://divinely-faded.vercel.app/gbp-media/tim-outdoor-kids-cut.jpg"
- },
- "pexels-7697674-father-son-barbershop": {
-  "w": 2400,
-  "h": 1600,
-  "source": "https://www.pexels.com/photo/a-barber-looking-at-a-young-boy-s-hair-7697326/",
-  "license": "Pexels License (free to use, no attribution required)",
-  "credit": "RDNE Stock project",
-  "treatment": "grayscale"
- },
- "pexels-32786444-man-curly-hair": {
-  "w": 2400,
-  "h": 1600,
-  "source": "https://www.pexels.com/photo/portrait-of-a-young-man-in-black-shirt-32786444/",
-  "license": "Pexels License (free to use, no attribution required)",
-  "credit": "Ey\u00fcpcan Timur",
-  "treatment": "grayscale"
  }
 }
