@@ -134,3 +134,7 @@ html{scroll-padding-top:140px}
 #close-photo .df-x{display:inline-block;width:11px;height:11px;margin-left:4px;vertical-align:-1px}
 .df-video-source .df-ext{display:inline-block;width:11px;height:11px;margin-left:3px;vertical-align:-1px}
 .df-ratings .df-star{display:inline-block;width:12px;height:12px;margin-right:3px;vertical-align:-1px}
+/* Footer town links (Artesia, Hobbs, Roswell): one row under Colin's two link columns, same type and color. */
+.df-new-footer .df-footer-nav .df-footer-towns{grid-column:1/-1!important;flex-direction:row!important;flex-wrap:wrap!important;column-gap:.9em!important}
+/* "Driving in?" town links: even spacing between links so they never touch when they wrap. */
+.df-out-of-town .df-prose p{display:flex!important;flex-wrap:wrap!important;column-gap:1.6em!important;row-gap:.4em!important}

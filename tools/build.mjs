@@ -180,7 +180,17 @@ function cellRelated(p) {
   const sameCity = [1, 2, 3].map((k) => ring[(i + k) % ring.length]).filter((q) => q && q.id !== p.id);
   return [hubOf(p), byKey.get(`${p.locale}:${p.base}`), ...sameBase, ...sameCity].filter(Boolean);
 }
+// Town hubs (city-<slug> pages), nearest to the shop first.
+function townHubs(loc) {
+  return pages.filter((q) => q.locale === loc && q.pageType === "city-hub" && !q._post).sort((a, b) => miles("carlsbad", a.city) - miles("carlsbad", b.city));
+}
+
 function cityDownLinks(p, t) {
+  if (p.id === "services" || p.id === "styles") {
+    const label = p.id === "services" ? t.fServices : t.fStyles;
+    const links = townHubs(p.locale).map((q) => `<a class="text-link" href="${q.slug}">${esc(t.fromCity(label, cityFacts[q.city]?.name || q.city))}</a>`).join(" ");
+    return links ? `<section class="services df-section df-out-of-town" data-df-reveal-group><div class="section-heading"><span class="eyebrow" data-df-reveal>${t.outOfTown}</span></div><div class="df-prose" data-df-reveal><p>${links}</p></div></section>` : "";
+  }
   const cells = cellsOf(p.locale).filter((q) => q.base === p.id).sort((a, b) => miles("carlsbad", a.city) - miles("carlsbad", b.city));
   if (!cells.length) return "";
   // Descriptive, page-specific anchors ("Skin Fade from Hobbs"), no shared boilerplate sentence (uniqueness gate).
@@ -275,6 +285,7 @@ function footer(loc) {
     <div class="df-footer-nav">
       <div class="df-footer-links"><a href="${P("about")}">${t.fAbout}</a><a href="${P("services")}">${t.fServices}</a><a href="${P("styles")}">${t.fStyles}</a><a href="${P("blog")}">${t.fBlog}</a></div>
       <div class="df-footer-links"><a href="${P("visit")}">${t.fVisit}</a><a href="${bk(loc)}" target="_blank" rel="noopener">${t.fBook}</a><a href="${facts.booksy_reviews}" target="_blank" rel="noopener">${t.fReviews}</a><a href="${P("faq")}">${t.fFaq}</a></div>
+      <div class="df-footer-links df-footer-towns">${townHubs(loc).map((q) => `<a href="${q.slug}">${esc(cityFacts[q.city]?.name || q.city)}</a>`).join("")}</div>
     </div>
     <div class="df-footer-social" aria-label="${t.ariaSocial}">${soc}</div>
     <p class="df-footer-address">${esc(facts.address.street)}, ${facts.address.city}, ${facts.address.region} ${facts.address.postal}<br><a href="sms:${facts.phone.e164}">${t.text} ${facts.phone.display}</a> · <a href="tel:${facts.phone.e164}">${t.call}</a><span class="df-footer-hours">${t.hours}</span></p>
