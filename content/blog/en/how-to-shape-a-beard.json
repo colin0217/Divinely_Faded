@@ -1,0 +1,176 @@
+{
+  "id": "post-how-to-shape-a-beard",
+  "locale": "en",
+  "slug": "/blog/how-to-shape-a-beard/",
+  "date": "2027-01-18",
+  "plan_rank": 81,
+  "title": "How to Shape a Beard Between Visits: Neckline, Cheek Line and Length",
+  "eyebrow": "BEARDS",
+  "hero": "pexels-7447145-beard-trim-closeup",
+  "hero_alt": "Close-up of a trimmer shaping the edge of a beard",
+  "image_plan": null,
+  "card_text": "Hold the lines your barber set: where the neckline sits, how to treat the cheek line, and taking length in small passes.",
+  "lede": [
+    "To shape a beard between visits, follow the lines your barber already set instead of drawing new ones. Keep the neckline where it was, commonly about one or two fingers above the Adam's apple, clean only the stray hairs above the cheek line, and take length off sparingly. Most home trims go wrong by doing too much, not too little.",
+    "Here's how to find and hold each line, how to handle length, and what to leave alone until your next appointment."
+  ],
+  "seo": {
+    "title": "How to Shape a Beard Between Visits | Carlsbad, NM",
+    "description": "How to shape a beard between barber visits: where the neckline sits, keeping the cheek line, and how much length to take, from a Carlsbad, NM barber.",
+    "primary": "how to shape a beard",
+    "secondary": [
+      "beard neckline",
+      "how to trim beard neckline",
+      "how to clean up neckline"
+    ]
+  },
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Blog",
+      "/blog/"
+    ],
+    [
+      "Shaping a Beard",
+      "/blog/how-to-shape-a-beard/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / THE NECKLINE",
+      "heading": "Where the beard ends.",
+      "lead": "The line most people get wrong.",
+      "paragraphs": [
+        "The neckline is where the beard stops under your jaw. A common guide is to lay one or two fingers flat above your Adam's apple and treat the top of those fingers as the center of the line. From there, the line curves back toward the spot just behind each earlobe.",
+        "Set it too high, up on the jawbone, and the beard looks like it's floating on your face. Too low and it blends into your neck. When in doubt, leave it a little lower. You can always take more next time.",
+        "Clear everything below that line. Keep your head level while you do it. Tilting your chin up stretches the skin and moves the line higher than you meant.",
+        "If you use a trimmer on the neck, take the guard off only below the line and work upward toward it in short strokes. Stop just short on the first pass, look, then finish. A slip at the neckline is the most visible mistake a home trim can make, because it shows every time you lift your chin."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / THE CHEEK LINE",
+      "heading": "Leave it mostly natural.",
+      "lead": "Less is more up top.",
+      "paragraphs": [
+        "The cheek line runs from your sideburn down toward the corner of your mustache. Many beards look fullest when this line stays close to where it grows naturally, with only the strays above it removed.",
+        "Lowering it at home is easy to overdo and slow to undo. Hair that's gone from the cheek takes weeks to return. If the cheek line needs a real change, that's a job for the chair."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / LENGTH",
+      "heading": "Take a little, check, repeat.",
+      "lead": "Small passes win.",
+      "subsections": [
+        {
+          "heading": "Start with a longer guard",
+          "paragraphs": [
+            "Begin one setting longer than you planned. Going shorter takes seconds; growing back takes weeks."
+          ]
+        },
+        {
+          "heading": "Keep the shape, not only the length",
+          "paragraphs": [
+            "A shaped beard is usually a touch shorter on the sides and fuller at the chin. Run one guard over the whole thing and you flatten that shape out."
+          ]
+        },
+        {
+          "heading": "Mind the mustache",
+          "paragraphs": [
+            "Treat it separately from the rest of the beard, and only clear the hairs that hang over the lip."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / LEAVE FOR THE CHAIR",
+      "heading": "What's worth waiting for.",
+      "lead": "Some jobs need the full view.",
+      "paragraphs": [
+        "Home trimming keeps a shape going. Building or changing one is easier with someone standing over you. I'd leave these for your appointment:"
+      ],
+      "bullets": [
+        "Moving the neckline or reshaping the cheek line.",
+        "Evening out a beard that has grown lopsided.",
+        "Straight razor edges, which give a sharper finish than a trimmer.",
+        "Blending the beard into a fade at the sideburns."
+      ],
+      "link": {
+        "label": "SEE BEARD SERVICES",
+        "href": "page:services-beard-shaves"
+      }
+    },
+    {
+      "type": "list",
+      "eyebrow": "05 / BOOKING",
+      "heading": "Where the lines get set.",
+      "items": [
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "A precision haircut plus a beard trim or line-up, a hot towel finish and straight razor detailing. Lines reset, edges sharp.",
+          "book": true
+        },
+        {
+          "title": "Luxury Grooming Experience",
+          "meta": "{{price:luxury-grooming}} · {{minutes:luxury-grooming}}",
+          "body": "A full beard sculpt with the haircut, plus a consultation, wash and scalp massage, facial steam and dual hot towels.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / QUESTIONS",
+      "heading": "Beard shaping, answered.",
+      "items": [
+        {
+          "q": "Where should a beard neckline be?",
+          "a": "A common guide is one or two fingers above the Adam's apple, curving back to just behind the ears."
+        },
+        {
+          "q": "Should I trim my cheek line?",
+          "a": "Clear the strays above it, but most beards look fuller when the line stays close to natural."
+        },
+        {
+          "q": "How do I keep my beard's shape between visits?",
+          "a": "Follow the lines that were set, trim length in small passes, and leave reshaping for the chair."
+        },
+        {
+          "q": "Can my beard blend into my fade?",
+          "a": "Yes. That blend at the sideburns is done in the chair.",
+          "href": "page:post-beard-fade",
+          "link_label": "BEARD FADE"
+        },
+        {
+          "q": "Can I book only a beard trim?",
+          "a": "A beard trim or line-up comes with the Signature Cut. For a beard-only visit, text me at {{phone}} and ask."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "BETWEEN VISITS",
+      "heading": "Hold the line.<br>Leave the rest.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "services-beard-shaves",
+    "services-haircuts"
+  ],
+  "tim_questions": [
+    "The neckline guide (one or two fingers above the Adam's apple) and the home-trimming tips are written as general advice. Do you agree, or do you set necklines differently?",
+    "Can clients book a beard-only trim? The post tells them to text and ask.",
+    "Is blending the beard into a fade at the sideburns part of the Signature Cut?"
+  ]
+}

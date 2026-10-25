@@ -7,8 +7,8 @@
   "plan_rank": 12,
   "title": "El primer corte de pelo de tu hijo: qué esperar en la barbería",
   "eyebrow": "NIÑOS",
-  "hero": "cut-kids-low-fade",
-  "hero_alt": "Desvanecido bajo de un niño, con la parte de arriba corta y un delineado cuadrado",
+  "hero": "pexels-7697487-boy-barber-chair",
+  "hero_alt": "Un niño sonriente sentado en la silla de barbero durante su corte",
   "image_plan": null,
   "card_text": "Sin edad fija, un poco de preparación en casa y papá o mamá cerca: así funciona el primer corte de un niño en mi silla.",
   "lede": [
@@ -22,9 +22,18 @@
     "secondary": []
   },
   "breadcrumb": [
-    ["Inicio", "/es/"],
-    ["Blog", "/es/blog/"],
-    ["Primer corte", "/es/blog/primer-corte-de-pelo/"]
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Blog",
+      "/es/blog/"
+    ],
+    [
+      "Primer corte",
+      "/es/blog/primer-corte-de-pelo/"
+    ]
   ],
   "blocks": [
     {

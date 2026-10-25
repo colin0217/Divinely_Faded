@@ -1,0 +1,112 @@
+{
+  "id": "roswell-services-braids",
+  "locale": "es",
+  "pageType": "cell",
+  "city": "roswell",
+  "base": "services-braids",
+  "slug": "/es/roswell/trenzas/",
+  "alt": "/roswell/braids/",
+  "nav_label": "Trenzas · Roswell",
+  "card_text": "Trenzas planeadas desde Roswell: manda primero la foto del estilo y dale al viaje la media jornada que necesita.",
+  "breadcrumb": [
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Roswell",
+      "/es/roswell/"
+    ],
+    [
+      "Trenzas",
+      "/es/roswell/trenzas/"
+    ]
+  ],
+  "seo": {
+    "title": "Trenzas para Roswell, NM | Divinely Faded, Carlsbad",
+    "description": "Trenzas para hombre desde Roswell, hechas en Carlsbad, a unos 92 minutos por la US 285. Booksy separa {{minutes:braids}}; manda una foto y planea media jornada.",
+    "primary": "trenzas para hombre roswell nm",
+    "secondary": [
+      "trenzas roswell nm"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "ROSWELL / TRENZAS",
+      "h1": "Trenzas, desde Roswell.",
+      "paragraphs": [
+        "Hago trenzas en mi barbería en Carlsbad, a {{city:roswell.drive_mi}} millas al sur de Roswell por la {{city:roswell.route}}. Suma los {{city:roswell.drive_min}} minutos de bajada (rutas de OpenStreetMap) a las {{minutes:braids}} que Booksy separa para un peinado de trenzas y ya comprometiste casi todo un día, así que esta página trata de que ese día salga bien."
+      ],
+      "link": {
+        "label": "PREGUNTA POR TRENZAS",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / PRIMERO EL MENSAJE",
+      "heading": "Manda la foto antes de mandarte tú.",
+      "paragraphs": [
+        "En Booksy las trenzas aparecen como Braids, con precio variable, porque el estilo lo decide. Manda una foto del peinado que quieres al {{phone}} y pregunta antes de agendar. Desde {{city:roswell.drive_mi}} millas de distancia, no quieres enterarte en la silla de que el estilo necesita más largo o más tiempo del que tienes. Cinco minutos de mensajes dejan claro el precio y el plan mientras sigues en casa en Roswell."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "02 / CÓMO AGENDARLO",
+      "heading": "Una línea del menú.",
+      "lead": "El precio se confirma por mensaje; el tiempo es fijo.",
+      "items": [
+        {
+          "title": "Braids",
+          "meta": "{{price:braids}} · {{minutes:braids}}",
+          "body": "Estilos de trenzas personalizados, con o sin desvanecido (fade) abajo. Booksy bloquea {{minutes:braids}} para ellas, así que escoge un horario sin nada urgente después.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / LA MEDIA JORNADA",
+      "heading": "Haz que el viaje valga la pena.",
+      "paragraphs": [
+        "Con {{city:roswell.drive_min}} minutos de ida más el peinado, un horario en la mañana te regresa a Roswell a media tarde; uno a primera hora de la tarde significa manejar la 285 hacia el anochecer. Cualquiera funciona. Lo que no funciona es meter las trenzas entre otros dos compromisos. Si quieres los lados desvanecidos debajo de las trenzas, dilo en el mensaje y te explico cómo agendarlo. Hay quien lo pide en verano: Roswell tiene unos {{city:roswell.days_100f}} días al año de 100°F o más (Open-Meteo, 2023–25), y los lados cortos debajo de las filas guardan menos calor.",
+        "Un peinado tan largo es difícil de reemplazar, así que si cambian tus planes cancela con tiempo en Booksy; una cancelación de último momento o no llegar a tu cita puede tener un cargo."
+      ],
+      "photos": []
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / PREGUNTAS",
+      "heading": "Trenzas desde Roswell, en respuestas.",
+      "items": [
+        {
+          "q": "¿Cuánto cuestan las trenzas si vengo de Roswell?",
+          "a": "Lo mismo que para cualquiera: depende del estilo, y por eso Booksy muestra el precio como variable. Primero mándame una foto y te digo."
+        },
+        {
+          "q": "¿Cuánto dura todo el viaje para las trenzas?",
+          "a": "Más o menos {{city:roswell.drive_min}} minutos de bajada, {{minutes:braids}} en la silla y el regreso. Cuenta con media jornada."
+        },
+        {
+          "q": "¿Puedo llevar desvanecido con las trenzas?",
+          "a": "La mayoría de los peinados de mis fotos van sobre lados desvanecidos o en taper. Menciónalo en tu mensaje y te explico cómo agendarlo."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "TRENZAS",
+      "heading": "Manda el estilo.<br>Y agarra la 285.",
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
+    }
+  ]
+}

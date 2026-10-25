@@ -1,0 +1,125 @@
+{
+  "id": "roswell-services-beard-shaves",
+  "locale": "en",
+  "pageType": "cell",
+  "city": "roswell",
+  "base": "services-beard-shaves",
+  "slug": "/roswell/beard-and-shaves/",
+  "alt": "/es/roswell/barba-y-afeitado/",
+  "nav_label": "Beard & shaves · Roswell",
+  "card_text": "Beard trims and razor shaves planned from Roswell: the drive, the dry air and which booking to pick.",
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Roswell",
+      "/roswell/"
+    ],
+    [
+      "Beard & Shaves",
+      "/roswell/beard-and-shaves/"
+    ]
+  ],
+  "seo": {
+    "title": "Beard Trim & Shave for Roswell, NM | Divinely Faded",
+    "description": "Beard trims, straight razor shaves and head shaves for anyone coming from Roswell, done in Carlsbad about 92 minutes south on US 285. Hot towels included.",
+    "primary": "beard trim roswell nm",
+    "secondary": [
+      "straight razor shave roswell nm",
+      "beard shave roswell nm"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "ROSWELL / BEARD & SHAVES",
+      "h1": "Beard and shaves, from Roswell.",
+      "paragraphs": [
+        "Beard work happens at my shop in Carlsbad, {{city:roswell.drive_mi}} miles south of Roswell. Take {{city:roswell.route}} through Artesia and you're here in about {{city:roswell.drive_min}} minutes (OpenStreetMap routing).",
+        "Three bookings cover it: the beard shaped alongside a haircut, a wet shave with the straight razor, or head and beard shaved in one go."
+      ],
+      "link": {
+        "label": "BOOK BEARD WORK",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "01 / THE OPTIONS",
+      "heading": "Trim it, shave it, or both.",
+      "lead": "Straight from my Booksy menu.",
+      "items": [
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "A haircut with the beard trimmed or lined up in the same sitting, hot towel at the end, razor on the edges.",
+          "book": true
+        },
+        {
+          "title": "Straight Razor Beard Shave",
+          "meta": "{{price:straight-razor-beard-shave}} · {{minutes:straight-razor-beard-shave}}",
+          "body": "Hot towels to soften everything first, premium cream, the straight razor, then a soothing aftershave to calm the skin.",
+          "book": true
+        },
+        {
+          "title": "Head & Beard Shave",
+          "meta": "{{price:head-beard-shave}} · {{minutes:head-beard-shave}}",
+          "body": "Head and beard shaved together, towels throughout, aftershave balm to finish. Booksy gives it {{minutes:head-beard-shave}}.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / DRY AIR",
+      "heading": "Dry heat and a razor.",
+      "paragraphs": [
+        "Roswell's average humidity runs about {{city:roswell.humidity_pct}}, and July tops out near {{city:roswell.july_high_f}} with around {{city:roswell.days_100f}} days a year at 100°F or more (Open-Meteo, 2023–25). Dry, hot air is rough on the skin under a beard, and it's the reason the hot towel matters as much as the blade. The towel softens the hair and the skin before the razor touches either, and the aftershave at the end is there to settle things down."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / THE TRIP",
+      "heading": "A shave fits an errand run.",
+      "paragraphs": [
+        "The Straight Razor Beard Shave takes {{minutes:straight-razor-beard-shave}}, so it slots into a Carlsbad errand day without reshaping it. The Head & Beard Shave is the longer sit, and some people pair it with the drive back by booking it last so nothing is waiting on them afterward. Either way, book the slot on Booksy before you leave Roswell, since I work by appointment only."
+      ],
+      "photos": []
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / QUESTIONS",
+      "heading": "Beard questions from Roswell.",
+      "items": [
+        {
+          "q": "How far is Carlsbad from Roswell for a beard trim?",
+          "a": "About {{city:roswell.drive_mi}} miles on {{city:roswell.route}}, roughly {{city:roswell.drive_min}} minutes, to {{address}}."
+        },
+        {
+          "q": "Can I book just the beard, no haircut?",
+          "a": "The Straight Razor Beard Shave is its own booking. A trim or line-up comes as part of the Signature Cut. For something in between, text me at {{phone}} first."
+        },
+        {
+          "q": "Is the hot towel part of every shave?",
+          "a": "Yes. Hot towels come with the Straight Razor Beard Shave and the Head & Beard Shave, and the Signature Cut ends with one."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "STRAIGHT RAZOR",
+      "heading": "Hot towel.<br>Then 285 home.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ]
+}

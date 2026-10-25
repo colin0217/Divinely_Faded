@@ -1,0 +1,130 @@
+{
+  "id": "hobbs-services-beard-shaves",
+  "locale": "es",
+  "pageType": "cell",
+  "city": "hobbs",
+  "base": "services-beard-shaves",
+  "slug": "/es/hobbs/barba-y-afeitado/",
+  "alt": "/hobbs/beard-and-shaves/",
+  "nav_label": "Barba y afeitado · Hobbs",
+  "card_text": "Barba y afeitado desde Hobbs: toallas calientes, la navaja y cómo hacer que un solo viaje cubra la cabeza y la barba.",
+  "breadcrumb": [
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Hobbs",
+      "/es/hobbs/"
+    ],
+    [
+      "Barba y afeitado",
+      "/es/hobbs/barba-y-afeitado/"
+    ]
+  ],
+  "seo": {
+    "title": "Barba y afeitado para Hobbs, NM | Divinely Faded",
+    "description": "Barba, afeitado con navaja y afeitado de cabeza y barba para Hobbs, en Carlsbad por la US 62/180. Toallas calientes siempre. Agenda en Booksy.",
+    "primary": "corte de barba hobbs nm",
+    "secondary": [
+      "afeitado con navaja hobbs nm"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "HOBBS / BARBA Y AFEITADO",
+      "h1": "Barba y afeitado, desde Hobbs.",
+      "paragraphs": [
+        "Las toallas calientes y la navaja de barbero viven en Carlsbad, a {{city:hobbs.drive_mi}} millas de Hobbs por la {{city:hobbs.route}}. Calcula unos {{city:hobbs.drive_min}} minutos de ida (rutas de OpenStreetMap) y agenda antes de salir, porque atiendo solo con cita.",
+        "Tres servicios cubren la barba aquí: la barba junto con un corte, la barba afeitada por sí sola, y la cabeza y la barba afeitadas juntas."
+      ],
+      "link": {
+        "label": "AGENDA TU BARBA",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / EL AIRE",
+      "heading": "El aire de Hobbs es un poco más amable con la piel.",
+      "paragraphs": [
+        "El archivo 2023–25 de Open-Meteo le da a Hobbs una humedad promedio de {{city:hobbs.humidity_pct}}, la menos seca de las ciudades de las que escribo, frente al {{city:carlsbad.humidity_pct}} de Carlsbad. La máxima promedio de julio en Hobbs es de {{city:hobbs.july_high_f}}, donde la de Carlsbad es de {{city:carlsbad.july_high_f}}.",
+        "Aun así, es una buena parte del año seca y caliente. Si la piel debajo de tu barba se descama o el cuello se te irrita después de afeitarte en casa, la toalla caliente antes de la navaja y el aftershave calmante después están ahí justo para eso."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "02 / CÓMO AGENDARLO",
+      "heading": "Tres citas para la barba.",
+      "lead": "Los precios y tiempos son de Booksy.",
+      "items": [
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "Corte con tu barba recortada o con delineado (line-up), y al final toalla caliente y detalles con navaja.",
+          "book": true
+        },
+        {
+          "title": "Straight Razor Beard Shave",
+          "meta": "{{price:straight-razor-beard-shave}} · {{minutes:straight-razor-beard-shave}}",
+          "body": "Toallas calientes, crema de afeitar, la navaja y un aftershave calmante. Afeitado tradicional, nada en la cabeza.",
+          "book": true
+        },
+        {
+          "title": "Head & Beard Shave",
+          "meta": "{{price:head-beard-shave}} · {{minutes:head-beard-shave}}",
+          "body": "Cabeza y barba afeitadas juntas, con toallas calientes y un bálsamo aftershave. El más largo de los tres, y el que más le saca a un viaje desde Hobbs.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / UN SOLO VIAJE",
+      "heading": "Afeita todo mientras estás aquí.",
+      "paragraphs": [
+        "Si te afeitas la cabeza y la barba, el Head & Beard Shave (afeitado de cabeza y barba) hace las dos cosas en un bloque de {{minutes:head-beard-shave}}. Desde Hobbs, eso aprovecha el camino mucho más que venir por una y hacer la otra en casa.",
+        "¿Te quedas con la barba y con el pelo? La Luxury Grooming Experience (experiencia de arreglo de lujo) le suma al corte un modelado de barba, vapor y dos toallas calientes."
+      ],
+      "photos": []
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / PREGUNTAS",
+      "heading": "Preguntas de barba desde Hobbs.",
+      "items": [
+        {
+          "q": "¿Puedo agendar solo un corte de barba desde Hobbs?",
+          "a": "En Booksy, el recorte o delineado de barba viene con el Signature Cut (corte distintivo). Si solo quieres afeitarte la barba, agenda el Straight Razor Beard Shave (afeitado de barba con navaja)."
+        },
+        {
+          "q": "¿Cuánto dura el Head & Beard Shave?",
+          "a": "Booksy le separa {{minutes:head-beard-shave}}, con toallas calientes incluidas."
+        },
+        {
+          "q": "¿Tiñes barbas?",
+          "a": "No. El teñido de barba no está en mi menú."
+        },
+        {
+          "q": "¿Dónde está la barbería?",
+          "a": "En {{address}}. Desde Hobbs, toma la {{city:hobbs.route}} hacia el oeste."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "NAVAJA DE BARBERO",
+      "heading": "Toalla caliente.<br>Y la 62/180 de regreso.",
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
+    }
+  ]
+}

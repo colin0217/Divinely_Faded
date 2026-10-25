@@ -1,0 +1,120 @@
+{
+  "id": "hobbs-styles-textured-crop",
+  "locale": "en",
+  "pageType": "cell",
+  "city": "hobbs",
+  "base": "styles-textured-crop",
+  "slug": "/hobbs/textured-crop/",
+  "alt": "/es/hobbs/crop-texturizado/",
+  "nav_label": "Textured crop · Hobbs",
+  "card_text": "The textured crop from Hobbs: styled with your fingers every day, cut in Carlsbad every 70 miles.",
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Hobbs",
+      "/hobbs/"
+    ],
+    [
+      "Textured Crop",
+      "/hobbs/textured-crop/"
+    ]
+  ],
+  "seo": {
+    "title": "Textured Crop for Hobbs, NM | Divinely Faded, Carlsbad",
+    "description": "Textured crop and French crop for Hobbs, cut in Carlsbad about 80 minutes west. A short forward top that styles in seconds and lasts between trips.",
+    "primary": "textured crop hobbs nm",
+    "secondary": [
+      "french crop hobbs nm",
+      "short haircut hobbs nm"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "HOBBS / TEXTURED CROP",
+      "h1": "Textured crop, from Hobbs.",
+      "paragraphs": [
+        "A short top cut into pieces on purpose and pushed forward into a stubby fringe over tight sides. I cut the textured crop in Carlsbad; Hobbs is {{city:hobbs.drive_mi}} miles east of my chair, a drive of about {{city:hobbs.drive_min}} minutes on {{city:hobbs.route}} (OpenStreetMap routing).",
+        "It's the cut I'd point to when someone wants short hair that still looks like a haircut, and doesn't want to think about it between drives."
+      ],
+      "link": {
+        "label": "BOOK A TEXTURED CROP",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / THE DISTANCE",
+      "heading": "I style it once. Your fingers do the rest.",
+      "paragraphs": [
+        "The only day a barber styles a crop is the day you drive the {{city:hobbs.drive_min}} minutes home. Every morning after that it's a push forward with your hand, done. That's the appeal: a cut that looks intentional with nobody keeping it that way.",
+        "To stretch the time between trips, ask me to leave the fringe a touch shorter than the photos. It grows into the usual length over the following weeks instead of past it, and the shape holds until the fringe lands on your eyebrows."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / THE AIR",
+      "heading": "A little puff reads as texture.",
+      "paragraphs": [
+        "Hobbs averages about {{city:hobbs.humidity_pct}} relative humidity, compared with {{city:carlsbad.humidity_pct}} in Carlsbad (Open-Meteo, 2023–25). Thick hair can swell a little on damp mornings. On a sleek style that looks like frizz; on a crop, where the pieces are already cut to separate, it just looks like more texture."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "03 / BOOK IT AS",
+      "heading": "Usually just the one.",
+      "lead": "Prices and times from Booksy.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "A precision cut: top broken up, fringe set, sides tapered or faded, neckline cleaned with the straight razor, then pushed forward so you see it done right.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "Same crop, beard included, hot towel at the end.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / QUESTIONS",
+      "heading": "Crop questions from Hobbs.",
+      "items": [
+        {
+          "q": "Textured crop or French crop if I'm driving from Hobbs?",
+          "a": "The French crop has a blunt, even fringe, which shows unevenness as it grows. The textured version is cut uneven to begin with, so it forgives the weeks between trips better."
+        },
+        {
+          "q": "How short should the fringe be for a longer gap between visits?",
+          "a": "A bit above where you'd normally wear it. Tell me how many weeks you want it to last and I'll cut to that."
+        },
+        {
+          "q": "Where are the crop photos?",
+          "a": "The <a href=\"/styles/textured-crop/\">textured crop page</a> shows a fuller back view and a shorter side view."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "APPOINTMENTS ONLY",
+      "heading": "Cut it short.<br>Push it forward.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ]
+}

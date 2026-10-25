@@ -1,0 +1,184 @@
+{
+  "id": "city-artesia",
+  "locale": "en",
+  "slug": "/artesia/",
+  "alt": "/es/artesia/",
+  "nav_label": "From Artesia",
+  "card_text": "Driving down from Artesia: distance, route and how to book the trip.",
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Artesia",
+      "/artesia/"
+    ]
+  ],
+  "seo": {
+    "title": "Barber Near Artesia, NM: 44 Min South in Carlsbad",
+    "description": "Coming from Artesia? Divinely Faded is 36 miles south in Carlsbad, about 44 minutes down US 285. Appointments only: book on Booksy before you drive.",
+    "primary": "barber shop artesia nm",
+    "secondary": [
+      "barbershop artesia nm",
+      "haircut artesia nm",
+      "barber shop near artesia nm",
+      "haircuts in artesia nm"
+    ],
+    "og_photo": "cut-skin-fade-long-beard"
+  },
+  "schema": {
+    "type": "CollectionPage"
+  },
+  "tim_questions": [
+    "Do clients come down from Artesia? If yes (and roughly how many), the page can say so in your words. Right now it only gives the drive and how to book, and makes no claim about Artesia clients."
+  ],
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "VISIT / FROM ARTESIA",
+      "h1": "Coming from Artesia.",
+      "paragraphs": [
+        "My shop is in Carlsbad, not Artesia. It sits about 36 miles south, and it's US 285 almost the whole way: roughly 44 minutes from the center of Artesia to my door.",
+        "If that drive is worth it to you, this page is how to plan it, so the trip ends in my chair at the time you booked."
+      ],
+      "link": {
+        "label": "GET DIRECTIONS",
+        "href": "directions"
+      },
+      "photos": [
+        "cut-skin-fade-long-beard"
+      ],
+      "alt": {
+        "cut-skin-fade-long-beard": "High skin fade from the back, with a long gray beard"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / PLAN THE DRIVE",
+      "heading": "Book first, then drive.",
+      "paragraphs": [
+        "I only take appointments, so pick your time on Booksy before you leave Artesia. Every open slot shows up there, and booking one holds your chair.",
+        "Saturday runs from 8 AM to 2 PM, which helps if you're tied up through the week. Weekday appointments are Monday, Tuesday, Thursday and Friday. Wednesday and Sunday I'm closed.",
+        "Give yourself the full 44 minutes plus a little room for traffic once you're in Carlsbad. If something holds you up on the road, text me at {{phone}} so I know where you're at.",
+        "Booksy may charge a fee for a no-show or a late cancellation. If your plans change, cancel in the app as early as you can."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "02 / WHAT TO BOOK",
+      "heading": "Know your time in the chair.",
+      "lead": "Prices and times from my Booksy menu. Add the drive both ways and you know your whole afternoon.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "The shortest full cut on my menu: shaped to your head, neck cleaned up with a straight razor, styled before you head back up 285.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "Haircut plus a beard trim or line-up, finished with a hot towel. One sitting takes care of both, so one trip does too.",
+          "book": true
+        },
+        {
+          "title": "Luxury Grooming Experience",
+          "meta": "{{price:luxury-grooming}} · {{minutes:luxury-grooming}}",
+          "body": "Everything in one appointment: cut, beard sculpt, wash and scalp massage, facial steam and two hot towels. Worth it if you're making a day of it in Carlsbad.",
+          "book": true
+        },
+        {
+          "title": "Head & Beard Shave",
+          "meta": "{{price:head-beard-shave}} · {{minutes:head-beard-shave}}",
+          "body": "Head and beard shaved with hot towels and an aftershave balm, all in one sitting.",
+          "book": true
+        },
+        {
+          "title": "Kids' haircuts",
+          "meta": "Kids welcome",
+          "body": "Bringing the family down? Book each kid their own slot on Booksy, back to back with yours, and everyone's done in one visit.",
+          "href": "page:services-kids",
+          "link_label": "KIDS' HAIRCUTS",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "eyebrow": "FOR ARTESIA / SERVICES",
+      "heading": "Every service, planned from Artesia.",
+      "items": "children:services"
+    },
+    {
+      "type": "cards",
+      "eyebrow": "FOR ARTESIA / CUT STYLES",
+      "heading": "Every cut style, planned from Artesia.",
+      "items": "children:styles"
+    },
+    {
+      "type": "map",
+      "eyebrow": "03 / MAP",
+      "heading": "Where you're headed.",
+      "lead": "{{address}}. Tap the map to open the route in Google Maps.",
+      "title": "Map to Divinely Faded, 303 S Halagueno St, Carlsbad, NM",
+      "link_label": "GET DIRECTIONS"
+    },
+    {
+      "type": "table",
+      "eyebrow": "04 / THE DRIVE",
+      "heading": "Artesia by the numbers.",
+      "lead": "Public data for Artesia and the drive to the shop. Sources are listed in each row.",
+      "columns": [
+        "Artesia",
+        "",
+        "Source"
+      ],
+      "rows": "city:artesia"
+    },
+    {
+      "type": "faq",
+      "eyebrow": "05 / QUESTIONS",
+      "heading": "Before you head down.",
+      "items": [
+        {
+          "q": "How far is Divinely Faded from Artesia?",
+          "a": "About 36 miles, or roughly 44 minutes south on US 285. The shop is at {{address}}."
+        },
+        {
+          "q": "Do I need an appointment if I'm driving in?",
+          "a": "Yes. I work by appointment only, so book on Booksy before you leave and your chair is held for that time."
+        },
+        {
+          "q": "Is Saturday a good day to come down?",
+          "a": "Saturday is 8 AM to 2 PM, which suits anyone who works through the week. Booksy shows which Saturday times are still open."
+        },
+        {
+          "q": "Can my kids come too?",
+          "a": "Yes, kids are welcome. Book a slot for each of them on Booksy so the whole family gets done in one trip."
+        },
+        {
+          "q": "How do I pay once I'm there?",
+          "a": "After your cut, pay however suits you: cash, card, Zelle or Cash App."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "APPOINTMENTS ONLY",
+      "heading": "Book it.<br>Then hit 285.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ],
+  "pageType": "city-hub",
+  "city": "artesia",
+  "related": [
+    "visit",
+    "services",
+    "styles"
+  ]
+}

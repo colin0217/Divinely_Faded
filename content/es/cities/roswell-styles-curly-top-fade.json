@@ -1,0 +1,120 @@
+{
+  "id": "roswell-styles-curly-top-fade",
+  "locale": "es",
+  "pageType": "cell",
+  "city": "roswell",
+  "base": "styles-curly-top-fade",
+  "slug": "/es/roswell/curly-top-fade/",
+  "alt": "/roswell/curly-top-fade/",
+  "nav_label": "Curly top fade · Roswell",
+  "card_text": "Curly top fades para Roswell, adultos y niños: pelo chino en aire seco, lados con desvanecido y un solo viaje.",
+  "breadcrumb": [
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Roswell",
+      "/es/roswell/"
+    ],
+    [
+      "Curly Top Fade",
+      "/es/roswell/curly-top-fade/"
+    ]
+  ],
+  "seo": {
+    "title": "Curly top fade para Roswell, NM | Divinely Faded, Carlsbad",
+    "description": "Curly top fades para Roswell, en Carlsbad al sur por la US 285. Pelo chino en aire seco, un desvanecido que crece despacio y niños después de ti.",
+    "primary": "corte para pelo chino roswell nm",
+    "secondary": [
+      "curly top fade roswell nm"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "ROSWELL / CURLY TOP FADE",
+      "h1": "Curly top fade, desde Roswell.",
+      "paragraphs": [
+        "Tu pelo chino hace el trabajo arriba; yo me encargo de todo lo de abajo con un desvanecido (fade). Esa es toda la idea de un curly top fade, y lo corto en Carlsbad, a {{city:roswell.drive_mi}} millas al sur de Roswell, en {{address}}. Cuenta con unos {{city:roswell.drive_min}} minutos por la {{city:roswell.route}} de ida, pasando por Artesia (rutas de OpenStreetMap).",
+        "Abajo: lo que el aire seco le hace al pelo chino, cómo elegir un desvanecido que aguante el espacio entre viajes y cómo lo agenda una familia."
+      ],
+      "link": {
+        "label": "AGENDA UN CURLY TOP FADE",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / PELO CHINO EN AIRE SECO",
+      "heading": "Menos frizz, más sed.",
+      "paragraphs": [
+        "El aire de Roswell promedia alrededor de {{city:roswell.humidity_pct}} de humedad (Open-Meteo, 2023–25). Para el pelo chino eso corta por los dos lados: el frizz de los climas húmedos casi no es tu problema, pero el pelo chino seco pierde su resorte y se ve opaco más rápido. Cuando le doy forma a la parte de arriba, corto según cómo se comporta tu chino seco, no mojado, y te digo cuánto largo necesita tu patrón para conservar su rebote."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / UN DESVANECIDO QUE TE ESPERA",
+      "heading": "El chino perdona. La piel, no.",
+      "paragraphs": [
+        "Lo que crece arriba solo se lee como más chino. Lo que crece en los lados con desvanecido es lo que delata el corte, y desde Roswell cada retoque son otros {{city:roswell.drive_min}} minutos al volante. Si no puedes volver seguido, dímelo: un desvanecido bajo o medio deja más pelo en los lados y se suaviza al crecer, mientras que una versión hasta la piel se ve pendiente de retoque mucho antes."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "03 / CÓMO AGENDARLO",
+      "heading": "Adultos y niños agendan igual.",
+      "lead": "Una cita por cabeza.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "El chino con forma arriba, el desvanecido a la altura que acordemos y el contorno de la nuca con navaja. Esta es también la cita para el curly top de un niño.",
+          "book": true
+        },
+        {
+          "title": "Cortes para niños",
+          "meta": "Niños bienvenidos",
+          "body": "El {{city:roswell.under18_pct}} de Roswell es menor de 18 (Censo ACS 2023). Si esa es tu casa, agenda a cada niño su propio horario justo después del tuyo para que un solo viaje cubra a todos.",
+          "href": "page:services-kids",
+          "link_label": "CORTES PARA NIÑOS",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / PREGUNTAS",
+      "heading": "Dudas sobre el pelo chino desde el norte.",
+      "items": [
+        {
+          "q": "¿Me lavo el pelo chino antes de bajar desde Roswell?",
+          "a": "Ven con el pelo como lo usas normalmente, seco. Quiero ver el chino real antes de cortar, y {{city:roswell.drive_min}} minutos en el carro bastan para que se asiente."
+        },
+        {
+          "q": "¿Un niño de Roswell se puede hacer un curly top fade?",
+          "a": "Sí. Los niños son bienvenidos, y los papás eligen para ellos el Essential Haircut (corte esencial) en Booksy. Si a un niño le da nervio la máquina, un desvanecido bajo es un punto de partida suave."
+        },
+        {
+          "q": "¿Qué altura de desvanecido aguanta más entre visitas?",
+          "a": "Bajo, luego medio, luego piel. Mientras menos cuero cabelludo deje al descubierto, más lento se nota el crecimiento. La <a href=\"/es/estilos/curly-top-fade/\">página del curly top fade</a> muestra la versión a piel para que compares."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "SOLO CON CITA",
+      "heading": "Agenda el chino.<br>Trae a los niños.",
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
+    }
+  ]
+}

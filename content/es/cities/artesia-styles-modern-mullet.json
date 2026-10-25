@@ -1,0 +1,129 @@
+{
+  "id": "artesia-styles-modern-mullet",
+  "locale": "es",
+  "pageType": "cell",
+  "city": "artesia",
+  "base": "styles-modern-mullet",
+  "slug": "/es/artesia/mullet-moderno/",
+  "alt": "/artesia/modern-mullet/",
+  "nav_label": "Mullet moderno · Artesia",
+  "card_text": "Mullet moderno para Artesia: lados con desvanecido, largo atrás y una cita de color que vale el viaje.",
+  "breadcrumb": [
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Artesia",
+      "/es/artesia/"
+    ],
+    [
+      "Mullet moderno",
+      "/es/artesia/mullet-moderno/"
+    ]
+  ],
+  "seo": {
+    "title": "Mullet moderno para Artesia, NM | Divinely Faded, Carlsbad",
+    "description": "Mullet moderno y burst fade mullet para Artesia, en Carlsbad, a {{city:artesia.drive_min}} minutos por la US 285. Lados con calendario, atrás a crecer, platinado opcional.",
+    "primary": "mullet moderno artesia nm",
+    "secondary": [
+      "corte mullet artesia",
+      "burst fade mullet artesia"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "ARTESIA / MULLET MODERNO",
+      "h1": "Mullet moderno, desde Artesia.",
+      "paragraphs": [
+        "Lados bien cortos con desvanecido (fade), el frente texturizado y largo de verdad atrás. Ese contraste es lo que hace que un mullet moderno sea un corte y no un recuerdo de otra época. Los corto en Carlsbad, a {{city:artesia.drive_mi}} millas de Artesia por la {{city:artesia.route}}, alrededor de {{city:artesia.drive_min}} minutos según la ruta de OpenStreetMap.",
+        "Aquí ves cómo encajan el viaje y el corte, incluida la cita larga si lo quieres platinado."
+      ],
+      "link": {
+        "label": "AGENDA UN MULLET",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / VEINTITANTOS Y TREINTA Y TANTOS",
+      "heading": "Las edades que lo dejan crecer.",
+      "paragraphs": [
+        "El {{city:artesia.age_20_34_pct}} de Artesia tiene entre 20 y 34 años (Censo ACS 2023), el tramo de la vida en el que el mullet ha vuelto como un corte intencional y no como un reto. No digo que tenga límite de edad. Pero si estás en ese rango y lo estás pensando, empieza a dejar crecer la parte de atrás desde ahora: los lados se pueden desvanecer en cualquier visita, mientras que la cola tarda meses en pasar del cuello de la camisa. El pelo ondulado y el chino llegan con más forma; el lacio necesita primero ese largo extra."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / LA CITA LARGA",
+      "heading": "El platinado se gana el viaje.",
+      "paragraphs": [
+        "La Color Transformation (transformación de color) dura {{minutes:color-transformation}} en mi menú, porque decolorar y matizar hasta el platinado no se puede apurar. Si vas a manejar {{city:artesia.drive_min}} minutos para llegar, esa es una cita que justifica las millas. Mándame un mensaje primero para planear corte y color como una sola visita en lugar de dos viajes. Para el corte por sí solo, los lados con desvanecido son lo que te hace volver; la cola solo necesita forma de vez en cuando mientras crece."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "03 / CÓMO AGENDARLO",
+      "heading": "Corte, barba o el platinado completo.",
+      "lead": "Precios y tiempos de mi menú en Booksy.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "Lados con desvanecido, parte de atrás con forma, frente texturizado, contorno de la nuca con navaja y peinado para salir.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "El mullet con recorte o delineado (line-up) de barba y toalla caliente, para quien equilibra el largo con una barba.",
+          "book": true
+        },
+        {
+          "title": "Color Transformation",
+          "meta": "{{price:color-transformation}} · {{minutes:color-transformation}}",
+          "body": "Decoloración y matizado hasta el platinado como el de la foto en la página del mullet. Es una cita aparte; mándame un mensaje antes de juntarla con un corte.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / PREGUNTAS",
+      "heading": "Preguntas sobre el mullet desde Artesia.",
+      "items": [
+        {
+          "q": "¿Cuánto tarda un mullet en verse como mullet?",
+          "a": "Si empiezas con el pelo corto, cuenta con algunas visitas en las que mantengo los lados cortos mientras la parte de atrás alcanza. Varios meses, según qué tan rápido crezca tu pelo."
+        },
+        {
+          "q": "¿Un burst fade mullet es diferente?",
+          "a": "El desvanecido se curva detrás de la oreja en lugar de ir parejo, y eso deja peso en la nuca. El mismo largo atrás, con un contorno más suave. Míralo en la <a href=\"/es/estilos/mullet-moderno/\">página del mullet moderno</a>."
+        },
+        {
+          "q": "¿Puedo hacerme corte y color el mismo día viniendo de Artesia?",
+          "a": "Mándame un mensaje al {{phone}} antes de agendar y te digo cómo acomodar los dos."
+        },
+        {
+          "q": "¿Un mullet puede pasar en el trabajo?",
+          "a": "Una cola más corta sobre un desvanecido bajo se ve mucho más conservadora que una larga sobre piel bien arriba. Le puedes subir o bajar."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "SOLO CON CITA",
+      "heading": "Agenda el mullet.<br>Luego apunta al sur por la 285.",
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
+    }
+  ]
+}

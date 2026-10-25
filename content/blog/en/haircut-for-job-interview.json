@@ -1,0 +1,162 @@
+{
+  "id": "post-haircut-for-job-interview",
+  "locale": "en",
+  "slug": "/blog/haircut-for-job-interview/",
+  "date": "2026-11-20",
+  "plan_rank": 40,
+  "title": "Haircuts for a Job Interview",
+  "eyebrow": "GUIDE",
+  "hero": "pexels-36733334-interview-handshake",
+  "hero_alt": "Two people shaking hands across a desk in a bright office",
+  "image_plan": null,
+  "card_text": "Clean, conservative and settled in by the day. When to book before an interview, three safe cuts, and the beard question.",
+  "lede": [
+    "For a job interview, get a clean, conservative cut a few days before, not the morning of. By interview day the edges have settled in and the cut looks like your hair, just at its neatest. Stick to a style you already know how to wear, keep the neckline and sideburns tidy, and decide what the beard is doing well ahead of time.",
+    "Here's how to time it, three cuts that read well in almost any interview room, and what to book."
+  ],
+  "seo": {
+    "title": "Haircuts for a Job Interview | Carlsbad, NM",
+    "description": "Haircuts for a job interview in Carlsbad, NM: book a few days before, keep it clean and conservative, and sort the beard. Divinely Faded.",
+    "primary": "haircut for job interview",
+    "secondary": []
+  },
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Blog",
+      "/blog/"
+    ],
+    [
+      "Job Interview Haircuts",
+      "/blog/haircut-for-job-interview/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / TIMING",
+      "heading": "A few days before.",
+      "lead": "Settled, not brand new.",
+      "paragraphs": [
+        "A cut done the same morning can look just a little too fresh: pale skin where the fade was, a line-up so sharp it draws the eye. Give it a few days and it reads as you on a good day, which is the goal.",
+        "Don't try something new right before an interview. If a style is new to you, you won't know how it behaves on a rushed morning. Save a big change for after you've got the job, or do it weeks ahead.",
+        "Interviews come up on short notice. If yours is this week, text me and ask what's open. Booksy shows the next available times too."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / WHAT READS AS PREPARED",
+      "heading": "Neat beats trendy.",
+      "lead": "Small details carry it.",
+      "bullets": [
+        "A clean neckline above the collar. All three haircut services end with a straight razor there.",
+        "Even sideburns, trimmed to a tidy bottom edge.",
+        "Nothing over the eyes. If your fringe falls forward, plan how you'll keep it out of your face.",
+        "A beard that looks intentional, whatever its length.",
+        "A style you can recreate yourself on the day, without help."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / THREE SAFE CUTS",
+      "heading": "Interview-ready styles.",
+      "lead": "Conservative, still sharp.",
+      "subsections": [
+        {
+          "heading": "Low taper",
+          "paragraphs": [
+            "Edges cleaned up low around the ears and at the nape, with length left on the sides. Tidy from every angle and quiet enough for any room, from an office to a site trailer."
+          ]
+        },
+        {
+          "heading": "Hard part",
+          "paragraphs": [
+            "A side part with a line shaved in where your hair naturally divides. It looks deliberate and polished. If you're unsure how a strong line will go over, ask for a softer part instead."
+          ]
+        },
+        {
+          "heading": "Slick back",
+          "paragraphs": [
+            "A longer top combed back over a taper, like the cut in the photo. Classic with a suit or a collared shirt. Practice the styling before the day so it holds through the whole interview."
+          ]
+        }
+      ],
+      "link": {
+        "label": "SEE THE LOW TAPER FADE",
+        "href": "page:styles-low-taper-fade"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / THE BEARD",
+      "heading": "Trimmed, or gone.",
+      "lead": "Decide before you book.",
+      "paragraphs": [
+        "Keeping it? The Signature Cut ({{price:signature-cut}}, {{minutes:signature-cut}}) trims or lines up the beard and finishes with a hot towel and razor detailing, so the face matches the haircut.",
+        "Taking it off? The Straight Razor Beard Shave ({{price:straight-razor-beard-shave}}, {{minutes:straight-razor-beard-shave}}) is a traditional wet shave with hot towels. If you've had a beard for years, shave it a few days before the interview rather than the night before, so your face has time to look normal to you.",
+        "No beard at all? The Essential Haircut ({{price:essential-haircut}}, {{minutes:essential-haircut}}) is the cut, the neck cleanup and a finished style."
+      ],
+      "link": {
+        "label": "SEE THE HAIRCUTS",
+        "href": "page:services-haircuts"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "05 / ON THE DAY",
+      "heading": "The morning of.",
+      "lead": "Give the styling a few extra minutes.",
+      "paragraphs": [
+        "Style your hair the way you practiced, then check the back and sides in a second mirror. The parts of a cut you can't see are the parts an interviewer sits behind or beside.",
+        "Skip the cap or hat on the drive over. A dent across the top is hard to fix in the car five minutes before you go in.",
+        "Run a hand down your collar before you head inside. Loose clippings and a crooked collar are the only things a fresh neckline can't fix."
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "05 / QUESTIONS",
+      "heading": "Interview-cut questions.",
+      "items": [
+        {
+          "q": "How many days before an interview should I get a haircut?",
+          "a": "A few days before. The cut has time to settle, and it still looks neat on the day."
+        },
+        {
+          "q": "What haircut is good for a job interview?",
+          "a": "A clean, conservative one you already know how to style: a low taper, a side part with a hard part, or a slick back.",
+          "href": "page:styles-hard-part",
+          "link_label": "SEE THE HARD PART"
+        },
+        {
+          "q": "Should I shave my beard for an interview?",
+          "a": "Not necessarily. A neatly trimmed beard looks intentional. If you do shave it, do it a few days ahead."
+        },
+        {
+          "q": "Is a fade OK for an interview?",
+          "a": "Yes, as long as it's clean. A low fade or a low taper is the quieter choice if you're unsure about the workplace."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "INTERVIEW WEEK",
+      "heading": "Look ready.<br>Feel ready.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "services-haircuts",
+    "styles-hard-part",
+    "styles-low-taper-fade"
+  ],
+  "tim_questions": [
+    "Confirm the 'a few days before' timing for interview cuts (the plan suggested 3-5 days).",
+    "For short-notice interviews, is texting you the right way to ask about openings? The post says to text and ask what's open."
+  ]
+}

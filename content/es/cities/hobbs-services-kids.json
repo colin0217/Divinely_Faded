@@ -1,0 +1,123 @@
+{
+  "id": "hobbs-services-kids",
+  "locale": "es",
+  "pageType": "cell",
+  "city": "hobbs",
+  "base": "services-kids",
+  "slug": "/es/hobbs/cortes-para-ninos/",
+  "alt": "/hobbs/kids-haircuts/",
+  "nav_label": "Cortes para niños · Hobbs",
+  "card_text": "Cortes para niños desde Hobbs: agendar a los hermanos seguidos y apuntarle a un sábado por la mañana.",
+  "breadcrumb": [
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Hobbs",
+      "/es/hobbs/"
+    ],
+    [
+      "Cortes para niños",
+      "/es/hobbs/cortes-para-ninos/"
+    ]
+  ],
+  "seo": {
+    "title": "Cortes para niños desde Hobbs, NM | Divinely Faded",
+    "description": "Cortes para niños de familias de Hobbs, en Carlsbad por la US 62/180. Cómo agendar a los hermanos seguidos y por qué conviene el sábado temprano.",
+    "primary": "cortes para niños hobbs nm",
+    "secondary": [
+      "corte de pelo niño hobbs nm"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "HOBBS / NIÑOS",
+      "h1": "Cortes para niños, desde Hobbs.",
+      "paragraphs": [
+        "Los niños se sientan en mi silla igual que los adultos, y mi silla está en Carlsbad: a {{city:hobbs.drive_mi}} millas al oeste de Hobbs por la {{city:hobbs.route}}, unos {{city:hobbs.drive_min}} minutos (rutas de OpenStreetMap) con el carro lleno de niños que se portan bien.",
+        "Aquí ves cómo los papás del condado de Lea pueden agendar a más de un hijo a la vez, y por qué conviene apuntarle a un sábado por la mañana."
+      ],
+      "link": {
+        "label": "AGENDA UN CORTE PARA NIÑO",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / UNA CIUDAD JOVEN",
+      "heading": "Agenda a los hermanos juntos.",
+      "paragraphs": [
+        "Hobbs es joven. El Censo ACS 2023 pone al {{city:hobbs.under18_pct}} de la ciudad por debajo de los 18 años, frente al {{city:carlsbad.under18_pct}} de Carlsbad, y cuenta unos {{city:hobbs.k12_students}} niños inscritos de kínder a preparatoria ahí. Son muchas casas con más de una cabeza que cortar.",
+        "Booksy no tiene un servicio para niños, así que cada hijo lleva una cita de corte normal. Agéndalas una tras otra, y súmale tu propio corte a la fila si quieres uno. Un viaje, todas las cabezas listas."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "02 / CÓMO AGENDARLO",
+      "heading": "Qué agendar para un niño.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}} · Niños bienvenidos",
+          "body": "Un desvanecido (fade), un taper o una parte de arriba texturizada, a la medida de una cabeza más chica, con la nuca limpia. Agenda uno por cada niño.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "Para el papá de la fila: corte con recorte o delineado (line-up) de barba y toalla caliente.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / EL SÁBADO",
+      "heading": "El sábado desde Hobbs.",
+      "paragraphs": [
+        "El sábado abro de 8:00 AM a 2:00 PM. Sal de Hobbs con tiempo para los primeros horarios y estás de regreso para la comida, sin que nadie se haya cansado todavía.",
+        "Si un niño tiene una foto del corte que quiere, tráela. Para líneas marcadas, el extra de diseño en el pelo cuesta {{addon:hair-design}}."
+      ],
+      "photos": []
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / PREGUNTAN LOS PAPÁS",
+      "heading": "Desde Hobbs, con niños.",
+      "items": [
+        {
+          "q": "¿Puedo agendar a dos o tres niños seguidos?",
+          "a": "Sí. Agéndale a cada uno su propio corte en Booksy, uno tras otro, y mándame un mensaje al {{phone}} si los horarios no cuadran."
+        },
+        {
+          "q": "¿Hay precio para niños?",
+          "a": "No. Los niños agendan los servicios de corte normales al precio de Booksy, {{price:essential-haircut}} por el Essential Haircut (corte esencial)."
+        },
+        {
+          "q": "¿Y si a mi hijo le da nervio la máquina?",
+          "a": "Trabajo solo, así que verá al mismo barbero en cada viaje. Esa confianza ayuda más que cualquier cosa."
+        },
+        {
+          "q": "¿Dónde veo cortes de niños que has hecho?",
+          "a": "La <a href=\"/es/servicios/cortes-para-ninos/\">página de cortes para niños</a> tiene fotos de mi silla."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "NIÑOS BIENVENIDOS",
+      "heading": "Cada niño cortado.<br>Un solo viaje de regreso.",
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
+    }
+  ]
+}

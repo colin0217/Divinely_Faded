@@ -1,0 +1,152 @@
+{
+  "id": "post-haircuts-for-cowboy-hats",
+  "locale": "en",
+  "slug": "/blog/haircuts-for-cowboy-hats/",
+  "date": "2026-11-13",
+  "plan_rank": 35,
+  "title": "Haircuts That Look Right Under a Cowboy Hat",
+  "eyebrow": "LOCAL",
+  "hero": "pexels-28224053-cowboy-hat-smile",
+  "hero_alt": "Smiling man in a cowboy hat and white shirt, outdoors",
+  "image_plan": "pexels: cowboy hat man portrait",
+  "card_text": "The brim hides the top and shows the edges. A low taper, a sensible top length and a clean neckline hold up under a hat.",
+  "lede": [
+    "The haircut that looks right under a cowboy hat keeps the sides and back tidy and the top short to medium. The hat covers the crown, so what people see is the hair just below the band, the sideburns and the neckline. A low taper cleans all three up without leaving a pale strip of bare skin showing under the brim.",
+    "Here's what a hat does to a haircut, which cuts handle it, and how much to leave on top for the moment the hat comes off."
+  ],
+  "seo": {
+    "title": "Haircuts That Look Right Under a Cowboy Hat | Carlsbad, NM",
+    "description": "Cowboy and western haircuts in Carlsbad, NM: a low taper, a sensible top and a clean neckline that hold up under a hat band and brim.",
+    "primary": "cowboy haircut",
+    "secondary": [
+      "western haircuts for men"
+    ]
+  },
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Blog",
+      "/blog/"
+    ],
+    [
+      "Cowboy Hat Haircuts",
+      "/blog/haircuts-for-cowboy-hats/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / WHAT THE HAT DOES",
+      "heading": "Band, brim and sweat.",
+      "lead": "A hat changes what matters.",
+      "subsections": [
+        {
+          "heading": "The band presses",
+          "paragraphs": [
+            "A hat band sits in a ring around your head and presses the hair under it flat. The longer the hair in that ring, the deeper the dent it leaves when the hat comes off."
+          ]
+        },
+        {
+          "heading": "The brim frames",
+          "paragraphs": [
+            "With the top hidden, the edges carry the whole look: the hair around the ears, the sideburns and the back of the neck. Ragged edges stand out more under a brim, not less."
+          ]
+        },
+        {
+          "heading": "The heat stays in",
+          "paragraphs": [
+            "A hat on all day in the Eddy County sun traps warmth and sweat against your scalp. Thick hair under a crown gets damp and stays that way."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / CUTS THAT WORK",
+      "heading": "Built for the brim.",
+      "lead": "Clean edges, nothing fussy.",
+      "paragraphs": [
+        "A low taper is the natural fit. It shortens only the hair around the ears and at the nape, so the sides keep enough length to sit neatly under the band while the edges stay sharp.",
+        "A high skin fade is a bolder choice. It looks clean, but it can leave a band of bare skin between the brim and the hair that starts higher up, which reads differently than you might expect once the hat goes on. Try it on a weekend before you commit to it for work.",
+        "If you take your hat off for church, dinner or the office, think about that moment too. A slick back over a low taper sits close to the head, recovers from hat hair quickly and still looks put together when the hat is in your hand."
+      ],
+      "link": {
+        "label": "SEE THE LOW TAPER FADE",
+        "href": "page:styles-low-taper-fade"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / TOP LENGTH",
+      "heading": "Short to medium.",
+      "lead": "Long tops lose to the band.",
+      "paragraphs": [
+        "Very long hair on top gets pressed into the shape of the crown and keeps it. Short to medium length springs back faster, so a hat ring disappears with a quick run of your fingers.",
+        "Leave enough to comb or push back, not so much that it bunches up under the crown. If you wear your hat all day and only take it off at home, you can go shorter still.",
+        "Bring your hat to the appointment if you like. Seeing where the band sits on your head makes it easier to decide where the taper should start."
+      ],
+      "link": {
+        "label": "SEE THE SLICK BACK",
+        "href": "page:styles-slick-back"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / SIDEBURNS AND BEARD",
+      "heading": "The parts the brim shows.",
+      "lead": "Square them up.",
+      "paragraphs": [
+        "Sideburns sit right in view under the brim. Keep them even with each other and trimmed to a clean bottom edge so they frame the face instead of fading into it.",
+        "All three haircut services end with a straight razor along the neck, which handles the line just above your collar. If you wear a beard or a mustache, the Signature Cut adds a trim or line-up and a hot towel, so the face under the hat matches the cut."
+      ],
+      "link": {
+        "label": "SEE THE HAIRCUTS",
+        "href": "page:services-haircuts"
+      }
+    },
+    {
+      "type": "faq",
+      "eyebrow": "05 / QUESTIONS",
+      "heading": "Hat-wearer questions.",
+      "items": [
+        {
+          "q": "What haircut looks good with a cowboy hat?",
+          "a": "A low taper with a short-to-medium top. It keeps the edges clean under the brim and doesn't dent badly under the band."
+        },
+        {
+          "q": "How do I avoid hat hair?",
+          "a": "Keep the top short to medium so it springs back, and keep the hair in the band's ring from getting long."
+        },
+        {
+          "q": "Should I bring my hat to the barber?",
+          "a": "It helps. Seeing where your band sits makes it easier to place the taper."
+        },
+        {
+          "q": "How much is a western haircut?",
+          "a": "It books like any other cut: the Essential Haircut at {{price:essential-haircut}}, or the Signature Cut at {{price:signature-cut}} with the beard included."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "HATS ON",
+      "heading": "Clean under<br>the brim.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "styles-low-taper-fade",
+    "styles-slick-back",
+    "services-haircuts"
+  ],
+  "tim_questions": [
+    "Do you want clients to bring their hat to the appointment? The post says they can if they like.",
+    "Any western styles you cut often that you want named in the post?"
+  ]
+}

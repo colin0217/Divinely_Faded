@@ -7,8 +7,8 @@
   "plan_rank": 16,
   "title": "Trenzas con fade: cómo combinarlos",
   "eyebrow": "TRENZAS",
-  "hero": "braids-blonde-side",
-  "hero_alt": "Dos trenzas pegadas que terminan en un anillo dorado sobre un lado desvanecido hasta la piel",
+  "hero": "pexels-15412398-braids-sunglasses-portrait",
+  "hero_alt": "Hombre con trenzas y lentes oscuros, fotografiado al aire libre",
   "image_plan": null,
   "card_text": "Cómo la altura del desvanecido decide dónde pueden ir las trenzas, qué patrones van con cada uno y cómo planear ambos en una visita.",
   "lede": [
@@ -22,9 +22,18 @@
     "secondary": []
   },
   "breadcrumb": [
-    ["Inicio", "/es/"],
-    ["Blog", "/es/blog/"],
-    ["Trenzas con fade", "/es/blog/trenzas-con-fade/"]
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Blog",
+      "/es/blog/"
+    ],
+    [
+      "Trenzas con fade",
+      "/es/blog/trenzas-con-fade/"
+    ]
   ],
   "blocks": [
     {

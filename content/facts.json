@@ -235,6 +235,16 @@
       "town": "Artesia",
       "mi": 36,
       "min": 44
+    },
+    {
+      "town": "Hobbs",
+      "mi": 70,
+      "min": 80
+    },
+    {
+      "town": "Roswell",
+      "mi": 76,
+      "min": 92
     }
   ],
   "never_claim": [

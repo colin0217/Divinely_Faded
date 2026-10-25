@@ -1,0 +1,125 @@
+{
+  "id": "artesia-services-designs",
+  "locale": "en",
+  "pageType": "cell",
+  "city": "artesia",
+  "base": "services-designs",
+  "slug": "/artesia/hair-designs/",
+  "alt": "/es/artesia/disenos-de-cabello/",
+  "nav_label": "Hair designs · Artesia",
+  "card_text": "Hair designs for Artesia: who tends to ask, how it books as an add-on, and how long the lines stay sharp between drives.",
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Artesia",
+      "/artesia/"
+    ],
+    [
+      "Hair Designs",
+      "/artesia/hair-designs/"
+    ]
+  ],
+  "seo": {
+    "title": "Hair Designs for Artesia, NM | Divinely Faded, Carlsbad",
+    "description": "Freestyle hair designs for Artesia kids and adults, cut into the fade by Tim in Carlsbad, 44 minutes down US 285. Booked as an add-on on Booksy.",
+    "primary": "hair designs artesia nm",
+    "secondary": [
+      "fade with design artesia nm",
+      "barber artesia nm"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "ARTESIA / HAIR DESIGNS",
+      "h1": "Hair designs, from Artesia.",
+      "paragraphs": [
+        "A design is a line or curve shaved into the shortest part of a fade. I cut them in Carlsbad, {{city:artesia.drive_mi}} miles south of Artesia on {{city:artesia.route}}, about {{city:artesia.drive_min}} minutes by car (OpenStreetMap routing). On Booksy it's an add-on at {{addon:hair-design}}.",
+        "Two things change when you're coming from Artesia: who in the car is likely asking for one, and how long it stays sharp before the next drive."
+      ],
+      "link": {
+        "label": "BOOK A CUT WITH A DESIGN",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / WHO ASKS",
+      "heading": "Kids first, then the twenties.",
+      "paragraphs": [
+        "Residents under 18 are {{city:artesia.under18_pct}} of Artesia, the highest share of the three cities on these pages and well above Carlsbad's {{city:carlsbad.under18_pct}}; another {{city:artesia.age_20_34_pct}} are 20 to 34 (Census ACS 2023). A line above the ear is often the first thing a kid asks for once they have an opinion about their hair, and a bolder freestyle curve tends to come from the twenties. Two of the designs on my <a href=\"/services/hair-designs/\">hair designs page</a> are on young clients.",
+        "Book the haircut on Booksy, add the hair design, and if a sibling wants one too, book them back to back so the drive covers both."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "02 / HOW IT BOOKS",
+      "heading": "Add it, or get it included.",
+      "lead": "Two ways a design shows up on a Booksy booking.",
+      "items": [
+        {
+          "title": "Essential Haircut + hair design",
+          "meta": "{{price:essential-haircut}} + {{addon:hair-design}} · {{minutes:essential-haircut}}",
+          "body": "The cut with a freestyle line or curve added at the end. Pick the add-on when you book, or text me first if you're not sure where it should sit.",
+          "book": true
+        },
+        {
+          "title": "Luxury Grooming Experience",
+          "meta": "{{price:luxury-grooming}} · {{minutes:luxury-grooming}}",
+          "body": "Already includes a basic hair design, with the beard sculpt, wash, steam and two hot towels. No add-on needed.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / HOW LONG IT LASTS",
+      "heading": "Sharp for a while, then it blurs.",
+      "paragraphs": [
+        "Because the design lives in the part of the fade that's nearly skin, it's also the first thing regrowth softens. From Artesia that matters: the trip back down is {{city:artesia.drive_min}} minutes, so decide up front whether you want the lines re-cut every visit or you're fine letting them fade out between trips.",
+        "If you want them kept crisp, put the next appointment on Booksy before you leave the shop."
+      ],
+      "photos": []
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / ASKED",
+      "heading": "Design questions from Artesia.",
+      "items": [
+        {
+          "q": "How much is a design added to the haircut?",
+          "a": "{{addon:hair-design}} on Booksy, added to whichever haircut you book."
+        },
+        {
+          "q": "Can two kids get designs in one trip?",
+          "a": "Yes. Book each a haircut back to back and add the design to each booking."
+        },
+        {
+          "q": "Should I bring a picture?",
+          "a": "If you have one. Otherwise tell me roughly where you want it and how bold, and we'll shape it from there."
+        },
+        {
+          "q": "How far is Carlsbad from Artesia?",
+          "a": "{{city:artesia.drive_mi}} miles down {{city:artesia.route}}, around {{city:artesia.drive_min}} minutes, to {{address}}."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "CUT IN",
+      "heading": "Pick the line.<br>Book the drive.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ]
+}

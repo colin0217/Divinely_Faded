@@ -1,0 +1,187 @@
+{
+  "id": "post-how-to-style-short-hair-men",
+  "locale": "en",
+  "slug": "/blog/how-to-style-short-hair-men/",
+  "date": "2027-02-04",
+  "plan_rank": 94,
+  "title": "How to Style Short Hair in Two Minutes",
+  "eyebrow": "STYLES",
+  "hero": "pexels-10775092-barber-styling-short-hair",
+  "hero_alt": "A barber's hand working product through a client's short hair",
+  "image_plan": null,
+  "card_text": "Towel, a little product, direction, front. A two-minute routine for crops, buzzes and short fades. The cut does most of it.",
+  "lede": [
+    "To style short hair in two minutes, start with towel-dried hair, rub a small amount of product between your palms until it's barely visible, work it through the top, and push the hair in the direction it wants to go. Then set the front with your fingertips. On a good short cut, that's all it takes, because the shape is already built in. If short hair needs a long routine, the cut is usually the problem, not you.",
+    "Here's the two-minute routine, how it changes for a crop, a buzz and a short fade, and when to skip product entirely."
+  ],
+  "seo": {
+    "title": "How to Style Short Hair in Two Minutes | Carlsbad, NM",
+    "description": "How to style short hair in two minutes: a quick routine for crops, buzz cuts and fades from a Carlsbad, NM barber. The cut does most of the work.",
+    "primary": "how to style short hair men",
+    "secondary": []
+  },
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Blog",
+      "/blog/"
+    ],
+    [
+      "Styling Short Hair",
+      "/blog/how-to-style-short-hair-men/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / THE TWO MINUTES",
+      "heading": "One routine.",
+      "lead": "The clock starts after the shower.",
+      "subsections": [
+        {
+          "heading": "0:00, towel",
+          "paragraphs": [
+            "Dry until it's damp, not wet. Rough it up a bit. Short hair stands better when it isn't plastered to your head."
+          ]
+        },
+        {
+          "heading": "0:30, product",
+          "paragraphs": [
+            "A small amount, rubbed flat across your palms and fingers, so it goes on thin instead of landing in one clump."
+          ]
+        },
+        {
+          "heading": "1:00, direction",
+          "paragraphs": [
+            "Work it through from the back to the front, then push the top where it naturally falls: forward, up or to the side."
+          ]
+        },
+        {
+          "heading": "1:30, the front",
+          "paragraphs": [
+            "Use your fingertips to set the front. A little lift or a few separated pieces is plenty. Glance at the sides and you're done."
+          ]
+        }
+      ],
+      "paragraphs": [
+        "This assumes a cut built for your hair. The routine is short because the shape is already there, and the product just tells the hair which way to go."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / BY CUT",
+      "heading": "Small changes for each style.",
+      "lead": "Same routine, adjusted.",
+      "subsections": [
+        {
+          "heading": "Textured crop",
+          "paragraphs": [
+            "Push the top forward and pinch the front into pieces. A matte finish keeps the texture visible."
+          ]
+        },
+        {
+          "heading": "Buzz cut",
+          "paragraphs": [
+            "Skip product. Wash, dry, done. A buzz looks sharpest when the edges are clean, and that's a barber's job, not a styling one."
+          ]
+        },
+        {
+          "heading": "Short fade with a little on top",
+          "paragraphs": [
+            "A light product, pushed up at the front for some height, or brushed to one side for a neater look."
+          ]
+        }
+      ],
+      "link": {
+        "label": "SEE THE BUZZ CUT",
+        "href": "page:styles-buzz-cut"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / FINISH",
+      "heading": "Matte or shine.",
+      "lead": "Pick the finish, then the amount.",
+      "paragraphs": [
+        "Matte products leave short hair looking natural and textured. Shinier ones look neater and a little wetter. For most short cuts, the matte look is the easier one to get right.",
+        "The amount matters more than the type. Short hair needs very little. Too much makes it greasy and flat by lunchtime.",
+        "Match the product to the hair. Fine hair does better with lighter products, since heavy ones flatten it. Thick, coarse hair needs more hold to keep it from springing up as it dries."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / WHEN IT WON'T COOPERATE",
+      "heading": "Signs the cut needs help.",
+      "lead": "Styling can't fix length.",
+      "paragraphs": [
+        "When the routine stops working, the cut has usually grown past its shape:"
+      ],
+      "bullets": [
+        "The sides puff out whatever you do.",
+        "The top splits into a part you didn't ask for.",
+        "The routine takes three times as long as it used to.",
+        "The line at the front has gone soft."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "05 / IN THE CHAIR",
+      "heading": "Watch the finish.",
+      "lead": "Pay attention at the end.",
+      "paragraphs": [
+        "Every Essential Haircut ({{price:essential-haircut}}, {{minutes:essential-haircut}}) ends with a finished style. If you want to copy it at home, watch which way the top gets pushed and ask what direction it's meant to go. It's easier to repeat something you've seen done on your own head.",
+        "Bring up anything that bugs you about styling it at home, too. Sometimes the fix is a small change in the cut, not a different product."
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / QUESTIONS",
+      "heading": "Short hair, answered.",
+      "items": [
+        {
+          "q": "How do men style short hair?",
+          "a": "Towel-dry, spread a small amount of product thin across your hands, work it through, push the top its natural way and set the front."
+        },
+        {
+          "q": "Do I need product for short hair?",
+          "a": "Not always. Buzz cuts and very short crops look fine with none."
+        },
+        {
+          "q": "Should I style short hair wet or dry?",
+          "a": "Slightly damp. Too wet and the product slides off; bone dry and it won't spread."
+        },
+        {
+          "q": "What product suits short hair?",
+          "a": "A matte clay or paste for texture, or something with shine for a neater look.",
+          "href": "page:styles-textured-crop",
+          "link_label": "SEE THE TEXTURED CROP"
+        },
+        {
+          "q": "Why does my short hair stick up at the crown?",
+          "a": "The crown often grows in a swirl. Pushing it flat while it dries helps, and so does the right length there."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "TWO MINUTES",
+      "heading": "Towel. Product.<br>Done.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "styles-textured-crop",
+    "styles-buzz-cut",
+    "services-haircuts"
+  ],
+  "tim_questions": [
+    "Do you walk clients through how to style their cut at the end of the appointment? The post suggests they watch and ask.",
+    "The routine and finish types are general guidance, not your recommendation. Anything to add?"
+  ]
+}

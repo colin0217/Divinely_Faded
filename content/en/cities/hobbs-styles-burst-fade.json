@@ -1,0 +1,120 @@
+{
+  "id": "hobbs-styles-burst-fade",
+  "locale": "en",
+  "pageType": "cell",
+  "city": "hobbs",
+  "base": "styles-burst-fade",
+  "slug": "/hobbs/burst-fade/",
+  "alt": "/es/hobbs/burst-fade/",
+  "nav_label": "Burst fade · Hobbs",
+  "card_text": "A burst fade for Hobbs summers: skin around the ear, curls kept, cut 70 miles west in Carlsbad.",
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Hobbs",
+      "/hobbs/"
+    ],
+    [
+      "Burst Fade",
+      "/hobbs/burst-fade/"
+    ]
+  ],
+  "seo": {
+    "title": "Burst Fade for Hobbs, NM | Divinely Faded, Carlsbad",
+    "description": "Burst fades for Hobbs, cut in Carlsbad about 80 minutes west. Why the arc suits a Lea County summer, what to book and how it grows between trips.",
+    "primary": "burst fade hobbs nm",
+    "secondary": [
+      "burst fade haircut hobbs",
+      "fade hobbs nm"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "HOBBS / BURST FADE",
+      "h1": "Burst fade, from Hobbs.",
+      "paragraphs": [
+        "A burst fade drops to skin in a half-circle around the ear and fans out from there, leaving the back with real length. My shop is in Carlsbad, not Hobbs: {{city:hobbs.drive_mi}} miles of {{city:hobbs.route}} sit between us, about {{city:hobbs.drive_min}} minutes behind the wheel each way.",
+        "Below: why the burst suits a Lea County summer, what to book, and how the arc behaves between trips."
+      ],
+      "link": {
+        "label": "BOOK A BURST FADE",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / THE HEAT",
+      "heading": "Skin where it counts, length where you want it.",
+      "paragraphs": [
+        "Hobbs sees roughly {{city:hobbs.days_100f}} days a year at 100°F or hotter, with a typical July high of {{city:hobbs.july_high_f}} (Open-Meteo, 2023–25). Carlsbad, where you'll be sitting in my chair, runs warmer still at {{city:carlsbad.july_high_f}}.",
+        "If you want bare skin around the ears for those months without giving up the curls or the hair at the nape, a burst is the compromise: the arc clears the hair where a cap presses, and the back keeps its weight."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / BETWEEN TRIPS",
+      "heading": "The arc goes soft. The back doesn't.",
+      "paragraphs": [
+        "The half-circle is the shortest part of the cut, so it loses its edge first; the length behind it looks deliberate for a good while longer. Want the curve crisp all the time? Plan the trips closer together. Fine with a softer arc? It still reads as a burst well after the skin has grown in."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "03 / BOOK IT AS",
+      "heading": "One service, or two with the beard.",
+      "lead": "Menu prices and times, straight from Booksy.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "The burst around the ear, curls shaped on top, back left long, straight razor along the neckline.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "Adds the beard, a short clean cheek line and a hot towel to close.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / QUESTIONS",
+      "heading": "Burst fade, Hobbs edition.",
+      "items": [
+        {
+          "q": "Is a burst fade a sensible pick for the Hobbs heat?",
+          "a": "If you want some skin for the hot months without losing your curls or the length in back, yes. If cooling is the only goal, a skin fade takes more off."
+        },
+        {
+          "q": "Can the burst be paired with a mullet in back?",
+          "a": "It can. That's the burst fade mullet, booked as the same Essential Haircut. Just tell me you want the back long."
+        },
+        {
+          "q": "Where can I see the cut before I commit to the drive?",
+          "a": "The <a href=\"/styles/burst-fade/\">burst fade page</a> has the photo and the full breakdown of the shape."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "APPOINTMENTS ONLY",
+      "heading": "Book the burst.<br>Then drive west.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "id": "hobbs-styles-hard-part",
+  "locale": "es",
+  "pageType": "cell",
+  "city": "hobbs",
+  "base": "styles-hard-part",
+  "slug": "/es/hobbs/corte-con-raya/",
+  "alt": "/hobbs/hard-part/",
+  "nav_label": "Corte con raya · Hobbs",
+  "card_text": "Una raya marcada desde Hobbs: la línea se llena rápido, así que programa el viaje de 70 millas para la fecha que importa.",
+  "breadcrumb": [
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Hobbs",
+      "/es/hobbs/"
+    ],
+    [
+      "Corte con raya",
+      "/es/hobbs/corte-con-raya/"
+    ]
+  ],
+  "seo": {
+    "title": "Corte con raya para Hobbs, NM | Divinely Faded, Carlsbad",
+    "description": "Corte con raya (hard part) para Hobbs, marcada en Carlsbad a unos 80 minutos al oeste. Cuándo hacer el viaje para tener la raya nítida en el evento.",
+    "primary": "corte de pelo con raya hobbs nm",
+    "secondary": [
+      "hard part hobbs"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "HOBBS / CORTE CON RAYA",
+      "h1": "Corte con raya, desde Hobbs.",
+      "paragraphs": [
+        "Una raya marcada (hard part) es una línea cortada a navaja en el pelo para que nunca tengas que hacerla con el peine. La corto en Carlsbad, en {{address}}; para quien sale de Hobbs eso significa la {{city:hobbs.route}} rumbo al oeste por casi {{city:hobbs.drive_min}} minutos.",
+        "La línea se llena más rápido que cualquier otra parte de la cabeza, así que es un corte que programas en lugar de mantener por rutina."
+      ],
+      "link": {
+        "label": "AGENDA UN CORTE CON RAYA",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / EL MOMENTO",
+      "heading": "Córtala lo más cerca posible de la fecha.",
+      "paragraphs": [
+        "A una línea marcada no le queda pelo que esconda lo que vuelve a crecer, así que se desdibuja antes que el desvanecido (fade) de alrededor. Si vas a recorrer {{city:hobbs.drive_mi}} millas por una boda, una graduación o unas fotos, agéndala en el último o los dos últimos días antes, no la semana anterior. A unos {{city:hobbs.drive_min}} minutos de ida (rutas de OpenStreetMap), un horario de sábado en la mañana te deja de vuelta en Hobbs a principios de la tarde con la línea en su punto más nítido.",
+        "¿No hay evento? Deja que la línea se suavice con el corte y decide en la siguiente visita si la marcas otra vez."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / UBICACIÓN",
+      "heading": "Mándame el lado antes de salir.",
+      "paragraphs": [
+        "La línea debe seguir el lado hacia donde ya cae tu pelo, o vas a pelear con ella cada mañana. Mándame por mensaje al {{phone}} una foto de tu pelo después de bañarte antes de salir, y planeo la ubicación antes de que llegues."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "03 / CÓMO AGENDARLO",
+      "heading": "El corte, y la línea encima.",
+      "lead": "Los precios y minutos son los de Booksy.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "El desvanecido y la parte de arriba con forma para tu cabeza, el contorno de la nuca limpio con navaja y la raya marcada donde acordemos que va.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "Suma la barba, recortada o con delineado (line-up), y toalla caliente, para que toda la cara quede lista para la cámara.",
+          "book": true
+        },
+        {
+          "title": "Extra de diseño en el pelo",
+          "meta": "{{addon:hair-design}}",
+          "body": "Una raya sencilla normalmente no es un diseño; una curva que conecte con otras líneas puede serlo. Mándame una referencia por mensaje."
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / PREGUNTAS",
+      "heading": "La raya marcada, desde el lado de Hobbs.",
+      "items": [
+        {
+          "q": "¿Con cuánta anticipación a un evento debo ir por una raya marcada?",
+          "a": "Con la menor que puedas. Uno o dos días antes es lo ideal, porque la línea marcada es lo primero que se vuelve a llenar."
+        },
+        {
+          "q": "¿Puedo llevar la raya marcada sobre un desvanecido?",
+          "a": "Sí, y el contraste ayuda; la página principal muestra una marcada a través de un skin fade alto, justo arriba de la oreja."
+        },
+        {
+          "q": "¿Dónde leo más sobre dónde poner la línea?",
+          "a": "La <a href=\"/es/estilos/corte-con-raya/\">página del corte con raya</a> explica de qué lado, qué tan alto y qué pasa cuando crece."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "SOLO CON CITA",
+      "heading": "Agenda la línea.<br>Programa el viaje.",
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
+    }
+  ]
+}

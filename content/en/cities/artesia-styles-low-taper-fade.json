@@ -1,0 +1,124 @@
+{
+  "id": "artesia-styles-low-taper-fade",
+  "locale": "en",
+  "pageType": "cell",
+  "city": "artesia",
+  "base": "styles-low-taper-fade",
+  "slug": "/artesia/low-taper-fade/",
+  "alt": "/es/artesia/low-taper-fade/",
+  "nav_label": "Low taper fade · Artesia",
+  "card_text": "Low taper fade for Artesia: a gentle fade that stretches the gap between drives down 285.",
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Artesia",
+      "/artesia/"
+    ],
+    [
+      "Low Taper Fade",
+      "/artesia/low-taper-fade/"
+    ]
+  ],
+  "seo": {
+    "title": "Low Taper Fade for Artesia, NM | Divinely Faded, Carlsbad",
+    "description": "Low and mid taper fades for Artesia, cut in Carlsbad about {{city:artesia.drive_min}} minutes south on US 285. Grows out gently: for school, for work and for fewer trips.",
+    "primary": "low taper fade artesia nm",
+    "secondary": [
+      "taper fade artesia nm",
+      "mid taper artesia nm"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "ARTESIA / LOW TAPER FADE",
+      "h1": "Low taper fade, from Artesia.",
+      "paragraphs": [
+        "A low taper trims only the edges: the sideburns, the hair around the ear and the neckline. The sides above keep their length, so the cut looks tidy from the front and never grows a hard line. I cut it in Carlsbad, {{city:artesia.drive_mi}} miles south of Artesia on {{city:artesia.route}}, about {{city:artesia.drive_min}} minutes each way by OpenStreetMap routing.",
+        "Of all the fades on my menu, this is the one that asks the least of that drive."
+      ],
+      "link": {
+        "label": "BOOK A LOW TAPER",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / FEWER TRIPS",
+      "heading": "A fade that doesn't rush you back.",
+      "paragraphs": [
+        "With so little skin on show, a low taper fuzzes over slowly. The nape is the first spot to lose its edge, and even that is subtle. For someone {{city:artesia.drive_min}} minutes away, that means a longer stretch between visits than a skin fade would give you. A mid taper, starting up near the temple, shows growth sooner and wants a slightly tighter schedule; I'll tell you which one you're looking at before I start."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "02 / BOOK IT AS",
+      "heading": "Two bookings cover it.",
+      "lead": "Prices and times from Booksy.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}} · Kids welcome",
+          "body": "Taper and top, cut to your head shape, with a straight razor cleanup at the neck and a styled finish.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "Add the beard: trim or line-up, hot towel, razor detailing, in the same sitting.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / SUN, SCHOOL AND WORK",
+      "heading": "Cover where you want it.",
+      "paragraphs": [
+        "July highs in Artesia average {{city:artesia.july_high_f}}, and about {{city:artesia.days_100f}} days a year reach 100°F (Open-Meteo, 2023–25). A skin fade is one answer to that. A taper is the other: if you'd rather not have bare scalp out in that sun all summer, it keeps hair on the sides and still cleans up the edges.",
+        "It's also the fade I'd point a parent toward. Nearly a third of Artesia is under 18, {{city:artesia.under18_pct}} by Census ACS 2023, more than Carlsbad's {{city:carlsbad.under18_pct}}, and a taper passes a school dress code without a shaved stripe up the side. Same test at a conservative job. Kids book the regular haircut services on Booksy, each in their own slot."
+      ],
+      "photos": []
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / QUESTIONS",
+      "heading": "Taper questions, Artesia edition.",
+      "items": [
+        {
+          "q": "Low taper or mid taper if I only drive down now and then?",
+          "a": "Low. It keeps more hair on the sides, so the regrowth is softer and the cut stays presentable longer between trips."
+        },
+        {
+          "q": "Is a low taper a good first fade for my son?",
+          "a": "It's the gentlest one I do. Nothing goes to skin unless you ask, and it grows out without a step."
+        },
+        {
+          "q": "Can I keep my hair long on top with a taper?",
+          "a": "Yes. The taper only touches the edges, so the top can be a crop, a fringe or combed back. The <a href=\"/styles/low-taper-fade/\">low taper fade page</a> shows a longer top."
+        },
+        {
+          "q": "How do I know when it's time to come back?",
+          "a": "When the back of your neck starts looking fuzzy in the mirror. That's the taper's signal."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "APPOINTMENTS ONLY",
+      "heading": "Book the taper.<br>Space out the drives.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ]
+}

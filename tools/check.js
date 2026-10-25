@@ -177,6 +177,25 @@ const titles = {};
 const descs = {};
 const hreflang = {};
 const photoUse = {}; // photo -> Set(page group)
+const pagePhotos = {}; // photo -> Set(non-blog page path), hubs included
+const postHero = {}; // post file -> hero photo name
+// Photos the page content declares (content/<lang>/*.json and content/<lang>/cities/*.json; blog posts excluded), so a
+// page photo counts even on a day its page is not built. Keys: photos / photo / og_photo / hero / card_photo.
+{
+  const PHOTO_KEYS = new Set(['photos', 'photo', 'og_photo', 'hero', 'card_photo']);
+  const jsonFiles = (dir) => (fs.existsSync(dir) ? fs.readdirSync(dir).filter((f) => f.endsWith('.json')).map((f) => path.join(dir, f)) : []);
+  const walkPhotos = (v, k, add) => {
+    if (Array.isArray(v)) v.forEach((x) => walkPhotos(x, k, add));
+    else if (v && typeof v === 'object') Object.entries(v).forEach(([kk, x]) => walkPhotos(x, kk, add));
+    else if (typeof v === 'string' && PHOTO_KEYS.has(k) && /^[a-z0-9-]+$/.test(v)) add(v);
+  };
+  for (const lang of ['en', 'es']) {
+    for (const f of [...jsonFiles(path.join(ROOT, 'content', lang)), ...jsonFiles(path.join(ROOT, 'content', lang, 'cities'))]) {
+      let data; try { data = JSON.parse(fs.readFileSync(f, 'utf8')); } catch { continue; }
+      walkPhotos(data, null, (name) => (pagePhotos[name] = pagePhotos[name] || new Set()).add(path.relative(ROOT, f)));
+    }
+  }
+}
 const postDates = {};
 const summary = [];
 
@@ -263,6 +282,25 @@ for (const file of FILES) {
     const group = lang === 'es' && hreflangTarget(src, 'en') ? hreflangTarget(src, 'en') : urlPath;
     for (const m of body.matchAll(/\/assets\/photos\/([a-z0-9-]+?)-(?:640|1200)\.webp/g)) {
       (photoUse[m[1]] = photoUse[m[1]] || new Set()).add(group);
+    }
+  }
+  if (indexable && !isPost(file)) {
+    // every library photo a non-blog page shows (hubs included; cards excluded) or shares as its og image: blog heroes must stay off this list
+    const body = findTags(src.replace(/<head>[\s\S]*?<\/head>/i, '').replace(/<a class="df-card"[\s\S]*?<\/a>/g, ''), 'img').join(' ');
+    const og = (src.match(/property="og:image" content="[^"]*\/assets\/(?:og\/([a-z0-9-]+)\.jpg|photos\/([a-z0-9-]+)-1200\.webp)"/) || []);
+    for (const name of [...[...body.matchAll(/\/assets\/photos\/([a-z0-9-]+?)-(?:640|1200)\.webp/g)].map((m) => m[1]), og[1] || og[2]].filter(Boolean)) {
+      (pagePhotos[name] = pagePhotos[name] || new Set()).add(urlPath);
+    }
+  }
+  if (indexable && isPost(file)) {
+    const heroDiv = src.match(/<div class="photo-pair df-post-hero">[\s\S]*?<\/div>/);
+    const hero = heroDiv && heroDiv[0].match(/\/assets\/photos\/([a-z0-9-]+?)-(?:640|1200)\.webp/);
+    if (!hero) fail(`${where}: blog post without a hero photo (every post needs its own "hero" + "hero_alt")`);
+    else {
+      postHero[file] = hero[1];
+      const og = src.match(/property="og:image" content="[^"]*\/assets\/(?:og\/([a-z0-9-]+)\.jpg|photos\/([a-z0-9-]+)-1200\.webp)"/);
+      const ogName = og && (og[1] || og[2]);
+      if (ogName && ogName !== hero[1]) fail(`${where}: og:image "${ogName}" is not the post's hero "${hero[1]}" (a post's share image is its own hero)`);
     }
   }
 
@@ -455,6 +493,27 @@ for (const [lang, home] of [['en', 'index.html'], ['es', 'es/index.html']]) {
 }
 
 // ---------------------------------------------------------------------------
+// City x service/style funnel (internal-linking-funnel skill): every city cell is a money page and needs
+// >= 3 relevant inbound links (its city hub, its Carlsbad service/style page, sibling cells); no page carries
+// a link-farm count of links.
+// ---------------------------------------------------------------------------
+const CITY_CELL = /^(?:es\/)?(?:artesia|hobbs|roswell)\/[^/]+\/index\.html$/;
+for (const f of PAGES) {
+  if (CITY_CELL.test(f) && (inbound[f] || 0) < 3) fail(`${f}: city page has ${inbound[f] || 0} inbound internal link(s) (min 3: hub, home-city page, sibling cells)`);
+  const n = findTags(html[f], 'a').length;
+  if (n >= 150) fail(`${f}: ${n} links on one page (max 149)`);
+}
+
+// ---------------------------------------------------------------------------
+// No emoji or emoji-capable symbols anywhere (Peyton 2026-10-25): icons are drawn SVG.
+// ---------------------------------------------------------------------------
+const EMOJI = /[\u2190-\u21FF\u2300-\u23FF\u2600-\u27BF\u2B00-\u2BFF\uFE0F]|[\u{1F000}-\u{1FAFF}]/u;
+for (const f of FILES) { const m = html[f].match(EMOJI); if (m) fail(`${f}: emoji/symbol character "${m[0]}" (U+${m[0].codePointAt(0).toString(16).toUpperCase()}); use a drawn SVG icon`); }
+// A {{city:*_pct}} value already carries its % sign; a second one typed after the token prints "17.8%%".
+for (const f of FILES) { const m = html[f].match(/\d%\s?%/); if (m) fail(`${f}: doubled percent sign "${m[0]}" (the _pct token already adds %)`); }
+for (const js of ['script.js', 'df-video.js', 'df-reviews.js']) { const p2 = path.join(ROOT, js); if (fs.existsSync(p2)) { const m = fs.readFileSync(p2, 'utf8').replace(/\/\/.*$/gm, '').match(EMOJI); if (m) fail(`${js}: emoji/symbol character "${m[0]}"`); } }
+
+// ---------------------------------------------------------------------------
 // Uniqueness: 5-word shingles of authored copy inside <main>
 //
 // Why these thresholds. Every page shares template text inside <main> (breadcrumbs, the CTA, the
@@ -523,6 +582,24 @@ for (const lang of ['en', 'es']) {
 Object.entries(photoUse).forEach(([photo, groups]) => {
   if (groups.size > 1) fail(`photo "${photo}" is used on ${groups.size} pages: ${[...groups].join(', ')} (one page per photo; hubs and blog posts exempt)`);
 });
+
+// ---------------------------------------------------------------------------
+// Blog heroes: every post has one; one hero per post within a locale (an EN post and its ES twin share
+// theirs by design); no hero doubles as a photo on a non-blog page (owner's rule 2026-10-25)
+// ---------------------------------------------------------------------------
+{
+  const byLocale = {};
+  Object.entries(postHero).forEach(([f, photo]) => {
+    const l = langOf(f);
+    ((byLocale[l] = byLocale[l] || {})[photo] = byLocale[l][photo] || []).push(f);
+  });
+  Object.entries(byLocale).forEach(([l, map]) => Object.entries(map).forEach(([photo, files]) => {
+    if (files.length > 1) fail(`blog hero "${photo}" is used by ${files.length} ${l} posts: ${files.join(', ')} (each post needs its own hero)`);
+  }));
+  Object.entries(postHero).forEach(([f, photo]) => {
+    if (pagePhotos[photo]) fail(`${f}: blog hero "${photo}" is also a photo on ${[...pagePhotos[photo]].join(', ')} (blog heroes must not repeat a page photo)`);
+  });
+}
 
 // ---------------------------------------------------------------------------
 // Blog date gate, site files

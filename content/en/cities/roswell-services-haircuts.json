@@ -1,0 +1,127 @@
+{
+  "id": "roswell-services-haircuts",
+  "locale": "en",
+  "pageType": "cell",
+  "city": "roswell",
+  "base": "services-haircuts",
+  "slug": "/roswell/haircuts/",
+  "alt": "/es/roswell/cortes-de-cabello/",
+  "nav_label": "Haircuts · Roswell",
+  "card_text": "Which haircut to book from Roswell, matched to how long you're making the trip down 285.",
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Roswell",
+      "/roswell/"
+    ],
+    [
+      "Haircuts",
+      "/roswell/haircuts/"
+    ]
+  ],
+  "seo": {
+    "title": "Men's Haircuts for Roswell, NM | Divinely Faded, Carlsbad",
+    "description": "Three haircuts for anyone driving from Roswell, cut in Carlsbad about 92 minutes south on US 285. Pick the one that fits your trip and book on Booksy.",
+    "primary": "mens haircut roswell nm",
+    "secondary": [
+      "men's haircuts roswell nm",
+      "haircut prices roswell nm"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "ROSWELL / HAIRCUTS",
+      "h1": "Haircuts, from Roswell.",
+      "paragraphs": [
+        "My chair is in Carlsbad, {{city:roswell.drive_mi}} miles south of Roswell on {{city:roswell.route}}, with Artesia at the halfway point. Call it {{city:roswell.drive_min}} minutes each way (OpenStreetMap routing), which is long enough that the haircut you book should match the kind of trip you're making.",
+        "Three cuts are on my Booksy menu. One is quick, one adds the beard, and one turns the visit into the whole afternoon."
+      ],
+      "link": {
+        "label": "BOOK A HAIRCUT",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / MATCH THE TRIP",
+      "heading": "Errand day or barber day?",
+      "paragraphs": [
+        "If Carlsbad is one stop on a list, the Essential Haircut keeps you in the chair for {{minutes:essential-haircut}} and sends you back out with the neckline razored clean. If you've driven {{city:roswell.drive_min}} minutes for the haircut alone, the Luxury Grooming Experience makes more sense of the mileage: consultation, cut, beard sculpt, wash, steam, two hot towels and a fragrance finish in one sitting.",
+        "The Signature Cut sits in between, and it's the one to pick when your beard needs lining up with the cut."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "02 / BOOK IT AS",
+      "heading": "The three on the menu.",
+      "lead": "Prices and minutes come straight from Booksy.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "The cut, a razor-clean neck and a finished style. Nothing added, nothing missing.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "Cut plus beard trim or line-up, hot towel and razor detailing. Your beard rides home sharp too.",
+          "book": true
+        },
+        {
+          "title": "Luxury Grooming Experience",
+          "meta": "{{price:luxury-grooming}} · {{minutes:luxury-grooming}}",
+          "body": "Everything I do around a haircut, in one {{minutes:luxury-grooming}} booking. Worth it when the drive is the reason for the day.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / THE WORK WEEK",
+      "heading": "Different schedules than Carlsbad.",
+      "paragraphs": [
+        "Only {{city:roswell.mining_ag_jobs_pct}} of Roswell's workers are in mining, oil and gas or agriculture, against {{city:carlsbad.mining_ag_jobs_pct}} here in Carlsbad (Census ACS 2023). If your week is booked solid, Saturday is the open window: I'm in from 8:00 AM to 2:00 PM.",
+        "Booksy shows the weekday slots too. Text me at {{phone}} if nothing lines up."
+      ],
+      "photos": []
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / QUESTIONS",
+      "heading": "Haircuts from Roswell, answered.",
+      "items": [
+        {
+          "q": "How long is the drive from Roswell for a haircut?",
+          "a": "About {{city:roswell.drive_min}} minutes and {{city:roswell.drive_mi}} miles, straight down {{city:roswell.route}}. The shop is at {{address}}."
+        },
+        {
+          "q": "Which haircut should I book if I'm short on time?",
+          "a": "The Essential Haircut. Booksy holds {{minutes:essential-haircut}} for it, so you're back on 285 well inside the hour."
+        },
+        {
+          "q": "Can I add a wash to the Essential or Signature?",
+          "a": "Yes. A wash and scalp massage is an add-on at {{addon:wash-scalp-massage}}. It's already part of the Luxury Grooming Experience."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "APPOINTMENTS ONLY",
+      "heading": "Pick your cut.<br>Then point south.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ]
+}

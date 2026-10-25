@@ -1,0 +1,123 @@
+{
+  "id": "hobbs-services-facials",
+  "locale": "en",
+  "pageType": "cell",
+  "city": "hobbs",
+  "base": "services-facials",
+  "slug": "/hobbs/mens-facials/",
+  "alt": "/es/hobbs/faciales-para-hombres/",
+  "nav_label": "Men's facials · Hobbs",
+  "card_text": "Men's facials from Hobbs: what Lea County air does to your face, which one fits the trip, and booking it beside a cut.",
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Hobbs",
+      "/hobbs/"
+    ],
+    [
+      "Men's Facials",
+      "/hobbs/mens-facials/"
+    ]
+  ],
+  "seo": {
+    "title": "Men's Facials for Hobbs, NM | Divinely Faded, Carlsbad",
+    "description": "Men's facials for Hobbs clients, in the barber chair in Carlsbad west on US 62/180. The Express and Deluxe Facial, booked next to your haircut on Booksy.",
+    "primary": "mens facial hobbs nm",
+    "secondary": [
+      "facial for men hobbs nm"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "HOBBS / FACIALS",
+      "h1": "Men's facials, from Hobbs.",
+      "paragraphs": [
+        "Both of my facials happen in the barber chair in Carlsbad, {{city:hobbs.drive_mi}} miles west of Hobbs on {{city:hobbs.route}}. That's roughly {{city:hobbs.drive_min}} minutes each way (OpenStreetMap routing), which is why I'd book one next to a haircut rather than on its own.",
+        "Here's what the air in Lea County does to your face, and which facial fits the trip."
+      ],
+      "link": {
+        "label": "BOOK A FACIAL",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / THE AIR",
+      "heading": "Dry, but not as dry as here.",
+      "paragraphs": [
+        "Open-Meteo's 2023–25 data puts Hobbs at {{city:hobbs.humidity_pct}} average humidity, the least dry of the cities on this site, next to {{city:carlsbad.humidity_pct}} for Carlsbad, and gives Hobbs about {{city:hobbs.rain_in}} inches of rain a year to Carlsbad's {{city:carlsbad.rain_in}}.",
+        "Even so, that's a lot of sun and wind on skin that spends an average {{city:hobbs.commute_min}} minutes getting to work (Census ACS 2023) and much of the day outside. Steam, exfoliation and moisturizer are the parts of a facial that answer that."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "02 / BOOK IT AS",
+      "heading": "Express or Deluxe.",
+      "items": [
+        {
+          "title": "Express Facial",
+          "meta": "{{price:express-facial}} · {{minutes:express-facial}}",
+          "body": "Cleansed deep, exfoliated lightly, steamed, massaged and moisturized. Fits next to a haircut without stretching the day.",
+          "book": true
+        },
+        {
+          "title": "Deluxe Facial",
+          "meta": "{{price:deluxe-facial}} · {{minutes:deluxe-facial}}",
+          "body": "The longer one, with advanced skin treatments and an anti-aging serum added to the steam, massage, exfoliation and moisturizer.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / STACK IT",
+      "heading": "Book it beside the cut.",
+      "paragraphs": [
+        "A facial on its own is a short reason for a long drive. Book it right after your haircut slot on Booksy and the two run back to back. If you mostly want the steam and the hot towels, the Luxury Grooming Experience builds them into the cut.",
+        "Payment comes after, by cash, card, Zelle or Cash App. Cancel early if the plan changes; missing the appointment without notice may carry a cancellation fee."
+      ],
+      "photos": []
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / QUESTIONS",
+      "heading": "Facials, asked from Hobbs.",
+      "items": [
+        {
+          "q": "Which facial should I pair with a haircut from Hobbs?",
+          "a": "The Express if you're keeping the trip short; the Deluxe if you want the treatments and the serum."
+        },
+        {
+          "q": "How long will both take?",
+          "a": "The Express is {{minutes:express-facial}} and the Deluxe is {{minutes:deluxe-facial}}, on top of your haircut time."
+        },
+        {
+          "q": "Do I need to prepare anything?",
+          "a": "No. Arrive for your appointment as you are; the steam and the cleanse handle the road dust."
+        },
+        {
+          "q": "What's in each facial?",
+          "a": "The <a href=\"/services/mens-facials/\">men's facials page</a> lists both in full."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "SKIN CARE",
+      "heading": "Lean back.<br>The road can wait.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "id": "post-beard-brush-vs-comb",
+  "locale": "en",
+  "slug": "/blog/beard-brush-vs-comb/",
+  "date": "2027-02-09",
+  "plan_rank": 97,
+  "title": "Beard Brush vs Comb (and How to Wash Your Beard)",
+  "eyebrow": "BEARDS",
+  "hero": "pexels-3944747-comb-brush-flat-lay",
+  "hero_alt": "Flat lay of a wooden beard comb, a bristle brush and a wristwatch",
+  "image_plan": "pexels: beard brush comb wood",
+  "card_text": "A brush for short beards and the skin under them, a comb for length and tangles. Plus a gentle way to wash a beard.",
+  "lede": [
+    "A beard brush and a beard comb do different jobs. A brush suits short to medium beards: its dense bristles reach the skin underneath, spread natural oils and train the hair to lie in one direction. A comb suits longer beards: it detangles, separates the hair and helps you check the shape. Plenty of people with longer beards use both, comb first and brush to finish.",
+    "Here's when each one makes sense, how to use them, and how to wash a beard without drying out the skin under it."
+  ],
+  "seo": {
+    "title": "Beard Brush vs Comb, and Washing a Beard | Carlsbad, NM",
+    "description": "Beard brush vs comb: a brush for short beards and the skin, a comb for length and tangles. Plus how to wash a beard, from a Carlsbad, NM barber.",
+    "primary": "beard brush vs comb",
+    "secondary": [
+      "how to wash your beard"
+    ]
+  },
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Blog",
+      "/blog/"
+    ],
+    [
+      "Beard Brush vs Comb",
+      "/blog/beard-brush-vs-comb/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / THE BRUSH",
+      "heading": "For shorter beards and the skin.",
+      "lead": "What bristles do.",
+      "paragraphs": [
+        "A beard brush has dense bristles that reach through short hair to the skin. Brushing lifts loose flakes and dead skin, spreads the skin's own oils along the hair, and over time nudges the hair to grow the way you brush it.",
+        "Natural bristles are the traditional choice; synthetic bristles are common too and can feel stiffer.",
+        "It's the natural fit for stubble up to a medium beard, where a comb has nothing to grip. Brush downward, in the direction the hair grows.",
+        "Brushing hard isn't the goal. Firm enough to reach the skin, gentle enough not to scratch it."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / THE COMB",
+      "heading": "For length and tangles.",
+      "lead": "What teeth do.",
+      "paragraphs": [
+        "A comb works through longer hair, separating it and pulling out knots. Wide teeth suit long, thick or curly beards; finer teeth help with a short, neat shape or a mustache.",
+        "Start combing near the ends and work up toward the face, holding the hair above a knot as you go. Dragging straight through from the root pulls and snaps hairs.",
+        "Look for teeth with smooth, rounded edges. Rough seams snag and split hairs. A pocket comb is handy for quick fixes during the day, when wind or a hat has pushed the beard out of place.",
+        "A comb also shows you the shape. Combed straight down, uneven spots and stray hairs are easy to see."
+      ]
+    },
+    {
+      "type": "table",
+      "eyebrow": "03 / SIDE BY SIDE",
+      "heading": "Brush or comb.",
+      "columns": [
+        "",
+        "Brush",
+        "Comb"
+      ],
+      "rows": [
+        [
+          "Beard length",
+          "Stubble to medium",
+          "Medium to long"
+        ],
+        [
+          "Main job",
+          "Skin, oils, direction",
+          "Detangling, shape"
+        ],
+        [
+          "Reaches the skin",
+          "Yes",
+          "Less so"
+        ],
+        [
+          "Handles knots",
+          "Not well",
+          "Yes"
+        ],
+        [
+          "Good for",
+          "Daily grooming and loose flakes",
+          "Long beards and checking shape"
+        ]
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / WASHING A BEARD",
+      "heading": "Gentler than your scalp.",
+      "lead": "The general approach.",
+      "subsections": [
+        {
+          "heading": "Use a mild wash",
+          "paragraphs": [
+            "The skin under a beard is face skin. Harsh shampoos and body soaps can dry it out, so a gentle cleanser or a wash made for beards is the usual choice."
+          ]
+        },
+        {
+          "heading": "Don't overdo it",
+          "paragraphs": [
+            "Washing too often strips oils. Rinsing with plain water between washes keeps it fresh without drying the skin."
+          ]
+        },
+        {
+          "heading": "Mind the temperature",
+          "paragraphs": [
+            "Lukewarm water is kinder to the skin under a beard than hot, which strips oils faster."
+          ]
+        },
+        {
+          "heading": "Get to the skin",
+          "paragraphs": [
+            "Work the wash in with your fingertips down to the skin, then rinse longer than feels necessary. Leftover cleanser can itch and flake."
+          ]
+        },
+        {
+          "heading": "Dry gently",
+          "paragraphs": [
+            "Pat with a towel instead of rubbing, then comb or brush it into place while it's still a little damp."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "05 / IN THE CHAIR",
+      "heading": "Beard work on my menu.",
+      "items": [
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "A precision haircut with the beard trimmed or lined up, a hot towel finish and straight razor detailing.",
+          "href": "page:services-beard-shaves",
+          "link_label": "SEE BEARD SERVICES",
+          "book": true
+        },
+        {
+          "title": "Luxury Grooming Experience",
+          "meta": "{{price:luxury-grooming}} · {{minutes:luxury-grooming}}",
+          "body": "A beard sculpt with the haircut, plus a wash and scalp massage, facial steam and dual hot towels.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / QUESTIONS",
+      "heading": "Brushes and combs, answered.",
+      "items": [
+        {
+          "q": "Should I use a beard brush or a comb?",
+          "a": "A brush for shorter beards and the skin underneath, a comb for longer beards and knots. Long beards often use both."
+        },
+        {
+          "q": "Can I use a regular comb on my beard?",
+          "a": "Yes. Wider teeth are kinder to a long or curly beard."
+        },
+        {
+          "q": "How do I wash my beard?",
+          "a": "With a gentle cleanser worked down to the skin, a thorough rinse, and a pat dry instead of a rub."
+        },
+        {
+          "q": "How do I make my beard softer?",
+          "a": "Gentle washing, a thorough rinse and regular brushing all help. Rough towel-drying does the opposite."
+        },
+        {
+          "q": "Does brushing help with beard flakes?",
+          "a": "Brushing lifts loose flakes, but flaking that keeps coming back has other causes worth knowing.",
+          "href": "page:post-beard-dandruff",
+          "link_label": "BEARD DANDRUFF"
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "BRUSH AND COMB",
+      "heading": "Brush the skin.<br>Comb the length.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "services-beard-shaves",
+    "services-haircuts"
+  ],
+  "tim_questions": [
+    "The brush, comb and washing tips are general advice, not your recommendation. Want to recommend a type or change anything?",
+    "Do you brush or comb a client's beard into place as part of the Signature Cut?"
+  ]
+}

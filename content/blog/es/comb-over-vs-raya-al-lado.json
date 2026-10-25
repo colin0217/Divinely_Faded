@@ -7,8 +7,8 @@
   "plan_rank": 19,
   "title": "Comb-over vs. raya de lado vs. raya marcada",
   "eyebrow": "ESTILOS",
-  "hero": "cut-skin-fade-hard-part-beard",
-  "hero_alt": "Skin fade con la parte de arriba corta, delineado nítido, una línea delgada marcada con navaja arriba de la patilla y una barba tupida",
+  "hero": "pexels-12706272-side-part-beard",
+  "hero_alt": "Perfil de un peinado con raya al lado y barba recortada",
   "image_plan": null,
   "card_text": "Dos rayas que se peinan y una que se corta: en qué se diferencian la raya de lado, el comb-over y la raya marcada, y cuál va contigo.",
   "lede": [
@@ -22,9 +22,18 @@
     "secondary": []
   },
   "breadcrumb": [
-    ["Inicio", "/es/"],
-    ["Blog", "/es/blog/"],
-    ["Comb-over vs. raya de lado", "/es/blog/comb-over-vs-raya-al-lado/"]
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Blog",
+      "/es/blog/"
+    ],
+    [
+      "Comb-over vs. raya de lado",
+      "/es/blog/comb-over-vs-raya-al-lado/"
+    ]
   ],
   "blocks": [
     {

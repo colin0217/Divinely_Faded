@@ -7,8 +7,8 @@
   "plan_rank": 29,
   "title": "¿Qué es un drop fade? Y en qué se diferencia de un burst",
   "eyebrow": "ESTILOS",
-  "hero": "cut-side-ear-fade",
-  "hero_alt": "Skin fade visto desde atrás, llevado hasta la piel donde rodea la oreja",
+  "hero": "pexels-18503633-clippers-behind-ear",
+  "hero_alt": "Máquina trabajando el desvanecido (fade) detrás de la oreja de un hombre, en primer plano",
   "image_plan": null,
   "card_text": "La línea del desvanecido baja en curva detrás de la oreja en lugar de ir pareja. En qué se diferencia un drop de uno recto y de un burst.",
   "lede": [
@@ -22,9 +22,18 @@
     "secondary": []
   },
   "breadcrumb": [
-    ["Inicio", "/es/"],
-    ["Blog", "/es/blog/"],
-    ["Drop fade", "/es/blog/que-es-un-drop-fade/"]
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Blog",
+      "/es/blog/"
+    ],
+    [
+      "Drop fade",
+      "/es/blog/que-es-un-drop-fade/"
+    ]
   ],
   "blocks": [
     {

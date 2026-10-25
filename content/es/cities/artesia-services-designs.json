@@ -1,0 +1,124 @@
+{
+  "id": "artesia-services-designs",
+  "locale": "es",
+  "pageType": "cell",
+  "city": "artesia",
+  "base": "services-designs",
+  "slug": "/es/artesia/disenos-de-cabello/",
+  "alt": "/artesia/hair-designs/",
+  "nav_label": "Diseños en el pelo · Artesia",
+  "card_text": "Diseños en el pelo para Artesia: quién suele pedirlos, cómo se agendan como extra y cuánto duran nítidas las líneas.",
+  "breadcrumb": [
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Artesia",
+      "/es/artesia/"
+    ],
+    [
+      "Diseños en el pelo",
+      "/es/artesia/disenos-de-cabello/"
+    ]
+  ],
+  "seo": {
+    "title": "Corte con diseño para Artesia, NM | Divinely Faded",
+    "description": "Diseños libres en el pelo para niños y adultos de Artesia, en el desvanecido, por Tim en Carlsbad, a 44 minutos por la US 285. Es un extra en Booksy.",
+    "primary": "corte de pelo con diseño artesia nm",
+    "secondary": [
+      "corte con diseño artesia"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "ARTESIA / DISEÑOS EN EL PELO",
+      "h1": "Diseños en el pelo, desde Artesia.",
+      "paragraphs": [
+        "Un diseño es una línea o curva marcada en la parte más corta de un desvanecido (fade). Los hago en Carlsbad, a {{city:artesia.drive_mi}} millas al sur de Artesia por la {{city:artesia.route}}, unos {{city:artesia.drive_min}} minutos en auto (rutas de OpenStreetMap). En Booksy es un extra de {{addon:hair-design}}.",
+        "Dos cosas cambian cuando vienes de Artesia: quién en el auto es probable que pida uno, y cuánto se mantiene nítido antes del siguiente viaje."
+      ],
+      "link": {
+        "label": "AGENDA UN CORTE CON DISEÑO",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / QUIÉN LO PIDE",
+      "heading": "Primero los niños, luego los veintes.",
+      "paragraphs": [
+        "Los menores de 18 son el {{city:artesia.under18_pct}} de Artesia, la proporción más alta de las tres ciudades de estas páginas y muy por encima del {{city:carlsbad.under18_pct}} de Carlsbad; otro {{city:artesia.age_20_34_pct}} tiene entre 20 y 34 años (Censo ACS 2023). Una línea arriba de la oreja suele ser lo primero que pide un niño en cuanto tiene opinión sobre su pelo, y una curva de diseño libre (freestyle) más atrevida tiende a venir de los veintes. Dos de los diseños de mi <a href=\"/es/servicios/disenos-de-cabello/\">página de diseños en el pelo</a> están en clientes pequeños.",
+        "Agenda el corte en Booksy, agrega el diseño en el pelo, y si un hermano también quiere uno, agéndalos uno tras otro para que el viaje cubra a los dos."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "02 / CÓMO SE AGENDA",
+      "heading": "Agrégalo, o que venga incluido.",
+      "lead": "Dos formas en que un diseño aparece en una cita de Booksy.",
+      "items": [
+        {
+          "title": "Essential Haircut + diseño en el pelo",
+          "meta": "{{price:essential-haircut}} + {{addon:hair-design}} · {{minutes:essential-haircut}}",
+          "body": "El corte con una línea o curva libre agregada al final. Elige el extra al agendar, o mándame un mensaje primero si no estás seguro de dónde debería ir.",
+          "book": true
+        },
+        {
+          "title": "Luxury Grooming Experience",
+          "meta": "{{price:luxury-grooming}} · {{minutes:luxury-grooming}}",
+          "body": "Ya incluye un diseño en el pelo básico, con el modelado de barba, lavado, vapor y dos toallas calientes. No hace falta el extra.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / CUÁNTO DURA",
+      "heading": "Nítido un tiempo, y luego se borra.",
+      "paragraphs": [
+        "Como el diseño vive en la parte del desvanecido que casi es piel, también es lo primero que suaviza el pelo que vuelve a crecer. Desde Artesia eso importa: el viaje de regreso son {{city:artesia.drive_min}} minutos, así que decide desde el principio si quieres que las líneas se vuelvan a marcar en cada visita o si te da igual dejar que se desvanezcan entre viajes.",
+        "Si las quieres siempre nítidas, deja la siguiente cita en Booksy antes de salir de la barbería."
+      ],
+      "photos": []
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / LO QUE PREGUNTAN",
+      "heading": "Preguntas de diseños desde Artesia.",
+      "items": [
+        {
+          "q": "¿Cuánto cuesta un diseño además del corte?",
+          "a": "{{addon:hair-design}} en Booksy, sumado al corte que agendes."
+        },
+        {
+          "q": "¿Dos niños pueden llevar diseño en un solo viaje?",
+          "a": "Sí. Agenda a cada uno un corte, uno tras otro, y agrega el diseño a cada cita."
+        },
+        {
+          "q": "¿Llevo una foto?",
+          "a": "Si tienes una. Si no, dime más o menos dónde lo quieres y qué tan atrevido, y le damos forma desde ahí."
+        },
+        {
+          "q": "¿Qué tan lejos queda Carlsbad de Artesia?",
+          "a": "{{city:artesia.drive_mi}} millas por la {{city:artesia.route}}, alrededor de {{city:artesia.drive_min}} minutos, hasta {{address}}."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "EN EL PELO",
+      "heading": "Elige la línea.<br>Agenda el viaje.",
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
+    }
+  ]
+}

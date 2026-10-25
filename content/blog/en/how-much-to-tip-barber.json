@@ -1,0 +1,147 @@
+{
+  "id": "post-how-much-to-tip-barber",
+  "locale": "en",
+  "slug": "/blog/how-much-to-tip-barber/",
+  "date": "2026-12-22",
+  "plan_rank": 62,
+  "title": "How Much to Tip Your Barber",
+  "eyebrow": "BOOKING",
+  "hero": "pexels-4968382-handing-ten-dollars",
+  "hero_alt": "One hand passing a ten-dollar bill to another",
+  "image_plan": "pexels: barbershop payment",
+  "card_text": "The common range, in percentages, plus when people tip more, how to tip with each payment method, and why it's your call.",
+  "lede": [
+    "In the US, a common tip for a barber is around 15 to 20 percent of the service price, and many people round up for a long or detailed appointment. That's a custom, not a rule. A tip is a thank-you, and how much to leave is up to you.",
+    "Here's how the percentage works across different services, the moments people tend to tip more, and how payment works in my chair."
+  ],
+  "seo": {
+    "title": "How Much to Tip Your Barber | Carlsbad, NM",
+    "description": "How much to tip your barber: the usual 15 to 20 percent, when people tip more, and how paying works at Divinely Faded in Carlsbad, NM.",
+    "primary": "how much to tip barber",
+    "secondary": [
+      "barber tip",
+      "how much to tip for a haircut"
+    ]
+  },
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Blog",
+      "/blog/"
+    ],
+    [
+      "How Much to Tip a Barber",
+      "/blog/how-much-to-tip-barber/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / THE CUSTOM",
+      "heading": "The usual range.",
+      "lead": "Percentages, not a fixed number.",
+      "paragraphs": [
+        "Tipping a barber works much like tipping at a restaurant. The amount scales with the price of the service, so people usually think of it as a percentage. Around 15 percent is a common baseline. Around 20 percent is common when someone is especially happy with the cut or the appointment was long.",
+        "Working it out is simple: take the service price, move the decimal one place to the left for 10 percent, then add half of that again for 15, or double it for 20. Rounding to an easy number is normal.",
+        "Customs vary by region and by person. Some people tip the same percentage every visit; some tip more around the holidays. There's no wrong answer in a range that's yours to choose.",
+        "Time is another way people think about it. A quick cleanup and a four-hour color session are very different amounts of work, and a percentage already accounts for that, because longer services cost more. That's one reason percentages became the usual way to tip."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / BY SERVICE",
+      "heading": "Same idea, different prices.",
+      "lead": "The percentage follows the service.",
+      "paragraphs": [
+        "Because a tip is usually a percentage, it naturally changes with what you booked. A percentage of the Essential Haircut ({{price:essential-haircut}}) will come out smaller than the same percentage of a Color Transformation ({{price:color-transformation}}), which is a four-hour appointment.",
+        "Add-ons count too, if you'd like them to. If you add a hair design ({{addon:hair-design}}) or a wash and scalp massage ({{addon:wash-scalp-massage}}), some people tip on the total, and some tip on the haircut alone. Either is normal.",
+        "A holiday appointment carries a {{holiday_fee}} holiday fee on the day itself. That fee is part of the bill, separate from anything you choose to tip."
+      ],
+      "link": {
+        "label": "SEE ALL SERVICES AND PRICES",
+        "href": "page:services"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / WHEN PEOPLE TIP MORE",
+      "heading": "Moments that move the number.",
+      "lead": "Common reasons, not requirements.",
+      "bullets": [
+        "A long appointment, like braids, a perm or a color transformation.",
+        "A cut fixed or reworked from somewhere else.",
+        "A kid who needed extra patience in the chair.",
+        "A same-week squeeze-in before an event.",
+        "The holiday season, as a thank-you for the year."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / PAYING HERE",
+      "heading": "How payment works.",
+      "lead": "After the service, four ways.",
+      "paragraphs": [
+        "Payment is due in full after the service, not before. I take cash, card, Zelle and Cash App, so you can settle up with whatever you carry.",
+        "Cash is the simplest way to leave a tip. If you'd rather tip some other way and you're not carrying cash, ask me when you pay.",
+        "Tipping is separate from the bill, and nothing about booking or paying depends on it. Booksy shows the price of every service before you book, so the only number you decide at the end is the tip, if you leave one."
+      ],
+      "link": {
+        "label": "READ THE FAQ",
+        "href": "page:faq"
+      }
+    },
+    {
+      "type": "faq",
+      "eyebrow": "05 / QUESTIONS",
+      "heading": "Tipping, answered.",
+      "items": [
+        {
+          "q": "How much should I tip my barber?",
+          "a": "A common range in the US is 15 to 20 percent of the service price. It's a custom, and the amount is up to you."
+        },
+        {
+          "q": "Do you tip a barber who owns the shop?",
+          "a": "Customs differ on this. Many people tip an owner-barber the same way they'd tip anyone else. It's your choice."
+        },
+        {
+          "q": "Is it rude not to tip?",
+          "a": "A tip is a custom, not a charge, so it isn't part of what you owe. The bill is the service price, plus the holiday fee on a holiday."
+        },
+        {
+          "q": "Do I tip on add-ons?",
+          "a": "Some people tip on the full bill, some on the main service only. Both are normal."
+        },
+        {
+          "q": "Can I tip by card?",
+          "a": "I take cash, card, Zelle and Cash App for the service. For a tip on a card, ask me when you pay."
+        },
+        {
+          "q": "Do parents tip on a kid's haircut?",
+          "a": "Many do, using the same percentage they'd use on their own cut. Like any tip, it's optional."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "PAY AFTER, YOUR WAY",
+      "heading": "Sit down.<br>Settle up after.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "services",
+    "faq",
+    "visit"
+  ],
+  "tim_questions": [
+    "What's your stance on tipping? The post presents 15-20 percent as common US practice and says the amount is up to the client; confirm or adjust.",
+    "Can clients add a tip on card or through Booksy, Zelle and Cash App? The post only says cash is simplest and to ask at payment for other ways.",
+    "OK to say 'nothing about booking or paying depends on' a tip? Written to match the plan's no-pressure angle."
+  ]
+}

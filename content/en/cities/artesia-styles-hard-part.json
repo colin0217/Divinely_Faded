@@ -1,0 +1,128 @@
+{
+  "id": "artesia-styles-hard-part",
+  "locale": "en",
+  "pageType": "cell",
+  "city": "artesia",
+  "base": "styles-hard-part",
+  "slug": "/artesia/hard-part/",
+  "alt": "/es/artesia/corte-con-raya/",
+  "nav_label": "Hard part · Artesia",
+  "card_text": "Hard parts for Artesia: a shaved line that fills in fast, so time the trip to the day you need it.",
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Artesia",
+      "/artesia/"
+    ],
+    [
+      "Hard Part",
+      "/artesia/hard-part/"
+    ]
+  ],
+  "seo": {
+    "title": "Hard Part for Artesia, NM | Divinely Faded, Carlsbad",
+    "description": "Hard part haircuts for Artesia, shaved in at my Carlsbad shop {{city:artesia.drive_min}} minutes south on US 285. When to book so the line is sharp for the day that matters.",
+    "primary": "hard part haircut artesia nm",
+    "secondary": [
+      "hard part fade artesia nm",
+      "shaved part haircut artesia"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "ARTESIA / HARD PART",
+      "h1": "Hard part, from Artesia.",
+      "paragraphs": [
+        "A hard part is a part line shaved into the cut, so it stays exactly where I put it without a comb. The shop is in Carlsbad at {{address}}; from Artesia that's {{city:artesia.drive_mi}} miles down {{city:artesia.route}}, about {{city:artesia.drive_min}} minutes each way (OpenStreetMap routing).",
+        "This is the one cut where timing the drive matters more than planning a cadence."
+      ],
+      "link": {
+        "label": "BOOK A HARD PART",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / TIME IT TO THE DATE",
+      "heading": "Shaved lines don't wait.",
+      "paragraphs": [
+        "A line taken to skin is the first thing on your head to fill back in; there's no hair above it to hide the regrowth. So if the part is for a wedding, a quinceañera, graduation photos or a first day somewhere, book your appointment as close to that date as the calendar allows. Spend the {{city:artesia.drive_min}} minutes on 285 a day or two before, not two weeks before."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / ROTATIONS",
+      "heading": "Line it up for the days off.",
+      "paragraphs": [
+        "With {{city:artesia.mining_ag_jobs_pct}} of Artesia's jobs in mining, oil and gas, or agriculture (Census ACS 2023), a lot of weeks run on a rotation. If yours does, the same timing rule applies the other way around: get the part cut at the start of your days off, when people will actually see it, rather than the day before you go back out under a hard hat. By the next hitch it will have softened into the fade on its own."
+      ],
+      "photos": []
+    },
+    {
+      "type": "faq",
+      "eyebrow": "03 / QUESTIONS",
+      "heading": "Hard part, from up the highway.",
+      "items": [
+        {
+          "q": "How far ahead of an event should I book a hard part from Artesia?",
+          "a": "As close as you can get: the day before, or the morning of if there's a slot. The line is sharpest in its first few days."
+        },
+        {
+          "q": "Will the line look odd while it grows out?",
+          "a": "It softens into the fade on its own. By the time you'd drive down again it's mostly gone, so you can decide fresh each visit."
+        },
+        {
+          "q": "Is a hard part an extra charge?",
+          "a": "Text me a photo before you book and I'll tell you. A plain line may be part of the cut; more elaborate line work is the hair design add-on at {{addon:hair-design}}."
+        },
+        {
+          "q": "Can you put a hard part on a slick back or a crop?",
+          "a": "Yes, either one. The <a href=\"/styles/hard-part/\">hard part page</a> shows a line cut straight through a high skin fade."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "04 / ON BOOKSY",
+      "heading": "The cut, plus the line.",
+      "lead": "Prices and times straight from my Booksy menu.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "Fade and top shaped to your head, neckline cleaned with a straight razor. The part goes in during the cut.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "Same cut with your beard trimmed or lined up and a hot towel to finish.",
+          "book": true
+        },
+        {
+          "title": "Hair design add-on",
+          "meta": "{{addon:hair-design}}",
+          "body": "For a line that curves, splits or joins others. Send me the photo first so we book the right thing."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "APPOINTMENTS ONLY",
+      "heading": "Book near the date.<br>Leave sharp.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "id": "artesia-styles-textured-fringe",
+  "locale": "es",
+  "pageType": "cell",
+  "city": "artesia",
+  "base": "styles-textured-fringe",
+  "slug": "/es/artesia/fleco-texturizado/",
+  "alt": "/artesia/textured-fringe/",
+  "nav_label": "Fleco texturizado · Artesia",
+  "card_text": "Fleco texturizado para Artesia: un corte hacia adelante para un pueblo joven, agendado antes de bajar por la 285.",
+  "breadcrumb": [
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Artesia",
+      "/es/artesia/"
+    ],
+    [
+      "Fleco texturizado",
+      "/es/artesia/fleco-texturizado/"
+    ]
+  ],
+  "seo": {
+    "title": "Fleco texturizado para Artesia, NM | Divinely Faded",
+    "description": "Flequillo texturizado para Artesia, en Carlsbad, a {{city:artesia.drive_min}} minutos por la US 285. Hacia adelante, puntas desfiladas sobre un taper. Agenda en Booksy.",
+    "primary": "flequillo texturizado hombre artesia nm",
+    "secondary": [
+      "fleco texturizado artesia",
+      "corte edgar artesia nm"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "ARTESIA / FLECO TEXTURIZADO",
+      "h1": "Fleco texturizado, desde Artesia.",
+      "paragraphs": [
+        "Pelo hacia adelante sobre la frente, puntas cortadas disparejas para que caigan en mechones, lados bajos con un taper. La barbería está en {{address}}, en Carlsbad, lo que desde Artesia significa {{city:artesia.drive_mi}} millas de {{city:artesia.route}} y unos {{city:artesia.drive_min}} minutos (ruta de OpenStreetMap).",
+        "Trae una foto: los cortes con fleco tienen más versiones que nombres."
+      ],
+      "link": {
+        "label": "AGENDA UN FLECO TEXTURIZADO",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / UN PUEBLO JOVEN",
+      "heading": "La mitad de Artesia tiene la edad del fleco.",
+      "paragraphs": [
+        "El {{city:artesia.under18_pct}} de Artesia es menor de 18 años y otro {{city:artesia.age_20_34_pct}} tiene de 20 a 34 (Censo ACS 2023): juntos, más de la mitad del pueblo está en las edades donde vive un fleco hacia adelante. Es un look que se ve joven a propósito. Si eres papá o mamá y vas a agendar uno, es el mismo Essential Haircut (corte esencial) que se hacen los adultos, en su propio horario en Booksy, y una foto del fleco exacto que quiere tu hijo nos ahorra a los dos una plática. Si lo agendas para ti, el mismo consejo."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / EL FRENTE ES EL RELOJ",
+      "heading": "Cuando llega a los ojos, ya toca.",
+      "paragraphs": [
+        "Un fleco marca su propio calendario: en cuanto el frente te tapa los ojos, la forma se perdió. El taper de abajo normalmente pide atención un poco antes. Desde Artesia vale la pena planearlo, así que pregúntame cuántas semanas le quedan al frente y agenda la siguiente visita en Booksy mientras sigues en Carlsbad, en lugar de darte cuenta un lunes por la mañana a {{city:artesia.drive_min}} minutos de la silla. En el día a día no hay rutina: lo echas hacia adelante con la mano y te vas."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "03 / CÓMO AGENDARLO",
+      "heading": "Se agenda como un corte.",
+      "lead": "Precios y tiempos de mi menú en Booksy.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}} · Niños bienvenidos",
+          "body": "Fleco, parte de arriba y taper en una sola sentada, navaja en la nuca y peinado hacia adelante para que caiga bien.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "Suma el trabajo de barba o vello facial con toalla caliente, para quien ya tiene edad de necesitarlo.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / PREGUNTAS",
+      "heading": "Preguntas sobre el fleco, Artesia.",
+      "items": [
+        {
+          "q": "¿Fleco texturizado o corte Edgar para mi hijo?",
+          "a": "Un corte Edgar lleva una línea recta y pareja a lo ancho de la frente sobre un desvanecido (fade) marcado; un fleco texturizado es más suave y más desfilado en las puntas. Trae la foto y lo igualamos."
+        },
+        {
+          "q": "¿Dos niños pueden compartir una cita?",
+          "a": "No. Cada corte necesita su propio horario para que yo tenga el tiempo. Agéndalos uno tras otro y hazlo en un solo viaje."
+        },
+        {
+          "q": "¿El fleco necesita peine en la mañana?",
+          "a": "No. Échalo hacia adelante con la mano. Esa es toda la rutina."
+        },
+        {
+          "q": "¿A quién no le conviene un fleco?",
+          "a": "A quien no soporta el pelo sobre las cejas, o a quien tiene un remolino fuerte al frente que empuja el pelo hacia arriba en vez de hacia adelante. La <a href=\"/es/estilos/fleco-texturizado/\">página del fleco texturizado</a> muestra tres pesos distintos."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "SOLO CON CITA",
+      "heading": "Agenda el fleco.<br>Baja con la foto por la 285.",
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "id": "post-how-to-avoid-razor-bumps",
+  "locale": "en",
+  "slug": "/blog/how-to-avoid-razor-bumps/",
+  "date": "2027-01-28",
+  "plan_rank": 89,
+  "title": "How to Avoid Razor Bumps After a Shave",
+  "eyebrow": "SHAVES",
+  "hero": "pexels-19535223-shaving-mirror",
+  "hero_alt": "A man shaving his jaw with a razor in front of a mirror",
+  "image_plan": null,
+  "card_text": "Soften the hair first, use a sharp blade, shave with the grain. General shaving habits that keep bumps down.",
+  "lede": [
+    "To avoid razor bumps, soften the hair before you shave, use a sharp blade, shave in the direction the hair grows, and don't go over the same spot again and again. Razor bumps happen when cut hairs curl back or grow sideways into the skin, and each of those habits makes that less likely. If bumps are painful, infected or won't clear, that's a question for a doctor, not a barber.",
+    "Here's what causes them, the general prep and technique that help, and how a shave in the chair approaches it."
+  ],
+  "seo": {
+    "title": "How to Avoid Razor Bumps After a Shave | Carlsbad, NM",
+    "description": "How to avoid razor bumps: soften the hair, use a sharp blade, shave with the grain and go easy afterward. General tips from a Carlsbad, NM barber.",
+    "primary": "how to avoid razor bumps",
+    "secondary": []
+  },
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Blog",
+      "/blog/"
+    ],
+    [
+      "Avoiding Razor Bumps",
+      "/blog/how-to-avoid-razor-bumps/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / WHAT CAUSES THEM",
+      "heading": "Hair growing back the wrong way.",
+      "lead": "The short version.",
+      "paragraphs": [
+        "A razor bump forms when a freshly cut hair grows back into the skin instead of out of it. Curly and coarse hair is more prone to it, because the hair naturally bends as it grows.",
+        "Very close shaving makes it more likely. When a hair is cut below the surface of the skin, or at a sharp angle, the tip has an easier path back in.",
+        "Friction adds irritation on top of that. Dull blades, dry skin and pressing hard all leave the skin angrier.",
+        "Bumps show up most on the neck, where hair often grows in several directions and the skin folds as you turn your head. Running a hand over your neck to feel which way the hair lies makes shaving with the grain much easier."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / BEFORE THE RAZOR",
+      "heading": "Prep does most of the work.",
+      "lead": "Soft hair cuts clean.",
+      "paragraphs": [
+        "Warmth and moisture soften the beard and let the blade glide instead of drag. A warm shower before shaving does a version of this at home. In the chair, that's the job of the hot towels.",
+        "Lather matters too. A proper shaving cream or soap gives the blade a cushion. Shaving dry skin, or using plain water, invites irritation.",
+        "Gentle exfoliation the day before a shave, rather than right before, is a common tip for freeing hairs that tend to get trapped. Scrubbing hard just before the razor only adds irritation."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / DURING THE SHAVE",
+      "heading": "Technique.",
+      "lead": "General guidance.",
+      "paragraphs": [
+        "The common advice comes down to a handful of habits:"
+      ],
+      "bullets": [
+        "Use a sharp blade. A dull edge tugs at hair and scrapes skin.",
+        "Shave with the grain, the direction the hair grows. Going against it cuts closer but raises the risk of bumps.",
+        "Use light pressure and let the blade do the work.",
+        "Avoid passing over the same patch repeatedly.",
+        "Rinse the blade often so it stays clear."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / AFTER",
+      "heading": "Let it calm down.",
+      "lead": "What usually helps.",
+      "paragraphs": [
+        "Rinse with cool water and pat the skin dry rather than rubbing. A soothing, alcohol-free aftershave or a plain moisturizer helps the skin settle.",
+        "Try not to pick at bumps or dig at hairs. That can make irritation worse or leave marks.",
+        "A tight collar rubbing on a freshly shaved neck can keep bumps irritated, so a looser collar for a day helps.",
+        "If you get bumps every time no matter what, some people do better keeping a short beard instead of shaving to skin, since a trimmed beard leaves the hair above the surface."
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "05 / IN THE CHAIR",
+      "heading": "Shaves with the prep built in.",
+      "items": [
+        {
+          "title": "Straight Razor Beard Shave",
+          "meta": "{{price:straight-razor-beard-shave}} · {{minutes:straight-razor-beard-shave}}",
+          "body": "A traditional wet shave: hot towels, premium shaving cream, the razor, and a soothing aftershave to finish.",
+          "href": "page:services-beard-shaves",
+          "link_label": "SEE THE SHAVES",
+          "book": true
+        },
+        {
+          "title": "Head & Beard Shave",
+          "meta": "{{price:head-beard-shave}} · {{minutes:head-beard-shave}}",
+          "body": "The head and the beard shaved together, with hot towels and an aftershave balm.",
+          "book": true
+        },
+        {
+          "title": "Express Facial",
+          "meta": "{{price:express-facial}} · {{minutes:express-facial}}",
+          "body": "A separate booking: facial massage, warm steam, a deep cleanse, gentle exfoliation and a hydrating moisturizer.",
+          "href": "page:services-facials",
+          "link_label": "SEE THE FACIALS",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / QUESTIONS",
+      "heading": "Razor bumps, answered.",
+      "items": [
+        {
+          "q": "How do I prevent razor bumps?",
+          "a": "Soften the hair first, use a sharp blade, shave with the grain using light pressure, and don't go over the same spot again and again."
+        },
+        {
+          "q": "Does shaving with the grain help?",
+          "a": "It usually reduces bumps, because the hair isn't cut as far below the skin."
+        },
+        {
+          "q": "Do hot towels help?",
+          "a": "Hot towels soften the hair and the skin before the razor, which makes for a smoother shave."
+        },
+        {
+          "q": "Can you treat razor bumps?",
+          "a": "No. I shave and groom; I don't treat skin conditions. See a doctor for bumps that hurt, spread or won't clear."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "SMOOTH SHAVE",
+      "heading": "Soft prep.<br>Sharp blade.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "services-beard-shaves",
+    "services-facials"
+  ],
+  "tim_questions": [
+    "Prep, technique and aftercare are written as general grooming advice, not yours. Anything you recommend differently?",
+    "Do you shave with the grain only, or do a second pass? The post doesn't say how you shave."
+  ]
+}

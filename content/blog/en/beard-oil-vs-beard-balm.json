@@ -1,0 +1,205 @@
+{
+  "id": "post-beard-oil-vs-beard-balm",
+  "locale": "en",
+  "slug": "/blog/beard-oil-vs-beard-balm/",
+  "date": "2027-02-12",
+  "plan_rank": 100,
+  "title": "Beard Oil vs Beard Balm: What Each One Does",
+  "eyebrow": "BEARDS",
+  "hero": "pexels-7797108-dropper-bottles",
+  "hero_alt": "Amber dropper bottles on a wooden tray with green leaves",
+  "image_plan": "pexels: beard oil bottle wood",
+  "card_text": "Oil for the skin under the beard, balm for shape and hold. What each product type does and how to use them together.",
+  "lede": [
+    "Beard oil and beard balm overlap, but each has a main job. Beard oil is a light liquid that reaches the skin under the beard and softens the hair, which makes it the usual choice for itch, dry skin and shorter beards. Beard balm is a thicker product, usually with wax in it, that conditions too, but its real job is shape and hold: it tames flyaways and keeps a longer beard where you put it. Short beard, oil. Longer beard that won't behave, balm, or both.",
+    "Here's what each one does, how they compare, and how to apply them. Product types only, no brands."
+  ],
+  "seo": {
+    "title": "Beard Oil vs Beard Balm: What Each One Does | Carlsbad, NM",
+    "description": "Beard oil vs beard balm: oil for the skin under the beard, balm for shape and hold. What each does and when to use it, from a Carlsbad, NM barber.",
+    "primary": "beard oil vs beard balm",
+    "secondary": []
+  },
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Blog",
+      "/blog/"
+    ],
+    [
+      "Beard Oil vs Balm",
+      "/blog/beard-oil-vs-beard-balm/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / BEARD OIL",
+      "heading": "For the skin underneath.",
+      "lead": "Light and quick to absorb.",
+      "paragraphs": [
+        "Beard oil is usually a blend of carrier oils, sometimes with a scent added. A few drops worked into the beard reach the skin, where they help with the dryness and itch that often come with growing one.",
+        "It also softens the hair itself, so a coarse beard feels less wiry. It adds a little shine but almost no hold.",
+        "Because it's thin, oil suits stubble and short beards, where there isn't much hair to shape anyway. In dry air, the skin under a beard dries out faster, and that's the gap oil is meant to fill.",
+        "Oil is also the easier one to start with if you've never used a beard product."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / BEARD BALM",
+      "heading": "For shape and hold.",
+      "lead": "Thicker, with wax.",
+      "paragraphs": [
+        "Beard balm is a soft solid, typically oils and butters mixed with wax. It conditions the hair the way oil does, and the wax adds light hold.",
+        "That makes it useful for medium and long beards. It smooths flyaways, keeps the sides from puffing out and helps a shaped beard hold its lines through the day.",
+        "It's handy on windy days or under a hat, when a beard tends to get pushed around.",
+        "Balm doesn't reach the skin as easily as oil, especially through a thick beard."
+      ]
+    },
+    {
+      "type": "table",
+      "eyebrow": "03 / SIDE BY SIDE",
+      "heading": "Oil or balm.",
+      "columns": [
+        "",
+        "Beard oil",
+        "Beard balm"
+      ],
+      "rows": [
+        [
+          "Texture",
+          "Liquid",
+          "Soft solid"
+        ],
+        [
+          "Main job",
+          "Skin and softness",
+          "Shape and hold"
+        ],
+        [
+          "Hold",
+          "Almost none",
+          "Light"
+        ],
+        [
+          "Suits",
+          "Stubble to short",
+          "Medium to long"
+        ],
+        [
+          "Reaches the skin",
+          "Easily",
+          "Less easily"
+        ]
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / HOW TO USE THEM",
+      "heading": "A little goes a long way.",
+      "lead": "General application.",
+      "subsections": [
+        {
+          "heading": "Oil",
+          "paragraphs": [
+            "Put a few drops in your palm, rub your hands together, and work it into the beard from underneath so it reaches the skin. Then brush or comb it through to spread it evenly.",
+            "Start with fewer drops than you think. Too much leaves the beard greasy and can rub off on collars."
+          ]
+        },
+        {
+          "heading": "Balm",
+          "paragraphs": [
+            "Scrape a small amount with your thumbnail, warm it between your palms until it softens, work it through the beard, then shape it with a comb.",
+            "On a short beard, balm can feel heavy and sit on top of the hair."
+          ]
+        },
+        {
+          "heading": "Both",
+          "paragraphs": [
+            "Some people use oil first for the skin, then a little balm on top for shape."
+          ]
+        },
+        {
+          "heading": "Timing",
+          "paragraphs": [
+            "Either one works well on a clean, towel-dried beard, when the skin and hair take it in easily."
+          ]
+        }
+      ],
+      "link": {
+        "label": "BRUSH OR COMB?",
+        "href": "page:post-beard-brush-vs-comb"
+      }
+    },
+    {
+      "type": "list",
+      "eyebrow": "05 / IN THE CHAIR",
+      "heading": "Shape it here, keep it at home.",
+      "items": [
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "Your haircut and a beard trim or line-up in one visit, finished with a hot towel and straight razor detailing.",
+          "href": "page:services-beard-shaves",
+          "link_label": "SEE BEARD SERVICES",
+          "book": true
+        },
+        {
+          "title": "Luxury Grooming Experience",
+          "meta": "{{price:luxury-grooming}} · {{minutes:luxury-grooming}}",
+          "body": "The beard gets a full sculpt alongside the haircut, with facial steam, dual hot towels and styling.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / QUESTIONS",
+      "heading": "Oil and balm, answered.",
+      "items": [
+        {
+          "q": "Should I use beard oil or beard balm?",
+          "a": "Oil for short beards and the skin underneath, balm for longer beards that need shape and hold."
+        },
+        {
+          "q": "Can I use beard oil and balm together?",
+          "a": "Yes. Oil first for the skin, then a small amount of balm for shape."
+        },
+        {
+          "q": "Does beard balm make a beard grow faster?",
+          "a": "No. Balm and oil change how a beard looks and feels, not how fast it grows."
+        },
+        {
+          "q": "Does beard oil help with itch?",
+          "a": "That's mainly what it's for: it softens the hair and helps dry skin. For an itch that won't stop, see a doctor."
+        },
+        {
+          "q": "Why does my beard flake?",
+          "a": "Dry skin is a frequent cause, especially in dry air. Flakes that keep coming back can be dandruff.",
+          "href": "page:post-beard-dandruff",
+          "link_label": "BEARD DANDRUFF"
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "BEARD CARE",
+      "heading": "Oil the skin.<br>Balm the shape.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "services-beard-shaves",
+    "services-haircuts"
+  ],
+  "tim_questions": [
+    "The oil and balm descriptions are general, by product type, not your recommendation. Do you use or recommend either one in the shop?",
+    "Do you apply anything to the beard at the end of the Signature Cut? The post doesn't say."
+  ]
+}

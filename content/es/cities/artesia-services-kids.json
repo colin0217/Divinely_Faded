@@ -1,0 +1,124 @@
+{
+  "id": "artesia-services-kids",
+  "locale": "es",
+  "pageType": "cell",
+  "city": "artesia",
+  "base": "services-kids",
+  "slug": "/es/artesia/cortes-para-ninos/",
+  "alt": "/artesia/kids-haircuts/",
+  "nav_label": "Cortes para niños · Artesia",
+  "card_text": "Cortes para niños de Artesia: agenda a los hermanos uno tras otro para que un solo viaje por la 285 alcance para todos.",
+  "breadcrumb": [
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Artesia",
+      "/es/artesia/"
+    ],
+    [
+      "Cortes para niños",
+      "/es/artesia/cortes-para-ninos/"
+    ]
+  ],
+  "seo": {
+    "title": "Cortes para niños para Artesia, NM | Divinely Faded",
+    "description": "Cortes para niños de familias de Artesia, con Tim en Carlsbad, a unos 44 minutos al sur. Cómo agendar a dos o tres niños uno tras otro en Booksy.",
+    "primary": "corte de pelo para niños artesia nm",
+    "secondary": [
+      "cortes para niños artesia"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "ARTESIA / CORTES PARA NIÑOS",
+      "h1": "Cortes para niños, desde Artesia.",
+      "paragraphs": [
+        "Los niños son bienvenidos en mi silla, y mi silla está en Carlsbad: a {{city:artesia.drive_mi}} millas al sur de Artesia por la {{city:artesia.route}}, unos {{city:artesia.drive_min}} minutos con un niño en el asiento de atrás (rutas de OpenStreetMap).",
+        "Aquí ves cómo agendan los papás desde Artesia, cómo acomodar a más de un niño en un solo viaje y para qué sirve el camino de bajada."
+      ],
+      "link": {
+        "label": "AGENDA UN CORTE PARA TU HIJO",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / UNA CIUDAD JOVEN",
+      "heading": "Más niños por hogar que en Carlsbad.",
+      "paragraphs": [
+        "Artesia es joven. Los menores de 18 son el {{city:artesia.under18_pct}} de la ciudad, contra el {{city:carlsbad.under18_pct}} en Carlsbad, y unos {{city:artesia.k12_students}} niños de ahí están inscritos en la escuela (K–12) (Censo ACS 2023). Si tu hogar es uno de los que tiene dos o tres cabezas pendientes de corte, el viaje rinde más cuando cada una tiene su propio horario.",
+        "Booksy te deja agendar a cada niño por separado. Elige horarios uno tras otro, agrega tu propio corte al final si quieres uno, y toda la familia termina en una sola visita en lugar de tres."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "02 / QUÉ AGENDAR",
+      "heading": "No hay menú infantil, son los mismos servicios.",
+      "lead": "Booksy no tiene un precio aparte para niños. Agenda según el corte que quiere tu hijo.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}} · Niños bienvenidos",
+          "body": "La cita habitual para un niño: un desvanecido (fade) o taper a la forma de su cabeza, con el contorno de la nuca limpio, todo en una sola sesión.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "Para el papá en el mismo viaje: corte de pelo más corte de barba o delineado (line-up), con toalla caliente al final.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / EL CAMINO DE BAJADA",
+      "heading": "Aprovecha el viaje.",
+      "paragraphs": [
+        "El camino desde Artesia da tiempo suficiente para que un niño busque en tu teléfono una foto del corte que quiere. Tenla lista cuando se suba a la silla; reduce a la mitad las adivinanzas de los dos lados de la capa.",
+        "Los sábados abro de 8:00 AM a 2:00 PM, lo que mantiene el corte fuera de una noche de escuela. Miércoles y domingo cierro, así que planea alrededor de esos dos días."
+      ],
+      "photos": []
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / PAPÁS DE ARTESIA",
+      "heading": "Lo que preguntan los papás.",
+      "items": [
+        {
+          "q": "¿Puedo agendar a tres niños seguidos?",
+          "a": "Sí. Agenda a cada uno su propio Essential Haircut (corte esencial) en Booksy y elige horarios uno tras otro. Agrega el tuyo al final si lo quieres."
+        },
+        {
+          "q": "¿Vale la pena el viaje desde Artesia por un corte de niño?",
+          "a": "Son unos {{city:artesia.drive_min}} minutos por cada lado por la {{city:artesia.route}} hasta {{address}}. Si vale la pena, lo decides tú; agendar a los hermanos juntos y dejar la siguiente visita lista antes de irte es lo que hace que cuadre."
+        },
+        {
+          "q": "¿Mi hijo ve al mismo barbero cada vez?",
+          "a": "Sí. Solo estoy yo, así que la cara detrás de la máquina nunca cambia. Eso tranquiliza a un niño que todavía no está seguro del ruido."
+        },
+        {
+          "q": "¿Mi hijo puede llevar un diseño?",
+          "a": "Sí, el extra de diseño en el pelo cuesta {{addon:hair-design}}. La <a href=\"/es/servicios/cortes-para-ninos/\">página de cortes para niños</a> muestra los cortes, y dos de los diseños de la página de diseños están en niños."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "NIÑOS BIENVENIDOS",
+      "heading": "Agenda a cada niño.<br>Un solo viaje por la 285.",
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
+    }
+  ]
+}

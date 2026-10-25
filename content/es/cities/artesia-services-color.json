@@ -1,0 +1,124 @@
+{
+  "id": "artesia-services-color",
+  "locale": "es",
+  "pageType": "cell",
+  "city": "artesia",
+  "base": "services-color",
+  "slug": "/es/artesia/color-y-permanente/",
+  "alt": "/artesia/color-and-perm/",
+  "nav_label": "Color y permanente · Artesia",
+  "card_text": "Color Transformation o permanente desde Artesia: cómo bloquear el día completo y qué le hace el sol al pelo decolorado.",
+  "breadcrumb": [
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Artesia",
+      "/es/artesia/"
+    ],
+    [
+      "Color y permanente",
+      "/es/artesia/color-y-permanente/"
+    ]
+  ],
+  "seo": {
+    "title": "Tinte y permanente para Artesia, NM | Divinely Faded",
+    "description": "Tinte de pelo para hombre y permanente para Artesia, con Tim en Carlsbad, a unos 44 minutos por la US 285. Cómo planear una cita de día completo.",
+    "primary": "tinte de pelo para hombre artesia nm",
+    "secondary": [
+      "permanente para hombre artesia nm"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "ARTESIA / COLOR Y PERMANENTE",
+      "h1": "Color y permanente, desde Artesia.",
+      "paragraphs": [
+        "Una Color Transformation (transformación de color) o una permanente (en Booksy aparece como Perm) significa un buen rato en mi silla en Carlsbad, a {{city:artesia.drive_mi}} millas de Artesia por la {{city:artesia.route}}, unos {{city:artesia.drive_min}} minutos por cada lado (rutas de OpenStreetMap). Son los dos servicios en los que el camino es la parte más pequeña del día.",
+        "Lo que sigue: cómo bloquear el tiempo, qué le hace el sol de Artesia a una decoloración reciente y qué mandarme antes de agendar."
+      ],
+      "link": {
+        "label": "AGENDA COLOR O PERMANENTE",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "01 / LOS DOS",
+      "heading": "Los dos necesitan un bloque completo.",
+      "lead": "Tiempos de Booksy. Ninguno cabe entre pendientes.",
+      "items": [
+        {
+          "title": "Color Transformation",
+          "meta": "{{price:color-transformation}} · {{minutes:color-transformation}}",
+          "body": "Decolorar, matizar y el tono que pediste. Booksy separa {{minutes:color-transformation}}, la cita más larga que tengo.",
+          "book": true
+        },
+        {
+          "title": "Perm",
+          "meta": "{{price:perm}} · {{minutes:perm}}",
+          "body": "Volumen, textura o movimiento fijados en un pelo que no lo hace por sí solo. {{minutes:perm}} en la silla.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / EL DÍA COMPLETO",
+      "heading": "Planéalo de Artesia a Artesia.",
+      "paragraphs": [
+        "Toma la Color Transformation: {{city:artesia.drive_min}} minutos de bajada, {{minutes:color-transformation}} en la silla, {{city:artesia.drive_min}} minutos de regreso. Es un día dedicado a tu pelo, así que no pongas detrás nada en Artesia que no pueda esperar. La permanente es más corta, pero aplica la misma idea.",
+        "La hora de inicio importa. El sábado abro a las 8:00 AM, y un color agendado temprano te deja luz de día para el camino a casa. Entre semana, toma el primer horario que muestre Booksy."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / EL SOL",
+      "heading": "La decoloración frente a un verano largo.",
+      "paragraphs": [
+        "La máxima promedio de julio en Artesia es de {{city:artesia.july_high_f}}, y el año trae alrededor de {{city:artesia.days_100f}} días de 100°F o más (Open-Meteo, 2023–25). El pelo decolorado se reseca más rápido y se va hacia un tono más cálido bajo ese sol, así que si te vas a platinado al empezar el verano, cuenta con cubrirlo al aire libre y acondicionarlo más que antes. Dime cómo son tus días y matizo pensando en eso.",
+        "La permanente tiene la preocupación contraria: el calor seco puede dejar el chino con un aspecto opaco, así que mantenlo hidratado entre visitas."
+      ],
+      "photos": []
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / PREGUNTAS",
+      "heading": "Preguntas de color y permanente desde Artesia.",
+      "items": [
+        {
+          "q": "¿Cuánto tiempo voy a estar en Carlsbad por una Color Transformation?",
+          "a": "Booksy bloquea {{minutes:color-transformation}} para ella. Con el camino de ida y vuelta desde Artesia, tómalo como un día completo."
+        },
+        {
+          "q": "¿Mando un mensaje antes de agendar una permanente?",
+          "a": "Sí. Manda una foto de la onda o el chino que buscas al {{phone}}, para que los {{minutes:perm}} se vayan al resultado que imaginaste y no a resolverlo en la silla."
+        },
+        {
+          "q": "¿Y si tengo que cancelar el día anterior?",
+          "a": "Cancela en Booksy en cuanto lo sepas. Estas citas ocupan una parte grande de mi día, y por una cancelación de último momento o por no llegar a tu cita se puede cobrar un cargo."
+        },
+        {
+          "q": "¿También me puedes pintar la barba?",
+          "a": "No. El teñido de barba no está en mi menú; el color es para el pelo de tu cabeza. La <a href=\"/es/servicios/color-y-permanente/\">página de color y permanente</a> tiene las fotos."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "COLOR Y TEXTURA",
+      "heading": "Bloquea el día.<br>Y baja manejando.",
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
+    }
+  ]
+}

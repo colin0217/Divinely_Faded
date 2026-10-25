@@ -1,0 +1,120 @@
+{
+  "id": "roswell-styles-burst-fade",
+  "locale": "en",
+  "pageType": "cell",
+  "city": "roswell",
+  "base": "styles-burst-fade",
+  "slug": "/roswell/burst-fade/",
+  "alt": "/es/roswell/burst-fade/",
+  "nav_label": "Burst fade · Roswell",
+  "card_text": "A burst fade for Roswell: the arc behind the ear, the 285 drive and when to come back for it.",
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Roswell",
+      "/roswell/"
+    ],
+    [
+      "Burst Fade",
+      "/roswell/burst-fade/"
+    ]
+  ],
+  "seo": {
+    "title": "Burst Fade for Roswell, NM | Divinely Faded, Carlsbad",
+    "description": "Burst fades for Roswell, cut in Carlsbad about an hour and a half south on US 285. How the arc grows out, what to book and how to time the trip.",
+    "primary": "burst fade roswell nm",
+    "secondary": [
+      "burst fade haircut roswell nm",
+      "barber roswell nm"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "ROSWELL / BURST FADE",
+      "h1": "Burst fade, from Roswell.",
+      "paragraphs": [
+        "The burst is the half-moon of skin that curves behind the ear and opens back out into the hair, with the nape left fuller than a regular fade would leave it. My chair is in Carlsbad at {{address}}, {{city:roswell.drive_mi}} miles down {{city:roswell.route}} from Roswell, so you pass through Artesia on the way and spend about {{city:roswell.drive_min}} minutes getting here (OpenStreetMap routing).",
+        "That distance changes how I'd talk to you about this cut, so this page is about the arc, the drive and the booking."
+      ],
+      "link": {
+        "label": "BOOK A BURST FADE",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / THE ARC AND THE ROAD",
+      "heading": "The curve is the part that needs you back.",
+      "paragraphs": [
+        "Everything in a burst fade grows at the same speed, but the skin behind the ear is cut the closest, so it's the first thing that stops looking deliberate.",
+        "If you'd rather not make the {{city:roswell.drive_min}}-minute run south every time the arc goes fuzzy, tell me that in the chair. I can set the burst a touch higher and leave the blend a little longer, so it fades out gracefully instead of looking like it's waiting for a trim."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / SUMMER BEHIND THE EAR",
+      "heading": "Where the sweat collects.",
+      "paragraphs": [
+        "Roswell gets around {{city:roswell.days_100f}} days a year at 100°F or hotter, with a typical July high of {{city:roswell.july_high_f}} (Open-Meteo, 2023–25). The patch behind and above the ear is where hair traps heat under a cap or a helmet, and a burst takes that patch to skin while keeping your length on top and in back."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "03 / BOOK IT AS",
+      "heading": "What goes on Booksy.",
+      "lead": "The burst is cut inside either haircut service.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "The burst, the top and the back, with the neckline taken clean by straight razor before I style it.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "Adds beard work, a hot towel and razor detailing. If the beard is part of the look, this is the one.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / QUESTIONS",
+      "heading": "Roswell to Carlsbad for a burst.",
+      "items": [
+        {
+          "q": "Is a burst fade worth a {{city:roswell.drive_mi}}-mile drive?",
+          "a": "That's your call, not mine. What I can promise is a clean arc and an honest answer about how long it will hold, so you can decide how often to make the trip."
+        },
+        {
+          "q": "Can I pair the burst with a mullet on the same visit?",
+          "a": "Yes. A burst fade mullet is one haircut, booked as the Essential or the Signature. Bring a photo and say how long you want the back."
+        },
+        {
+          "q": "How do I describe the fade I want if I've never had a burst?",
+          "a": "Say burst fade, then tell me whether you want the top left curly or textured and how much to keep at the nape. The <a href=\"/styles/burst-fade/\">burst fade page</a> has the side view to point at."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "APPOINTMENTS ONLY",
+      "heading": "Book the burst.<br>Then take 285 south.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ]
+}

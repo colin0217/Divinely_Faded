@@ -1,0 +1,119 @@
+{
+  "id": "hobbs-styles-textured-fringe",
+  "locale": "es",
+  "pageType": "cell",
+  "city": "hobbs",
+  "base": "styles-textured-fringe",
+  "slug": "/es/hobbs/fleco-texturizado/",
+  "alt": "/hobbs/textured-fringe/",
+  "nav_label": "Fleco texturizado · Hobbs",
+  "card_text": "Fleco texturizado y corte Edgar para Hobbs, una ciudad de veintitantos, cortados a 80 minutos en Carlsbad.",
+  "breadcrumb": [
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Hobbs",
+      "/es/hobbs/"
+    ],
+    [
+      "Fleco texturizado",
+      "/es/hobbs/fleco-texturizado/"
+    ]
+  ],
+  "seo": {
+    "title": "Fleco texturizado para Hobbs, NM | Divinely Faded, Carlsbad",
+    "description": "Fleco texturizado y corte Edgar para Hobbs, cortados en Carlsbad a 70 millas. Pelo hacia adelante, puntas desfiladas; trae la foto y agenda en Booksy.",
+    "primary": "fleco texturizado hobbs nm",
+    "secondary": [
+      "corte edgar hobbs"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "HOBBS / FLECO TEXTURIZADO",
+      "h1": "Fleco texturizado, desde Hobbs.",
+      "paragraphs": [
+        "Pelo hacia adelante sobre la frente, las puntas desfiladas para que caigan en mechones, los lados con taper. Lo corto en Carlsbad; quien sale de Hobbs tiene por delante {{city:hobbs.drive_mi}} millas de {{city:hobbs.route}}, alrededor de {{city:hobbs.drive_min}} minutos.",
+        "Es un corte que la gente pide por su nombre, el corte Edgar incluido, y la composición de la ciudad tiene algo que ver con eso."
+      ],
+      "link": {
+        "label": "AGENDA UN FLECO TEXTURIZADO",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / LA EDAD",
+      "heading": "Un corte de veintitantos en una ciudad de veintitantos.",
+      "paragraphs": [
+        "Más o menos el {{city:hobbs.age_20_34_pct}} de Hobbs tiene entre 20 y 34 años (Censo ACS 2023), una porción un poco mayor que el {{city:carlsbad.age_20_34_pct}} de Carlsbad. Los cortes con fleco, desde la versión texturizada suave hasta el corte Edgar más marcado con su línea recta y pareja, tienden a ser de gente joven, así que es una ciudad donde esperaría que surgiera la pregunta.",
+        "Trae la foto. Un fleco texturizado y un corte Edgar son primos tan cercanos que la imagen resuelve lo que las palabras no."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / EL RELOJ",
+      "heading": "Cuando te llega a los ojos, ya toca.",
+      "paragraphs": [
+        "En cuanto el fleco te tapa los ojos, la forma se perdió. Como el siguiente corte está a {{city:hobbs.drive_mi}} millas, puedo dejarlo un poco más arriba en la frente de lo que lo usas a diario; en las semanas siguientes crece hasta el largo que prefieres y te da tiempo antes del siguiente viaje."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "03 / CÓMO AGENDARLO",
+      "heading": "Un servicio para casi todos los cortes con fleco.",
+      "lead": "Precios y minutos de Booksy.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}} · Niños bienvenidos",
+          "body": "Fleco, parte de arriba y taper en una sola sesión, acabado de navaja en la nuca y el frente peinado hacia adelante. Los adolescentes también agendan este.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "Suma el vello facial recortado o con delineado (line-up), y la toalla caliente que viene con él.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / PREGUNTAS",
+      "heading": "Preguntas de fleco desde Hobbs.",
+      "items": [
+        {
+          "q": "¿Fleco texturizado o corte Edgar? ¿Qué te digo cuando me siente?",
+          "a": "Enséñame la foto. Un corte Edgar lleva una línea recta y pareja en la frente y un desvanecido (fade) marcado; un fleco texturizado es más suave y más desfilado en las puntas. Cualquiera está bien; solo quiero que los dos tengamos el mismo corte en mente."
+        },
+        {
+          "q": "Mi hijo quiere el corte Edgar. ¿Qué agendo desde Hobbs?",
+          "a": "Un Essential Haircut (corte esencial) a su nombre en Booksy. Los niños son bienvenidos, y si tú también quieres un corte, toma el horario junto al suyo."
+        },
+        {
+          "q": "¿Puedo ver primero las tres versiones?",
+          "a": "La <a href=\"/es/estilos/fleco-texturizado/\">página del fleco texturizado</a> tiene una ligera, una pesada y una vista de atrás, todas de mi silla."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "SOLO CON CITA",
+      "heading": "Fleco hacia adelante.<br>Agenda antes del viaje.",
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
+    }
+  ]
+}

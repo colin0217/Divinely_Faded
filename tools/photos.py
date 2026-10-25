@@ -5,7 +5,7 @@ Usage: python3 tools/photos.py name1 name2 ...   (no names = every name used in 
 Source: https://divinely-faded.vercel.app/gbp-media/<name>.jpg (owner-approved, client faces OK 2026-10-24).
 """
 import io, json, os, re, sys, glob, urllib.request
-from PIL import Image
+from PIL import Image, ImageOps
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = os.path.join(ROOT, "assets", "photos")
@@ -34,13 +34,13 @@ def main():
         if name in man and all(os.path.exists(os.path.join(OUT, f"{name}-{w}.webp")) for w in WIDTHS):
             continue
         raw = urllib.request.urlopen(urllib.request.Request(SRC.format(name), headers={"User-Agent": "df-build"}), timeout=60).read()
-        im = Image.open(io.BytesIO(raw)).convert("RGB")  # convert() drops EXIF/GPS
+        im = ImageOps.grayscale(Image.open(io.BytesIO(raw))).convert("RGB")  # black-and-white site (Peyton 2026-10-25); convert() drops EXIF/GPS
         w0, h0 = im.size
         for w in WIDTHS:
             ww = min(w, w0)
             hh = round(h0 * ww / w0)
             im.resize((ww, hh), Image.LANCZOS).save(os.path.join(OUT, f"{name}-{w}.webp"), "WEBP", quality=80, method=6)
-        man[name] = {"w": w0, "h": h0, "source": SRC.format(name)}
+        man[name] = {"w": w0, "h": h0, "source": SRC.format(name), "treatment": "grayscale"}
         print("ok", name, w0, h0)
     json.dump(dict(sorted(man.items())), open(MAN, "w"), indent=1)
     print(len(man), "photos in manifest")

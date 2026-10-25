@@ -1,0 +1,125 @@
+{
+  "id": "hobbs-styles-modern-mullet",
+  "locale": "es",
+  "pageType": "cell",
+  "city": "hobbs",
+  "base": "styles-modern-mullet",
+  "slug": "/es/hobbs/mullet-moderno/",
+  "alt": "/hobbs/modern-mullet/",
+  "nav_label": "Mullet moderno · Hobbs",
+  "card_text": "Un mullet moderno desde Hobbs: cómo espaciar los viajes de forma, y cuándo el color hace que el camino valga.",
+  "breadcrumb": [
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Hobbs",
+      "/es/hobbs/"
+    ],
+    [
+      "Mullet moderno",
+      "/es/hobbs/mullet-moderno/"
+    ]
+  ],
+  "seo": {
+    "title": "Mullet moderno para Hobbs, NM | Divinely Faded, Carlsbad",
+    "description": "Mullet moderno y burst fade mullet para Hobbs, cortados en Carlsbad a 70 millas al oeste. Cómo planear los viajes mientras crece, y el platinado.",
+    "primary": "mullet moderno hobbs nm",
+    "secondary": [
+      "corte mullet hobbs"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "HOBBS / MULLET MODERNO",
+      "h1": "Mullet moderno, desde Hobbs.",
+      "paragraphs": [
+        "Lados bien cortos con desvanecido (fade), arriba texturizado y largo de verdad atrás. Corto mullets modernos en Carlsbad; desde Hobbs es la {{city:hobbs.route}} todo el camino, {{city:hobbs.drive_mi}} millas y unos {{city:hobbs.drive_min}} minutos según las rutas de OpenStreetMap.",
+        "Un mullet se deja crecer tanto como se corta, así que desde el condado de Lea es un proyecto repartido en varios viajes. Esta página es sobre cómo espaciarlos."
+      ],
+      "link": {
+        "label": "AGENDA UN MULLET",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / EL CRECIMIENTO",
+      "heading": "Varios viajes, una sola cola.",
+      "paragraphs": [
+        "Si empiezas con el pelo corto, la parte de atrás necesita meses para pasar del cuello de la camisa mientras los lados se mantienen cortos. Cada visita para darle forma son otros {{city:hobbs.drive_min}} minutos de ida, así que prefiero espaciarlas a verte cada vez que el desvanecido se suaviza: deja que los lados se aflojen un poco y ven cuando la parte de atrás necesite que le corrija la forma.",
+        "Cuando la cola ya esté donde la quieres, los lados vuelven a marcar el ritmo."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / DÍA DE COLOR",
+      "heading": "El platinado convierte el viaje en un día completo.",
+      "paragraphs": [
+        "Si quieres la versión platinada de la página principal del mullet, la Color Transformation (transformación de color) dura {{minutes:color-transformation}}. Súmale el corte y ya llenaste casi toda una tarde, el tipo de cita que justifica un viaje de {{city:hobbs.drive_mi}} millas. Mándame un mensaje al {{phone}} antes de agendar corte y color juntos para que pueda bloquear el tiempo en un solo bloque."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "03 / CÓMO AGENDARLO",
+      "heading": "Corte, barba, decoloración.",
+      "lead": "Los precios y tiempos vienen de mi menú en Booksy.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "Lados con desvanecido, atrás con forma, arriba texturizado, con navaja a lo largo de la nuca y peinado final. También es la cita para un burst fade mullet.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "El mullet más tu barba, recortada o con delineado (line-up), y toalla caliente. Una barba completa equilibra el largo de atrás.",
+          "book": true
+        },
+        {
+          "title": "Color Transformation",
+          "meta": "{{price:color-transformation}} · {{minutes:color-transformation}}",
+          "body": "Decoloración y matizado hasta el platinado o el tono que tengas en mente. Es su propio servicio, con su propio bloque de tiempo.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / PREGUNTAS",
+      "heading": "Preguntas de mullet desde Hobbs.",
+      "items": [
+        {
+          "q": "¿Cuántos viajes desde Hobbs toma dejar crecer un mullet?",
+          "a": "Depende del largo con el que empieces. Desde un corte corto, cuenta con algunas visitas de forma mientras la parte de atrás alcanza el largo; en la primera las planeamos juntos."
+        },
+        {
+          "q": "¿Puedo hacerme el corte y el color platinado en un solo viaje?",
+          "a": "Sí, si me mandas un mensaje primero para agendar los dos seguidos. Cuenta con buena parte de una tarde."
+        },
+        {
+          "q": "¿Dónde veo las dos versiones?",
+          "a": "La <a href=\"/es/estilos/mullet-moderno/\">página del mullet moderno</a> tiene el platinado y el burst fade mullet oscuro y chino."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "SOLO CON CITA",
+      "heading": "Deja crecer la cola.<br>Planea los viajes.",
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
+    }
+  ]
+}

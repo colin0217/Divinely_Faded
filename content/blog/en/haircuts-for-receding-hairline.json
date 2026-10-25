@@ -1,0 +1,168 @@
+{
+  "id": "post-haircuts-for-receding-hairline",
+  "locale": "en",
+  "slug": "/blog/haircuts-for-receding-hairline/",
+  "date": "2027-01-29",
+  "plan_rank": 90,
+  "title": "Haircuts for a Receding Hairline",
+  "eyebrow": "STYLES",
+  "hero": "pexels-3858294-slicked-back-suit",
+  "hero_alt": "Man in a suit with his hair swept straight back off the forehead",
+  "image_plan": "pexels: short textured crop haircut man",
+  "card_text": "Short, textured, forward-styled cuts that work with the hairline instead of hiding it, and the shapes that show the corners.",
+  "lede": [
+    "The haircuts that suit a receding hairline are short, textured and usually styled forward: a textured crop, a short cut with a loose, messy top, or a buzz cut. They work with the hairline instead of trying to hide it. Short sides make the top look fuller, texture blurs the front, and pushing the hair forward softens the corners at the temples without the obvious cover-up of a long comb-over.",
+    "Here's why those cuts work, what tends to make a receding hairline more noticeable, and how to talk to me about it."
+  ],
+  "seo": {
+    "title": "Haircuts for a Receding Hairline | Carlsbad, NM",
+    "description": "Haircuts for a receding hairline, from a Carlsbad, NM barber: short, textured, forward-styled cuts that work with the hairline instead of hiding it.",
+    "primary": "haircuts for receding hairline",
+    "secondary": []
+  },
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Blog",
+      "/blog/"
+    ],
+    [
+      "Receding Hairline Cuts",
+      "/blog/haircuts-for-receding-hairline/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / WORK WITH IT",
+      "heading": "Why hiding it backfires.",
+      "lead": "The honest approach looks better.",
+      "paragraphs": [
+        "A receding hairline usually starts at the temples, so the front takes on an M shape. The instinct is to grow the front long and pull it over the corners. That tends to send the eye straight to them, and the cover moves with wind, hats and sweat.",
+        "Cuts that accept the hairline look more confident and are easier to live with. The goal is balance at the front, not disguise.",
+        "There's nothing unusual about it either. A hairline that moves back over time is common, and plenty of good haircuts are built around one."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / CUTS THAT WORK",
+      "heading": "Short, textured, forward.",
+      "lead": "Three options.",
+      "subsections": [
+        {
+          "heading": "Textured crop",
+          "paragraphs": [
+            "A short, choppy top pushed forward with a short fringe. The texture blurs the line at the temples, and the forward direction softens the corners."
+          ]
+        },
+        {
+          "heading": "Buzz cut",
+          "paragraphs": [
+            "One short length all over makes the hairline part of a clean shape instead of a feature. With a fade on the sides, it looks sharp rather than simply shaved down."
+          ]
+        },
+        {
+          "heading": "Short, messy top",
+          "paragraphs": [
+            "A little length on top worked loosely in different directions, so the front never forms a hard edge."
+          ]
+        },
+        {
+          "heading": "Tight sides, whatever the top",
+          "paragraphs": [
+            "Whichever top you choose, short sides help. They make the top look fuller and keep attention away from the temples."
+          ]
+        }
+      ],
+      "link": {
+        "label": "SEE THE TEXTURED CROP",
+        "href": "page:styles-textured-crop"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / WHAT TENDS TO SHOW IT",
+      "heading": "Shapes that frame the corners.",
+      "lead": "Worth knowing.",
+      "paragraphs": [
+        "Slicked-back styles pull everything away from the face and put the temples on display. A sharp line-up pushed into the corners draws a frame around them too.",
+        "Long, full sides with a short front invite a comparison between the two, which can make the recession look deeper. Shorter sides keep things even.",
+        "As a general rule, a softer, natural front tends to sit better on a receding hairline than a hard, straight line across it."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / THE BUZZ CUT",
+      "heading": "Short and done.",
+      "lead": "The most direct option.",
+      "paragraphs": [
+        "A buzz cut is quick, it looks deliberate, and there's nothing to arrange in the morning. When the whole head is one short length, the hairline stops being the thing people notice.",
+        "My buzz cut page shows one with a fade climbing high above the ear and a squared line at the front. On a receding hairline, the front can be left natural instead."
+      ],
+      "link": {
+        "label": "SEE THE BUZZ CUT",
+        "href": "page:styles-buzz-cut"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "05 / IN THE CHAIR",
+      "heading": "Just tell me.",
+      "lead": "No awkwardness.",
+      "paragraphs": [
+        "Tell me what bothers you about the front and how you'd like it to look. Barbers have this conversation all the time, and it helps me decide how much length to leave and which way the top should go.",
+        "Bring a photo if you've seen a cut you like on someone with a similar hairline. It's the quickest way to agree on a direction.",
+        "These cuts book as an Essential Haircut, {{price:essential-haircut}} for {{minutes:essential-haircut}}. A haircut changes how hair looks, not how it grows, so for questions about hair loss itself, talk to a doctor."
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / QUESTIONS",
+      "heading": "Receding hairlines, answered.",
+      "items": [
+        {
+          "q": "What haircut suits a receding hairline?",
+          "a": "A short, textured cut styled forward, like a textured crop, or a buzz cut."
+        },
+        {
+          "q": "Should I grow my hair long to cover it?",
+          "a": "Long cover tends to draw attention and moves with wind and hats. Shorter cuts usually look more natural."
+        },
+        {
+          "q": "Does a line-up work with a receding hairline?",
+          "a": "A soft, natural front usually looks better than a hard line pushed into the corners."
+        },
+        {
+          "q": "Is a fade good for a receding hairline?",
+          "a": "Yes. Short, faded sides make the top look fuller by contrast."
+        },
+        {
+          "q": "Can a barber fix a receding hairline?",
+          "a": "A cut can change how it looks, not the hairline itself."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "THE FRONT",
+      "heading": "Work with it.<br>Not around it.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "styles-textured-crop",
+    "styles-buzz-cut",
+    "services-haircuts"
+  ],
+  "tim_questions": [
+    "Do you avoid hard line-ups on receding hairlines? The post says a natural front usually looks better, as general advice.",
+    "The receding-hairline guidance is general styling advice in your voice. Anything you'd change?",
+    "Any photo of your own work on a receding hairline to use instead of stock?"
+  ]
+}

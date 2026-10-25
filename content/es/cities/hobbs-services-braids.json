@@ -1,0 +1,114 @@
+{
+  "id": "hobbs-services-braids",
+  "locale": "es",
+  "pageType": "cell",
+  "city": "hobbs",
+  "base": "services-braids",
+  "slug": "/es/hobbs/trenzas/",
+  "alt": "/hobbs/braids/",
+  "nav_label": "Trenzas · Hobbs",
+  "card_text": "Trenzas desde Hobbs: manda la foto primero, deja libre el día y haz que las horas en la silla valgan el camino.",
+  "breadcrumb": [
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Hobbs",
+      "/es/hobbs/"
+    ],
+    [
+      "Trenzas",
+      "/es/hobbs/trenzas/"
+    ]
+  ],
+  "seo": {
+    "title": "Trenzas para hombre desde Hobbs, NM | Divinely Faded",
+    "description": "Trenzas para hombre de Hobbs, hechas en Carlsbad por la US 62/180. Por qué la cita larga hace valer el viaje y cómo saber el precio antes de salir.",
+    "primary": "trenzas para hombre hobbs nm",
+    "secondary": [
+      "trenzas hobbs nm"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "HOBBS / TRENZAS",
+      "h1": "Trenzas, que valen el camino desde Hobbs.",
+      "paragraphs": [
+        "Las trenzas son la cita en la que el viaje desde Hobbs se siente corto. Booksy separa {{minutes:braids}} para un peinado de trenzas, y el camino a mi silla en Carlsbad es de unos {{city:hobbs.drive_min}} minutos, {{city:hobbs.drive_mi}} millas al oeste por la {{city:hobbs.route}} (rutas de OpenStreetMap).",
+        "Cada peinado se arma para la persona que está en la silla, sobre un desvanecido (fade) si lo quieres, así que la planeación empieza antes de salir del condado de Lea."
+      ],
+      "link": {
+        "label": "AGENDA TRENZAS",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / ANTES DEL CAMINO",
+      "heading": "Manda la foto primero.",
+      "paragraphs": [
+        "Booksy muestra las trenzas con precio variable según el estilo. Mándame una foto del peinado que buscas al {{phone}} antes de agendar, para que tú sepas el precio y yo sepa qué filas planear. Hacerlo desde Hobbs te ahorra un viaje que termine en sorpresa.",
+        "Luego elige un horario sin nada después. Los {{minutes:braids}} que bloquea Booksy más el camino de regreso son casi todo un día."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "02 / CÓMO AGENDARLO",
+      "heading": "La única entrada del menú.",
+      "items": [
+        {
+          "title": "Braids",
+          "meta": "{{price:braids}} · {{minutes:braids}}",
+          "body": "Peinados de trenzas personalizados: filas rectas hacia atrás, pares que se juntan en la coronilla, anillos dorados en las puntas si los quieres. El precio se fija por el estilo después de que me mandes una foto.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / EL CAMINO",
+      "heading": "Haz que las horas cuenten.",
+      "paragraphs": [
+        "El trayecto promedio al trabajo en Hobbs es de {{city:hobbs.commute_min}} minutos (Censo ACS 2023). El camino hasta acá es más de tres de esos, de ida. Por eso vale la pena preguntar, cuando me mandes el mensaje, por un desvanecido en los lados en la misma visita: la piel limpia hace que las filas resalten, y no tienes que volver a la 62/180 por un corte aparte.",
+        "Hobbs tiene unos {{city:hobbs.days_100f}} días al año de 100°F o más (Open-Meteo, 2023–25), y hay quien prefiere los lados desvanecidos bajo las filas solo por eso: menos pelo en el cuello durante los meses de calor.",
+        "Pagas cuando las trenzas están terminadas: efectivo, tarjeta, Zelle o Cash App. Si cambian los planes, cancela con tiempo en Booksy; por una cancelación de último momento en una cita tan larga se puede cobrar un cargo por cancelación."
+      ],
+      "photos": []
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / PREGUNTAS",
+      "heading": "Trenzas desde Hobbs.",
+      "items": [
+        {
+          "q": "¿Cómo sé el precio de las trenzas antes de manejar hasta allá?",
+          "a": "Mándame una foto del estilo al {{phone}}. Booksy solo muestra el precio como Varía."
+        },
+        {
+          "q": "¿Cuánto dura la cita?",
+          "a": "Booksy separa {{minutes:braids}}. Súmale unos {{city:hobbs.drive_min}} minutos de ida desde Hobbs."
+        },
+        {
+          "q": "¿El desvanecido se puede hacer en la misma visita?",
+          "a": "Pregúntame cuando me mandes el mensaje; casi todos los peinados de mis fotos van sobre un desvanecido o un taper."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "TRENZAS",
+      "heading": "Filas apretadas.<br>Camino largo.",
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
+    }
+  ]
+}

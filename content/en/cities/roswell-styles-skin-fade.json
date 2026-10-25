@@ -1,0 +1,120 @@
+{
+  "id": "roswell-styles-skin-fade",
+  "locale": "en",
+  "pageType": "cell",
+  "city": "roswell",
+  "base": "styles-skin-fade",
+  "slug": "/roswell/skin-fade/",
+  "alt": "/es/roswell/skin-fade/",
+  "nav_label": "Skin fade · Roswell",
+  "card_text": "A skin fade from Roswell: the fastest-changing cut on the longest drive, and how I'd handle that.",
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Roswell",
+      "/roswell/"
+    ],
+    [
+      "Skin Fade",
+      "/roswell/skin-fade/"
+    ]
+  ],
+  "seo": {
+    "title": "Skin Fade for Roswell, NM | Divinely Faded, Carlsbad",
+    "description": "Skin fades for Roswell, cut in Carlsbad south on US 285. The honest math of bare skin and a long drive, hotter air in Carlsbad, and what to book.",
+    "primary": "skin fade roswell nm",
+    "secondary": [
+      "fade haircut roswell nm",
+      "barber shop roswell nm"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "ROSWELL / SKIN FADE",
+      "h1": "Skin fade, from Roswell.",
+      "paragraphs": [
+        "Bare skin at the bottom, a smooth climb into hair, no step anywhere. A skin fade is the cut that looks its sharpest in the first days and tells on you the soonest, and I'm honest about that with anyone driving in. My shop is in Carlsbad at {{address}}: from Roswell, {{city:roswell.drive_mi}} miles down {{city:roswell.route}} through Artesia, around {{city:roswell.drive_min}} minutes (OpenStreetMap routing).",
+        "So this page does the math with you, covers the heat at both ends of the drive, and tells you which service to pick."
+      ],
+      "link": {
+        "label": "BOOK A SKIN FADE",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / THE HONEST MATH",
+      "heading": "Bare skin ages fastest. The drive is longest.",
+      "paragraphs": [
+        "Those two facts pull against each other. Stubble over bare scalp shows within days, and the lowest part of the blend softens first, so a skin fade is the cut that most wants a quick touch-up. From Roswell a quick touch-up is {{city:roswell.drive_min}} minutes each way.",
+        "There are three ways to handle that, and I'll help you pick: come down often and keep it razor sharp; accept the grown-in look for part of each cycle; or let me start the fade a little higher and blend it longer, so it looks intentional as it grows."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / HEAT AT BOTH ENDS",
+      "heading": "You're driving into warmer air.",
+      "paragraphs": [
+        "Roswell averages about {{city:roswell.days_100f}} days a year at 100°F or more; Carlsbad, where you'll be sitting in my chair, averages {{city:carlsbad.days_100f}} (Open-Meteo, 2023–25). Bare sides are the cut people reach for when the heat is like that, because there's nothing on the sides to hold sweat."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "03 / BOOK IT AS",
+      "heading": "Beard or no beard decides it.",
+      "lead": "Both include the fade at any height.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "Low, mid or high skin fade with the top cut to match, neckline finished by straight razor.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "The fade plus the beard, from a tidy trim to a sharp line-up, with a hot towel. Bare temples next to a full beard is the look this covers.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / QUESTIONS",
+      "heading": "Skin fade questions from the north end of 285.",
+      "items": [
+        {
+          "q": "Low, mid or high if I can only come down now and then?",
+          "a": "Low or mid. Less exposed scalp means the regrowth has somewhere to hide. High is the boldest on the day and the first to look due."
+        },
+        {
+          "q": "Can I book my next skin fade before I drive home?",
+          "a": "Yes, and I'd suggest it. Open Booksy while you're still in Carlsbad and grab the date that matches how sharp you like to keep it."
+        },
+        {
+          "q": "What should I show you if I want the one with the hard part and beard?",
+          "a": "Point at it on the <a href=\"/styles/skin-fade/\">skin fade page</a>; that cut is from my chair. Then tell me how tall you want the fade."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "APPOINTMENTS ONLY",
+      "heading": "Book the fade.<br>Then head down 285.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ]
+}

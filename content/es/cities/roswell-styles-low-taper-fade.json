@@ -1,0 +1,118 @@
+{
+  "id": "roswell-styles-low-taper-fade",
+  "locale": "es",
+  "pageType": "cell",
+  "city": "roswell",
+  "base": "styles-low-taper-fade",
+  "slug": "/es/roswell/low-taper-fade/",
+  "alt": "/roswell/low-taper-fade/",
+  "nav_label": "Low taper fade · Roswell",
+  "card_text": "Un taper bajo desde Roswell: el corte que crece más despacio, para que el camino más largo necesite menos viajes.",
+  "breadcrumb": [
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Roswell",
+      "/es/roswell/"
+    ],
+    [
+      "Low Taper Fade",
+      "/es/roswell/low-taper-fade/"
+    ]
+  ],
+  "seo": {
+    "title": "Taper bajo para Roswell, NM | Divinely Faded, Carlsbad",
+    "description": "Low taper fade y taper medio para Roswell, en Carlsbad al sur por la US 285. Por qué el taper aguanta un camino largo, el verano y cómo agendar.",
+    "primary": "taper bajo roswell nm",
+    "secondary": [
+      "corte taper fade roswell nm"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "ROSWELL / LOW TAPER FADE",
+      "h1": "Low taper fade, desde Roswell.",
+      "paragraphs": [
+        "Si tuviera que recomendarle un solo corte a alguien que vive a {{city:roswell.drive_mi}} millas de mi silla, sería este. Un low taper fade (taper bajo) recorta solo las patillas, el pelo alrededor de la oreja y el contorno de la nuca, y deja el resto en paz, así que hay muy poco que pueda crecer mal. Lo corto en Carlsbad, en {{address}}; desde Roswell es la {{city:roswell.route}} al sur pasando por Artesia, unos {{city:roswell.drive_min}} minutos (rutas de OpenStreetMap).",
+        "Aquí va el argumento del taper para un camino largo, el único punto donde pierde contra un skin fade (desvanecido hasta la piel), y qué agendar."
+      ],
+      "link": {
+        "label": "AGENDA UN TAPER BAJO",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / POR QUÉ VIAJA BIEN",
+      "heading": "Los menos viajes para los bordes más limpios.",
+      "paragraphs": [
+        "Todos los demás desvanecidos (fades) de este sitio llegan cerca de la piel en todo el lado de la cabeza, y la piel es donde primero se nota el pelo que vuelve a crecer. Un taper bajo casi no deja piel al descubierto. La patilla y la nuca se desdibujan un poco con las semanas, pero desde el otro lado de un cuarto el corte sigue viéndose como el corte. Para alguien que enfrenta {{city:roswell.drive_min}} minutos de camino por trayecto, esa es la diferencia entre bajar cuando quieres y bajar porque no queda de otra."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / EL CAMBIO DEL VERANO",
+      "heading": "Cobertura en los lados, calor en los lados.",
+      "paragraphs": [
+        "Roswell tiene unos {{city:roswell.days_100f}} días al año a 100°F o más, y una máxima de julio de alrededor de {{city:roswell.july_high_f}} (Open-Meteo, 2023–25). Un taper conserva pelo en casi todo el lado de la cabeza, así que guarda un poco más de calor que un skin fade. Si trabajas afuera durante esa temporada y quieres los lados a piel en verano, agenda un skin fade y regresa al taper en otoño, cuando el crecimiento lento importa más que el calor."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "03 / CÓMO AGENDARLO",
+      "heading": "Bajo o medio, la misma cita.",
+      "lead": "Di qué altura cuando te sientes.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "El taper, la parte de arriba al largo que sea y el acabado con navaja en la nuca. Una primera cita sensata desde lejos.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "Taper más barba: recortada o con delineado (line-up), toalla caliente y detalles con navaja. Vale la pena sumarlo si solo bajas de vez en cuando.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / PREGUNTAS",
+      "heading": "Preguntas sobre el taper desde Roswell.",
+      "items": [
+        {
+          "q": "¿Un taper bajo es un buen primer corte para probar con un barbero tan lejos?",
+          "a": "Sí. Es el que menos cambia, así que si todavía estamos aprendiendo qué te gusta, nada de él es difícil de llevar en el camino de regreso. La <a href=\"/es/estilos/low-taper-fade/\">página del low taper fade</a> muestra las vistas lateral y de atrás."
+        },
+        {
+          "q": "¿Taper bajo o taper medio para alguien que viene poco?",
+          "a": "Bajo. Muestra el crecimiento más tarde. El medio se ve más nítido ese día y pide volver un poco antes."
+        },
+        {
+          "q": "¿Puedo dejar el pelo largo arriba con un taper?",
+          "a": "Para eso es. El taper ordena los bordes y te deja la parte de arriba a ti."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "SOLO CON CITA",
+      "heading": "Agenda el taper.<br>Haz raro el viaje.",
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
+    }
+  ]
+}

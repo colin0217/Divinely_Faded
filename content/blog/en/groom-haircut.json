@@ -1,0 +1,159 @@
+{
+  "id": "post-groom-haircut",
+  "locale": "en",
+  "slug": "/blog/groom-haircut/",
+  "date": "2026-11-17",
+  "plan_rank": 37,
+  "title": "The Groom's Haircut: A Wedding Grooming Timeline",
+  "eyebrow": "SEASONAL",
+  "hero": "pexels-30324790-groom-adjusting-tie",
+  "hero_alt": "A groom in a vest adjusting his tie before the ceremony",
+  "image_plan": "pexels: groom suit getting ready",
+  "card_text": "A trial cut weeks out, the final cut a few days before, the shave close to the day. A grooming plan for the wedding.",
+  "lede": [
+    "For your wedding, plan two haircuts: a trial a few weeks before, and the final cut a few days before the ceremony. The trial lets you live with the style and change your mind while there's time. The final cut lands close enough to look fresh in the photos, with a little time for the edges to settle. A shave or a facial fits in around them.",
+    "Here's the timeline, what each appointment is for, and how to book it so nothing gets squeezed into wedding week."
+  ],
+  "seo": {
+    "title": "The Groom's Haircut: A Wedding Timeline | Carlsbad, NM",
+    "description": "A groom's haircut timeline in Carlsbad, NM: a trial cut weeks out, the final cut days before, plus the shave, facial and beard. Divinely Faded.",
+    "primary": "groom haircut",
+    "secondary": [
+      "haircut before wedding",
+      "wedding haircut for groom"
+    ]
+  },
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Blog",
+      "/blog/"
+    ],
+    [
+      "The Groom's Haircut",
+      "/blog/groom-haircut/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "list",
+      "eyebrow": "01 / THE TIMELINE",
+      "heading": "Four appointments, in order.",
+      "lead": "Book them all at once.",
+      "items": [
+        {
+          "title": "Weeks out: the trial cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "The cut you plan to wear on the day, done early enough to grow a little and be adjusted. The Signature Cut includes the beard, so the trial covers your whole face.",
+          "book": true
+        },
+        {
+          "title": "Any time that month: a facial",
+          "meta": "{{price:deluxe-facial}} · {{minutes:deluxe-facial}}",
+          "body": "The Deluxe Facial: massage, warm steam, gentle exfoliation, moisturizer, advanced skin treatments and an anti-aging serum. The Express Facial ({{price:express-facial}}, {{minutes:express-facial}}) is the shorter version.",
+          "href": "page:services-facials",
+          "link_label": "SEE THE FACIALS",
+          "book": true
+        },
+        {
+          "title": "A few days before: the final cut",
+          "meta": "{{price:luxury-grooming}} · {{minutes:luxury-grooming}}",
+          "body": "The Luxury Grooming Experience puts the cut, a beard sculpt, a wash, steam, two hot towels, waxing and a fragrance finish in one sitting. Or book the same service as your trial.",
+          "book": true
+        },
+        {
+          "title": "Close to the day: the shave",
+          "meta": "{{price:straight-razor-beard-shave}} · {{minutes:straight-razor-beard-shave}}",
+          "body": "Going clean-shaven? Stubble comes back fast, so the Straight Razor Beard Shave goes as close to the wedding as your schedule allows.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / THE TRIAL",
+      "heading": "Try it before it counts.",
+      "lead": "A rehearsal for your hair.",
+      "paragraphs": [
+        "The trial is where a new style earns its place. Wear it to work, see how it sits in the morning, and check how it looks in photos. If something's off, you'll know with weeks to spare.",
+        "Bring the suit or a photo of it, and a picture of the look you want. If your partner or the photographer has an opinion on the hair, this is the appointment to hear it. A collar, a tie and a jacket change how the back and sides read, so it helps to see them together.",
+        "If you're keeping your usual cut, the trial still matters. It sets the length so the final cut is a sharpen-up, not a big change days before the wedding."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / BEARD OR NO BEARD",
+      "heading": "Decide early.",
+      "lead": "It changes the bookings.",
+      "paragraphs": [
+        "Keeping the beard? Let it grow from the trial on, and let the final cut shape it. The Signature Cut includes a trim or line-up; the Luxury Grooming Experience sculpts it.",
+        "Shaving it off for the day? Try it once before, so you know what your face looks like without it and how your skin takes a razor. Then book the Straight Razor Beard Shave close to the wedding.",
+        "Going smooth on top too? The Head & Beard Shave ({{price:head-beard-shave}}, {{minutes:head-beard-shave}}) takes both down with hot towels and an aftershave balm."
+      ],
+      "link": {
+        "label": "SEE THE SHAVES",
+        "href": "page:services-beard-shaves"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / THE WEDDING PARTY",
+      "heading": "Groomsmen book too.",
+      "lead": "One chair, so spread it out.",
+      "paragraphs": [
+        "I work solo, so a whole wedding party can't all sit down the morning of. Have each groomsman book his own appointment on Booksy during the week before, so everyone looks sharp and nobody's cut gets rushed.",
+        "Saturdays run 8:00 AM to 2:00 PM, and the shop is closed Wednesday and Sunday. Each person pays after his own service, by cash, card, Zelle or Cash App."
+      ],
+      "link": {
+        "label": "SEE THE HAIRCUTS",
+        "href": "page:services-haircuts"
+      }
+    },
+    {
+      "type": "faq",
+      "eyebrow": "05 / QUESTIONS",
+      "heading": "Wedding-cut questions.",
+      "items": [
+        {
+          "q": "When should the groom get a haircut before the wedding?",
+          "a": "A few days before, with a trial cut a few weeks earlier. The final cut looks fresh in photos without the raw edges of a same-day cut."
+        },
+        {
+          "q": "Should I get a trial haircut before my wedding?",
+          "a": "Yes, especially for a new style. It gives you time to adjust the length or change course before the day."
+        },
+        {
+          "q": "When should I shave before my wedding?",
+          "a": "As close to the day as you can, since stubble returns quickly. Try a full shave once beforehand if you don't usually go clean-shaven."
+        },
+        {
+          "q": "Can my groomsmen come in on the wedding morning?",
+          "a": "I'm one barber, so it's easier to spread the party across the week before. Each person books his own slot on Booksy."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "THE BIG DAY",
+      "heading": "Planned out.<br>Cut sharp.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "services-haircuts",
+    "services-beard-shaves",
+    "services-facials"
+  ],
+  "tim_questions": [
+    "Confirm the wedding timeline: trial cut a few weeks out, final cut a few days before, shave as close to the day as possible.",
+    "Do you take group bookings for a wedding party, or travel to a venue? The post says each groomsman books his own slot.",
+    "Can a facial or a shave be booked back to back with a haircut on the same day?",
+    "Any shave-irritation advice you want to give grooms who don't usually shave? The post only says to try a shave once beforehand."
+  ]
+}

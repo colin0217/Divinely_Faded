@@ -1,0 +1,175 @@
+{
+  "id": "post-how-to-wash-braids",
+  "locale": "en",
+  "slug": "/blog/how-to-wash-braids/",
+  "date": "2027-02-11",
+  "plan_rank": 99,
+  "title": "How to Wash Your Hair and Scalp with Braids In",
+  "eyebrow": "BRAIDS",
+  "hero": "pexels-11360227-braids-salon-wash",
+  "hero_alt": "Braids being rinsed at a salon basin",
+  "image_plan": "pexels: man braids back of head",
+  "card_text": "Diluted shampoo on the scalp lines, a gentle rinse and a full dry. How to wash braids without roughing up the rows.",
+  "lede": [
+    "To wash braids, dilute a gentle shampoo with water, apply it directly to the scalp along the parts, and massage with your fingertips rather than scrubbing the braids. Rinse thoroughly with the water running down the braids the way they lie, squeeze the water out gently, and let everything dry completely. The scalp gets clean, the braids barely move, and you avoid the frizz that comes from rubbing.",
+    "Here's the step-by-step, why drying matters as much as washing, and the habits that make a set look old early."
+  ],
+  "seo": {
+    "title": "How to Wash Your Hair and Scalp with Braids | Carlsbad, NM",
+    "description": "How to wash braids: diluted shampoo on the scalp lines, a gentle rinse and a full dry, so braids stay neat. General care from a Carlsbad, NM barber.",
+    "primary": "how to wash braids",
+    "secondary": []
+  },
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Blog",
+      "/blog/"
+    ],
+    [
+      "Washing Braids",
+      "/blog/how-to-wash-braids/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / WHY WASH AT ALL",
+      "heading": "Your scalp keeps working.",
+      "lead": "Braids don't pause it.",
+      "paragraphs": [
+        "Under a set of braids, the scalp keeps making oil and shedding skin like it always does. Sweat and dust add to it, and without washing, it all collects along the parts as buildup and itch.",
+        "The challenge is cleaning the scalp without disturbing the braids. Washing the usual way, with lots of rubbing, roughs up the rows and loosens the base.",
+        "A clean scalp is also simply more comfortable to live with for the weeks a set is in."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / STEP BY STEP",
+      "heading": "Scalp first, braids second.",
+      "lead": "The general method.",
+      "subsections": [
+        {
+          "heading": "Dilute the shampoo",
+          "paragraphs": [
+            "Mix a gentle shampoo with water in an applicator or spray bottle. Thinned shampoo spreads along the parts easily and rinses out more completely."
+          ]
+        },
+        {
+          "heading": "Apply to the parts",
+          "paragraphs": [
+            "Put it straight onto the scalp lines between the braids. Work in sections so none get missed."
+          ]
+        },
+        {
+          "heading": "Massage, don't scrub",
+          "paragraphs": [
+            "Use the pads of your fingers to massage the scalp in small circles. Keep your nails off the skin and leave the braids themselves mostly alone."
+          ]
+        },
+        {
+          "heading": "Rinse downward",
+          "paragraphs": [
+            "Let the water run from the roots toward the ends, the way the braids lie. Keep rinsing longer than seems necessary. Leftover shampoo causes itch and flakes.",
+            "A handheld shower head makes it easier to aim the water at the scalp."
+          ]
+        },
+        {
+          "heading": "Condition lightly, if at all",
+          "paragraphs": [
+            "If you use conditioner, keep it light and rinse it out fully. Heavy conditioner can sit inside the braids."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / DRYING",
+      "heading": "The step people rush.",
+      "lead": "Damp braids stay damp.",
+      "paragraphs": [
+        "Braids hold water inside long after the surface feels dry. Squeeze them gently in a towel, without wringing or rubbing, then let them dry all the way through.",
+        "A dryer on a low or cool setting helps reach the scalp. Covering or sleeping on braids that are still wet inside can leave a musty smell and keeps the scalp damp for hours.",
+        "In dry weather the outside of a braid dries fast, but the center still takes time. Feel the thickest braids at the roots before you call it done.",
+        "Once they're fully dry, cover them at night to keep the rows smooth."
+      ],
+      "link": {
+        "label": "HOW TO SLEEP WITH BRAIDS",
+        "href": "page:post-how-to-sleep-with-braids"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / MISTAKES",
+      "heading": "What ages a set early.",
+      "lead": "Habits to drop.",
+      "paragraphs": [
+        "A few things make braids look older than they are:"
+      ],
+      "bullets": [
+        "Piling the braids on top of your head to wash them, which twists and tangles the rows.",
+        "Scrubbing the braids instead of the scalp.",
+        "Using full-strength shampoo that's hard to rinse out.",
+        "Heavy product right after washing, which traps moisture and builds up.",
+        "Washing right before bed with no time left to dry."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "05 / BETWEEN SETS",
+      "heading": "When washing won't fix it.",
+      "lead": "Every set has a lifespan.",
+      "paragraphs": [
+        "Washing keeps a set clean, but it can't tighten a loose base or redraw parts that have filled in. When that happens, it's time for a fresh set.",
+        "Braids are personalized, so the price on Booksy reads {{price:braids}}, and the appointment holds {{minutes:braids}} of chair time. Send me a picture of what you have in mind before you book."
+      ],
+      "link": {
+        "label": "SEE BRAIDS",
+        "href": "page:services-braids"
+      }
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / QUESTIONS",
+      "heading": "Wash day, answered.",
+      "items": [
+        {
+          "q": "How do you wash braids without frizz?",
+          "a": "Diluted shampoo on the scalp only, a fingertip massage, a long rinse downward, and a gentle squeeze dry."
+        },
+        {
+          "q": "Can I wash braids with regular shampoo?",
+          "a": "Yes, thinned with water so it spreads along the parts and rinses out fully."
+        },
+        {
+          "q": "How do I dry braids?",
+          "a": "Squeeze them in a towel, then let them dry completely, using a dryer on low if you need to."
+        },
+        {
+          "q": "Why does my scalp itch with braids in?",
+          "a": "Buildup and leftover shampoo are common causes. If the itch is severe or the scalp is sore, see a doctor."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "WASH DAY",
+      "heading": "Clean scalp.<br>Neat rows.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "services-braids",
+    "services-haircuts"
+  ],
+  "tim_questions": [
+    "The washing steps (diluted shampoo, scalp only, rinse downward, full dry) are general advice, not yours. Do you recommend anything different, or a wait before the first wash after a new set?",
+    "Do you give clients braid care instructions at the appointment?"
+  ]
+}

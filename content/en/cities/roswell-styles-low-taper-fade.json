@@ -1,0 +1,119 @@
+{
+  "id": "roswell-styles-low-taper-fade",
+  "locale": "en",
+  "pageType": "cell",
+  "city": "roswell",
+  "base": "styles-low-taper-fade",
+  "slug": "/roswell/low-taper-fade/",
+  "alt": "/es/roswell/low-taper-fade/",
+  "nav_label": "Low taper fade · Roswell",
+  "card_text": "A low taper from Roswell: the cut that grows out slowest, so the longest drive on this site needs the fewest repeats.",
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Roswell",
+      "/roswell/"
+    ],
+    [
+      "Low Taper Fade",
+      "/roswell/low-taper-fade/"
+    ]
+  ],
+  "seo": {
+    "title": "Low Taper Fade for Roswell, NM | Divinely Faded, Carlsbad",
+    "description": "Low and mid taper fades for Roswell, cut in Carlsbad south on US 285. Why a taper suits a long drive, the summer trade-off, and booking.",
+    "primary": "low taper fade roswell nm",
+    "secondary": [
+      "taper fade roswell nm",
+      "haircuts in roswell nm"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "ROSWELL / LOW TAPER FADE",
+      "h1": "Low taper fade, from Roswell.",
+      "paragraphs": [
+        "If I had to recommend one cut to someone who lives {{city:roswell.drive_mi}} miles from my chair, it would be this one. A low taper trims only the sideburns, the hair around the ear and the neckline, and leaves the rest alone, so there's very little to grow back wrong. I cut it in Carlsbad at {{address}}; from Roswell that's {{city:roswell.route}} south through Artesia, about {{city:roswell.drive_min}} minutes (OpenStreetMap routing).",
+        "Here's the case for the taper on a long road, the one place it loses to a skin fade, and what to book."
+      ],
+      "link": {
+        "label": "BOOK A LOW TAPER",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / WHY IT TRAVELS WELL",
+      "heading": "The fewest trips for the cleanest edges.",
+      "paragraphs": [
+        "Every other fade on this site goes somewhere near skin on the whole side of the head, and skin is where regrowth shows first. A low taper exposes almost none. The sideburn and the nape blur a little as the weeks pass, but from across a room the cut still looks like the cut. For someone facing a {{city:roswell.drive_min}}-minute drive each way, that's the difference between coming down when you want to and coming down because you have to."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / THE SUMMER TRADE-OFF",
+      "heading": "Cover on the sides, heat on the sides.",
+      "paragraphs": [
+        "Roswell sees about {{city:roswell.days_100f}} days a year at 100°F or more, and a July high around {{city:roswell.july_high_f}} (Open-Meteo, 2023–25). A taper keeps hair over most of the side of the head, so it holds a little more warmth than a skin fade does. If you work outside through that stretch and want bare sides for the summer, book a skin fade and switch back to the taper in the fall, when the slower grow-out matters more than the heat."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "03 / BOOK IT AS",
+      "heading": "Low or mid, same booking.",
+      "lead": "Say which height when you sit down.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "The taper, the top at any length, and a straight razor finish at the neck. A sensible first booking from far away.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "Taper plus beard: trimmed or lined up, hot towel, razor detailing. Worth adding if you only come down now and then.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / QUESTIONS",
+      "heading": "Taper questions from Roswell.",
+      "items": [
+        {
+          "q": "Is a low taper a good first cut to try with a barber this far away?",
+          "a": "Yes. It changes the least, so if we're still learning what you like, nothing about it is hard to live with on the drive home. The <a href=\"/styles/low-taper-fade/\">low taper fade page</a> shows the side and back views."
+        },
+        {
+          "q": "Low taper or mid taper for someone who visits rarely?",
+          "a": "Low. It shows regrowth later. Mid looks sharper on the day and asks for a return a little sooner."
+        },
+        {
+          "q": "Can I keep my hair long on top with a taper?",
+          "a": "That's the point of it. The taper tidies the edges and leaves the top to you."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "APPOINTMENTS ONLY",
+      "heading": "Book the taper.<br>Make the trip rare.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ]
+}

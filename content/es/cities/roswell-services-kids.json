@@ -1,0 +1,114 @@
+{
+  "id": "roswell-services-kids",
+  "locale": "es",
+  "pageType": "cell",
+  "city": "roswell",
+  "base": "services-kids",
+  "slug": "/es/roswell/cortes-para-ninos/",
+  "alt": "/roswell/kids-haircuts/",
+  "nav_label": "Cortes para niños · Roswell",
+  "card_text": "Cortes para niños planeados desde Roswell: un horario por cada niño, seguidos, y un solo viaje.",
+  "breadcrumb": [
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Roswell",
+      "/es/roswell/"
+    ],
+    [
+      "Cortes para niños",
+      "/es/roswell/cortes-para-ninos/"
+    ]
+  ],
+  "seo": {
+    "title": "Cortes para niños desde Roswell, NM | Divinely Faded",
+    "description": "Desvanecidos y tapers para niños de familias de Roswell, hechos en Carlsbad, a unos 92 minutos por la US 285. Un horario en Booksy por niño, seguidos.",
+    "primary": "corte de pelo para niños roswell nm",
+    "secondary": [
+      "barbería para niños roswell nm"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "ROSWELL / NIÑOS",
+      "h1": "Cortes para niños, desde Roswell.",
+      "paragraphs": [
+        "Los niños reciben en mi silla los mismos desvanecidos (fade) y tapers que los adultos, cortados en mi barbería en Carlsbad. Desde Roswell son {{city:roswell.drive_mi}} millas por la {{city:roswell.route}}, unos {{city:roswell.drive_min}} minutos con un niño en el asiento de atrás (rutas de OpenStreetMap).",
+        "Así es como los papás aprovechan el viaje: un horario por cada niño, agendados seguidos, y una foto del corte que quieren."
+      ],
+      "link": {
+        "label": "AGENDA UN CORTE PARA NIÑOS",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / HERMANOS",
+      "heading": "Uno de cada cuatro, así que tráelos a todos.",
+      "paragraphs": [
+        "Una cuarta parte de Roswell tiene menos de 18 años, el {{city:roswell.under18_pct}} según el Censo (ACS 2023), así que en muchas casas hay más de una cabeza que cortar. Booksy no tiene un servicio aparte para niños, lo que significa que cada niño agenda un corte normal en su propio horario. Escoge horarios que vayan pegados, pon el tuyo al final, y toda la familia termina en una sola visita en lugar de dos viajes.",
+        "Trabajo solo, así que el niño que estaba nervioso la vez pasada ve la misma cara esta vez."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / QUÉ AGENDAR",
+      "heading": "El Essential, con una foto.",
+      "paragraphs": [
+        "Para la mayoría de los niños la cita es el Essential Haircut (corte esencial): {{price:essential-haircut}}, con {{minutes:essential-haircut}} separados en Booksy. Un desvanecido bajo con delineado (line-up), un taper bajo una parte de arriba más larga, o los chinos sobre un skin fade (desvanecido hasta la piel), todo cabe en ese tiempo. Las líneas son un extra de {{addon:hair-design}}.",
+        "Guarda una foto en tu teléfono antes de salir de Roswell. Enseñarme el corte vale más que describirlo, sobre todo con un niño que no sabe bien cómo se llama."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "03 / CÓMO AGENDARLO",
+      "heading": "Lo que agenda cada niño.",
+      "lead": "Los niños agendan los mismos servicios que los adultos.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}} · Niños bienvenidos",
+          "body": "Un corte completo con la nuca limpia, a la medida de una cabeza más pequeña. Agenda uno por cada niño.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / LOS PAPÁS PREGUNTAN",
+      "heading": "Desde Roswell, con niños.",
+      "items": [
+        {
+          "q": "¿Dos niños pueden compartir una cita?",
+          "a": "Cada niño necesita su propio horario para que pueda darle a los dos el tiempo completo. Agéndalos seguidos."
+        },
+        {
+          "q": "¿Cómo es el camino desde Roswell con niños?",
+          "a": "Unos {{city:roswell.drive_min}} minutos de ida por la {{city:roswell.route}}, con Artesia más o menos a la mitad por si alguien necesita una parada. La barbería está en {{address}}."
+        },
+        {
+          "q": "¿Cuándo abres los fines de semana?",
+          "a": "Los sábados, de 8:00 AM a 2:00 PM. Con unos {{city:roswell.k12_students}} niños en escuela (K–12) en Roswell (Censo ACS 2023), esa ventana del sábado es como las familias evitan faltar a clases por un camino de {{city:roswell.drive_min}} minutos. Cierro miércoles y domingos."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "CLIENTES PEQUEÑOS",
+      "heading": "Agéndalos seguidos.<br>Un solo viaje al sur.",
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
+    }
+  ]
+}

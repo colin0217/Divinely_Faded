@@ -1,0 +1,123 @@
+{
+  "id": "artesia-styles-textured-fringe",
+  "locale": "en",
+  "pageType": "cell",
+  "city": "artesia",
+  "base": "styles-textured-fringe",
+  "slug": "/artesia/textured-fringe/",
+  "alt": "/es/artesia/fleco-texturizado/",
+  "nav_label": "Textured fringe · Artesia",
+  "card_text": "Textured fringe for Artesia: a forward-worn cut for a young town, booked before the drive down 285.",
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Artesia",
+      "/artesia/"
+    ],
+    [
+      "Textured Fringe",
+      "/artesia/textured-fringe/"
+    ]
+  ],
+  "seo": {
+    "title": "Textured Fringe for Artesia, NM | Divinely Faded, Carlsbad",
+    "description": "Textured fringe haircuts for Artesia, cut in Carlsbad about {{city:artesia.drive_min}} minutes south on US 285. Forward, choppy ends over a taper, for teens and adults.",
+    "primary": "textured fringe artesia nm",
+    "secondary": [
+      "fringe haircut artesia nm",
+      "edgar haircut artesia nm"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "ARTESIA / TEXTURED FRINGE",
+      "h1": "Textured fringe, from Artesia.",
+      "paragraphs": [
+        "Hair worn forward onto the forehead, ends cut uneven so they fall in pieces, sides kept low with a taper. The shop is at {{address}} in Carlsbad, which from Artesia means {{city:artesia.drive_mi}} miles of {{city:artesia.route}} and about {{city:artesia.drive_min}} minutes (OpenStreetMap routing).",
+        "Bring a photo: fringe cuts have more versions than they have names."
+      ],
+      "link": {
+        "label": "BOOK A TEXTURED FRINGE",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / A YOUNG TOWN",
+      "heading": "Half of Artesia is the fringe's age.",
+      "paragraphs": [
+        "{{city:artesia.under18_pct}} of Artesia is under 18 and another {{city:artesia.age_20_34_pct}} is 20 to 34 (Census ACS 2023): put together, more than half the town sits in the ages where a forward fringe lives. It's a look that reads young on purpose. If you're a parent booking one, it's the same Essential Haircut adults get, in its own slot on Booksy, and a photo of the exact fringe your kid wants will save us both a conversation. If you're booking for yourself, same advice."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / THE FRONT IS THE TIMER",
+      "heading": "When it hits the eyes, it's due.",
+      "paragraphs": [
+        "A fringe sets its own schedule: once the front is in your eyes, the shape has gone. The taper underneath usually wants attention a little before that. From Artesia that's worth planning, so ask me how many weeks the front has in it and book the next visit on Booksy while you're still in Carlsbad, rather than noticing it on a Monday morning {{city:artesia.drive_min}} minutes from the chair. Day to day there's no routine: push it forward by hand and go."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "03 / BOOK IT AS",
+      "heading": "Booked as a haircut.",
+      "lead": "Prices and times from my Booksy menu.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}} · Kids welcome",
+          "body": "Fringe, top and taper in one sitting, straight razor at the nape, styled forward so it falls right.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "Adds beard or facial-hair work with a hot towel, for anyone old enough to need it.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / QUESTIONS",
+      "heading": "Fringe questions, Artesia.",
+      "items": [
+        {
+          "q": "Textured fringe or edgar for my son?",
+          "a": "An edgar runs a blunt, straight line across the forehead over a sharp fade; a textured fringe is softer and choppier at the ends. Bring the photo and we'll match it."
+        },
+        {
+          "q": "Can two kids share one booking?",
+          "a": "No. Each haircut needs its own slot so I have the time. Book them back to back and make one drive of it."
+        },
+        {
+          "q": "Does the fringe need a comb in the morning?",
+          "a": "No. Push it forward by hand. That's the whole routine."
+        },
+        {
+          "q": "Who shouldn't get a fringe?",
+          "a": "Anyone who hates hair on their eyebrows, or has a strong cowlick at the front that pushes hair up instead of forward. The <a href=\"/styles/textured-fringe/\">textured fringe page</a> shows three weights of it."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "APPOINTMENTS ONLY",
+      "heading": "Book the fringe.<br>Bring the photo down 285.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ]
+}

@@ -2,202 +2,512 @@
  "blonde-crop-side": {
   "w": 1600,
   "h": 1600,
-  "source": "https://divinely-faded.vercel.app/gbp-media/blonde-crop-side.jpg"
+  "source": "https://divinely-faded.vercel.app/gbp-media/blonde-crop-side.jpg",
+  "treatment": "grayscale"
  },
  "braids-back": {
   "w": 1600,
   "h": 1600,
-  "source": "https://divinely-faded.vercel.app/gbp-media/braids-back.jpg"
+  "source": "https://divinely-faded.vercel.app/gbp-media/braids-back.jpg",
+  "treatment": "grayscale"
  },
  "braids-blonde-side": {
   "w": 1600,
   "h": 1600,
-  "source": "https://divinely-faded.vercel.app/gbp-media/braids-blonde-side.jpg"
+  "source": "https://divinely-faded.vercel.app/gbp-media/braids-blonde-side.jpg",
+  "treatment": "grayscale"
  },
  "braids-crown": {
   "w": 1600,
   "h": 1600,
-  "source": "https://divinely-faded.vercel.app/gbp-media/braids-crown.jpg"
+  "source": "https://divinely-faded.vercel.app/gbp-media/braids-crown.jpg",
+  "treatment": "grayscale"
  },
  "braids-side": {
   "w": 1600,
   "h": 1600,
-  "source": "https://divinely-faded.vercel.app/gbp-media/braids-side.jpg"
+  "source": "https://divinely-faded.vercel.app/gbp-media/braids-side.jpg",
+  "treatment": "grayscale"
  },
  "braids-top": {
   "w": 1600,
   "h": 1600,
-  "source": "https://divinely-faded.vercel.app/gbp-media/braids-top.jpg"
+  "source": "https://divinely-faded.vercel.app/gbp-media/braids-top.jpg",
+  "treatment": "grayscale"
  },
  "color-kids-blonde-top-fade": {
   "w": 1200,
   "h": 1600,
-  "source": "https://divinely-faded.vercel.app/gbp-media/color-kids-blonde-top-fade.jpg"
+  "source": "https://divinely-faded.vercel.app/gbp-media/color-kids-blonde-top-fade.jpg",
+  "treatment": "grayscale"
  },
  "color-platinum-mullet-fade": {
   "w": 1200,
   "h": 1600,
-  "source": "https://divinely-faded.vercel.app/gbp-media/color-platinum-mullet-fade.jpg"
+  "source": "https://divinely-faded.vercel.app/gbp-media/color-platinum-mullet-fade.jpg",
+  "treatment": "grayscale"
  },
  "cut-back-taper": {
   "w": 1200,
   "h": 1600,
-  "source": "https://divinely-faded.vercel.app/gbp-media/cut-back-taper.jpg"
+  "source": "https://divinely-faded.vercel.app/gbp-media/cut-back-taper.jpg",
+  "treatment": "grayscale"
  },
  "cut-blonde-top-mid-fade": {
   "w": 1200,
   "h": 1600,
-  "source": "https://divinely-faded.vercel.app/gbp-media/cut-blonde-top-mid-fade.jpg"
+  "source": "https://divinely-faded.vercel.app/gbp-media/cut-blonde-top-mid-fade.jpg",
+  "treatment": "grayscale"
  },
  "cut-curly-top-burst-fade-beard": {
   "w": 1200,
   "h": 1600,
-  "source": "https://divinely-faded.vercel.app/gbp-media/cut-curly-top-burst-fade-beard.jpg"
+  "source": "https://divinely-faded.vercel.app/gbp-media/cut-curly-top-burst-fade-beard.jpg",
+  "treatment": "grayscale"
  },
  "cut-curly-top-skin-fade": {
   "w": 1200,
   "h": 1600,
-  "source": "https://divinely-faded.vercel.app/gbp-media/cut-curly-top-skin-fade.jpg"
+  "source": "https://divinely-faded.vercel.app/gbp-media/cut-curly-top-skin-fade.jpg",
+  "treatment": "grayscale"
  },
  "cut-curly-top-taper-neckline": {
   "w": 1200,
   "h": 1600,
-  "source": "https://divinely-faded.vercel.app/gbp-media/cut-curly-top-taper-neckline.jpg"
+  "source": "https://divinely-faded.vercel.app/gbp-media/cut-curly-top-taper-neckline.jpg",
+  "treatment": "grayscale"
  },
  "cut-high-fade-part-line": {
   "w": 1200,
   "h": 1600,
-  "source": "https://divinely-faded.vercel.app/gbp-media/cut-high-fade-part-line.jpg"
+  "source": "https://divinely-faded.vercel.app/gbp-media/cut-high-fade-part-line.jpg",
+  "treatment": "grayscale"
  },
  "cut-high-fade-short-crop": {
   "w": 1200,
   "h": 1600,
-  "source": "https://divinely-faded.vercel.app/gbp-media/cut-high-fade-short-crop.jpg"
+  "source": "https://divinely-faded.vercel.app/gbp-media/cut-high-fade-short-crop.jpg",
+  "treatment": "grayscale"
  },
  "cut-high-skin-fade-full-beard": {
   "w": 1200,
   "h": 1600,
-  "source": "https://divinely-faded.vercel.app/gbp-media/cut-high-skin-fade-full-beard.jpg"
+  "source": "https://divinely-faded.vercel.app/gbp-media/cut-high-skin-fade-full-beard.jpg",
+  "treatment": "grayscale"
  },
  "cut-kids-curly-top-skin-fade": {
   "w": 1200,
   "h": 1600,
-  "source": "https://divinely-faded.vercel.app/gbp-media/cut-kids-curly-top-skin-fade.jpg"
+  "source": "https://divinely-faded.vercel.app/gbp-media/cut-kids-curly-top-skin-fade.jpg",
+  "treatment": "grayscale"
  },
  "cut-kids-low-fade": {
   "w": 1200,
   "h": 1600,
-  "source": "https://divinely-faded.vercel.app/gbp-media/cut-kids-low-fade.jpg"
+  "source": "https://divinely-faded.vercel.app/gbp-media/cut-kids-low-fade.jpg",
+  "treatment": "grayscale"
  },
  "cut-kids-taper-textured-top": {
   "w": 1200,
   "h": 1600,
-  "source": "https://divinely-faded.vercel.app/gbp-media/cut-kids-taper-textured-top.jpg"
+  "source": "https://divinely-faded.vercel.app/gbp-media/cut-kids-taper-textured-top.jpg",
+  "treatment": "grayscale"
  },
  "cut-low-fade-line-up": {
   "w": 1200,
   "h": 1600,
-  "source": "https://divinely-faded.vercel.app/gbp-media/cut-low-fade-line-up.jpg"
+  "source": "https://divinely-faded.vercel.app/gbp-media/cut-low-fade-line-up.jpg",
+  "treatment": "grayscale"
+ },
+ "cut-low-taper-full-beard": {
+  "w": 809,
+  "h": 809,
+  "source": "https://divinely-faded.vercel.app/gbp-media/cut-low-taper-full-beard.jpg",
+  "treatment": "grayscale"
  },
  "cut-low-taper-textured-top": {
   "w": 1200,
   "h": 1600,
-  "source": "https://divinely-faded.vercel.app/gbp-media/cut-low-taper-textured-top.jpg"
+  "source": "https://divinely-faded.vercel.app/gbp-media/cut-low-taper-textured-top.jpg",
+  "treatment": "grayscale"
  },
  "cut-side-ear-fade": {
   "w": 1200,
   "h": 1600,
-  "source": "https://divinely-faded.vercel.app/gbp-media/cut-side-ear-fade.jpg"
+  "source": "https://divinely-faded.vercel.app/gbp-media/cut-side-ear-fade.jpg",
+  "treatment": "grayscale"
  },
  "cut-side-fade": {
   "w": 1200,
   "h": 1600,
-  "source": "https://divinely-faded.vercel.app/gbp-media/cut-side-fade.jpg"
+  "source": "https://divinely-faded.vercel.app/gbp-media/cut-side-fade.jpg",
+  "treatment": "grayscale"
  },
  "cut-skin-fade-hard-part-beard": {
   "w": 1200,
   "h": 1200,
-  "source": "https://divinely-faded.vercel.app/gbp-media/cut-skin-fade-hard-part-beard.jpg"
+  "source": "https://divinely-faded.vercel.app/gbp-media/cut-skin-fade-hard-part-beard.jpg",
+  "treatment": "grayscale"
  },
  "cut-skin-fade-long-beard": {
   "w": 1200,
   "h": 1600,
-  "source": "https://divinely-faded.vercel.app/gbp-media/cut-skin-fade-long-beard.jpg"
+  "source": "https://divinely-faded.vercel.app/gbp-media/cut-skin-fade-long-beard.jpg",
+  "treatment": "grayscale"
  },
  "cut-slick-back-low-taper": {
   "w": 1200,
   "h": 1600,
-  "source": "https://divinely-faded.vercel.app/gbp-media/cut-slick-back-low-taper.jpg"
+  "source": "https://divinely-faded.vercel.app/gbp-media/cut-slick-back-low-taper.jpg",
+  "treatment": "grayscale"
  },
  "cut-slick-back-part-long-beard": {
   "w": 1200,
   "h": 1600,
-  "source": "https://divinely-faded.vercel.app/gbp-media/cut-slick-back-part-long-beard.jpg"
+  "source": "https://divinely-faded.vercel.app/gbp-media/cut-slick-back-part-long-beard.jpg",
+  "treatment": "grayscale"
  },
  "cut-straight-fringe-taper": {
   "w": 1200,
   "h": 1600,
-  "source": "https://divinely-faded.vercel.app/gbp-media/cut-straight-fringe-taper.jpg"
+  "source": "https://divinely-faded.vercel.app/gbp-media/cut-straight-fringe-taper.jpg",
+  "treatment": "grayscale"
  },
  "cut-taper-heavy-fringe": {
   "w": 1200,
   "h": 1600,
-  "source": "https://divinely-faded.vercel.app/gbp-media/cut-taper-heavy-fringe.jpg"
+  "source": "https://divinely-faded.vercel.app/gbp-media/cut-taper-heavy-fringe.jpg",
+  "treatment": "grayscale"
  },
  "cut-taper-textured-fringe": {
   "w": 1200,
   "h": 1600,
-  "source": "https://divinely-faded.vercel.app/gbp-media/cut-taper-textured-fringe.jpg"
+  "source": "https://divinely-faded.vercel.app/gbp-media/cut-taper-textured-fringe.jpg",
+  "treatment": "grayscale"
  },
  "cut-taper-textured-top": {
   "w": 1200,
   "h": 1600,
-  "source": "https://divinely-faded.vercel.app/gbp-media/cut-taper-textured-top.jpg"
+  "source": "https://divinely-faded.vercel.app/gbp-media/cut-taper-textured-top.jpg",
+  "treatment": "grayscale"
  },
  "cut-teen-taper-textured-top": {
   "w": 1200,
   "h": 1600,
-  "source": "https://divinely-faded.vercel.app/gbp-media/cut-teen-taper-textured-top.jpg"
+  "source": "https://divinely-faded.vercel.app/gbp-media/cut-teen-taper-textured-top.jpg",
+  "treatment": "grayscale"
  },
  "cut-textured-crop-low-fade": {
   "w": 1200,
   "h": 1600,
-  "source": "https://divinely-faded.vercel.app/gbp-media/cut-textured-crop-low-fade.jpg"
+  "source": "https://divinely-faded.vercel.app/gbp-media/cut-textured-crop-low-fade.jpg",
+  "treatment": "grayscale"
  },
  "design-kids-fade-freestyle": {
   "w": 1200,
   "h": 1600,
-  "source": "https://divinely-faded.vercel.app/gbp-media/design-kids-fade-freestyle.jpg"
+  "source": "https://divinely-faded.vercel.app/gbp-media/design-kids-fade-freestyle.jpg",
+  "treatment": "grayscale"
  },
  "design-kids-fade-lines": {
   "w": 1200,
   "h": 1200,
-  "source": "https://divinely-faded.vercel.app/gbp-media/design-kids-fade-lines.jpg"
+  "source": "https://divinely-faded.vercel.app/gbp-media/design-kids-fade-lines.jpg",
+  "treatment": "grayscale"
  },
  "design-side": {
   "w": 1600,
   "h": 1600,
-  "source": "https://divinely-faded.vercel.app/gbp-media/design-side.jpg"
+  "source": "https://divinely-faded.vercel.app/gbp-media/design-side.jpg",
+  "treatment": "grayscale"
  },
  "design-skin-fade-freestyle": {
   "w": 1200,
   "h": 1200,
-  "source": "https://divinely-faded.vercel.app/gbp-media/design-skin-fade-freestyle.jpg"
+  "source": "https://divinely-faded.vercel.app/gbp-media/design-skin-fade-freestyle.jpg",
+  "treatment": "grayscale"
  },
  "facial-hot-towel-massage": {
   "w": 1200,
   "h": 1200,
-  "source": "https://divinely-faded.vercel.app/gbp-media/facial-hot-towel-massage.jpg"
+  "source": "https://divinely-faded.vercel.app/gbp-media/facial-hot-towel-massage.jpg",
+  "treatment": "grayscale"
  },
  "hero-tim-at-work": {
   "w": 1600,
   "h": 900,
-  "source": "https://divinely-faded.vercel.app/gbp-media/hero-tim-at-work.jpg"
+  "source": "https://divinely-faded.vercel.app/gbp-media/hero-tim-at-work.jpg",
+  "treatment": "grayscale"
  },
  "hot-towel": {
   "w": 1600,
   "h": 1600,
-  "source": "https://divinely-faded.vercel.app/gbp-media/hot-towel.jpg"
+  "source": "https://divinely-faded.vercel.app/gbp-media/hot-towel.jpg",
+  "treatment": "grayscale"
+ },
+ "pexels-10775092-barber-styling-short-hair": {
+  "w": 1880,
+  "h": 1258,
+  "source": "https://www.pexels.com/photo/grayscale-photo-a-hairstylist-fixing-client-s-hair-10775092/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "Vitaly Gorbachev",
+  "treatment": "grayscale"
+ },
+ "pexels-10825829-cornrows-back-view": {
+  "w": 1880,
+  "h": 1253,
+  "source": "https://www.pexels.com/photo/person-with-braided-hair-wearing-blue-jersey-10825829/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "Leinads Neverdie",
+  "treatment": "grayscale"
+ },
+ "pexels-112782-perm-rollers": {
+  "w": 1880,
+  "h": 1253,
+  "source": "https://www.pexels.com/photo/woman-with-red-hair-with-blue-eyes-112782/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "Markus Spiske",
+  "treatment": "grayscale"
+ },
+ "pexels-11287869-clipper-guard-buzz": {
+  "w": 1880,
+  "h": 1254,
+  "source": "https://www.pexels.com/photo/a-person-holding-black-hair-razor-11287869/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "Towfiqu barbhuiya",
+  "treatment": "grayscale"
+ },
+ "pexels-11360227-braids-salon-wash": {
+  "w": 1880,
+  "h": 1255,
+  "source": "https://www.pexels.com/photo/washing-woman-hair-at-hairdresser-11360227/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "Wayne Fotografias",
+  "treatment": "grayscale"
+ },
+ "pexels-11773871-calendar-marking-date": {
+  "w": 1880,
+  "h": 1254,
+  "source": "https://www.pexels.com/photo/a-person-holding-black-pen-pointing-on-calendar-11773871/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "Towfiqu barbhuiya",
+  "treatment": "grayscale"
+ },
+ "pexels-1182125-fringe-brick-wall": {
+  "w": 1880,
+  "h": 1251,
+  "source": "https://www.pexels.com/photo/man-standing-near-wall-leaning-on-his-left-1182125/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "Phil Nguyen",
+  "treatment": "grayscale"
+ },
+ "pexels-12074386-fresh-fade-rear-view": {
+  "w": 1625,
+  "h": 1300,
+  "source": "https://www.pexels.com/photo/back-view-of-man-with-black-hair-12074386/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "Ali Aliev",
+  "treatment": "grayscale"
+ },
+ "pexels-12464840-high-fade-clippers": {
+  "w": 1880,
+  "h": 1253,
+  "source": "https://www.pexels.com/photo/a-barber-shaving-a-person-s-head-12464840/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "izzet \u00e7akall\u0131",
+  "treatment": "grayscale"
+ },
+ "pexels-12474260-hand-thinning-hair": {
+  "w": 1880,
+  "h": 1253,
+  "source": "https://www.pexels.com/photo/a-close-up-shot-of-a-man-touching-his-head-12474260/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "Towfiqu barbhuiya",
+  "treatment": "grayscale"
+ },
+ "pexels-12706272-side-part-beard": {
+  "w": 1880,
+  "h": 1253,
+  "source": "https://www.pexels.com/photo/man-at-barber-shop-12706272/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "iam luisao",
+  "treatment": "grayscale"
+ },
+ "pexels-12960435-boy-backpack-sidewalk": {
+  "w": 1880,
+  "h": 1253,
+  "source": "https://www.pexels.com/photo/boy-with-backpack-walking-12960435/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "Atlantic Ambience",
+  "treatment": "grayscale"
+ },
+ "pexels-13347809-shaggy-hair-from-above": {
+  "w": 1880,
+  "h": 1253,
+  "source": "https://www.pexels.com/photo/a-person-with-a-tattoo-on-their-neck-13347809/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "lucas andreatta",
+  "treatment": "grayscale"
+ },
+ "pexels-13383722-limestone-cave": {
+  "w": 1733,
+  "h": 1300,
+  "source": "https://www.pexels.com/photo/people-in-cave-13383722/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "Parfait  Fongang",
+  "treatment": "grayscale"
+ },
+ "pexels-1376412-open-sign-door": {
+  "w": 1880,
+  "h": 1253,
+  "source": "https://www.pexels.com/photo/blue-and-white-come-in-we-re-open-signboard-1376412/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "Kevin Bidwell",
+  "treatment": "grayscale"
+ },
+ "pexels-15093007-graduate-cap-gown": {
+  "w": 1880,
+  "h": 1255,
+  "source": "https://www.pexels.com/photo/smiling-man-in-gown-and-academic-hat-15093007/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "Uddab Bogati",
+  "treatment": "grayscale"
+ },
+ "pexels-15412398-braids-sunglasses-portrait": {
+  "w": 1733,
+  "h": 1300,
+  "source": "https://www.pexels.com/photo/grayscale-photo-of-a-man-with-braids-15412398/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "Gideon Wise",
+  "treatment": "grayscale"
+ },
+ "pexels-16131208-mens-facial-device": {
+  "w": 1880,
+  "h": 1253,
+  "source": "https://www.pexels.com/photo/closeup-of-a-man-having-a-cosmetic-treatment-16131208/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "Omar Medina",
+  "treatment": "grayscale"
+ },
+ "pexels-17415374-fireworks-skyline": {
+  "w": 1880,
+  "h": 1253,
+  "source": "https://www.pexels.com/photo/fireworks-in-night-sky-over-city-17415374/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "Xu\u00e2n Th\u1ed1ng Tr\u1ea7n",
+  "treatment": "grayscale"
+ },
+ "pexels-18080948-braids-low-light-portrait": {
+  "w": 1880,
+  "h": 1186,
+  "source": "https://www.pexels.com/photo/man-with-braided-hair-in-darkness-18080948/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "Y O U S E F M O R S I",
+  "treatment": "grayscale"
+ },
+ "pexels-18503633-clippers-behind-ear": {
+  "w": 1880,
+  "h": 1253,
+  "source": "https://www.pexels.com/photo/a-person-using-clippers-18503633/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "Rahib Hamidov",
+  "treatment": "grayscale"
+ },
+ "pexels-19193133-curly-hair-outdoors": {
+  "w": 1880,
+  "h": 1254,
+  "source": "https://www.pexels.com/photo/man-with-short-hair-19193133/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "Kian Mousazadeh",
+  "treatment": "grayscale"
+ },
+ "pexels-19535223-shaving-mirror": {
+  "w": 1880,
+  "h": 1255,
+  "source": "https://www.pexels.com/photo/portrait-of-man-shaving-19535223/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "Markofit  Production",
+  "treatment": "grayscale"
+ },
+ "pexels-20092123-salon-hair-wash": {
+  "w": 1880,
+  "h": 1253,
+  "source": "https://www.pexels.com/photo/a-man-getting-his-hair-washed-by-a-hairdresser-20092123/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "Luis Quintero",
+  "treatment": "grayscale"
+ },
+ "pexels-20405689-hot-towel-barber": {
+  "w": 1880,
+  "h": 1253,
+  "source": "https://www.pexels.com/photo/barber-putting-a-towel-on-the-customers-face-20405689/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "Mathias Reding",
+  "treatment": "grayscale"
+ },
+ "pexels-23531768-turtleneck-profile": {
+  "w": 1880,
+  "h": 1253,
+  "source": "https://www.pexels.com/photo/portrait-of-a-man-23531768/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "Gaspar Zaldo",
+  "treatment": "grayscale"
+ },
+ "pexels-23916841-wall-clock": {
+  "w": 1733,
+  "h": 1300,
+  "source": "https://www.pexels.com/photo/clock-on-wall-23916841/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "Ansar Muhammad",
+  "treatment": "grayscale"
+ },
+ "pexels-28079523-curly-mullet-profile": {
+  "w": 1880,
+  "h": 1253,
+  "source": "https://www.pexels.com/photo/a-woman-with-curly-hair-and-a-backpack-28079523/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "Mariya Klyachko",
+  "treatment": "grayscale"
+ },
+ "pexels-28224053-cowboy-hat-smile": {
+  "w": 1880,
+  "h": 1253,
+  "source": "https://www.pexels.com/photo/a-man-in-a-cowboy-hat-and-shirt-smiling-28224053/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "Andrea Pamela",
+  "treatment": "grayscale"
+ },
+ "pexels-29138334-short-cornrows-portrait": {
+  "w": 1625,
+  "h": 1300,
+  "source": "https://www.pexels.com/photo/portrait-of-a-young-man-with-braided-hair-outdoors-29138334/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "Omotaiyewoo",
+  "treatment": "grayscale"
+ },
+ "pexels-29555677-foils-color-service": {
+  "w": 1880,
+  "h": 1253,
+  "source": "https://www.pexels.com/photo/professional-hair-coloring-session-in-salon-29555677/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "Do\u011fan Alpaslan  Demir",
+  "treatment": "grayscale"
+ },
+ "pexels-30316395-glasses-short-haircut": {
+  "w": 1880,
+  "h": 1254,
+  "source": "https://www.pexels.com/photo/modern-male-portrait-in-stylish-eyewear-30316395/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "GlassesShop GS",
+  "treatment": "grayscale"
+ },
+ "pexels-30324790-groom-adjusting-tie": {
+  "w": 1880,
+  "h": 1253,
+  "source": "https://www.pexels.com/photo/indian-groom-adjusting-tie-before-wedding-ceremony-30324790/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "Dream_ maKkerzz",
+  "treatment": "grayscale"
  },
  "pexels-32786444-man-curly-hair": {
   "w": 2400,
@@ -205,6 +515,46 @@
   "source": "https://www.pexels.com/photo/portrait-of-a-young-man-in-black-shirt-32786444/",
   "license": "Pexels License (free to use, no attribution required)",
   "credit": "Ey\u00fcpcan Timur",
+  "treatment": "grayscale"
+ },
+ "pexels-33448216-clippers-line-up": {
+  "w": 1880,
+  "h": 1253,
+  "source": "https://www.pexels.com/photo/close-up-of-haircut-with-electric-clippers-33448216/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "Kerim Isazade",
+  "treatment": "grayscale"
+ },
+ "pexels-34362525-river-boats-holiday-lights": {
+  "w": 1733,
+  "h": 1300,
+  "source": "https://www.pexels.com/photo/nighttime-reflections-in-nyhavn-copenhagen-34362525/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "Maja Bellinger",
+  "treatment": "grayscale"
+ },
+ "pexels-34702982-barber-trimming-fade": {
+  "w": 1880,
+  "h": 1253,
+  "source": "https://www.pexels.com/photo/professional-barber-giving-a-classic-haircut-34702982/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "Daniel Cosma",
+  "treatment": "grayscale"
+ },
+ "pexels-35745869-new-mexico-welcome-sign": {
+  "w": 1733,
+  "h": 1300,
+  "source": "https://www.pexels.com/photo/welcome-to-new-mexico-roadside-sign-on-desert-highway-35745869/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "B. Kane",
+  "treatment": "grayscale"
+ },
+ "pexels-36345491-sunglasses-short-hair-summer": {
+  "w": 1880,
+  "h": 1253,
+  "source": "https://www.pexels.com/photo/young-man-smiling-outdoors-in-sunglasses-36345491/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "Bhullar Graphic",
   "treatment": "grayscale"
  },
  "pexels-36345557-work-crew": {
@@ -215,12 +565,260 @@
   "credit": "kakamussa Cinematographer Tanzania",
   "treatment": "grayscale"
  },
+ "pexels-36733334-interview-handshake": {
+  "w": 1880,
+  "h": 1058,
+  "source": "https://www.pexels.com/photo/business-handshake-in-modern-office-setting-36733334/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "Vitaly Gariev",
+  "treatment": "grayscale"
+ },
+ "pexels-36812513-full-beard-plaid": {
+  "w": 1880,
+  "h": 1058,
+  "source": "https://www.pexels.com/photo/bearded-man-in-plaid-shirt-with-black-background-36812513/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "Vitaly Gariev",
+  "treatment": "grayscale"
+ },
+ "pexels-3858294-slicked-back-suit": {
+  "w": 1880,
+  "h": 1253,
+  "source": "https://www.pexels.com/photo/confident-businessman-standing-on-street-in-city-3858294/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "Andrea Piacquadio",
+  "treatment": "grayscale"
+ },
+ "pexels-3872899-towels-conditioner-bottle": {
+  "w": 1880,
+  "h": 1253,
+  "source": "https://www.pexels.com/photo/blue-glass-bottle-beside-white-towel-3872899/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "Castorly Stock",
+  "treatment": "grayscale"
+ },
+ "pexels-3944747-comb-brush-flat-lay": {
+  "w": 1880,
+  "h": 1253,
+  "source": "https://www.pexels.com/photo/analog-watch-beside-a-comb-3944747/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "Castorly Stock",
+  "treatment": "grayscale"
+ },
+ "pexels-39559262-fade-trimmer-closeup": {
+  "w": 1880,
+  "h": 1253,
+  "source": "https://www.pexels.com/photo/man-getting-modern-haircut-at-barbershop-39559262/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "Brian Silva",
+  "treatment": "grayscale"
+ },
+ "pexels-39559270-barber-clippers-fade": {
+  "w": 1521,
+  "h": 1300,
+  "source": "https://www.pexels.com/photo/barber-perfecting-a-fade-haircut-close-up-39559270/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "Brian Silva",
+  "treatment": "grayscale"
+ },
+ "pexels-39559305-barber-neckline-taper": {
+  "w": 1880,
+  "h": 1253,
+  "source": "https://www.pexels.com/photo/close-up-of-haircut-in-a-barber-shop-setting-39559305/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "Brian Silva",
+  "treatment": "grayscale"
+ },
+ "pexels-39708442-tuxedo-bow-tie": {
+  "w": 1880,
+  "h": 1253,
+  "source": "https://www.pexels.com/photo/young-man-in-tuxedo-adjusting-bow-tie-at-night-event-39708442/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "Andrea Prochilo",
+  "treatment": "grayscale"
+ },
+ "pexels-40448078-beanie-snowy-forest": {
+  "w": 1732,
+  "h": 1300,
+  "source": "https://www.pexels.com/photo/portrait-of-a-tattooed-man-in-winter-landscape-40448078/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "Tom Shutkin",
+  "treatment": "grayscale"
+ },
+ "pexels-4728851-smiling-beard-portrait": {
+  "w": 1880,
+  "h": 1058,
+  "source": "https://www.pexels.com/photo/a-bearded-man-smiling-4728851/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "Artem Podrez",
+  "treatment": "grayscale"
+ },
+ "pexels-4925772-wavy-hair-field": {
+  "w": 1880,
+  "h": 1253,
+  "source": "https://www.pexels.com/photo/portrait-of-man-standing-in-field-4925772/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "ROMAN ODINTSOV",
+  "treatment": "grayscale"
+ },
+ "pexels-4968382-handing-ten-dollars": {
+  "w": 1880,
+  "h": 1253,
+  "source": "https://www.pexels.com/photo/hands-holding-a-10-dollar-bill-4968382/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "https://kaboompics.com/",
+  "treatment": "grayscale"
+ },
+ "pexels-5301572-long-box-braids": {
+  "w": 1880,
+  "h": 1253,
+  "source": "https://www.pexels.com/photo/dreamy-feminine-black-transgender-man-on-light-background-5301572/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "Armin  Rimoldi",
+  "treatment": "grayscale"
+ },
+ "pexels-5313997-bleached-blond-outdoors": {
+  "w": 1880,
+  "h": 1253,
+  "source": "https://www.pexels.com/photo/portrait-of-a-blond-man-5313997/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "Darko Simancas",
+  "treatment": "grayscale"
+ },
+ "pexels-5337944-hair-back-view-nape": {
+  "w": 1880,
+  "h": 1253,
+  "source": "https://www.pexels.com/photo/back-view-of-a-man-in-black-shirt-5337944/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "alexandre saraiva carniato",
+  "treatment": "grayscale"
+ },
+ "pexels-6066877-round-face-poolside": {
+  "w": 1880,
+  "h": 1253,
+  "source": "https://www.pexels.com/photo/close-up-portrait-of-a-man-6066877/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "JJ Whitley",
+  "treatment": "grayscale"
+ },
+ "pexels-6187571-product-tins": {
+  "w": 1880,
+  "h": 1253,
+  "source": "https://www.pexels.com/photo/lip-balms-in-can-containers-6187571/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "Antoni Shkraba",
+  "treatment": "grayscale"
+ },
  "pexels-6823515-booking-phone": {
   "w": 2400,
   "h": 1350,
   "source": "https://www.pexels.com/photo/a-person-holding-a-smartphone-6823515/",
   "license": "Pexels License (free to use, no attribution required)",
   "credit": "Artem Podrez",
+  "treatment": "grayscale"
+ },
+ "pexels-7320123-straight-razor-head-shave": {
+  "w": 1880,
+  "h": 1253,
+  "source": "https://www.pexels.com/photo/photograph-of-a-man-shaving-his-beard-7320123/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "https://kaboompics.com/",
+  "treatment": "grayscale"
+ },
+ "pexels-7327137-combing-hair-mirror": {
+  "w": 1880,
+  "h": 1251,
+  "source": "https://www.pexels.com/photo/stylish-man-combing-his-hair-7327137/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "PNW Production",
+  "treatment": "grayscale"
+ },
+ "pexels-735278-holiday-ornaments": {
+  "w": 4608,
+  "h": 3456,
+  "source": "https://www.pexels.com/photo/close-up-photography-of-christmas-balls-735278/",
+  "credit": "Jess Bailey Designs",
+  "license": "Pexels License",
+  "treatment": "grayscale"
+ },
+ "pexels-7447145-beard-trim-closeup": {
+  "w": 1880,
+  "h": 1253,
+  "source": "https://www.pexels.com/photo/barber-trimming-beard-7447145/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "Gustavo Fring",
+  "treatment": "grayscale"
+ },
+ "pexels-7468063-soldier-uniform": {
+  "w": 1880,
+  "h": 1253,
+  "source": "https://www.pexels.com/photo/photo-of-soldier-wearing-military-uniform-7468063/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "RDNE Stock project",
+  "treatment": "grayscale"
+ },
+ "pexels-754261-holiday-string-lights": {
+  "w": 6000,
+  "h": 4000,
+  "source": "https://www.pexels.com/photo/close-up-photo-of-brown-string-lights-754261/",
+  "credit": "Dzenina Lukac",
+  "license": "Pexels License",
+  "treatment": "grayscale"
+ },
+ "pexels-7608046-washing-face-sink": {
+  "w": 1880,
+  "h": 1253,
+  "source": "https://www.pexels.com/photo/man-in-white-bathrobe-washing-his-face-7608046/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "Tima Miroshnichenko",
+  "treatment": "grayscale"
+ },
+ "pexels-7641482-braids-sleeping": {
+  "w": 1880,
+  "h": 1253,
+  "source": "https://www.pexels.com/photo/man-lying-on-white-bed-7641482/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "MART  PRODUCTION",
+  "treatment": "grayscale"
+ },
+ "pexels-7697315-barber-trimming-mustache": {
+  "w": 1880,
+  "h": 1253,
+  "source": "https://www.pexels.com/photo/person-cutting-man-s-beard-7697315/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "RDNE Stock project",
+  "treatment": "grayscale"
+ },
+ "pexels-7697356-boy-barber-cape": {
+  "w": 1880,
+  "h": 1253,
+  "source": "https://www.pexels.com/photo/a-child-wearing-a-barber-s-cape-7697356/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "RDNE Stock project",
+  "treatment": "grayscale"
+ },
+ "pexels-7697487-boy-barber-chair": {
+  "w": 1880,
+  "h": 1253,
+  "source": "https://www.pexels.com/photo/a-boy-looking-at-a-mirror-while-holding-a-brush-7697487/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "RDNE Stock project",
+  "treatment": "grayscale"
+ },
+ "pexels-7697637-barbershop-waiting-chat": {
+  "w": 1880,
+  "h": 1253,
+  "source": "https://www.pexels.com/photo/men-talking-while-sitting-on-chairs-7697637/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "RDNE Stock project",
+  "treatment": "grayscale"
+ },
+ "pexels-7697640-barber-touch-up-client": {
+  "w": 1880,
+  "h": 1253,
+  "source": "https://www.pexels.com/photo/a-man-giving-instructions-to-his-barber-7697640/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "RDNE Stock project",
   "treatment": "grayscale"
  },
  "pexels-7697674-father-son-barbershop": {
@@ -231,12 +829,60 @@
   "credit": "RDNE Stock project",
   "treatment": "grayscale"
  },
+ "pexels-7697717-clipper-guards-case": {
+  "w": 1880,
+  "h": 1253,
+  "source": "https://www.pexels.com/photo/professional-trimmer-endings-7697717/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "RDNE Stock project",
+  "treatment": "grayscale"
+ },
+ "pexels-7750124-hair-salon-interior": {
+  "w": 1880,
+  "h": 1227,
+  "source": "https://www.pexels.com/photo/leather-chairs-in-front-of-round-mirrors-7750124/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "Max Vakhtbovych",
+  "treatment": "grayscale"
+ },
+ "pexels-7797108-dropper-bottles": {
+  "w": 1880,
+  "h": 1253,
+  "source": "https://www.pexels.com/photo/black-dropper-on-brown-glass-bottle-7797108/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "Alesia  Kozik",
+  "treatment": "grayscale"
+ },
+ "pexels-8182321-beard-closeup-portrait": {
+  "w": 1880,
+  "h": 1253,
+  "source": "https://www.pexels.com/photo/close-up-of-a-person-holding-a-mans-beard-8182321/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "RDNE Stock project",
+  "treatment": "grayscale"
+ },
+ "pexels-842569-thick-hair-leather-jacket": {
+  "w": 1880,
+  "h": 1253,
+  "source": "https://www.pexels.com/photo/bearded-man-wearing-black-leather-jacket-842569/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "Andrea Piacquadio",
+  "treatment": "grayscale"
+ },
  "pexels-8468129-tools-tray": {
   "w": 2400,
   "h": 1600,
   "source": "https://www.pexels.com/photo/black-handled-scissors-beside-stainless-steel-scissors-8468129/",
   "license": "Pexels License (free to use, no attribution required)",
   "credit": "Nataliya Vaitkevich",
+  "treatment": "grayscale"
+ },
+ "pexels-897271-barber-tools-counter": {
+  "w": 1880,
+  "h": 1253,
+  "source": "https://www.pexels.com/photo/barber-s-tool-on-table-897271/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "Jose Ricardo Barraza Morachis",
   "treatment": "grayscale"
  },
  "pexels-9775429-eyebrows": {
@@ -250,31 +896,37 @@
  "shave-head-beard-trim": {
   "w": 1200,
   "h": 1200,
-  "source": "https://divinely-faded.vercel.app/gbp-media/shave-head-beard-trim.jpg"
+  "source": "https://divinely-faded.vercel.app/gbp-media/shave-head-beard-trim.jpg",
+  "treatment": "grayscale"
  },
  "shop-chair": {
   "w": 1200,
   "h": 1600,
-  "source": "https://divinely-faded.vercel.app/gbp-media/shop-chair.jpg"
+  "source": "https://divinely-faded.vercel.app/gbp-media/shop-chair.jpg",
+  "treatment": "grayscale"
  },
  "steam-facial": {
   "w": 1600,
   "h": 1600,
-  "source": "https://divinely-faded.vercel.app/gbp-media/steam-facial.jpg"
+  "source": "https://divinely-faded.vercel.app/gbp-media/steam-facial.jpg",
+  "treatment": "grayscale"
  },
  "team-tim-portrait": {
   "w": 1200,
   "h": 1200,
-  "source": "https://divinely-faded.vercel.app/gbp-media/team-tim-portrait.jpg"
+  "source": "https://divinely-faded.vercel.app/gbp-media/team-tim-portrait.jpg",
+  "treatment": "grayscale"
  },
  "tim-beard-detailing": {
   "w": 1200,
   "h": 1200,
-  "source": "https://divinely-faded.vercel.app/gbp-media/tim-beard-detailing.jpg"
+  "source": "https://divinely-faded.vercel.app/gbp-media/tim-beard-detailing.jpg",
+  "treatment": "grayscale"
  },
  "tim-outdoor-kids-cut": {
   "w": 1280,
   "h": 720,
-  "source": "https://divinely-faded.vercel.app/gbp-media/tim-outdoor-kids-cut.jpg"
+  "source": "https://divinely-faded.vercel.app/gbp-media/tim-outdoor-kids-cut.jpg",
+  "treatment": "grayscale"
  }
 }

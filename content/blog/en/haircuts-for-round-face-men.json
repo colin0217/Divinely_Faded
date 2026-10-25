@@ -1,0 +1,159 @@
+{
+  "id": "post-haircuts-for-round-face-men",
+  "locale": "en",
+  "slug": "/blog/haircuts-for-round-face-men/",
+  "date": "2027-02-01",
+  "plan_rank": 91,
+  "title": "Haircuts for a Round Face: Adding Height and Angles",
+  "eyebrow": "STYLES",
+  "hero": "pexels-6066877-round-face-poolside",
+  "hero_alt": "Close-up of a man with a round face and short hair, poolside",
+  "image_plan": null,
+  "card_text": "Shorter sides and height on top lengthen a round face. Which style pages to show your barber, and what to skip.",
+  "lede": [
+    "The haircuts that flatter a round face add height on top and keep the sides short. That combination makes the head look longer and narrower, which balances the softer angles of a round face. A skin fade with a textured top, a hard part with some lift, or a textured crop with height at the front all work. Cuts that add width at the sides, or sit flat and rounded on top, tend to make a round face look rounder.",
+    "Here's how to think about it, three style pages worth showing me, and the shapes to skip."
+  ],
+  "seo": {
+    "title": "Haircuts for a Round Face (Men) | Carlsbad, NM",
+    "description": "Haircuts for a round face, from a Carlsbad, NM barber: short sides and height on top to lengthen the face, which styles to show and what to avoid.",
+    "primary": "haircut for round face men",
+    "secondary": []
+  },
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Blog",
+      "/blog/"
+    ],
+    [
+      "Haircuts for a Round Face",
+      "/blog/haircuts-for-round-face-men/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / THE IDEA",
+      "heading": "Vertical, not horizontal.",
+      "lead": "Two levers to pull.",
+      "paragraphs": [
+        "A round face has similar width and length, fuller cheeks and a softer jaw. A haircut can't change the face, but it changes the outline around it.",
+        "Height on top stretches that outline upward. Short sides pull it in at the widest point. Together they shift the overall shape from a circle toward an oval.",
+        "Angles help as well. A part, a crisp line or a fade with a clear edge adds structure that a round face doesn't supply on its own.",
+        "A quick test: look at your face straight on and notice where it's widest. On a round face that's usually the cheeks, which is exactly where the sides of the haircut sit."
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "02 / STYLES TO SHOW ME",
+      "heading": "Three pages to start from.",
+      "lead": "Each one adds height or angles.",
+      "items": [
+        {
+          "title": "Skin fade with a textured top",
+          "body": "Sides taken to skin so they're as narrow as possible, with height left on top. The contrast does most of the lengthening.",
+          "href": "page:styles-skin-fade",
+          "link_label": "SEE THE SKIN FADE"
+        },
+        {
+          "title": "Hard part",
+          "body": "A shaved part line adds a sharp angle, and a top swept up and to the side adds height. Structure for a soft face shape.",
+          "href": "page:styles-hard-part",
+          "link_label": "SEE THE HARD PART"
+        },
+        {
+          "title": "Textured crop with lift",
+          "body": "A crop works when it's cut with height at the front instead of lying flat. Keep the sides tight and the texture pointing up.",
+          "href": "page:styles-textured-crop",
+          "link_label": "SEE THE TEXTURED CROP"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / WHAT TO SKIP",
+      "heading": "Shapes that round it out.",
+      "lead": "Common traps.",
+      "paragraphs": [
+        "A round face isn't a problem to fix, but a few shapes do it no favors:"
+      ],
+      "bullets": [
+        "Puffy or long sides, which widen the face at its fullest point.",
+        "A blunt fringe cut straight across, which shortens the face.",
+        "A flat, rounded top with no height, like a bowl.",
+        "Chin-length cuts that end right at the cheeks."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / THE FRINGE QUESTION",
+      "heading": "Can you wear one?",
+      "lead": "Yes, with a caveat.",
+      "paragraphs": [
+        "A fringe isn't off limits. A textured, broken-up fringe that's angled or swept to one side keeps some vertical movement, like the heavy textured fringe in the photo above. The version to avoid is a dense, straight-across line that cuts the face in half.",
+        "If you love a forward style, keep the sides very tight so the width stays under control.",
+        "The part helps too. A deep side part swept up and over adds height and an angle at once. A center part with flat sides tends to widen the face."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "05 / BEARD AND CUT",
+      "heading": "Use both ends.",
+      "lead": "The chin helps too.",
+      "paragraphs": [
+        "A beard with more length at the chin and shorter cheeks lengthens a round face from below, the same way height does from above. The Signature Cut ({{price:signature-cut}}, {{minutes:signature-cut}}) handles the haircut and a beard trim or line-up in one visit.",
+        "No beard? The Essential Haircut ({{price:essential-haircut}}) covers any of the cuts above, with a straight razor neck cleanup and a finished style.",
+        "Not sure which way to go? The Luxury Grooming Experience ({{price:luxury-grooming}}) starts with a consultation."
+      ],
+      "link": {
+        "label": "SEE BEARD SERVICES",
+        "href": "page:services-beard-shaves"
+      }
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / QUESTIONS",
+      "heading": "Round faces, answered.",
+      "items": [
+        {
+          "q": "What haircut suits a round face?",
+          "a": "One with short sides and height on top, like a skin fade with a textured top or a hard part with lift."
+        },
+        {
+          "q": "Should guys with round faces keep their hair short?",
+          "a": "Short on the sides, yes. The top usually looks better with some length for height."
+        },
+        {
+          "q": "Do fades work on round faces?",
+          "a": "Yes. Tight sides narrow the widest part of the face."
+        },
+        {
+          "q": "Is a buzz cut good for a round face?",
+          "a": "It can be, especially with a high fade. With no height on top, it relies on the sides staying tight."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "ROUND FACE",
+      "heading": "Height up top.<br>Tight on the sides.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "styles-skin-fade",
+    "styles-hard-part",
+    "styles-textured-crop"
+  ],
+  "tim_questions": [
+    "The face-shape guidance is general styling advice in your voice. Anything you'd change?",
+    "The hero cut-taper-heavy-fringe is used to illustrate a swept, textured fringe, not as a round-face client. OK, or would you rather use a different photo?"
+  ]
+}

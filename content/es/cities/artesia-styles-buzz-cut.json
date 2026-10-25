@@ -1,0 +1,129 @@
+{
+  "id": "artesia-styles-buzz-cut",
+  "locale": "es",
+  "pageType": "cell",
+  "city": "artesia",
+  "base": "styles-buzz-cut",
+  "slug": "/es/artesia/buzz-cut/",
+  "alt": "/artesia/buzz-cut/",
+  "nav_label": "Buzz cut · Artesia",
+  "card_text": "Buzz cut para Artesia: un corte para casco y días de calor, agendado antes de bajar por la 285.",
+  "breadcrumb": [
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Artesia",
+      "/es/artesia/"
+    ],
+    [
+      "Buzz Cut",
+      "/es/artesia/buzz-cut/"
+    ]
+  ],
+  "seo": {
+    "title": "Buzz cut para Artesia, NM | Divinely Faded, Carlsbad",
+    "description": "Buzz cut, crew cut y high and tight para Artesia, en Carlsbad, a {{city:artesia.drive_min}} minutos por la US 285. Para semanas de trabajo y días de 100°F. Agenda en Booksy.",
+    "primary": "corte buzz cut artesia nm",
+    "secondary": [
+      "corte rapado artesia",
+      "corte de pelo corto artesia nm"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "ARTESIA / BUZZ CUT",
+      "h1": "Buzz cut, desde Artesia.",
+      "paragraphs": [
+        "Un buzz cut (corte rapado) es un solo largo corto de máquina en toda la cabeza, con un desvanecido (fade) y un delineado (line-up) para que se vea terminado y no crecido. Los corto en {{address}}, en Carlsbad, que desde Artesia queda a {{city:artesia.drive_mi}} millas al sur por la {{city:artesia.route}}, más o menos {{city:artesia.drive_min}} minutos (ruta de OpenStreetMap).",
+        "No es un viaje largo, pero sí lo bastante largo como para que quieras que el corte lo valga."
+      ],
+      "link": {
+        "label": "AGENDA UN BUZZ CUT",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / SEMANAS DE TRABAJO",
+      "heading": "Lo bastante corto para un casco.",
+      "paragraphs": [
+        "Censo ACS 2023 ubica el {{city:artesia.mining_ag_jobs_pct}} de los empleos de Artesia en minería, petróleo y gas, o agricultura. Si eres uno de ellos, un buzz cut no te pide nada cuando empiezas temprano: ni peine, ni producto, nada que un casco pueda aplastar. También es parte de por qué tengo citas los sábados por la mañana en mi calendario, para quien tiene los días de la semana ocupados con un turno."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "02 / CÓMO AGENDARLO",
+      "heading": "Tres respuestas cortas.",
+      "lead": "Los precios y tiempos vienen de Booksy.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "Buzz cut, crew cut o high and tight, con el contorno cuadrado y la nuca limpia con navaja.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "El mismo corte corto con tu barba recortada o con delineado, bajo una toalla caliente.",
+          "book": true
+        },
+        {
+          "title": "Head & Beard Shave",
+          "meta": "{{price:head-beard-shave}} · {{minutes:head-beard-shave}}",
+          "body": "Más allá del buzz cut, hasta quedar sin nada: cabeza y barba afeitadas con toallas calientes y un bálsamo aftershave.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / DÍAS DE CALOR",
+      "heading": "Menos pelo para un verano largo.",
+      "paragraphs": [
+        "Artesia tiene unos {{city:artesia.days_100f}} días al año a 100°F o más, con máximas de julio que promedian {{city:artesia.july_high_f}} (Open-Meteo, 2023–25). Hay quien se pasa al buzz cut justo por esos meses y lo deja crecer de nuevo en otoño. Otros nunca lo dejan crecer más. Sea como sea, el desvanecido y la línea del frente son lo primero que pierde definición, así que ellos marcan tu fecha de regreso, no la parte de arriba."
+      ],
+      "photos": []
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / PREGUNTAS",
+      "heading": "Preguntas sobre el buzz cut desde allá arriba.",
+      "items": [
+        {
+          "q": "¿Cada cuánto voy a bajar desde Artesia por un buzz cut?",
+          "a": "Depende de qué tan nítido mantengas el desvanecido. Pregúntame en la silla; te doy un intervalo que le vaya a tu pelo y lo puedes agendar en Booksy antes de irte."
+        },
+        {
+          "q": "¿Crew cut o buzz cut para el trabajo en campo?",
+          "a": "Los dos funcionan bajo un casco. Un crew cut deja un poco más arriba para peinar; un buzz cut es del mismo largo en toda la cabeza y no necesita nada."
+        },
+        {
+          "q": "¿Puedo traer a mi hijo para un buzz cut a la misma hora?",
+          "a": "Sí. Agenda en Booksy un horario propio para tu hijo justo después del tuyo; los niños son bienvenidos."
+        },
+        {
+          "q": "¿También afeitas cabezas?",
+          "a": "Sí. El Head & Beard Shave (afeitado de cabeza y barba) lleva todo hasta la piel con toallas calientes. La <a href=\"/es/estilos/buzz-cut/\">página del buzz cut</a> muestra dónde un high and tight se queda antes de eso."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "SOLO CON CITA",
+      "heading": "Agenda el buzz cut.<br>Haz que el viaje valga.",
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
+    }
+  ]
+}

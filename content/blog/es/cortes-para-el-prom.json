@@ -7,8 +7,8 @@
   "plan_rank": 28,
   "title": "Cortes para el prom: cuándo agendar y qué pedir",
   "eyebrow": "DE TEMPORADA",
-  "hero": "cut-taper-textured-top",
-  "hero_alt": "Crop texturizado peinado hacia adelante, con un delineado (line-up) nítido y un taper hasta la piel en la oreja",
+  "hero": "pexels-39708442-tuxedo-bow-tie",
+  "hero_alt": "Un joven de esmoquin ajustándose el moño",
   "image_plan": null,
   "card_text": "Dos a cuatro días antes, trae una foto y decide qué hacer con la barba. Un plan para un corte de prom que se vea bien en cada foto.",
   "lede": [
@@ -22,9 +22,18 @@
     "secondary": []
   },
   "breadcrumb": [
-    ["Inicio", "/es/"],
-    ["Blog", "/es/blog/"],
-    ["Cortes para el prom", "/es/blog/cortes-para-el-prom/"]
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Blog",
+      "/es/blog/"
+    ],
+    [
+      "Cortes para el prom",
+      "/es/blog/cortes-para-el-prom/"
+    ]
   ],
   "blocks": [
     {

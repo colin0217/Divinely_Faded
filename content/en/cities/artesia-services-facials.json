@@ -1,0 +1,125 @@
+{
+  "id": "artesia-services-facials",
+  "locale": "en",
+  "pageType": "cell",
+  "city": "artesia",
+  "base": "services-facials",
+  "slug": "/artesia/mens-facials/",
+  "alt": "/es/artesia/faciales-para-hombres/",
+  "nav_label": "Men's facials · Artesia",
+  "card_text": "Men's facials for Artesia: why dry air with little rain makes the case, and how to pair one with a haircut.",
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Artesia",
+      "/artesia/"
+    ],
+    [
+      "Men's Facials",
+      "/artesia/mens-facials/"
+    ]
+  ],
+  "seo": {
+    "title": "Men's Facials for Artesia, NM | Divinely Faded, Carlsbad",
+    "description": "Express and Deluxe facials for Artesia, in Tim's barber chair in Carlsbad about 44 minutes down US 285. Why dry air makes the case; pair it with a cut.",
+    "primary": "mens facial artesia nm",
+    "secondary": [
+      "facial for men artesia nm",
+      "barber artesia nm"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "ARTESIA / MEN'S FACIALS",
+      "h1": "Men's facials, from Artesia.",
+      "paragraphs": [
+        "Both of my facials happen in the barber chair in Carlsbad, {{city:artesia.drive_mi}} miles from Artesia down {{city:artesia.route}}, around {{city:artesia.drive_min}} minutes each way (OpenStreetMap routing). No spa, no separate stop.",
+        "The case for making that drive for your skin starts with the air you live in."
+      ],
+      "link": {
+        "label": "BOOK A FACIAL",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / THE AIR",
+      "heading": "Dry, and not much rain to fix it.",
+      "paragraphs": [
+        "Artesia averages about {{city:artesia.humidity_pct}} humidity and only around {{city:artesia.rain_in}} inches of rain a year (Open-Meteo, 2023–25). Skin in that air gives up moisture all day and gets little back. A facial reverses some of it: warm steam opens things up, gentle exfoliation clears what the wind left behind, and the moisturizer at the end is the step that matters most for the drive home.",
+        "If your days are spent outside, in the {{city:artesia.mining_ag_jobs_pct}} of Artesia jobs that are mining, oil and gas or agriculture (Census ACS 2023), add dust and sun to that list. The Deluxe, with its advanced skin treatments and serum, is the one I'd point you to."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "02 / THE TWO",
+      "heading": "Express or Deluxe.",
+      "lead": "From Booksy. Either fits before or after a haircut.",
+      "items": [
+        {
+          "title": "Express Facial",
+          "meta": "{{price:express-facial}} · {{minutes:express-facial}}",
+          "body": "A half-hour reset: cleanse, light exfoliation, steam, massage, then moisturizer. The shorter of the two.",
+          "book": true
+        },
+        {
+          "title": "Deluxe Facial",
+          "meta": "{{price:deluxe-facial}} · {{minutes:deluxe-facial}}",
+          "body": "Steam and massage first, then exfoliation, moisturizer, advanced skin treatments and an anti-aging serum. Book this one for skin that's had a season outdoors.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / ONE TRIP",
+      "heading": "Pair it with the cut.",
+      "paragraphs": [
+        "The sensible way to do a facial from Artesia is to book it back to back with a haircut on Booksy, so one drive covers both. Or book the Luxury Grooming Experience, which already builds facial steam and two hot towels into the cut.",
+        "A facial books like anything else here: appointment only, paid after, and a no-show or late cancellation may cost a fee."
+      ],
+      "photos": []
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / QUESTIONS",
+      "heading": "Facial questions from Artesia.",
+      "items": [
+        {
+          "q": "Is the drive worth it for a facial alone?",
+          "a": "Your call. The Express is {{minutes:express-facial}} and the Deluxe is {{minutes:deluxe-facial}}, so pairing one with a haircut makes the {{city:artesia.drive_min}}-minute trip go further."
+        },
+        {
+          "q": "Which facial for dry skin?",
+          "a": "Both end with a hydrating moisturizer. The Deluxe adds advanced treatments and a serum as well, which is why I'd pick it for skin that's been in the sun and wind."
+        },
+        {
+          "q": "Can I get the steam without a full facial?",
+          "a": "It does: facial steam and a pair of hot towels are part of the Luxury Grooming Experience, alongside the cut."
+        },
+        {
+          "q": "What does a facial cost?",
+          "a": "The Express Facial is {{price:express-facial}}; the Deluxe Facial is {{price:deluxe-facial}}. The <a href=\"/services/mens-facials/\">men's facials page</a> breaks down each step."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "SKIN CARE",
+      "heading": "Lean back.<br>Drive home hydrated.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ]
+}

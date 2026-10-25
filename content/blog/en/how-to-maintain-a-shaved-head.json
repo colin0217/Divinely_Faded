@@ -1,0 +1,168 @@
+{
+  "id": "post-how-to-maintain-a-shaved-head",
+  "locale": "en",
+  "slug": "/blog/how-to-maintain-a-shaved-head/",
+  "date": "2026-11-23",
+  "plan_rank": 41,
+  "title": "How to Maintain a Shaved Head",
+  "eyebrow": "GROOMING",
+  "hero": "pexels-7320123-straight-razor-head-shave",
+  "hero_alt": "A man shaving the back of his head with a straight razor by a window",
+  "image_plan": null,
+  "card_text": "Stubble comes back fast and the New Mexico sun finds bare skin. General care for a shaved head, and when to reset it in the chair.",
+  "lede": [
+    "Maintaining a shaved head comes down to three habits: keep up with the stubble, protect the skin from the sun, and keep the scalp from drying out. A bare scalp is skin that used to sit under hair, and here in New Mexico it gets plenty of sun and dry air. Treat it the way you'd treat your face, and reset it with a hot towel shave when it needs one.",
+    "Here's the difference between shaved and buzzed, the day-to-day basics, and where the chair comes in."
+  ],
+  "seo": {
+    "title": "How to Maintain a Shaved Head | Carlsbad, NM",
+    "description": "How to maintain a shaved head: stubble, sun on a bare scalp, dry air and the hot towel Head & Beard Shave at Divinely Faded in Carlsbad, NM.",
+    "primary": "how to maintain a shaved head",
+    "secondary": [
+      "head shave tips",
+      "shaved head vs buzz cut"
+    ]
+  },
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Blog",
+      "/blog/"
+    ],
+    [
+      "Shaved Head Care",
+      "/blog/how-to-maintain-a-shaved-head/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / SHAVED OR BUZZED",
+      "heading": "Not the same thing.",
+      "lead": "Razor versus clippers.",
+      "paragraphs": [
+        "A shaved head is taken down to the skin with a razor, so it looks smooth and catches the light. A buzz cut uses clippers and always leaves some length, even on the shortest guard, so the head still reads as hair.",
+        "The upkeep is different too. A buzz cut grows out evenly and looks fine for a while. A shave shows stubble within a day or two, because there's nothing left to hide the regrowth.",
+        "If you want the look of a shaved head with less maintenance, a very short buzz is the middle ground. If you want truly smooth, it has to be a razor."
+      ],
+      "link": {
+        "label": "SEE THE BUZZ CUT",
+        "href": "page:styles-buzz-cut"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / DAY TO DAY",
+      "heading": "The basics.",
+      "lead": "General care, nothing fancy.",
+      "subsections": [
+        {
+          "heading": "Stubble comes back fast",
+          "paragraphs": [
+            "Hair grows roughly a third of a millimeter a day, which is invisible on a full head and obvious on a smooth one. Keeping it smooth usually means touching it up at home between visits."
+          ]
+        },
+        {
+          "heading": "The sun finds it",
+          "paragraphs": [
+            "A scalp with no hair has no shade. Cover it when you're outside for long, especially in the middle of the day, and remember the back of the neck and the tops of the ears get the same exposure."
+          ]
+        },
+        {
+          "heading": "Dry air dries skin",
+          "paragraphs": [
+            "Carlsbad's dry climate pulls moisture from skin, and a freshly shaved scalp feels it first. Keep the scalp from getting tight or flaky the same way you'd look after dry skin anywhere else."
+          ]
+        },
+        {
+          "heading": "Still wash it",
+          "paragraphs": [
+            "No hair doesn't mean no oil. The scalp keeps producing it, so wash a shaved head as part of your normal routine."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / THE HARD-TO-SEE SPOTS",
+      "heading": "The back of your head.",
+      "lead": "Where home shaves fall short.",
+      "paragraphs": [
+        "The crown and the back of the head are the hardest places to shave yourself. You can't see them straight on, and the curve of the skull changes direction as you go.",
+        "Use a second mirror, or feel with your hand for patches the razor missed. Go slowly around the ears and at the nape, where the skin folds and turns.",
+        "When the home shaves start leaving more patches than they clear, that's a good moment for a full reset in the chair."
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "04 / IN THE CHAIR",
+      "heading": "Reset it properly.",
+      "lead": "Hot towels and a straight razor.",
+      "items": [
+        {
+          "title": "Head & Beard Shave",
+          "meta": "{{price:head-beard-shave}} · {{minutes:head-beard-shave}}",
+          "body": "A precision head shave and beard shave, with hot towels to prep the skin and a soothing aftershave balm to finish. Head and face smooth in one sitting.",
+          "href": "page:services-beard-shaves",
+          "link_label": "SEE THE SHAVES",
+          "book": true
+        },
+        {
+          "title": "Straight Razor Beard Shave",
+          "meta": "{{price:straight-razor-beard-shave}} · {{minutes:straight-razor-beard-shave}}",
+          "body": "Keeping the head shaved yourself and just want the face done? A traditional wet shave with hot towels, shaving cream and aftershave.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "Growing it back out, or keeping a beard like the one in the photo? The cut with a beard trim or line-up, a hot towel and razor detailing.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "05 / QUESTIONS",
+      "heading": "Shaved-head questions.",
+      "items": [
+        {
+          "q": "What's the difference between a shaved head and a buzz cut?",
+          "a": "A shaved head is taken to the skin with a razor. A buzz cut uses clippers and always leaves some length."
+        },
+        {
+          "q": "How do I take care of a shaved head in the sun?",
+          "a": "Cover it when you're outside for a while, and don't forget the back of the neck and the ears."
+        },
+        {
+          "q": "Can you shave my head at the barbershop?",
+          "a": "Yes. The Head & Beard Shave takes your head and your beard down smooth with hot towels, for {{price:head-beard-shave}}."
+        },
+        {
+          "q": "Why does my shaved head look patchy?",
+          "a": "Usually it's missed spots at the crown and the back, which are hard to see. A second mirror helps, and a shave in the chair resets it."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "SMOOTH TOP",
+      "heading": "Hot towel.<br>Clean shave.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "services-beard-shaves",
+    "styles-buzz-cut"
+  ],
+  "tim_questions": [
+    "Any head-shave aftercare you want to recommend (sun protection, moisturizer, razor type)? Products were left out; the post gives general care only.",
+    "Can clients book a head shave without the beard shave? Booksy only lists the Head & Beard Shave."
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "id": "roswell-styles-slick-back",
+  "locale": "es",
+  "pageType": "cell",
+  "city": "roswell",
+  "base": "styles-slick-back",
+  "slug": "/es/roswell/peinado-hacia-atras/",
+  "alt": "/roswell/slick-back/",
+  "nav_label": "Peinado hacia atrás · Roswell",
+  "card_text": "Un peinado hacia atrás para Roswell: un corte listo para el trabajo bajo techo, planeado para un camino largo.",
+  "breadcrumb": [
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Roswell",
+      "/es/roswell/"
+    ],
+    [
+      "Peinado hacia atrás",
+      "/es/roswell/peinado-hacia-atras/"
+    ]
+  ],
+  "seo": {
+    "title": "Peinado hacia atrás para Roswell, NM | Divinely Faded",
+    "description": "Peinado hacia atrás (slick back) para Roswell, en Carlsbad al sur por la US 285. Por qué va con el trabajo bajo techo, los lados y la cita.",
+    "primary": "peinado hacia atrás hombre roswell nm",
+    "secondary": [
+      "corte slick back roswell nm"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "ROSWELL / PEINADO HACIA ATRÁS",
+      "h1": "Peinado hacia atrás, desde Roswell.",
+      "paragraphs": [
+        "Largo arriba peinado recto hacia atrás, lados lo bastante cortos para que el pelo peinado tenga un borde donde asentarse. El peinado hacia atrás (slick back) es el corte que le sugeriría a alguien que tiene que verse armado a las ocho de la mañana y quiere conservar algo de pelo para lograrlo. Lo corto en Carlsbad, en {{address}}, a {{city:roswell.drive_mi}} millas al sur de Roswell por la {{city:roswell.route}}, unos {{city:roswell.drive_min}} minutos con Artesia a la mitad (rutas de OpenStreetMap).",
+        "Abajo: por qué el corte va con el tipo de trabajo que Roswell hace sobre todo, cómo los lados marcan tu calendario y qué agendar."
+      ],
+      "link": {
+        "label": "AGENDA UN PEINADO HACIA ATRÁS",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / EL CORTE DE UNA CIUDAD BAJO TECHO",
+      "heading": "Pocos cascos, más cuellos de camisa.",
+      "paragraphs": [
+        "Apenas el {{city:roswell.mining_ag_jobs_pct}} de los trabajadores de Roswell está en minería, petróleo, gas o agricultura, contra el {{city:carlsbad.mining_ag_jobs_pct}} aquí en Carlsbad (Censo ACS 2023). Un peinado hacia atrás no sobrevive un día bajo un casco; sí sobrevive un día en un escritorio, un mostrador, una clínica o un salón de clases, porque una vez peinado hacia atrás casi siempre se queda.",
+        "La edad mediana en Roswell es de {{city:roswell.median_age}} (Censo ACS 2023). El peinado hacia atrás es desde hace mucho un corte de hombre adulto: la versión larga y brillante de mi página de estilos se lee clásica; la corta sobre un skin fade (desvanecido hasta la piel) alto se lee moderna. Elige la actitud, no la edad."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / LOS LADOS MARCAN EL CALENDARIO",
+      "heading": "Lo de arriba puede esperarte. Los lados, no.",
+      "paragraphs": [
+        "El largo extra arriba de hecho ayuda a que un peinado hacia atrás se acueste, así que la parte de arriba es paciente. El desvanecido (fade) o el taper de los lados es lo que se esponja y delata el tiempo del corte. Con {{city:roswell.drive_min}} minutos entre tú y mi silla, elige los lados con eso en mente: un taper bajo se suaviza despacio y te compra tiempo; un skin fade alto se ve más nítido y te pide volver antes."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "03 / CÓMO AGENDARLO",
+      "heading": "Dos citas, una dirección.",
+      "lead": "Lo peino antes de que te levantes.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "Lados a la altura que elijas, largo con forma arriba, navaja en la nuca, y luego peinado hacia atrás y terminado.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "Tu peinado hacia atrás y tu barba en una sola silla: recorte o delineado, y después toalla caliente. Barba completa bajo el pelo peinado hacia atrás es uno de los looks de la página de estilos.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / PREGUNTAS",
+      "heading": "Peinado hacia atrás, planeado desde Roswell.",
+      "items": [
+        {
+          "q": "Ahora traigo el pelo corto. ¿Puedo agendar un peinado hacia atrás de todos modos?",
+          "a": "Agenda el corte, y yo doy forma a los lados y preparo la parte de arriba para que crezca hacia ahí. El largo llega solo."
+        },
+        {
+          "q": "¿Taper o desvanecido en los lados para alguien que baja poco?",
+          "a": "Taper. Crece con suavidad y mantiene el corte ordenado por más tiempo entre viajes. La <a href=\"/es/estilos/peinado-hacia-atras/\">página del peinado hacia atrás</a> muestra los lados de las dos formas."
+        },
+        {
+          "q": "¿Cómo lo mantengo peinado hacia atrás ya en casa?",
+          "a": "Pregúntame antes de levantarte de la silla; depende de tu pelo."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "SOLO CON CITA",
+      "heading": "Agenda el peinado hacia atrás.<br>Y apunta el carro al sur.",
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
+    }
+  ]
+}

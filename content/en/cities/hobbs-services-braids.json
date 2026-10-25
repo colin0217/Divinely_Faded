@@ -1,0 +1,115 @@
+{
+  "id": "hobbs-services-braids",
+  "locale": "en",
+  "pageType": "cell",
+  "city": "hobbs",
+  "base": "services-braids",
+  "slug": "/hobbs/braids/",
+  "alt": "/es/hobbs/trenzas/",
+  "nav_label": "Braids · Hobbs",
+  "card_text": "Braids from Hobbs: text the photo first, clear the day, and make the hours in the chair worth the road.",
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Hobbs",
+      "/hobbs/"
+    ],
+    [
+      "Braids",
+      "/hobbs/braids/"
+    ]
+  ],
+  "seo": {
+    "title": "Braids for Men from Hobbs, NM | Divinely Faded, Carlsbad",
+    "description": "Braids for men from Hobbs, done in Carlsbad west on US 62/180. Why the long appointment earns the drive, and how to learn the price before you leave.",
+    "primary": "braids for men hobbs nm",
+    "secondary": [
+      "hair braiding hobbs nm",
+      "cornrows hobbs nm"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "HOBBS / BRAIDS",
+      "h1": "Braids, worth the drive from Hobbs.",
+      "paragraphs": [
+        "Braids are the one appointment where the trip from Hobbs feels short. Booksy holds {{minutes:braids}} for a set, and the drive to my chair in Carlsbad is about {{city:hobbs.drive_min}} minutes, {{city:hobbs.drive_mi}} miles west on {{city:hobbs.route}} (OpenStreetMap routing).",
+        "Every set is built for the person in the chair, over a fade if you want one, so the planning starts before you leave Lea County."
+      ],
+      "link": {
+        "label": "BOOK BRAIDS",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / BEFORE THE DRIVE",
+      "heading": "Text the photo first.",
+      "paragraphs": [
+        "Booksy lists braids with a price that varies by style. Send me a picture of the set you're after at {{phone}} before booking, so you know the price and I know what rows to plan. Doing that from Hobbs saves a drive that ends in a surprise.",
+        "Then pick a slot with nothing after it. The {{minutes:braids}} Booksy blocks plus the road back is most of a day."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "02 / BOOK IT AS",
+      "heading": "The one listing.",
+      "items": [
+        {
+          "title": "Braids",
+          "meta": "{{price:braids}} · {{minutes:braids}}",
+          "body": "Personalized braiding styles: rows straight back, pairs meeting at the crown, cuffs on the ends if you want them. Priced by the style after you text me a photo.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / THE ROAD",
+      "heading": "Make the hours count.",
+      "paragraphs": [
+        "The average commute in Hobbs is {{city:hobbs.commute_min}} minutes (Census ACS 2023). The drive here is more than three of those, one way. That's why it's worth asking, when you text, about a fade on the sides in the same visit: clean skin makes the rows stand out, and you're not back on 62/180 for a separate cut.",
+        "Hobbs gets about {{city:hobbs.days_100f}} days a year at 100°F or more (Open-Meteo, 2023–25), and some people like faded sides under the rows for that reason alone: less hair on the neck through the hot months.",
+        "Payment is after the braids are finished: cash, card, Zelle or Cash App. Cancel early on Booksy if plans change; a late cancellation on a booking this long may carry a cancellation fee."
+      ],
+      "photos": []
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / QUESTIONS",
+      "heading": "Braids from Hobbs.",
+      "items": [
+        {
+          "q": "How do I find out the price of braids before I drive over?",
+          "a": "Text me a photo of the style at {{phone}}. Booksy only shows the price as varies."
+        },
+        {
+          "q": "How long is the appointment?",
+          "a": "Booksy reserves {{minutes:braids}}. Add about {{city:hobbs.drive_min}} minutes each way from Hobbs."
+        },
+        {
+          "q": "Can the fade be done in the same visit?",
+          "a": "Ask when you text; most sets in my photos sit over a fade or a taper."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "BRAIDS",
+      "heading": "Rows tight.<br>Road long.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ]
+}

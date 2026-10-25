@@ -1,0 +1,123 @@
+{
+  "id": "artesia-styles-skin-fade",
+  "locale": "en",
+  "pageType": "cell",
+  "city": "artesia",
+  "base": "styles-skin-fade",
+  "slug": "/artesia/skin-fade/",
+  "alt": "/es/artesia/skin-fade/",
+  "nav_label": "Skin fade · Artesia",
+  "card_text": "Skin fades for Artesia: hot, dry summers, bare sides, and the upkeep math for the drive down 285.",
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Artesia",
+      "/artesia/"
+    ],
+    [
+      "Skin Fade",
+      "/artesia/skin-fade/"
+    ]
+  ],
+  "seo": {
+    "title": "Skin Fade for Artesia, NM | Divinely Faded, Carlsbad",
+    "description": "Skin fades for Artesia, cut in Carlsbad about {{city:artesia.drive_min}} minutes south on US 285. Why bare sides suit an Artesia summer, and when to book the next one.",
+    "primary": "skin fade artesia nm",
+    "secondary": [
+      "fade haircut artesia nm",
+      "high skin fade artesia"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "ARTESIA / SKIN FADE",
+      "h1": "Skin fade, from Artesia.",
+      "paragraphs": [
+        "Sides and back shaved clean to the scalp, blending into whatever length stays on top, with no step anywhere in the change. My shop is in Carlsbad, {{city:artesia.drive_mi}} miles south of Artesia on {{city:artesia.route}}; OpenStreetMap routing puts the trip at about {{city:artesia.drive_min}} minutes.",
+        "Two things decide whether this is your cut: the weather you live in, and how you feel about regrowth on bare skin."
+      ],
+      "link": {
+        "label": "BOOK A SKIN FADE",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / DRY HEAT",
+      "heading": "Bare sides for an Artesia summer.",
+      "paragraphs": [
+        "July in Artesia averages a high of {{city:artesia.july_high_f}}, and the year brings about {{city:artesia.days_100f}} days at 100°F or hotter, with relative humidity around {{city:artesia.humidity_pct}} (Open-Meteo, 2023–25). That's dry heat. With the sides at skin there's no hair to trap it against your head, which is why some people switch to this cut once the hundreds start and keep it until October. Carlsbad, at {{city:carlsbad.july_high_f}}, isn't any cooler, so the drive doesn't buy you a break either."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / THE COMEBACK",
+      "heading": "Regrowth shows at the bottom first.",
+      "paragraphs": [
+        "Bare skin is where the first few days of growth appear, as a shadow over the lowest band. Nobody else sees it as soon as you do. If you like it razor sharp, you'll want to come back sooner than a taper would ask; if you don't mind a grown-in look, stretch it. From Artesia, with {{city:artesia.drive_min}} minutes each way, I'd pick the gap together in the chair and put the next date on Booksy before you leave."
+      ],
+      "photos": []
+    },
+    {
+      "type": "faq",
+      "eyebrow": "03 / QUESTIONS",
+      "heading": "Skin fade, Artesia questions.",
+      "items": [
+        {
+          "q": "Low, mid or high skin fade for the heat?",
+          "a": "Height is about contrast, not temperature; all three go to skin at the bottom. Pick by how bold you want the sides."
+        },
+        {
+          "q": "How long is the drive from Artesia to your chair?",
+          "a": "About {{city:artesia.drive_mi}} miles and {{city:artesia.drive_min}} minutes, straight down {{city:artesia.route}} to {{address}}."
+        },
+        {
+          "q": "Does a skin fade work on curly hair?",
+          "a": "Yes, on curls, waves and straight hair alike, since the sides come all the way off. The <a href=\"/styles/skin-fade/\">skin fade page</a> shows it next to a full beard."
+        },
+        {
+          "q": "Should the beard come off for summer too?",
+          "a": "That's up to you. If it stays, book the Signature so it's lined up in the same visit as the fade."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "04 / ON BOOKSY",
+      "heading": "The two bookings.",
+      "lead": "Prices and times straight from the menu.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "Fade and top, nape finished with a straight razor, styled to leave. For a clean-shaven face or a beard you handle yourself.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "The fade plus beard work, trim or line-up, with a hot towel and fine razor detailing. The booking for a skin fade worn with a beard.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "APPOINTMENTS ONLY",
+      "heading": "Book the fade.<br>Drive down cooler.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ]
+}

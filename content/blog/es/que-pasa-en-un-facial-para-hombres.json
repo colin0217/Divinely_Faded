@@ -7,8 +7,8 @@
   "plan_rank": 21,
   "title": "Qué pasa durante un facial para hombres (y cada cuánto hacerlo)",
   "eyebrow": "FACIALES",
-  "hero": "steam-facial",
-  "hero_alt": "Vapor tibio flotando sobre la cara de un cliente reclinado durante un facial para hombres en Divinely Faded",
+  "hero": "pexels-16131208-mens-facial-device",
+  "hero_alt": "Un hombre recostado con los ojos cerrados mientras le trabajan la cara con un aparato de mano",
   "image_plan": null,
   "card_text": "Masaje, vapor, exfoliación y crema hidratante, todo en la silla de barbero: qué incluye cada facial y cada cuánto agendar uno.",
   "lede": [
@@ -22,9 +22,18 @@
     "secondary": []
   },
   "breadcrumb": [
-    ["Inicio", "/es/"],
-    ["Blog", "/es/blog/"],
-    ["Facial para hombres", "/es/blog/que-pasa-en-un-facial-para-hombres/"]
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Blog",
+      "/es/blog/"
+    ],
+    [
+      "Facial para hombres",
+      "/es/blog/que-pasa-en-un-facial-para-hombres/"
+    ]
   ],
   "blocks": [
     {

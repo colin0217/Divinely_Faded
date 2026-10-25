@@ -1,0 +1,124 @@
+{
+  "id": "artesia-services-facials",
+  "locale": "es",
+  "pageType": "cell",
+  "city": "artesia",
+  "base": "services-facials",
+  "slug": "/es/artesia/faciales-para-hombres/",
+  "alt": "/artesia/mens-facials/",
+  "nav_label": "Faciales · Artesia",
+  "card_text": "Faciales para hombres de Artesia: por qué el aire seco lo justifica y cómo combinarlo con un corte en un solo viaje.",
+  "breadcrumb": [
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Artesia",
+      "/es/artesia/"
+    ],
+    [
+      "Faciales para hombres",
+      "/es/artesia/faciales-para-hombres/"
+    ]
+  ],
+  "seo": {
+    "title": "Facial para hombres para Artesia, NM | Divinely Faded",
+    "description": "Express y Deluxe Facial para Artesia, en la silla de barbero de Tim en Carlsbad, a unos 44 minutos por la US 285. Por qué el aire seco lo justifica.",
+    "primary": "facial para hombres artesia nm",
+    "secondary": [
+      "faciales para hombres artesia"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "ARTESIA / FACIALES PARA HOMBRES",
+      "h1": "Faciales para hombres, desde Artesia.",
+      "paragraphs": [
+        "Mis dos faciales pasan en la silla de barbero en Carlsbad, a {{city:artesia.drive_mi}} millas de Artesia por la {{city:artesia.route}}, alrededor de {{city:artesia.drive_min}} minutos por cada lado (rutas de OpenStreetMap). Sin spa, sin una parada aparte.",
+        "La razón para hacer ese viaje por tu piel empieza con el aire en el que vives."
+      ],
+      "link": {
+        "label": "AGENDA UN FACIAL",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / EL AIRE",
+      "heading": "Seco, y sin mucha lluvia que lo arregle.",
+      "paragraphs": [
+        "Artesia promedia alrededor de {{city:artesia.humidity_pct}} de humedad y apenas unas {{city:artesia.rain_in}} pulgadas de lluvia al año (Open-Meteo, 2023–25). La piel en ese aire suelta humedad todo el día y recupera muy poca. Un facial revierte parte de eso: el vapor tibio abre los poros, la exfoliación suave limpia lo que dejó el viento, y la crema hidratante del final es el paso que más importa para el camino a casa.",
+        "Si pasas tus días al aire libre, en el {{city:artesia.mining_ag_jobs_pct}} de los empleos de Artesia que son de minería, petróleo y gas o agricultura (Censo ACS 2023), súmale polvo y sol a esa lista. El Deluxe, con sus tratamientos avanzados para la piel y su sérum, es el que yo te recomendaría."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "02 / LOS DOS",
+      "heading": "Express o Deluxe.",
+      "lead": "De Booksy. Cualquiera cabe antes o después de un corte.",
+      "items": [
+        {
+          "title": "Express Facial",
+          "meta": "{{price:express-facial}} · {{minutes:express-facial}}",
+          "body": "Media hora para reponerte: limpieza, exfoliación ligera, vapor, masaje y al final crema hidratante. El más corto de los dos.",
+          "book": true
+        },
+        {
+          "title": "Deluxe Facial",
+          "meta": "{{price:deluxe-facial}} · {{minutes:deluxe-facial}}",
+          "body": "Primero vapor y masaje; luego exfoliación, crema hidratante, tratamientos avanzados para la piel y sérum antiedad. Agenda este para una piel que pasó una temporada al aire libre.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / UN SOLO VIAJE",
+      "heading": "Combínalo con el corte.",
+      "paragraphs": [
+        "Lo sensato para hacer un facial desde Artesia es agendarlo en Booksy junto con un corte, uno tras otro, para que un solo viaje cubra los dos. O agenda la Luxury Grooming Experience (experiencia de arreglo de lujo), que ya trae el vapor facial y dos toallas calientes dentro del corte.",
+        "Un facial se agenda como todo lo demás aquí: solo con cita, se paga al terminar, y por no llegar a tu cita o por una cancelación de último momento se puede cobrar un cargo."
+      ],
+      "photos": []
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / PREGUNTAS",
+      "heading": "Preguntas de faciales desde Artesia.",
+      "items": [
+        {
+          "q": "¿Vale la pena el viaje solo por un facial?",
+          "a": "Lo decides tú. El Express Facial (facial exprés) dura {{minutes:express-facial}} y el Deluxe Facial (facial deluxe) dura {{minutes:deluxe-facial}}, así que combinar uno con un corte hace que el viaje de {{city:artesia.drive_min}} minutos rinda más."
+        },
+        {
+          "q": "¿Qué facial para piel seca?",
+          "a": "Los dos terminan con crema hidratante. El Deluxe agrega tratamientos avanzados y un sérum encima, y por eso lo elegiría para una piel que ha estado en el sol y el viento."
+        },
+        {
+          "q": "¿Puedo tener el vapor sin un facial completo?",
+          "a": "Sí: el vapor facial y dos toallas calientes vienen dentro de la Luxury Grooming Experience, junto con el corte."
+        },
+        {
+          "q": "¿Cuánto cuesta un facial?",
+          "a": "El Express Facial cuesta {{price:express-facial}}; el Deluxe Facial cuesta {{price:deluxe-facial}}. La <a href=\"/es/servicios/faciales-para-hombres/\">página de faciales para hombres</a> explica cada paso."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "CUIDADO DE LA PIEL",
+      "heading": "Recuéstate.<br>Regresa con la piel hidratada.",
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
+    }
+  ]
+}

@@ -152,7 +152,7 @@
       "type": "table",
       "eyebrow": "05 / SI VIENES DE CERCA",
       "heading": "Si vienes de cerca.",
-      "lead": "¿Vienes manejando desde Loving, Artesia o cualquier otra parte del condado de Eddy? Aquí va más o menos qué tan lejos está la barbería.",
+      "lead": "¿Vienes manejando desde Loving, Artesia, Hobbs, Roswell o cualquier otro lugar cercano? Aquí va más o menos qué tan lejos está la barbería.",
       "columns": [
         "Pueblo",
         "Millas",
@@ -160,7 +160,7 @@
       ],
       "rows": "nearby",
       "paragraphs": [
-        "¿Vienes de Artesia? <a class=\"text-link\" href=\"/es/visitanos/artesia/\">Planea el viaje</a>."
+        "¿Vienes de fuera? Planea el viaje desde <a class=\"text-link\" href=\"/es/artesia/\">Artesia</a>, <a class=\"text-link\" href=\"/es/hobbs/\">Hobbs</a> o <a class=\"text-link\" href=\"/es/roswell/\">Roswell</a>."
       ]
     },
     {
@@ -197,10 +197,11 @@
     }
   ],
   "related": [
-    "visit-artesia",
+    "city-artesia",
+    "city-hobbs",
+    "city-roswell",
     "services",
-    "about",
-    "faq"
+    "about"
   ],
   "tim_questions": [
     "[TIM?] Confirm weekday hours: Booksy shows Mon/Tue/Thu/Fri 9:00 AM–12:00 PM and 12:30–5:00 PM.",

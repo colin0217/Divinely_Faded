@@ -1,0 +1,126 @@
+{
+  "id": "roswell-services-haircuts",
+  "locale": "es",
+  "pageType": "cell",
+  "city": "roswell",
+  "base": "services-haircuts",
+  "slug": "/es/roswell/cortes-de-cabello/",
+  "alt": "/roswell/haircuts/",
+  "nav_label": "Cortes · Roswell",
+  "card_text": "Qué corte agendar desde Roswell, según cuánto tiempo le vas a dedicar al viaje por la 285.",
+  "breadcrumb": [
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Roswell",
+      "/es/roswell/"
+    ],
+    [
+      "Cortes",
+      "/es/roswell/cortes-de-cabello/"
+    ]
+  ],
+  "seo": {
+    "title": "Cortes de pelo para Roswell, NM | Divinely Faded, Carlsbad",
+    "description": "Tres cortes para quien baja desde Roswell, en Carlsbad, a unos 92 minutos al sur por la US 285. Elige el que vaya con tu viaje y agenda en Booksy.",
+    "primary": "cortes de pelo para hombres roswell nm",
+    "secondary": [
+      "corte de pelo roswell nm"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "ROSWELL / CORTES",
+      "h1": "Cortes, desde Roswell.",
+      "paragraphs": [
+        "Mi silla está en Carlsbad, a {{city:roswell.drive_mi}} millas al sur de Roswell por la {{city:roswell.route}}, con Artesia a la mitad del camino. Son unos {{city:roswell.drive_min}} minutos de ida (rutas de OpenStreetMap), tiempo suficiente para que el corte que agendes vaya con el tipo de viaje que estás haciendo.",
+        "En mi menú de Booksy hay tres cortes. Uno es rápido, otro suma la barba y el otro convierte la visita en toda la tarde."
+      ],
+      "link": {
+        "label": "AGENDA UN CORTE",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / SEGÚN EL VIAJE",
+      "heading": "¿Día de mandados o día de barbería?",
+      "paragraphs": [
+        "Si Carlsbad es una parada más en tu lista, el Essential Haircut (corte esencial) te tiene en la silla {{minutes:essential-haircut}} y te manda de regreso con la nuca limpia a navaja. Si manejaste {{city:roswell.drive_min}} minutos solo por el corte, la Luxury Grooming Experience (experiencia de arreglo de lujo) le saca más provecho a las millas: consulta, corte, modelado de barba, lavado, vapor, dos toallas calientes y un toque final de fragancia en una sola sesión.",
+        "El Signature Cut (corte distintivo) queda en medio, y es el indicado cuando tu barba necesita un delineado (line-up) que vaya con el corte."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "02 / CÓMO AGENDARLO",
+      "heading": "Los tres del menú.",
+      "lead": "Precios y minutos vienen directo de Booksy.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "El corte, la nuca limpia a navaja y el peinado final. Nada de más, nada de menos.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "Corte más corte de barba o delineado, toalla caliente y detalles con navaja. Tu barba también regresa a casa nítida.",
+          "book": true
+        },
+        {
+          "title": "Luxury Grooming Experience",
+          "meta": "{{price:luxury-grooming}} · {{minutes:luxury-grooming}}",
+          "body": "Todo lo que hago alrededor de un corte, en una cita de {{minutes:luxury-grooming}}. Vale la pena cuando el viaje es la razón del día.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / LA SEMANA DE TRABAJO",
+      "heading": "Horarios distintos a los de Carlsbad.",
+      "paragraphs": [
+        "Solo el {{city:roswell.mining_ag_jobs_pct}} de quienes trabajan en Roswell están en minería, petróleo y gas o agricultura, contra el {{city:carlsbad.mining_ag_jobs_pct}} aquí en Carlsbad (Censo ACS 2023). Si tu semana está llena, el sábado es la ventana libre: atiendo de 8:00 AM a 2:00 PM.",
+        "Booksy también muestra los horarios entre semana. Mándame un mensaje al {{phone}} si nada cuadra."
+      ],
+      "photos": []
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / PREGUNTAS",
+      "heading": "Cortes desde Roswell, en respuestas.",
+      "items": [
+        {
+          "q": "¿Cuánto se maneja desde Roswell para un corte?",
+          "a": "Unos {{city:roswell.drive_min}} minutos y {{city:roswell.drive_mi}} millas, derecho por la {{city:roswell.route}}. La barbería está en {{address}}."
+        },
+        {
+          "q": "¿Qué corte agendo si tengo poco tiempo?",
+          "a": "El Essential Haircut. Booksy le separa {{minutes:essential-haircut}}, así que estás de vuelta en la 285 en menos de una hora."
+        },
+        {
+          "q": "¿Puedo agregar lavado al Essential o al Signature?",
+          "a": "Sí. El lavado y masaje en el cuero cabelludo es un extra de {{addon:wash-scalp-massage}}. En la Luxury Grooming Experience ya viene incluido."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "SOLO CON CITA",
+      "heading": "Elige tu corte.<br>Y apunta al sur.",
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
+    }
+  ]
+}

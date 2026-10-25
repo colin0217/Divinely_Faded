@@ -1,0 +1,120 @@
+{
+  "id": "hobbs-services-color",
+  "locale": "en",
+  "pageType": "cell",
+  "city": "hobbs",
+  "base": "services-color",
+  "slug": "/hobbs/color-and-perm/",
+  "alt": "/es/hobbs/color-y-permanente/",
+  "nav_label": "Color & perm · Hobbs",
+  "card_text": "Color and perms from Hobbs: the two long appointments that make a long drive make sense.",
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Hobbs",
+      "/hobbs/"
+    ],
+    [
+      "Color & Perm",
+      "/hobbs/color-and-perm/"
+    ]
+  ],
+  "seo": {
+    "title": "Men's Hair Color & Perm for Hobbs, NM | Divinely Faded",
+    "description": "Men's hair color and perms for Hobbs, done in Carlsbad west on US 62/180. How to give a Color Transformation or a Perm the whole day. Book on Booksy.",
+    "primary": "mens hair color hobbs nm",
+    "secondary": [
+      "perm for men hobbs nm",
+      "bleached hair hobbs nm"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "HOBBS / COLOR & PERM",
+      "h1": "Color and perms, from Hobbs.",
+      "paragraphs": [
+        "A Color Transformation is the longest booking on my menu, and a Perm isn't far behind. Both happen in my chair in Carlsbad, {{city:hobbs.drive_mi}} miles from Hobbs along {{city:hobbs.route}}, about {{city:hobbs.drive_min}} minutes by car (OpenStreetMap routing).",
+        "Of everything I do, these two are the appointments that give a long drive a reason: one trip, one big change."
+      ],
+      "link": {
+        "label": "BOOK COLOR OR PERM",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "01 / BOOK IT AS",
+      "heading": "Two long sittings.",
+      "items": [
+        {
+          "title": "Color Transformation",
+          "meta": "{{price:color-transformation}} · {{minutes:color-transformation}}",
+          "body": "Bleach and tone to the shade you pick. Booksy blocks {{minutes:color-transformation}}; from Hobbs, that means the whole day.",
+          "book": true
+        },
+        {
+          "title": "Perm",
+          "meta": "{{price:perm}} · {{minutes:perm}}",
+          "body": "Volume, texture and movement set into hair that lies flat. {{minutes:perm}} in the chair.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / PLAN THE DAY",
+      "heading": "Give it the day.",
+      "paragraphs": [
+        "Add the drive both ways to {{minutes:color-transformation}} in the chair and the day is spoken for. Book a morning slot, eat before you leave Hobbs, and don't put anything behind it.",
+        "A Perm is shorter, but still long enough that I'd give that day nothing else except the trip home."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / THE SUMMER",
+      "heading": "Lighter hair, milder heat.",
+      "paragraphs": [
+        "Hobbs runs a touch cooler than Carlsbad: an average July high of {{city:hobbs.july_high_f}} and about {{city:hobbs.days_100f}} days a year at 100°F or more, against {{city:carlsbad.july_high_f}} and {{city:carlsbad.days_100f}} here (Open-Meteo, 2023–25). Bleached hair and a fresh perm both ask for some care in the sun and heat, so if you're planning the change for summer, that's one small thing in your favor.",
+        "Send me a photo of the shade or the wave you want by text before you book, so we agree on where it lands before you drive. Color stays on the head; I don't dye beards."
+      ],
+      "photos": []
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / QUESTIONS",
+      "heading": "Color and perm questions from Hobbs.",
+      "items": [
+        {
+          "q": "How long should I set aside for a Color Transformation from Hobbs?",
+          "a": "{{minutes:color-transformation}} in the chair, plus about {{city:hobbs.drive_min}} minutes each way."
+        },
+        {
+          "q": "Can I get a cut and the color in one visit?",
+          "a": "Text me what you have in mind before booking and I'll tell you how to schedule it."
+        },
+        {
+          "q": "What does a Perm cost?",
+          "a": "{{price:perm}}, with {{minutes:perm}} held on Booksy. The <a href=\"/services/color-and-perm/\">color and perm page</a> has photos."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "COLOR & TEXTURE",
+      "heading": "One long sit.<br>One big change.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ]
+}

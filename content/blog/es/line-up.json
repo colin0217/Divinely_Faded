@@ -7,8 +7,8 @@
   "plan_rank": 18,
   "title": "Delineado (line-up): qué es y cuánto dura nítido",
   "eyebrow": "ESTILOS",
-  "hero": "cut-low-fade-line-up",
-  "hero_alt": "Desvanecido bajo con un delineado nítido en la sien y el bigote recortado",
+  "hero": "pexels-33448216-clippers-line-up",
+  "hero_alt": "Máquina marcando el delineado (line-up) del contorno del pelo, en primer plano",
   "image_plan": null,
   "card_text": "El contorno nítido en tu frente, sienes y nuca: cómo se corta, en qué se diferencia de un shape up y por qué se borra primero.",
   "lede": [
@@ -22,9 +22,18 @@
     "secondary": []
   },
   "breadcrumb": [
-    ["Inicio", "/es/"],
-    ["Blog", "/es/blog/"],
-    ["Delineado", "/es/blog/line-up/"]
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Blog",
+      "/es/blog/"
+    ],
+    [
+      "Delineado",
+      "/es/blog/line-up/"
+    ]
   ],
   "blocks": [
     {

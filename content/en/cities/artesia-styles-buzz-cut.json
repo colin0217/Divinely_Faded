@@ -1,0 +1,129 @@
+{
+  "id": "artesia-styles-buzz-cut",
+  "locale": "en",
+  "pageType": "cell",
+  "city": "artesia",
+  "base": "styles-buzz-cut",
+  "slug": "/artesia/buzz-cut/",
+  "alt": "/es/artesia/buzz-cut/",
+  "nav_label": "Buzz cut · Artesia",
+  "card_text": "Buzz cuts for Artesia: a cut for hard hats and hot days, booked before the drive down 285.",
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Artesia",
+      "/artesia/"
+    ],
+    [
+      "Buzz Cut",
+      "/artesia/buzz-cut/"
+    ]
+  ],
+  "seo": {
+    "title": "Buzz Cut for Artesia, NM | Divinely Faded, Carlsbad",
+    "description": "Buzz cuts, crew cuts and high and tights for Artesia, cut in Carlsbad {{city:artesia.drive_min}} minutes down US 285. Built for work weeks and 100°F days. Book on Booksy first.",
+    "primary": "buzz cut artesia nm",
+    "secondary": [
+      "crew cut artesia nm",
+      "short haircut artesia nm"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "ARTESIA / BUZZ CUT",
+      "h1": "Buzz cut, from Artesia.",
+      "paragraphs": [
+        "A buzz cut is one short clipper length everywhere, with a fade and a line-up so it looks finished rather than grown out. I cut them at {{address}} in Carlsbad, which from Artesia is {{city:artesia.drive_mi}} miles south along {{city:artesia.route}}, roughly {{city:artesia.drive_min}} minutes (OpenStreetMap routing).",
+        "Not a long drive, but long enough that you'll want the cut to earn it."
+      ],
+      "link": {
+        "label": "BOOK A BUZZ CUT",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / WORK WEEKS",
+      "heading": "Short enough for a hard hat.",
+      "paragraphs": [
+        "Census ACS 2023 puts {{city:artesia.mining_ag_jobs_pct}} of Artesia's jobs in mining, oil and gas, or agriculture. If you're one of them, a buzz asks nothing of you on an early start: no comb, no product, nothing a helmet can flatten. It's also part of why Saturday morning appointments are on my calendar, for anyone whose weekdays belong to a shift."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "02 / BOOK IT AS",
+      "heading": "Three short answers.",
+      "lead": "Prices and times come from Booksy.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "Buzz, crew or high and tight, the outline squared and the neck cleaned with a straight razor.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "The same short cut with your beard trimmed or lined up under a hot towel.",
+          "book": true
+        },
+        {
+          "title": "Head & Beard Shave",
+          "meta": "{{price:head-beard-shave}} · {{minutes:head-beard-shave}}",
+          "body": "Past a buzz and all the way to bare: head and beard shaved with hot towels and an aftershave balm.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / HOT DAYS",
+      "heading": "Less hair for a long summer.",
+      "paragraphs": [
+        "Artesia sees about {{city:artesia.days_100f}} days a year at or above 100°F, with July highs averaging {{city:artesia.july_high_f}} (Open-Meteo, 2023–25). Some people go to a buzz for exactly those months and let it grow back in the fall. Others never let it get longer. Either way, the fade and the front line are what blur first, so they set your return date, not the top."
+      ],
+      "photos": []
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / QUESTIONS",
+      "heading": "Buzz cut questions from up the road.",
+      "items": [
+        {
+          "q": "How often will I drive down from Artesia for a buzz cut?",
+          "a": "It depends on how sharp you keep the fade. Ask me in the chair; I'll give you a gap that fits your hair, and you can book it on Booksy before leaving."
+        },
+        {
+          "q": "Crew cut or buzz cut for a job site?",
+          "a": "Both work under a hard hat. A crew cut keeps a bit more on top to comb; a buzz is the same length all over and needs nothing."
+        },
+        {
+          "q": "Can I bring my kid for a buzz at the same time?",
+          "a": "Yes. Book your child their own slot on Booksy right after yours; kids are welcome."
+        },
+        {
+          "q": "Do you shave heads too?",
+          "a": "I do. The Head & Beard Shave takes everything to skin with hot towels. The <a href=\"/styles/buzz-cut/\">buzz cut page</a> shows where a high and tight stops short of that."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "APPOINTMENTS ONLY",
+      "heading": "Book the buzz.<br>Make the drive count.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ]
+}

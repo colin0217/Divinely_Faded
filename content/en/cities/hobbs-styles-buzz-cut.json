@@ -1,0 +1,126 @@
+{
+  "id": "hobbs-styles-buzz-cut",
+  "locale": "en",
+  "pageType": "cell",
+  "city": "hobbs",
+  "base": "styles-buzz-cut",
+  "slug": "/hobbs/buzz-cut/",
+  "alt": "/es/hobbs/buzz-cut/",
+  "nav_label": "Buzz cut · Hobbs",
+  "card_text": "The buzz cut from Hobbs: the cut that asks the least of you between 80-minute drives.",
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Hobbs",
+      "/hobbs/"
+    ],
+    [
+      "Buzz Cut",
+      "/hobbs/buzz-cut/"
+    ]
+  ],
+  "seo": {
+    "title": "Buzz Cut for Hobbs, NM | Divinely Faded, Carlsbad",
+    "description": "Buzz, crew and high and tight cuts for Hobbs, cut in Carlsbad 70 miles west. A cut for rotations and hard hats, with the longest gap between trips.",
+    "primary": "buzz cut hobbs nm",
+    "secondary": [
+      "crew cut hobbs nm",
+      "barber hobbs nm"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "HOBBS / BUZZ CUT",
+      "h1": "Buzz cut, from Hobbs.",
+      "paragraphs": [
+        "One clipper length over the whole head, a fade climbing the sides and a squared-off line-up at the front. I cut it in Carlsbad, roughly {{city:hobbs.drive_min}} minutes (OpenStreetMap routing) from a driveway in Hobbs by way of {{city:hobbs.route}}.",
+        "If your week belongs to a rig, a plant or a field, this is the cut that needs the least from you between visits."
+      ],
+      "link": {
+        "label": "BOOK A BUZZ CUT",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / THE DRIVE",
+      "heading": "Even growth means a longer gap.",
+      "paragraphs": [
+        "When every haircut costs you {{city:hobbs.drive_min}} minutes each direction, the cut that grows out evenly wins. On a buzz the top barely changes as it lengthens; what blurs is the fade and the squared front, and I'll tell you in the chair roughly when they'll start to go.",
+        "About {{city:hobbs.mining_ag_jobs_pct}} of employed Hobbs residents work in mining, oil and gas or agriculture (Census ACS 2023). On a rotation, book the trip for a day off rather than after a shift; Saturday runs 8 AM to 2 PM."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / UNDER A HARD HAT",
+      "heading": "Nothing to flatten, nothing to fix.",
+      "paragraphs": [
+        "A buzz comes out from under a hard hat the way it went in: no part to re-set, no top to lift. All that matters after a shift is whether the outline is still clean."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "03 / BOOK IT AS",
+      "heading": "Short, shorter, bare.",
+      "lead": "Three bookings, depending on how far down you go.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "Buzz, crew or high and tight, fade set where you want it, neckline taken clean with a straight razor.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "The same short cut with the beard trimmed or lined up, then a hot towel. With hair this short, the beard carries the look.",
+          "book": true
+        },
+        {
+          "title": "Head & Beard Shave",
+          "meta": "{{price:head-beard-shave}} · {{minutes:head-beard-shave}}",
+          "body": "All the way bare: a precision head shave and beard shave with hot towels and an aftershave balm.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / QUESTIONS",
+      "heading": "Buzz cut questions from Lea County.",
+      "items": [
+        {
+          "q": "How often will I be making the drive from Hobbs for a buzz cut?",
+          "a": "Less often than for most cuts, since the length grows evenly; the fade and the line-up set the pace. Ask me in the chair."
+        },
+        {
+          "q": "Buzz, crew or high and tight for shift work?",
+          "a": "Any of the three. A crew cut keeps a bit more on top if you're unsure about your head shape; a high and tight shows the outline most."
+        },
+        {
+          "q": "What do the three short cuts look like?",
+          "a": "The <a href=\"/styles/buzz-cut/\">buzz cut page</a> explains buzz, crew and high and tight side by side, with a photo from my chair."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "APPOINTMENTS ONLY",
+      "heading": "Buzz it short.<br>Drive it home.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ]
+}

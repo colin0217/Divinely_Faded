@@ -1,0 +1,166 @@
+{
+  "id": "post-321-buzz-cut",
+  "locale": "en",
+  "slug": "/blog/321-buzz-cut/",
+  "date": "2027-02-05",
+  "plan_rank": 95,
+  "title": "The 3-2-1 Buzz Cut: What the Trend Means in the Chair",
+  "eyebrow": "STYLES",
+  "hero": "pexels-11287869-clipper-guard-buzz",
+  "hero_alt": "A clipper with a guard attached running over short hair",
+  "image_plan": "pexels: buzz cut clipper",
+  "card_text": "Three guard lengths stepping down the head. What the trend is, why home versions show lines, and the blended version.",
+  "lede": [
+    "A 3-2-1 buzz cut uses three clipper guards: a 3 on top, a 2 through the sides and back, and a 1 at the bottom around the ears and neck. It's a do-it-yourself way of making a buzz shorter at the bottom than on top, so it looks graduated instead of one flat length. In a barber chair, the same idea gets done as a blended fade, without visible steps where the guards change.",
+    "Here's what the trend is, why home versions often show lines, and how to ask for the blended version."
+  ],
+  "seo": {
+    "title": "The 3-2-1 Buzz Cut, Explained | Carlsbad, NM",
+    "description": "The 3-2-1 buzz cut explained by a Carlsbad, NM barber: three guard lengths stepping down the head, and how a barber blends the same idea into a fade.",
+    "primary": "321 buzz cut",
+    "secondary": []
+  },
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Blog",
+      "/blog/"
+    ],
+    [
+      "3-2-1 Buzz Cut",
+      "/blog/321-buzz-cut/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / THE TREND",
+      "heading": "Three guards, top to bottom.",
+      "lead": "Simple math.",
+      "paragraphs": [
+        "Start with the longest guard over the top of the head. Switch to the next guard down for the sides and back, then the shortest one around the ears and along the neck. Each band is shorter than the one above it.",
+        "In standard guard sizes, a 3 leaves about three-eighths of an inch, a 2 about a quarter inch and a 1 about an eighth. The steps between them are small, which is why the idea works at all.",
+        "It goes by a few names online, but the guard numbers tell you everything: three lengths, longest on top.",
+        "The appeal is easy to see. It's quick, it needs nothing but clippers, and it looks more finished than one guard all over."
+      ],
+      "link": {
+        "label": "SEE GUARD SIZES",
+        "href": "page:post-clipper-guard-sizes"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / WHERE IT GOES WRONG",
+      "heading": "Lines where the guards change.",
+      "lead": "The steps show.",
+      "paragraphs": [
+        "Each guard leaves a ledge where it stops. On short hair those ledges show up as rings around the head, especially in bright light, or when dark hair sits against lighter skin.",
+        "Where the bands sit matters too. Too high and the head looks boxy; uneven from side to side and it looks crooked. Both are hard to judge on the back of your own head.",
+        "Hair type changes it too. Coarse, dark hair shows each ledge clearly, while fine or light hair hides them better.",
+        "None of it is a disaster. It's hair, and it grows back. But it's the gap between a buzz done at the bathroom mirror and one that looks blended."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / IN THE CHAIR",
+      "heading": "Same idea, no steps.",
+      "lead": "What a barber changes.",
+      "paragraphs": [
+        "A barber works on the same principle: longer on top, shorter toward the bottom. The difference is what happens at each change. Opening and closing the clipper lever, using in-between lengths, and working the edge of each band soften every ledge until the lengths run together.",
+        "The result is a buzz with a fade or taper on the sides. You can keep the steps close for a subtle graduation, or take the bottom down to skin for more contrast.",
+        "It also means the top can stay at a 3 while the sides go wherever you like."
+      ],
+      "link": {
+        "label": "SEE THE BUZZ CUT",
+        "href": "page:styles-buzz-cut"
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "04 / THE NUMBERS",
+      "heading": "Guard lengths in a 3-2-1.",
+      "columns": [
+        "Guard",
+        "About",
+        "Where it goes"
+      ],
+      "rows": [
+        [
+          "3",
+          "3/8 inch",
+          "Top"
+        ],
+        [
+          "2",
+          "1/4 inch",
+          "Sides and back"
+        ],
+        [
+          "1",
+          "1/8 inch",
+          "Around the ears and neck"
+        ]
+      ],
+      "paragraphs": [
+        "Guard sizes can vary a little between clipper makers, so treat these lengths as approximate."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "05 / ASKING FOR IT",
+      "heading": "Say it in guards.",
+      "lead": "Barbers speak this language.",
+      "paragraphs": [
+        "Sit down and say you want a 3-2-1 buzz, blended. Then tell me if you'd like the blend low around the ears or higher up the sides, and whether the bottom should go shorter than a 1 or stay there.",
+        "It's booked as an Essential Haircut, {{price:essential-haircut}} for {{minutes:essential-haircut}}, with a straight razor neck cleanup to finish the edge."
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / QUESTIONS",
+      "heading": "3-2-1, answered.",
+      "items": [
+        {
+          "q": "What is a 3-2-1 buzz cut?",
+          "a": "A buzz with a 3 guard on top, a 2 on the sides and back, and a 1 at the bottom, so it gets shorter toward the neck."
+        },
+        {
+          "q": "Is a 3-2-1 buzz a fade?",
+          "a": "It's a rough version of one. A fade blends the lengths so there are no visible lines."
+        },
+        {
+          "q": "Can I do a 3-2-1 at home?",
+          "a": "Yes, it was made for home clippers. The back and the blend between guards are the hard parts."
+        },
+        {
+          "q": "How long is a 1 guard?",
+          "a": "About an eighth of an inch in standard sizes."
+        },
+        {
+          "q": "Can the bottom go shorter than a 1?",
+          "a": "Yes. A smaller guard or taking it to skin both give a stronger fade."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "THREE GUARDS",
+      "heading": "Same idea.<br>No lines.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "styles-buzz-cut",
+    "services-haircuts"
+  ],
+  "tim_questions": [
+    "Do you take '3-2-1 buzz, blended' requests as a buzz with a fade? Confirm.",
+    "The blending technique (clipper lever, in-between lengths, working the edge) is described in general terms. Correct it if you work differently."
+  ]
+}

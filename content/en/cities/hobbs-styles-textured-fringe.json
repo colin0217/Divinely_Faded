@@ -1,0 +1,120 @@
+{
+  "id": "hobbs-styles-textured-fringe",
+  "locale": "en",
+  "pageType": "cell",
+  "city": "hobbs",
+  "base": "styles-textured-fringe",
+  "slug": "/hobbs/textured-fringe/",
+  "alt": "/es/hobbs/fleco-texturizado/",
+  "nav_label": "Textured fringe · Hobbs",
+  "card_text": "Textured fringe and edgar cuts for Hobbs, a city with a big twenties crowd, cut 80 minutes west in Carlsbad.",
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Hobbs",
+      "/hobbs/"
+    ],
+    [
+      "Textured Fringe",
+      "/hobbs/textured-fringe/"
+    ]
+  ],
+  "seo": {
+    "title": "Textured Fringe for Hobbs, NM | Divinely Faded, Carlsbad",
+    "description": "Textured fringe and edgar cuts for Hobbs, cut in Carlsbad 70 miles west. Hair worn forward with the ends broken up; bring the photo, book on Booksy.",
+    "primary": "textured fringe hobbs nm",
+    "secondary": [
+      "edgar haircut hobbs nm",
+      "fringe haircut hobbs"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "HOBBS / TEXTURED FRINGE",
+      "h1": "Textured fringe, from Hobbs.",
+      "paragraphs": [
+        "Hair worn forward onto the forehead, the ends broken up so they fall in pieces, the sides tapered. I cut it in Carlsbad; anyone starting in Hobbs has {{city:hobbs.drive_mi}} miles of {{city:hobbs.route}} ahead of them, around {{city:hobbs.drive_min}} minutes.",
+        "It's a cut people ask for by name, edgar included, and the make-up of the city has something to do with that."
+      ],
+      "link": {
+        "label": "BOOK A TEXTURED FRINGE",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / THE AGE",
+      "heading": "A twenties cut in a twenties town.",
+      "paragraphs": [
+        "Roughly {{city:hobbs.age_20_34_pct}} of Hobbs is between 20 and 34 (Census ACS 2023), a slightly bigger slice than Carlsbad's {{city:carlsbad.age_20_34_pct}}. Fringe cuts, from the soft textured version to the sharper edgar with its blunt line, skew young, so that's a city where I'd expect the question to come up.",
+        "Bring the photo. A textured fringe and an edgar are close enough cousins that the picture settles what words can't."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / THE CLOCK",
+      "heading": "When it hits your eyes, you're due.",
+      "paragraphs": [
+        "Once the fringe is in your eyes, the shape is gone. Since the next cut is {{city:hobbs.drive_mi}} miles away, I can set it a little higher on the forehead than you'd wear it day to day; it grows into your preferred length over the following weeks and buys time before the next drive."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "03 / BOOK IT AS",
+      "heading": "One service for most fringe cuts.",
+      "lead": "Booksy prices and minutes.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}} · Kids welcome",
+          "body": "Fringe, top and taper in one sitting, straight razor finish at the nape, front styled forward. Teenagers book this one too.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "Add facial hair trimmed or lined up, and the hot towel that comes with it.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / QUESTIONS",
+      "heading": "Fringe questions from Hobbs.",
+      "items": [
+        {
+          "q": "Textured fringe or edgar: what do I tell you when I sit down?",
+          "a": "Show me the photo. An edgar has a blunt, straight line across the forehead and a sharp fade; a textured fringe is softer and choppier at the ends. Either is fine; I just want us picturing the same cut."
+        },
+        {
+          "q": "My son wants the edgar. What do I book from Hobbs?",
+          "a": "An Essential Haircut in his name on Booksy. Kids are welcome, and if you want a cut too, take the slot next to his."
+        },
+        {
+          "q": "Can I see the three versions first?",
+          "a": "The <a href=\"/styles/textured-fringe/\">textured fringe page</a> has a light, a heavy and a back view, all from my chair."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "APPOINTMENTS ONLY",
+      "heading": "Fringe forward.<br>Book before the drive.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ]
+}

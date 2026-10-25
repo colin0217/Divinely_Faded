@@ -1,0 +1,118 @@
+{
+  "id": "hobbs-styles-curly-top-fade",
+  "locale": "es",
+  "pageType": "cell",
+  "city": "hobbs",
+  "base": "styles-curly-top-fade",
+  "slug": "/es/hobbs/curly-top-fade/",
+  "alt": "/hobbs/curly-top-fade/",
+  "nav_label": "Curly top fade · Hobbs",
+  "card_text": "Curly top fade para Hobbs: por qué el aire más húmedo pide lados con desvanecido, y cómo agendar también a los niños.",
+  "breadcrumb": [
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Hobbs",
+      "/es/hobbs/"
+    ],
+    [
+      "Curly Top Fade",
+      "/es/hobbs/curly-top-fade/"
+    ]
+  ],
+  "seo": {
+    "title": "Curly top fade para Hobbs, NM | Divinely Faded, Carlsbad",
+    "description": "Curly top fade para Hobbs, cortado en Carlsbad a 80 minutos al oeste. Por qué los lados a piel van con la humedad y cómo agendar a toda la familia.",
+    "primary": "corte para pelo chino hobbs nm",
+    "secondary": [
+      "curly top fade hobbs"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "HOBBS / CURLY TOP FADE",
+      "h1": "Curly top fade, desde Hobbs.",
+      "paragraphs": [
+        "El chino natural se queda arriba y los lados van con desvanecido (fade) bien corto para que la textura de arriba se vea más llena. Corto el curly top fade en {{address}}, en Carlsbad. Desde Hobbs son {{city:hobbs.drive_mi}} millas por la {{city:hobbs.route}}, así que calcula unos {{city:hobbs.drive_min}} minutos de camino antes de que alguien se siente.",
+        "Este corte les queda a los niños igual que a los adultos, así que parte de esta página es para los papás que convierten un solo viaje en cortes para más de una cabeza."
+      ],
+      "link": {
+        "label": "AGENDA UN CURLY TOP FADE",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / EL AIRE",
+      "heading": "Aire más húmedo, chinos más grandes, lados más cortos.",
+      "paragraphs": [
+        "Hobbs tiene una humedad relativa promedio de alrededor del {{city:hobbs.humidity_pct}}, unos puntos por encima del {{city:carlsbad.humidity_pct}} de Carlsbad (Open-Meteo, 2023–25). El pelo chino gana volumen con el aire más húmedo, y los lados son donde ese esponjado menos favorece. Bajarlos hasta la piel le quita lo abultado a la silueta y deja que los chinos de arriba hagan lo que quieran."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / UN VIAJE, VARIAS CABEZAS",
+      "heading": "Agenda a los hermanos en fila.",
+      "paragraphs": [
+        "Hobbs es una ciudad joven: el {{city:hobbs.under18_pct}} de sus habitantes tiene menos de 18 años (Censo ACS 2023). Si el curly top es para tu hijo y de todos modos vas a hacer el viaje, agenda a cada niño su propio Essential Haircut (corte esencial) en horarios seguidos en Booksy, y suma el tuyo. ¿Vienes retrasado? Mándame un mensaje al {{phone}} antes de la hora de la primera cita."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "03 / CÓMO AGENDARLO",
+      "heading": "Corte, o primero la textura.",
+      "lead": "Los niños agendan el mismo servicio de corte que los adultos.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}} · Niños bienvenidos",
+          "body": "El chino con forma arriba, los lados con desvanecido a la altura que elijas y el contorno de la nuca terminado con navaja.",
+          "book": true
+        },
+        {
+          "title": "Perm",
+          "meta": "{{price:perm}} · {{minutes:perm}}",
+          "body": "Para pelo lacio que quiere un curly top: primero la textura. Una sesión más larga, más fácil de justificar para un viaje de {{city:hobbs.drive_min}} minutos.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / PREGUNTAS",
+      "heading": "Curly top fade, preguntado desde Hobbs.",
+      "items": [
+        {
+          "q": "¿Mis hijos pueden hacerse un curly top fade en el mismo viaje que yo?",
+          "a": "Sí. Los niños son bienvenidos. Agenda en Booksy un Essential Haircut para cada uno junto al tuyo, y así toda la familia sale en una sola visita."
+        },
+        {
+          "q": "¿Desvanecido bajo o alto para pelo chino en Hobbs?",
+          "a": "El bajo deja más pelo en los lados y crece con más suavidad, y eso ayuda cuando el siguiente corte está a {{city:hobbs.drive_mi}} millas. El alto pone los chinos en exhibición y muestra antes el pelo que vuelve a crecer."
+        },
+        {
+          "q": "¿Hay foto del corte?",
+          "a": "La <a href=\"/es/estilos/curly-top-fade/\">página del curly top fade</a> lo muestra en un cliente más joven, con los lados a piel y el chino suelto arriba."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "SOLO CON CITA",
+      "heading": "Agenda los chinos.<br>Trae a los niños.",
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
+    }
+  ]
+}

@@ -77,6 +77,8 @@ Last updated: 2026-10-25. Canonical site: https://divinely-faded-two.vercel.app/
 - Malaga: 17 mi, about 21 min
 - Whites City: 20 mi, about 24 min
 - Artesia: 36 mi, about 44 min
+- Hobbs: 70 mi, about 80 min
+- Roswell: 76 mi, about 92 min
 
 ## Blog
 

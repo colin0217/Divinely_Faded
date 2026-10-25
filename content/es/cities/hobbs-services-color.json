@@ -1,0 +1,119 @@
+{
+  "id": "hobbs-services-color",
+  "locale": "es",
+  "pageType": "cell",
+  "city": "hobbs",
+  "base": "services-color",
+  "slug": "/es/hobbs/color-y-permanente/",
+  "alt": "/hobbs/color-and-perm/",
+  "nav_label": "Color y permanente · Hobbs",
+  "card_text": "Color y permanente desde Hobbs: las dos citas largas que hacen que un camino largo tenga sentido.",
+  "breadcrumb": [
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Hobbs",
+      "/es/hobbs/"
+    ],
+    [
+      "Color y permanente",
+      "/es/hobbs/color-y-permanente/"
+    ]
+  ],
+  "seo": {
+    "title": "Color y permanente para Hobbs, NM | Divinely Faded",
+    "description": "Color y permanente para hombres de Hobbs, en Carlsbad por la US 62/180. Cómo darle el día completo a una Color Transformation o una permanente.",
+    "primary": "tinte de pelo hombre hobbs nm",
+    "secondary": [
+      "permanente para hombre hobbs nm"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "HOBBS / COLOR Y PERMANENTE",
+      "h1": "Color y permanente, desde Hobbs.",
+      "paragraphs": [
+        "La Color Transformation (transformación de color) es la cita más larga de mi menú, y la permanente no se queda muy atrás. Las dos pasan en mi silla en Carlsbad, a {{city:hobbs.drive_mi}} millas de Hobbs por la {{city:hobbs.route}}, unos {{city:hobbs.drive_min}} minutos en carro (rutas de OpenStreetMap).",
+        "De todo lo que hago, estas dos son las citas que le dan razón a un camino largo: un viaje, un cambio grande."
+      ],
+      "link": {
+        "label": "AGENDA COLOR O PERMANENTE",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "01 / CÓMO AGENDARLO",
+      "heading": "Dos sesiones largas.",
+      "items": [
+        {
+          "title": "Color Transformation",
+          "meta": "{{price:color-transformation}} · {{minutes:color-transformation}}",
+          "body": "Decoloración y matizado hasta el tono que elijas. Booksy bloquea {{minutes:color-transformation}}; desde Hobbs, eso es el día completo.",
+          "book": true
+        },
+        {
+          "title": "Perm",
+          "meta": "{{price:perm}} · {{minutes:perm}}",
+          "body": "Volumen, textura y movimiento para pelo que se queda lacio. {{minutes:perm}} en la silla.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / PLANEA EL DÍA",
+      "heading": "Dale el día.",
+      "paragraphs": [
+        "Súmale el camino de ida y vuelta a {{minutes:color-transformation}} en la silla y el día queda tomado. Agenda un horario de la mañana, come antes de salir de Hobbs y no pongas nada después.",
+        "La permanente es más corta, pero sigue siendo lo bastante larga como para que ese día no le sume nada más que el viaje de regreso."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / EL VERANO",
+      "heading": "Pelo más claro, calor más leve.",
+      "paragraphs": [
+        "Hobbs es un poco más fresco que Carlsbad: una máxima promedio de julio de {{city:hobbs.july_high_f}} y unos {{city:hobbs.days_100f}} días al año de 100°F o más, frente a {{city:carlsbad.july_high_f}} y {{city:carlsbad.days_100f}} aquí (Open-Meteo, 2023–25). El pelo decolorado y una permanente recién hecha piden algo de cuidado con el sol y el calor, así que si planeas el cambio para el verano, ese es un pequeño punto a tu favor.",
+        "Mándame una foto del tono o de la onda que quieres por mensaje antes de agendar, para que acordemos dónde va a quedar antes de que manejes. El color se queda en la cabeza; no tiño barbas."
+      ],
+      "photos": []
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / PREGUNTAS",
+      "heading": "Preguntas de color y permanente desde Hobbs.",
+      "items": [
+        {
+          "q": "¿Cuánto tiempo debo dejar libre para una Color Transformation desde Hobbs?",
+          "a": "{{minutes:color-transformation}} en la silla, más unos {{city:hobbs.drive_min}} minutos de ida y otros tantos de vuelta."
+        },
+        {
+          "q": "¿Puedo hacer el corte y el color en una sola visita?",
+          "a": "Mándame un mensaje con lo que tienes en mente antes de agendar y te digo cómo acomodarlo."
+        },
+        {
+          "q": "¿Cuánto cuesta la permanente?",
+          "a": "{{price:perm}}, con {{minutes:perm}} separados en Booksy. La <a href=\"/es/servicios/color-y-permanente/\">página de color y permanente</a> tiene fotos."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "COLOR Y TEXTURA",
+      "heading": "Una sesión larga.<br>Un cambio grande.",
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
+    }
+  ]
+}

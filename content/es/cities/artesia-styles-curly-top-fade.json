@@ -1,0 +1,123 @@
+{
+  "id": "artesia-styles-curly-top-fade",
+  "locale": "es",
+  "pageType": "cell",
+  "city": "artesia",
+  "base": "styles-curly-top-fade",
+  "slug": "/es/artesia/curly-top-fade/",
+  "alt": "/artesia/curly-top-fade/",
+  "nav_label": "Curly top fade · Artesia",
+  "card_text": "Curly top fade para niños y adultos de Artesia: hermanos uno tras otro, un solo viaje por la 285.",
+  "breadcrumb": [
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Artesia",
+      "/es/artesia/"
+    ],
+    [
+      "Curly Top Fade",
+      "/es/artesia/curly-top-fade/"
+    ]
+  ],
+  "seo": {
+    "title": "Curly top fade para Artesia, NM | Divinely Faded, Carlsbad",
+    "description": "Curly top fade para familias y adultos de Artesia, en Carlsbad, a unos {{city:artesia.drive_min}} minutos por la US 285. Agenda a los niños uno tras otro, en un solo viaje.",
+    "primary": "corte para pelo chino artesia nm",
+    "secondary": [
+      "curly top fade artesia",
+      "fade para niños artesia nm"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "ARTESIA / CURLY TOP FADE",
+      "h1": "Curly top fade, desde Artesia.",
+      "paragraphs": [
+        "El pelo chino natural se deja con movimiento arriba, y los lados van con desvanecido (fade) hasta la piel para que la textura de arriba se vea más llena. Es un corte que les hago a hombres adultos y a niños, y lo hago en Carlsbad: a {{city:artesia.drive_mi}} millas al sur de Artesia por la {{city:artesia.route}}, unos {{city:artesia.drive_min}} minutos según la ruta de OpenStreetMap.",
+        "Como el viaje cuesta lo mismo si se corta una persona o cuatro, esta página es sobre todo para que valga la pena."
+      ],
+      "link": {
+        "label": "AGENDA UN CURLY TOP FADE",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "01 / QUÉ AGENDAR",
+      "heading": "Cada cabeza con su propio horario.",
+      "lead": "De mi menú en Booksy. Los niños agendan los mismos servicios de corte.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}} · Niños bienvenidos",
+          "body": "Arriba, el chino con forma; a los lados, el desvanecido; y la nuca, terminada a navaja.",
+          "book": true
+        },
+        {
+          "title": "Perm",
+          "meta": "{{price:perm}} · {{minutes:perm}}",
+          "body": "Para pelo lacio que necesita chino antes de poder llevar un curly top. Es una cita más larga, así que planea la tarde.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / UN PUEBLO LLENO DE NIÑOS",
+      "heading": "Agenda a los hermanos en fila.",
+      "paragraphs": [
+        "Es un corte que les hago igual a niños que a hombres de veintitantos y treinta y tantos, y en Artesia hay muchos de los dos: Censo ACS 2023 cuenta {{city:artesia.k12_students}} niños inscritos de kínder a preparatoria (K–12), y el {{city:artesia.age_20_34_pct}} del pueblo tiene de 20 a 34 años. Así que si eres papá o mamá y vas a bajar, lo más seguro es que no vengas solo. Agenda a cada niño su propia cita, una tras otra junto a la tuya, y todos regresan con un desvanecido fresco de un solo viaje. Una foto de la altura del desvanecido que quieres para cada niño ahorra tiempo en la silla."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / LOS LADOS MARCAN EL RITMO",
+      "heading": "El chino perdona. La piel, no.",
+      "paragraphs": [
+        "Arriba, unas semanas de crecimiento solo se ven como más chino. Los lados con desvanecido son donde vas a notar que el corte envejece, porque el pelo que vuelve a crecer se nota contra la piel. Desde Artesia, esa es la parte que vale la pena calcular: pregúntame cuánto van a aguantar los lados y luego pon la siguiente fecha en Booksy antes de los {{city:artesia.drive_min}} minutos de regreso a casa. Un desvanecido bajo deja más pelo en los lados y te da un poco más de margen entre visitas."
+      ],
+      "photos": []
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / PREGUNTAS",
+      "heading": "Pelo chino, preguntas desde Artesia.",
+      "items": [
+        {
+          "q": "¿Qué tan chico puede ser mi hijo para un curly top fade?",
+          "a": "Si aguanta quieto con la máquina, se lo corto. Los papás eligen el corte en Booksy; es el mismo menú que para los adultos."
+        },
+        {
+          "q": "¿Una sola cita alcanza para dos niños?",
+          "a": "No. Cada niño necesita su propia cita para que yo tenga el tiempo completo para cada corte. Agéndalos uno tras otro."
+        },
+        {
+          "q": "¿Qué altura de desvanecido sugieres para la escuela?",
+          "a": "El bajo se ve suave y crece con suavidad. Uno más alto da más contraste. La <a href=\"/es/estilos/curly-top-fade/\">página del curly top fade</a> muestra uno alto."
+        },
+        {
+          "q": "¿Puedo tener chino si mi pelo es lacio?",
+          "a": "Una permanente le da la textura primero. Mándame un mensaje al {{phone}} antes de agendar para planearlo bien."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "SOLO CON CITA",
+      "heading": "Agenda cada lugar.<br>Baja una sola vez.",
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "id": "hobbs-styles-burst-fade",
+  "locale": "es",
+  "pageType": "cell",
+  "city": "hobbs",
+  "base": "styles-burst-fade",
+  "slug": "/es/hobbs/burst-fade/",
+  "alt": "/hobbs/burst-fade/",
+  "nav_label": "Burst fade · Hobbs",
+  "card_text": "Un burst fade para los veranos de Hobbs: piel alrededor de la oreja, el chino intacto, cortado a 70 millas en Carlsbad.",
+  "breadcrumb": [
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Hobbs",
+      "/es/hobbs/"
+    ],
+    [
+      "Burst Fade",
+      "/es/hobbs/burst-fade/"
+    ]
+  ],
+  "seo": {
+    "title": "Burst fade para Hobbs, NM | Divinely Faded, Carlsbad",
+    "description": "Burst fade para Hobbs, cortado en Carlsbad a unos 80 minutos al oeste. Por qué el arco va bien con el verano del condado de Lea y qué agendar.",
+    "primary": "corte burst fade hobbs nm",
+    "secondary": [
+      "burst fade hobbs"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "HOBBS / BURST FADE",
+      "h1": "Burst fade, desde Hobbs.",
+      "paragraphs": [
+        "Un burst fade baja hasta la piel en medio círculo alrededor de la oreja y desde ahí se abre, dejando largo de verdad atrás. Mi barbería está en Carlsbad, no en Hobbs: entre tú y yo hay {{city:hobbs.drive_mi}} millas de {{city:hobbs.route}}, unos {{city:hobbs.drive_min}} minutos al volante de ida.",
+        "Abajo: por qué el burst va bien con el verano del condado de Lea, qué agendar y cómo se comporta el arco entre un viaje y otro."
+      ],
+      "link": {
+        "label": "AGENDA UN BURST FADE",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / EL CALOR",
+      "heading": "Piel donde importa, largo donde lo quieres.",
+      "paragraphs": [
+        "Hobbs tiene más o menos {{city:hobbs.days_100f}} días al año de 100°F o más, con una máxima típica de julio de {{city:hobbs.july_high_f}} (Open-Meteo, 2023–25). Carlsbad, donde vas a sentarte en mi silla, es todavía más caliente: {{city:carlsbad.july_high_f}}.",
+        "Si quieres la piel al descubierto alrededor de las orejas en esos meses sin sacrificar el chino ni el pelo de la nuca, el burst es el punto medio: el arco despeja el pelo donde aprieta una gorra, y la parte de atrás conserva su peso."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / ENTRE VIAJES",
+      "heading": "El arco se suaviza. La parte de atrás, no.",
+      "paragraphs": [
+        "El medio círculo es lo más corto del corte, así que es lo primero que pierde el filo; el largo que queda detrás se ve intencional bastante tiempo más. ¿Quieres la curva nítida todo el tiempo? Planea los viajes más seguidos. ¿Te conformas con un arco más suave? Se sigue viendo como un burst mucho después de que la piel se cubrió."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "03 / CÓMO AGENDARLO",
+      "heading": "Un servicio, o dos con la barba.",
+      "lead": "Precios y tiempos del menú, directo de Booksy.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "El burst alrededor de la oreja, el chino con forma arriba, atrás largo y la navaja a lo largo del contorno de la nuca.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "Suma la barba, una línea corta y limpia en la mejilla y toalla caliente para cerrar.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / PREGUNTAS",
+      "heading": "Burst fade, edición Hobbs.",
+      "items": [
+        {
+          "q": "¿Un burst fade es buena opción para el calor de Hobbs?",
+          "a": "Si quieres algo de piel para los meses calientes sin perder el chino ni el largo de atrás, sí. Si lo único que buscas es frescura, un skin fade quita más."
+        },
+        {
+          "q": "¿Se puede combinar el burst con un mullet atrás?",
+          "a": "Sí. Ese es el burst fade mullet, y se agenda como el mismo Essential Haircut (corte esencial). Solo dime que quieres la parte de atrás larga."
+        },
+        {
+          "q": "¿Dónde veo el corte antes de comprometerme con el viaje?",
+          "a": "La <a href=\"/es/estilos/burst-fade/\">página del burst fade</a> tiene la foto y la explicación completa de la forma."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "SOLO CON CITA",
+      "heading": "Agenda el burst.<br>Luego maneja al oeste.",
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
+    }
+  ]
+}

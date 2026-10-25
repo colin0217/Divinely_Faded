@@ -1,0 +1,171 @@
+{
+  "id": "post-how-long-do-braids-last-men",
+  "locale": "en",
+  "slug": "/blog/how-long-do-braids-last-men/",
+  "date": "2026-11-16",
+  "plan_rank": 36,
+  "title": "How Long Do Men's Braids Last?",
+  "eyebrow": "BRAIDS",
+  "hero": "pexels-18080948-braids-low-light-portrait",
+  "hero_alt": "Close-up of a man's braids in low light, side view",
+  "image_plan": null,
+  "card_text": "No single number fits every head. What wears braids out, what keeps them neat longer, and the signs they're ready to come out.",
+  "lede": [
+    "How long men's braids last comes down to three things: how fast your hair grows, how much sweat and friction the rows take, and how you treat them at night and in the shower. Two people can leave my chair with the same set and need them out at different times. That's why I'd rather show you the signs than promise you a number.",
+    "Here's what shortens the life of a set, what stretches it, and how to tell when it's time to take them out."
+  ],
+  "seo": {
+    "title": "How Long Do Men's Braids Last? | Carlsbad, NM",
+    "description": "How long men's braids last, what wears them out, what keeps them neat and when to take them out. Braids at Divinely Faded in Carlsbad, NM.",
+    "primary": "how long do braids last men",
+    "secondary": []
+  },
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Blog",
+      "/blog/"
+    ],
+    [
+      "How Long Braids Last",
+      "/blog/how-long-do-braids-last-men/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / WHAT WEARS THEM OUT",
+      "heading": "Shorter-lived sets.",
+      "lead": "Friction, sweat and growth.",
+      "bullets": [
+        "New growth. Hair keeps coming in at the roots, and fresh growth loosens the base of every row and blurs the parts.",
+        "Sweat. Workouts, outdoor work and long hot days soak the scalp, and damp roots frizz faster.",
+        "Friction. A bare pillowcase, a tight cap or a helmet rubbing the same spot every day roughs up the rows.",
+        "Heavy handling. Scratching, retwisting or pulling at the braids loosens them sooner than leaving them alone.",
+        "Your texture. Some hair holds a braid firmly; finer or straighter hair tends to slip out of a row more easily."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / WHAT KEEPS THEM NEAT",
+      "heading": "Longer-lasting sets.",
+      "lead": "Mostly, less wear.",
+      "paragraphs": [
+        "Cover them at night. Something smooth between your braids and the pillow cuts down on the rubbing that frizzes the rows while you sleep.",
+        "Keep your scalp clean without scrubbing the braids apart. Work gently between the rows rather than rubbing across them, and let them dry fully afterward so the roots aren't left damp.",
+        "Leave them alone during the day. The less you touch, tug and scratch, the longer the parts stay crisp. If a hat is part of your day, a looser fit rubs less."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / WHEN TO TAKE THEM OUT",
+      "heading": "The signs it's time.",
+      "lead": "Look at the roots.",
+      "subsections": [
+        {
+          "heading": "The parts have filled in",
+          "paragraphs": [
+            "When new growth has covered the clean lines between rows, the set has lost the sharp look that made it worth doing."
+          ]
+        },
+        {
+          "heading": "The base is loose",
+          "paragraphs": [
+            "Rows that started tight against the scalp now sit up off it, and you can slide a finger under them."
+          ]
+        },
+        {
+          "heading": "Frizz has taken over",
+          "paragraphs": [
+            "A little fuzz is normal. When the whole row looks fuzzy instead of defined, it's done."
+          ]
+        },
+        {
+          "heading": "Your scalp is telling you",
+          "paragraphs": [
+            "If your scalp feels itchy or uncomfortable under the rows, don't wait it out. Take them out and give it a break."
+          ]
+        },
+        {
+          "heading": "Don't push it",
+          "paragraphs": [
+            "Leaving braids in long past these signs makes new growth tangle around the base, and that's harder to take out cleanly."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / THE FADE UNDERNEATH",
+      "heading": "Two clocks running.",
+      "lead": "The sides grow too.",
+      "paragraphs": [
+        "The sets in my photos sit over a faded or tapered back and sides. That fade is the shortest hair on your head, so it softens before the braids do.",
+        "If you want the contrast to stay sharp, the sides may need attention before the braids come out. A regular haircut booking covers the fade, with a straight razor cleanup at the neck."
+      ],
+      "link": {
+        "label": "SEE THE HAIRCUTS",
+        "href": "page:services-haircuts"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "05 / BOOKING",
+      "heading": "Plan the next set.",
+      "lead": "Text a photo first.",
+      "paragraphs": [
+        "Booksy holds {{minutes:braids}} for braids, and the price varies with the style, so text me a photo of what you want at {{phone}} before you book. A long appointment like this is hard to fill at the last minute, so cancel early if your plans change, because a no-show or late cancellation may be charged a fee."
+      ],
+      "link": {
+        "label": "SEE BRAIDS",
+        "href": "page:services-braids"
+      }
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / QUESTIONS",
+      "heading": "Braid questions.",
+      "items": [
+        {
+          "q": "How long do braids last on guys?",
+          "a": "It depends on your hair growth, how much sweat and friction the rows take, and how you care for them. Watch the roots and the parts rather than the calendar."
+        },
+        {
+          "q": "How do I make my braids last longer?",
+          "a": "Cover them at night, clean your scalp gently between the rows, let them dry fully and keep your hands off them during the day."
+        },
+        {
+          "q": "When should I take my braids out?",
+          "a": "When the parts have filled with new growth, the base has loosened, the rows look fuzzy, or your scalp is uncomfortable."
+        },
+        {
+          "q": "How long does it take to get braids?",
+          "a": "Booksy holds {{minutes:braids}} for a braids appointment."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "FRESH ROWS",
+      "heading": "Tight parts.<br>Clean sides.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "services-braids",
+    "services-haircuts",
+    "faq"
+  ],
+  "tim_questions": [
+    "How long do your braids usually last, and when do you tell clients to take them out? The post gives signs, not a number (same open question as the braids page).",
+    "Do you take braids out for clients, and is that a separate booking?",
+    "Do you want to recommend a specific night covering (durag, silk or satin scarf or pillowcase)? The post only says 'something smooth'.",
+    "Can the fade underneath be refreshed while the braids are in? The post only says the sides may need attention first."
+  ]
+}

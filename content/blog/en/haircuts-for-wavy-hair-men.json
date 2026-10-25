@@ -1,0 +1,162 @@
+{
+  "id": "post-haircuts-for-wavy-hair-men",
+  "locale": "en",
+  "slug": "/blog/haircuts-for-wavy-hair-men/",
+  "date": "2027-01-19",
+  "plan_rank": 82,
+  "title": "Haircuts for Wavy Hair",
+  "eyebrow": "STYLES",
+  "hero": "pexels-4925772-wavy-hair-field",
+  "hero_alt": "Young man with wavy hair standing in a field",
+  "image_plan": "pexels: man wavy hair haircut",
+  "card_text": "Let the wave do the work: textured fringes, modern mullets and longer textured tops, and what to tell me about your hair.",
+  "lede": [
+    "The haircuts that suit wavy hair leave enough length on top for the wave to show and keep the sides shorter so the shape stays controlled. A textured fringe, a modern mullet, or a longer textured top over a taper all let the wave do the styling. Cutting wavy hair very short takes away the one thing that makes it interesting.",
+    "Here's how wavy hair behaves, the cuts that work with it, what to avoid, and what to tell me so the wave falls where you want it."
+  ],
+  "seo": {
+    "title": "Haircuts for Wavy Hair (Men) | Carlsbad, NM",
+    "description": "Haircuts for wavy hair, from a Carlsbad, NM barber: textured fringes, modern mullets and textured tops that let the wave do the work.",
+    "primary": "haircuts for wavy hair men",
+    "secondary": []
+  },
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Blog",
+      "/blog/"
+    ],
+    [
+      "Haircuts for Wavy Hair",
+      "/blog/haircuts-for-wavy-hair-men/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / HOW WAVY HAIR ACTS",
+      "heading": "Between straight and curly.",
+      "lead": "And it changes with length.",
+      "paragraphs": [
+        "Wavy hair bends in loose S-shapes. Cut short, it can look nearly straight. Grown out a little, the wave appears, and it often behaves differently on the top, the sides and the back of the same head.",
+        "It reacts to weather and to how you dry it. Rubbed hard with a towel, waves turn into frizz. Left to dry on their own, they tend to group together and hold a shape.",
+        "A good cut for wavy hair plans for that. It leaves length where the wave looks good and takes weight out where it puffs up."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / CUTS THAT WORK",
+      "heading": "Let the wave do the work.",
+      "lead": "Three directions to go.",
+      "subsections": [
+        {
+          "heading": "Textured fringe",
+          "paragraphs": [
+            "The top is cut with texture and worn forward, and the wave breaks it into natural pieces on its own. Wavy hair often needs less product for this look than straight hair does."
+          ]
+        },
+        {
+          "heading": "Modern mullet",
+          "paragraphs": [
+            "Faded sides with length at the back. Wavy hair carries a mullet's tail well, because it bends at the collar instead of hanging flat against the neck."
+          ]
+        },
+        {
+          "heading": "Longer textured top with a taper",
+          "paragraphs": [
+            "Keep a few inches on top, taper the sides and back, and let the wave move. It works swept back, pushed to one side or left loose."
+          ]
+        }
+      ],
+      "link": {
+        "label": "SEE THE TEXTURED FRINGE",
+        "href": "page:styles-textured-fringe"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / WHAT TO AVOID",
+      "heading": "Where wavy cuts go wrong.",
+      "lead": "Two common problems.",
+      "paragraphs": [
+        "Blunt, one-length cuts can leave wavy hair shaped like a triangle, narrow at the top and wide at the bottom, because the weight collects at the ends and pushes outward.",
+        "Sides left long tend to wave outward and make the head look wide. Shorter sides keep the focus on top, where the wave looks intentional instead of unruly.",
+        "Thinning wavy hair too hard causes its own problem. Strip out too much weight and the wave loses the bulk it needs to form, leaving the ends frizzy and flyaway. The aim is to remove enough to stop the puff, not so much that the hair can't hold a shape."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / MORE LENGTH",
+      "heading": "Wave in the back.",
+      "lead": "For people who want real length.",
+      "paragraphs": [
+        "If you want more length than a fringe gives you, the modern mullet keeps the sides short and lets the back grow. Wavy hair tends to flick up at the collar, which gives the tail a finished look with very little styling.",
+        "The first photo on my modern mullet page is worn platinum, with wavy length through the top and back over sides faded high to skin."
+      ],
+      "link": {
+        "label": "SEE THE MODERN MULLET",
+        "href": "page:styles-modern-mullet"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "05 / IN THE CHAIR",
+      "heading": "Tell me how it dries.",
+      "lead": "Wavy hair looks different wet.",
+      "paragraphs": [
+        "Wavy hair can look almost straight while it's damp in the chair, so the more you tell me about how it behaves dry, the better the cut will sit:"
+      ],
+      "bullets": [
+        "How it looks when it air-dries with nothing in it.",
+        "Where it puffs out first as it grows.",
+        "Whether you want the wave to show or to be calmed down.",
+        "How much time you give it in the morning."
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / QUESTIONS",
+      "heading": "Wavy hair, answered.",
+      "items": [
+        {
+          "q": "What haircut suits wavy hair?",
+          "a": "One with shorter sides and enough length on top for the wave to show, like a textured fringe or a longer textured top."
+        },
+        {
+          "q": "Should wavy hair be cut short?",
+          "a": "Very short cuts hide the wave. Keeping some length on top usually looks better."
+        },
+        {
+          "q": "Why does my wavy hair look puffy?",
+          "a": "Usually there's too much weight at the sides or the ends. Shorter sides and texture on top calm it down."
+        },
+        {
+          "q": "What do I book?",
+          "a": "The Essential Haircut, {{price:essential-haircut}} for {{minutes:essential-haircut}}, covers any of these cuts."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "WAVY HAIR",
+      "heading": "Keep the wave.<br>Lose the puff.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "styles-textured-fringe",
+    "styles-modern-mullet",
+    "services-haircuts"
+  ],
+  "tim_questions": [
+    "Do you cut wavy hair dry, wet, or both? The post doesn't say.",
+    "The wavy-hair guidance is general styling advice in your voice. Anything you'd change?",
+    "Do you have a photo of your own work on wavy hair to use instead of stock?"
+  ]
+}

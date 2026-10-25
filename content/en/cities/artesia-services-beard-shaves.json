@@ -1,0 +1,130 @@
+{
+  "id": "artesia-services-beard-shaves",
+  "locale": "en",
+  "pageType": "cell",
+  "city": "artesia",
+  "base": "services-beard-shaves",
+  "slug": "/artesia/beard-and-shaves/",
+  "alt": "/es/artesia/barba-y-afeitado/",
+  "nav_label": "Beard & shaves · Artesia",
+  "card_text": "Beard trims and straight razor shaves for Artesia: why the hot towel matters in dry air, and when to book the shave.",
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Artesia",
+      "/artesia/"
+    ],
+    [
+      "Beard & Shaves",
+      "/artesia/beard-and-shaves/"
+    ]
+  ],
+  "seo": {
+    "title": "Beard Trim & Shave for Artesia, NM | Divinely Faded",
+    "description": "Beard trims, straight razor shaves and head-and-beard shaves for Artesia, by Tim in Carlsbad, 44 minutes down US 285. Why the hot towel matters here.",
+    "primary": "beard trim artesia nm",
+    "secondary": [
+      "straight razor shave artesia nm",
+      "barber artesia nm"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "ARTESIA / BEARD & SHAVES",
+      "h1": "Beards and shaves, from Artesia.",
+      "paragraphs": [
+        "Beard trims, straight razor shaves and the full head-and-beard shave all happen in my chair in Carlsbad, {{city:artesia.drive_mi}} miles down {{city:artesia.route}} from Artesia. Call it {{city:artesia.drive_min}} minutes each way (OpenStreetMap routing).",
+        "If you're coming that far for your beard, here's what to book, and why the hot towel does more work in this climate than it would somewhere humid."
+      ],
+      "link": {
+        "label": "BOOK BEARD WORK",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "01 / THREE BOOKINGS",
+      "heading": "Trim, shave, or all of it.",
+      "lead": "From my Booksy menu. Pick by how much you want gone.",
+      "items": [
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "Haircut and beard in one sitting: trimmed or lined up, hot towel, razor detail along the edges. The one to book if the beard stays.",
+          "book": true
+        },
+        {
+          "title": "Straight Razor Beard Shave",
+          "meta": "{{price:straight-razor-beard-shave}} · {{minutes:straight-razor-beard-shave}}",
+          "body": "The beard comes off the old way: hot towels, shaving cream, the razor, then an aftershave to settle the skin. Booksy sets aside {{minutes:straight-razor-beard-shave}}.",
+          "book": true
+        },
+        {
+          "title": "Head & Beard Shave",
+          "meta": "{{price:head-beard-shave}} · {{minutes:head-beard-shave}}",
+          "body": "Head and beard shaved in the same appointment, towels on both, balm at the end. The longest of the three, and the one that makes a {{city:artesia.drive_min}}-minute drive feel most worth it.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / DRY HEAT",
+      "heading": "Why the towel earns its keep here.",
+      "paragraphs": [
+        "Artesia's humidity averages about {{city:artesia.humidity_pct}} and the July high averages {{city:artesia.july_high_f}} (Open-Meteo, 2023–25). Air that dry, with that much sun, leaves the skin under a beard tight and the hair coarse. A hot towel puts moisture back before the blade, and the aftershave at the end is there for the ride home through the same dry air.",
+        "If your beard takes a lot of dust and sun on the job, tell me when you sit down. I'll give the skin a little longer under the towel."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / TIMING",
+      "heading": "Shave on the way home, not the way out.",
+      "paragraphs": [
+        "A straight razor leaves the skin bare. If you can, make the shave your last stop in Carlsbad, so the balm has the whole ride up 285 to do its job before anything else touches your face. And if you plan on keeping the face clean, book the next one on Booksy before you pull out."
+      ],
+      "photos": []
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / ASKED FROM ARTESIA",
+      "heading": "Beard questions from Artesia.",
+      "items": [
+        {
+          "q": "Is a beard trim its own service?",
+          "a": "On Booksy the trim or line-up rides with the Signature Cut. The Straight Razor Beard Shave and the Head & Beard Shave book on their own. Something in between? Text me at {{phone}} first."
+        },
+        {
+          "q": "How far is it from Artesia for a shave?",
+          "a": "About {{city:artesia.drive_mi}} miles, {{city:artesia.drive_min}} minutes or so down {{city:artesia.route}}, to {{address}}."
+        },
+        {
+          "q": "What goes on the skin after the shave?",
+          "a": "A soothing aftershave after the beard shave, and a balm after the head-and-beard shave. In air this dry, that's the step I wouldn't skip."
+        },
+        {
+          "q": "Is there a booking that gives the beard more time?",
+          "a": "The Luxury Grooming Experience includes a beard sculpt with the haircut, steam and two hot towels. The <a href=\"/services/beard-and-shaves/\">beard and shaves page</a> explains it."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "STRAIGHT RAZOR",
+      "heading": "Towel on.<br>Then the road home.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ]
+}

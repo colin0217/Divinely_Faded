@@ -1,0 +1,125 @@
+{
+  "id": "artesia-services-kids",
+  "locale": "en",
+  "pageType": "cell",
+  "city": "artesia",
+  "base": "services-kids",
+  "slug": "/artesia/kids-haircuts/",
+  "alt": "/es/artesia/cortes-para-ninos/",
+  "nav_label": "Kids' haircuts · Artesia",
+  "card_text": "Kids' haircuts for Artesia families: booking siblings back to back so one drive down 285 covers everyone.",
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Artesia",
+      "/artesia/"
+    ],
+    [
+      "Kids' Haircuts",
+      "/artesia/kids-haircuts/"
+    ]
+  ],
+  "seo": {
+    "title": "Kids' Haircuts for Artesia, NM | Divinely Faded, Carlsbad",
+    "description": "Kids' haircuts for Artesia families, cut by Tim in Carlsbad about 44 minutes south. How to book two or three kids back to back on Booksy in one trip.",
+    "primary": "kids haircut artesia nm",
+    "secondary": [
+      "boys haircut artesia nm",
+      "barber artesia nm"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "ARTESIA / KIDS' HAIRCUTS",
+      "h1": "Kids' haircuts, from Artesia.",
+      "paragraphs": [
+        "Kids are welcome in my chair, and my chair is in Carlsbad: {{city:artesia.drive_mi}} miles south of Artesia on {{city:artesia.route}}, about {{city:artesia.drive_min}} minutes with a kid in the back seat (OpenStreetMap routing).",
+        "Here's how parents book from Artesia, how to line up more than one kid in a single trip, and what the ride down is good for."
+      ],
+      "link": {
+        "label": "BOOK A KID'S CUT",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / A YOUNG TOWN",
+      "heading": "More kids per household than Carlsbad.",
+      "paragraphs": [
+        "Artesia is young. Residents under 18 make up {{city:artesia.under18_pct}} of the city, against {{city:carlsbad.under18_pct}} in Carlsbad, and about {{city:artesia.k12_students}} kids there are enrolled in K–12 (Census ACS 2023). If yours is one of the households with two or three heads due for a cut, the trip works better when every one of them has their own slot.",
+        "Booksy lets you book each child separately. Choose times back to back, add your own cut at the end if you want one, and the whole family is finished in one visit instead of three."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "02 / WHAT TO BOOK",
+      "heading": "No kids' menu, same services.",
+      "lead": "Booksy has no separate children's price. Book by the cut your kid wants.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}} · Kids welcome",
+          "body": "The usual booking for a kid: a fade or taper shaped to their head, neckline cleaned up, done in one sitting.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "For the parent on the same trip: haircut plus a beard trim or line-up, with a hot towel at the end.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / THE RIDE DOWN",
+      "heading": "Use the drive.",
+      "paragraphs": [
+        "The ride from Artesia is long enough for a kid to find a photo of the cut they want on your phone. Have it ready when they climb into the chair; it cuts the guessing in half on both sides of the cape.",
+        "Saturdays run 8:00 AM to 2:00 PM, which keeps the haircut off a school night. Wednesday and Sunday I'm closed, so plan around those two."
+      ],
+      "photos": []
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / PARENTS FROM ARTESIA",
+      "heading": "What parents ask.",
+      "items": [
+        {
+          "q": "Can I book three kids in a row?",
+          "a": "Yes. Book each one their own Essential Haircut on Booksy and pick back-to-back times. Add yours at the end if you want it."
+        },
+        {
+          "q": "Is the drive from Artesia reasonable for a kid's haircut?",
+          "a": "It's about {{city:artesia.drive_min}} minutes each way down {{city:artesia.route}} to {{address}}. Whether that's worth it is your call; booking siblings together and setting the next visit before you leave are what make it add up."
+        },
+        {
+          "q": "Does my kid see the same barber every time?",
+          "a": "Yes. It's only me, so the face behind the clippers never changes. That steadies a kid who's still unsure about the sound."
+        },
+        {
+          "q": "Can my kid get a design cut in?",
+          "a": "Yes, the hair design add-on is {{addon:hair-design}}. The <a href=\"/services/kids-haircuts/\">kids' haircuts page</a> shows the cuts, and two of the designs on the hair designs page are on kids."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "KIDS WELCOME",
+      "heading": "Book each kid.<br>One trip down 285.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ]
+}

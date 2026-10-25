@@ -1,0 +1,157 @@
+{
+  "id": "post-barber-vs-hair-salon",
+  "locale": "en",
+  "slug": "/blog/barber-vs-hair-salon/",
+  "date": "2026-12-15",
+  "plan_rank": 57,
+  "title": "Barber vs Hair Salon: Where Should a Man Get His Haircut?",
+  "eyebrow": "BOOKING",
+  "hero": "pexels-7750124-hair-salon-interior",
+  "hero_alt": "A bright hair salon with ring-light mirrors and styling chairs",
+  "image_plan": null,
+  "card_text": "Clippers, fades, razors and beards, or long scissor cuts and color. A fair look at what each chair is built for.",
+  "lede": [
+    "Go to a barber when you want short, clipper-based work: fades, tapers, line-ups, straight razor detailing and beard work. Go to a salon when you want longer hair cut mostly with scissors, or extensive color and styling. Both can cut men's hair well. The question is which one does the specific cut you want every day of the week.",
+    "I'm a barber, so I'll be upfront about that. Here's a fair look at what each chair is built around, where they overlap, and how to choose."
+  ],
+  "seo": {
+    "title": "Barber vs Hair Salon: Where Should Men Go? | Carlsbad, NM",
+    "description": "Barber vs hair salon for men, from a Carlsbad, NM barber: fades, razors and beards vs longer scissor cuts and color, and how to choose your chair.",
+    "primary": "barber vs hair salon",
+    "secondary": [
+      "barber vs stylist"
+    ]
+  },
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Blog",
+      "/blog/"
+    ],
+    [
+      "Barber vs Hair Salon",
+      "/blog/barber-vs-hair-salon/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / THE BARBER CHAIR",
+      "heading": "Built for short and sharp.",
+      "lead": "Clippers, razors and beards.",
+      "paragraphs": [
+        "A barbershop is set up around short hair and the face. Clippers do most of the work on the sides and back, and the craft lives in the blend: a fade that goes from skin to length with no visible step, a taper that cleans up the edges, a line-up that squares the hairline.",
+        "Then there's the razor. A straight razor cleans the neckline and sharpens the edges after a cut, and it's the tool for a proper wet shave. Beards are part of the job too: trimming, lining up the cheeks and neck, blending the beard into the sides.",
+        "That's most of what crosses my chair. The Essential Haircut includes a straight razor cleanup at the neck. The Signature Cut adds a beard trim or line-up, a hot towel and razor detailing."
+      ],
+      "link": {
+        "label": "SEE THE HAIRCUT SERVICES",
+        "href": "page:services-haircuts"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / THE SALON CHAIR",
+      "heading": "Built for length and color.",
+      "lead": "Scissors, layers and chemistry.",
+      "paragraphs": [
+        "A salon is set up around longer hair. Stylists spend most of their time with scissors, cutting layers and shapes into length, and many are trained deeply in color, highlights and chemical treatments. If you wear your hair past your shoulders or want a cut built from long layers, a salon is often the natural home for it.",
+        "Plenty of stylists cut men's hair well, and plenty use clippers. The difference is emphasis. A salon's day is weighted toward longer cuts and color; a barbershop's day is weighted toward fades, edges and beards."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / THE OVERLAP",
+      "heading": "The line isn't hard.",
+      "lead": "Some menus cross over.",
+      "paragraphs": [
+        "Some barbers do color, braids and perms. Mine does: a Color Transformation for bleach and tone, a Perm for volume and texture, and personalized braiding. I also offer Express and Deluxe Facials, and add-ons like an eyebrow trim or nose and ear wax.",
+        "So the better question isn't barber or salon in general. It's whether the person in front of you does your cut regularly. Look at their photos. If the work you see is the work you want, that's the right chair."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / HOW TO CHOOSE",
+      "heading": "Match the chair to the cut.",
+      "lead": "A quick guide.",
+      "subsections": [
+        {
+          "heading": "Pick a barber when",
+          "paragraphs": [
+            "You want a fade, a taper, a buzz, a line-up, a hard part, a beard trim, or a hot towel shave. Short hair that needs crisp edges is barbershop work."
+          ]
+        },
+        {
+          "heading": "Pick a salon when",
+          "paragraphs": [
+            "Your hair is long and you want it shaped with layers, or you want detailed color work like highlights. A long, scissor-cut style is salon territory."
+          ]
+        },
+        {
+          "heading": "Either can work when",
+          "paragraphs": [
+            "You wear a medium-length, scissor-cut top over short sides. Look for someone whose photos show that exact mix."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "05 / MY CHAIR",
+      "heading": "What you get here.",
+      "lead": "One barber, by appointment.",
+      "paragraphs": [
+        "Divinely Faded is a one-barber shop in Carlsbad. I've been cutting since 2023, and every appointment is with me, booked ahead on Booksy. That means the person who learns how your hair grows is the same person who cuts it next time.",
+        "If you're coming over from a salon and aren't sure which service matches what you're used to, text me a photo of your current cut. I'll tell you which booking fits."
+      ],
+      "link": {
+        "label": "ABOUT TIM",
+        "href": "page:about"
+      }
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / QUESTIONS",
+      "heading": "Barber or salon, answered.",
+      "items": [
+        {
+          "q": "Is a barber better than a salon for men?",
+          "a": "Neither is better across the board. A barber is built for short clipper work, razors and beards; a salon is built for longer hair and color."
+        },
+        {
+          "q": "Can a barber cut longer hair?",
+          "a": "Many can. Look at their photos for cuts like the one you want before booking."
+        },
+        {
+          "q": "Do barbers do color?",
+          "a": "Some do. I offer a Color Transformation for bleach and tone, and a Perm."
+        },
+        {
+          "q": "Do I need an appointment?",
+          "a": "At my shop, yes. Every visit is booked ahead on Booksy."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "THE BARBER CHAIR",
+      "heading": "Short and sharp.<br>Right here.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "services-haircuts",
+    "about",
+    "services"
+  ],
+  "tim_questions": [
+    "Do you cut longer, scissor-heavy styles (past the collar) often enough to say so? The post only says to look at photos.",
+    "Anything about your own path into barbering (beyond cutting since 2023) you'd like added to the 'My chair' section?"
+  ]
+}

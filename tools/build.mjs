@@ -32,8 +32,11 @@ const T = {
     designed: "Designed by", powered: "Powered by", ctaEyebrow: "READY WHEN YOU ARE", ctaHead: "Take a seat.", ctaBook: "BOOK ON BOOKSY", ctaText: "TEXT TIM", ctaCall: "CALL",
     bookThis: "Book this service", learnMore: "LEARN MORE", varies: "Varies", min: "min", hr: "hr", crumbHome: "Home", footerPhotoAlt: "Tim seated in his barbershop",
     rvEyebrow: "FROM THE CHAIR / GOOGLE & BOOKSY", rvOn: "on", rvReviews: "reviews", rvAsOf: "As of", rvPrev: "Previous review", rvNext: "Next review", rvMore: "READ MORE ON GOOGLE", rvPause: "Pause reviews", rvPlay: "Play reviews", rvLabel: "Client reviews", rvStars: "5 stars", rvOrig: "",
+    cellCard: (c) => `${c.toUpperCase()} / BY THE NUMBERS`, cellCardCols: ["Fact", "Value", "Source"],
+    outOfTown: "DRIVING IN?", fromCity: (l, c) => `${l} from ${c}`,
+    cityCard: [["population", "Population", "Census ACS 2023"], ["age_20_34_pct", "Ages 20–34", "Census ACS 2023"], ["k12_students", "Kids in K–12 school", "Census ACS 2023"], ["days_100f", "Days at 100°F or more, per year", "Open-Meteo 2023–25"], ["rain_in", "Rain per year (inches)", "Open-Meteo 2023–25"], ["median_age", "Median age", "Census ACS 2023"], ["under18_pct", "Under 18", "Census ACS 2023"], ["mining_ag_jobs_pct", "Jobs in mining, oil and ag", "Census ACS 2023"], ["humidity_pct", "Average humidity", "Open-Meteo 2023–25"], ["july_high_f", "Average July high", "Open-Meteo 2023–25"], ["drive_mi", "Miles to the shop", "OpenStreetMap routing"], ["drive_min", "Minutes to the shop", "OpenStreetMap routing"], ["route", "Route", "OpenStreetMap routing"]],
     ariaHome: "Divinely Faded home", ariaFooter: "Divinely Faded footer", ariaSocial: "Social media", ariaOn: "Divinely Faded on", ariaCrumbs: "Breadcrumb",
-    lbLabel: "Portfolio photo", lbClose: "Close photo", lbCloseText: "CLOSE ✕", lbAlt: "Enlarged Divinely Faded portfolio photo", reserveName: "Barber appointment",
+    lbLabel: "Portfolio photo", lbClose: "Close photo", lbCloseText: "CLOSE", lbAlt: "Enlarged Divinely Faded portfolio photo", reserveName: "Barber appointment",
   },
   es: {
     lang: "es", home: "/es/", book: "AGENDA TU CITA", menuOpen: "Abrir menú", skip: "Ir al contenido",
@@ -45,8 +48,11 @@ const T = {
     designed: "Diseñado por", powered: "Con tecnología de", ctaEyebrow: "LISTO CUANDO TÚ LO ESTÉS", ctaHead: "Toma asiento.", ctaBook: "AGENDA EN BOOKSY", ctaText: "MENSAJE A TIM", ctaCall: "LLAMAR",
     bookThis: "Agenda este servicio", learnMore: "VER MÁS", varies: "Varía", min: "min", hr: "h", crumbHome: "Inicio", footerPhotoAlt: "Tim sentado en su barbería",
     rvEyebrow: "DESDE LA SILLA / GOOGLE Y BOOKSY", rvOn: "en", rvReviews: "reseñas", rvAsOf: "Al", rvPrev: "Reseña anterior", rvNext: "Reseña siguiente", rvMore: "LEER MÁS EN GOOGLE", rvPause: "Pausar reseñas", rvPlay: "Reproducir reseñas", rvLabel: "Reseñas de clientes", rvStars: "5 estrellas", rvOrig: "Reseñas originales en inglés.",
+    cellCard: (c) => `${c.toUpperCase()} / EN NÚMEROS`, cellCardCols: ["Dato", "Valor", "Fuente"],
+    outOfTown: "¿VIENES DE FUERA?", fromCity: (l, c) => `${l} desde ${c}`,
+    cityCard: [["population", "Población", "Censo ACS 2023"], ["age_20_34_pct", "De 20 a 34 años", "Censo ACS 2023"], ["k12_students", "Niños en escuela (K–12)", "Censo ACS 2023"], ["days_100f", "Días a 100°F o más, por año", "Open-Meteo 2023–25"], ["rain_in", "Lluvia por año (pulgadas)", "Open-Meteo 2023–25"], ["median_age", "Edad mediana", "Censo ACS 2023"], ["under18_pct", "Menores de 18", "Censo ACS 2023"], ["mining_ag_jobs_pct", "Empleos en minería, petróleo y agro", "Censo ACS 2023"], ["humidity_pct", "Humedad promedio", "Open-Meteo 2023–25"], ["july_high_f", "Máxima promedio en julio", "Open-Meteo 2023–25"], ["drive_mi", "Millas a la barbería", "Rutas de OpenStreetMap"], ["drive_min", "Minutos a la barbería", "Rutas de OpenStreetMap"], ["route", "Ruta", "Rutas de OpenStreetMap"]],
     ariaHome: "Inicio de Divinely Faded", ariaFooter: "Pie de página de Divinely Faded", ariaSocial: "Redes sociales", ariaOn: "Divinely Faded en", ariaCrumbs: "Ruta de navegación",
-    lbLabel: "Foto del portafolio", lbClose: "Cerrar foto", lbCloseText: "CERRAR ✕", lbAlt: "Foto ampliada del portafolio de Divinely Faded", reserveName: "Cita en la barbería",
+    lbLabel: "Foto del portafolio", lbClose: "Cerrar foto", lbCloseText: "CERRAR", lbAlt: "Foto ampliada del portafolio de Divinely Faded", reserveName: "Cita en la barbería",
   },
 };
 
@@ -56,7 +62,9 @@ function loadDir(dir) {
   if (!fs.existsSync(d)) return [];
   return fs.readdirSync(d).filter((f) => f.endsWith(".json")).map((f) => ({ ...read(path.join(dir, f)), _file: path.join(dir, f) }));
 }
-const pages = [...loadDir("content/en"), ...loadDir("content/es")];
+const pages = [...loadDir("content/en"), ...loadDir("content/es"), ...loadDir("content/en/cities"), ...loadDir("content/es/cities")];
+// City x service/style matrix (Peyton 2026-10-25): sourced per-city numbers (Census ACS, Open-Meteo, OSRM) printed via {{city:<slug>.<field>}}.
+const cityFacts = fs.existsSync(path.join(ROOT, "content/city-facts.json")) ? read("content/city-facts.json") : {};
 const posts = [...loadDir("content/blog/en"), ...loadDir("content/blog/es")].map((p) => ({ ...p, _post: true }));
 const live = (p) => !p._post || (p.date && p.date <= TODAY);
 const all = [...pages, ...posts.filter(live)];
@@ -92,6 +100,15 @@ const OG_NEEDED = new Set(); // og photos used by pages, turned into 1200x630 ca
 const esc = (s) => String(s ?? "").replace(/&(?!(#\d+|#x[0-9a-f]+|[a-z]+);)/gi, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
 const html = (s) => String(s ?? ""); // trusted copy may contain <br> / <a> / <strong>
 const svc = (id) => facts.services.find((s) => s.id === id) || (() => { throw new Error(`unknown service id ${id}`); })();
+function cityValue(c, k, t) {
+  const v = cityFacts[c]?.[k];
+  if (v == null) throw new Error(`city-facts.json has no ${c}.${k}`);
+  if (typeof v === "string") return v;
+  if (/_pct$/.test(k)) return `${v}%`;
+  if (/_f$/.test(k)) return `${v}°F`;
+  if (k === "median_household_income") return `$${v.toLocaleString("en-US")}`;
+  return v.toLocaleString("en-US");
+}
 // Colin's homepage format: whole hours as "2 hr", anything else in minutes ("90 min").
 function minutes(n, t) { return n >= 60 && n % 60 === 0 ? `${n / 60} ${t.hr}` : `${n} ${t.min}`; }
 function fill(s, t) {
@@ -99,6 +116,7 @@ function fill(s, t) {
     .replace(/\{\{price:([a-z0-9-]+)\}\}/g, (_, id) => (svc(id).price == null ? t.varies : `$${svc(id).price}`))
     .replace(/\{\{minutes:([a-z0-9-]+)\}\}/g, (_, id) => minutes(svc(id).minutes, t))
     .replace(/\{\{addon:([a-z0-9-]+)\}\}/g, (_, id) => { const a = facts.addons.find((x) => x.name.toLowerCase().replace(/&/g, "").replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "") === id); if (!a) throw new Error(`unknown addon ${id}`); return `$${a.price}`; })
+    .replace(/\{\{city:([a-z-]+)\.([a-z0-9_]+)\}\}/g, (_, c, k) => cityValue(c, k, t))
     .replace(/\{\{holiday_fee\}\}/g, `$${facts.holiday_fee}`)
     .replace(/\{\{phone\}\}/g, facts.phone.display)
     .replace(/\{\{address\}\}/g, `${facts.address.street}, ${facts.address.city}, ${facts.address.region} ${facts.address.postal}`);
@@ -127,6 +145,49 @@ function img(name, alt, { eager = false, sizes = "(min-width:701px) 50vw, 100vw"
 const altOf = (p, name, b) => (b && b.alt && typeof b.alt === "object" ? b.alt[name] : "") || (p.photo_alt || {})[name] || (p.alt_text || p.alts || {})[name] || (p.alt && typeof p.alt === "object" ? p.alt[name] : "") || "";
 // The other-language URL, only once that page is actually built (no hreflang/toggle to a 404).
 const altSlug = (p) => (p.id === "home" ? (p.locale === "en" ? (byKey.has("es:home") ? "/es/" : undefined) : "/") : byKey.get(`${p.locale === "en" ? "es" : "en"}:${p.id}`)?.slug);
+
+// ---------- city x service/style funnel (internal-linking-funnel skill) ----------
+// Hub (/hobbs/) links DOWN to all its cells; a cell links UP to its city hub and its Carlsbad service/style page,
+// LATERAL to the same service in the other cities (nearest first) and to 3 sibling services/styles in the same city;
+// each Carlsbad service/style page links DOWN to its city cells. Links are computed here, never hand-placed.
+const cellsOf = (L) => all.filter((q) => q.pageType === "cell" && q.locale === L);
+const hubOf = (q) => byKey.get(`${q.locale}:city-${q.city}`);
+const kindOf = (id) => (String(id).startsWith("styles-") ? "styles" : "services");
+const miles = (a, b) => { const A = cityFacts[a], B = cityFacts[b]; if (!A || !B) return 1e9; const r = Math.PI / 180, x = (B.lng - A.lng) * r * Math.cos(((A.lat + B.lat) / 2) * r), y = (B.lat - A.lat) * r; return Math.sqrt(x * x + y * y) * 3959; };
+// Which sourced city numbers matter for each service/style (local-data-enrichment: the card prints, the prose leans on it).
+const HEAT = ["july_high_f", "days_100f", "drive_min"], STYLE = ["age_20_34_pct", "humidity_pct", "drive_min"], WORK = ["mining_ag_jobs_pct", "median_age", "drive_min"];
+const CELL_FIELDS = {
+  "services-haircuts": ["age_20_34_pct", "mining_ag_jobs_pct", "drive_min"], "services-beard-shaves": ["humidity_pct", "july_high_f", "drive_min"],
+  "services-kids": ["under18_pct", "k12_students", "drive_min"], "services-braids": ["days_100f", "humidity_pct", "drive_min"],
+  "services-color": ["july_high_f", "days_100f", "drive_min"], "services-designs": ["under18_pct", "age_20_34_pct", "drive_min"],
+  "services-facials": ["humidity_pct", "rain_in", "drive_min"],
+  "styles-skin-fade": HEAT, "styles-buzz-cut": HEAT, "styles-burst-fade": HEAT, "styles-low-taper-fade": HEAT,
+  "styles-curly-top-fade": STYLE, "styles-textured-crop": STYLE, "styles-textured-fringe": STYLE, "styles-modern-mullet": STYLE,
+  "styles-hard-part": WORK, "styles-slick-back": WORK,
+};
+// Carlsbad is the home city: its row of the matrix is the main service/style pages themselves (no duplicate
+// /carlsbad/<x>/ pages competing with them). They carry the same sourced card; drive time is swapped for population.
+function cellCard(p, t, city = p.city, base = p.base) {
+  const keys = (CELL_FIELDS[base] || ["population", "drive_mi", "drive_min"]).map((k) => (city === "carlsbad" && /^drive_/.test(k) ? "population" : k)), lab = new Map(t.cityCard.map(([k, l, s]) => [k, [l, s]]));
+  const rows = keys.map((k) => [lab.get(k)[0], cityValue(city, k, t), lab.get(k)[1]]);
+  return `<section class="services df-section df-city-card" data-df-reveal-group><div class="section-heading"><span class="eyebrow" data-df-reveal>${esc(t.cellCard(cityFacts[city]?.name || city))}</span></div><table class="df-table" data-df-reveal><thead><tr>${t.cellCardCols.map((c) => `<th scope="col">${esc(c)}</th>`).join("")}</tr></thead><tbody>${rows.map((r) => `<tr>${r.map((c) => `<td>${esc(c)}</td>`).join("")}</tr>`).join("")}</tbody></table></section>`;
+}
+function cellRelated(p) {
+  const cells = cellsOf(p.locale);
+  const sameBase = cells.filter((q) => q.base === p.base && q.city !== p.city).sort((a, b) => miles(p.city, a.city) - miles(p.city, b.city));
+  const ring = cells.filter((q) => q.city === p.city && kindOf(q.base) === kindOf(p.base)).sort((a, b) => (a.base < b.base ? -1 : 1));
+  const i = ring.findIndex((q) => q.id === p.id);
+  const sameCity = [1, 2, 3].map((k) => ring[(i + k) % ring.length]).filter((q) => q && q.id !== p.id);
+  return [hubOf(p), byKey.get(`${p.locale}:${p.base}`), ...sameBase, ...sameCity].filter(Boolean);
+}
+function cityDownLinks(p, t) {
+  const cells = cellsOf(p.locale).filter((q) => q.base === p.id).sort((a, b) => miles("carlsbad", a.city) - miles("carlsbad", b.city));
+  if (!cells.length) return "";
+  // Descriptive, page-specific anchors ("Skin Fade from Hobbs"), no shared boilerplate sentence (uniqueness gate).
+  const label = p.nav_label || p.title;
+  const links = cells.map((q) => `<a class="text-link" href="${q.slug}">${esc(t.fromCity(label, cityFacts[q.city]?.name || q.city))}</a>`).join(" ");
+  return `<section class="services df-section df-out-of-town" data-df-reveal-group><div class="section-heading"><span class="eyebrow" data-df-reveal>${t.outOfTown}</span></div><div class="df-prose" data-df-reveal><p>${links}</p></div></section>`;
+}
 
 // ---------- blocks ----------
 function blockHTML(b, p, t, first) {
@@ -158,12 +219,15 @@ function blockHTML(b, p, t, first) {
     case "feature":
       return `<section class="feature${b.photo ? "" : " df-feature-text"}">${b.photo ? img(b.photo, altOf(p, b.photo, b), { sizes: "100vw" }) : ""}<div><span class="eyebrow">${esc(b.eyebrow)}</span><h2>${html(b.heading)}</h2>${b.button ? `<a class="pill" href="${esc(href(b.button.href, L))}"${aAttrs(href(b.button.href, L))}>${esc(b.button.label)}</a>` : ""}</div></section>`;
     case "table": {
-      const rows = b.rows === "nearby" ? facts.nearby.map((r) => [r.town, `${r.mi} mi`, `${r.min} min`]) : b.rows;
+      const rows = b.rows === "nearby" ? facts.nearby.map((r) => [r.town, `${r.mi} mi`, `${r.min} min`])
+        : typeof b.rows === "string" && b.rows.startsWith("city:") ? t.cityCard.map(([k, label, src]) => [label, cityValue(b.rows.slice(5), k, t), src])
+        : b.rows;
       return `<section class="services df-section" data-df-reveal-group><div class="section-heading"><span class="eyebrow" data-df-reveal>${esc(b.eyebrow)}</span><${H} data-df-reveal>${html(b.heading)}</${H}>${b.lead ? `<p data-df-reveal>${html(fill(b.lead, t))}</p>` : ""}</div><table class="df-table" data-df-reveal><thead><tr>${b.columns.map((c) => `<th scope="col">${esc(c)}</th>`).join("")}</tr></thead><tbody>${rows.map((r) => `<tr>${r.map((c) => `<td>${esc(c)}</td>`).join("")}</tr>`).join("")}</tbody></table>${paras ? `<div class="df-prose">${paras}</div>` : ""}</section>`;
     }
     case "cards": {
       // items: page ids, or { id, text } to override the card line
-      const items = (b.items || b.pages || []).map((it) => (typeof it === "string" ? { id: it } : it)).map((it) => {
+      const kids = typeof b.items === "string" && b.items.startsWith("children:") ? cellsOf(L).filter((q) => q.city === p.city && kindOf(q.base) === b.items.slice(9)).sort((a, z) => (a.base < z.base ? -1 : 1)).map((q) => ({ id: q.id })) : null;
+      const items = (kids || b.items || b.pages || []).map((it) => (typeof it === "string" ? { id: it } : it)).map((it) => {
         const q = byKey.get(`${L}:${it.id}`);
         if (!q) { MISSING.add(`page:${it.id}`); return null; }
         return { q, text: it.text };
@@ -222,7 +286,7 @@ function footer(loc) {
     <img src="https://kfn00ghfuedoecga.public.blob.vercel-storage.com/divinely%20fadeed%20pic%20of%20tim.jpg" alt="${t.footerPhotoAlt}" width="1912" height="1912" loading="lazy" decoding="async">
     <div class="df-footer-photo-logo" aria-label="Divinely Faded — Elevate Your Standard"><strong>DIVINELY FADED</strong><small>ELEVATE YOUR STANDARD</small></div>
   </div>
-</footer><dialog id="lightbox" aria-label="${t.lbLabel}"><button id="close-photo" aria-label="${t.lbClose}">${t.lbCloseText}</button><img alt="${t.lbAlt}"></dialog>`;
+</footer><dialog id="lightbox" aria-label="${t.lbLabel}"><button id="close-photo" aria-label="${t.lbClose}">${t.lbCloseText} ${ICON.close}</button><img alt="${t.lbAlt}"></dialog>`;
 }
 // Reviews (content/reviews.json): Colin's .review component as a carousel. Visible ratings with an "as of" date;
 // quotes verbatim in English (lang="en"); no rating schema (self-serving LocalBusiness ratings are ineligible).
@@ -234,14 +298,18 @@ const ICON = {
   prev: SVG('<path d="M14.5 5.5 8 12l6.5 6.5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>'),
   next: SVG('<path d="M9.5 5.5 16 12l-6.5 6.5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>'),
   pause: SVG('<rect x="7" y="6" width="3.2" height="12" rx="1" fill="currentColor"/><rect x="13.8" y="6" width="3.2" height="12" rx="1" fill="currentColor"/>', "df-i-pause"),
+  // No emoji or emoji-capable symbols anywhere on the site (Peyton 2026-10-25): stars and the close mark are drawn.
+  stars: `<svg class="df-stars" viewBox="0 0 132 20" aria-hidden="true" focusable="false"><g fill="currentColor">${[0, 28, 56, 84, 112].map((x) => `<polygon transform="translate(${x} 0)" points="10,0.8 12.7,7 19.5,7.6 14.3,12.1 15.9,18.8 10,15.2 4.1,18.8 5.7,12.1 0.5,7.6 7.3,7"/>`).join("")}</g></svg>`,
+  star: SVG('<polygon points="12,1.8 14.9,8.6 22.3,9.2 16.7,14.1 18.4,21.4 12,17.5 5.6,21.4 7.3,14.1 1.7,9.2 9.1,8.6" fill="currentColor"/>', "df-star"),
+  close: SVG('<path d="M6 6l12 12M18 6L6 18" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>', "df-x"),
   play: SVG('<path d="M8 5.8v12.4a.8.8 0 0 0 1.2.7l9.6-6.2a.8.8 0 0 0 0-1.4L9.2 5.1a.8.8 0 0 0-1.2.7z" fill="currentColor"/>', "df-i-play"),
 };
 function reviewsHTML(loc) {
   if (!REVIEWS) return "";
   const t = T[loc], R = REVIEWS;
   const asOf = new Date(R.as_of + "T12:00:00Z").toLocaleDateString(loc === "es" ? "es-US" : "en-US", { year: "numeric", month: "long", day: "numeric", timeZone: "UTC" });
-  const rating = (k) => { const x = R.sources[k]; return `<a href="${esc(k === "booksy" && loc === "es" ? x.url.replace("/en-us/", "/es-us/") : x.url)}" target="_blank" rel="noopener" data-count="${k}:${x.count}"><span aria-hidden="true">★</span> ${x.rating.toFixed(1)} ${t.rvOn} ${x.label} · ${x.count} ${t.rvReviews}</a>`; };
-  const slides = R.quotes.map((q, i) => `<figure class="df-review-slide${i ? "" : " is-active"}"${i ? ' aria-hidden="true"' : ""}><p class="stars" aria-label="${t.rvStars}">★★★★★</p><blockquote lang="en">“${esc(q.text)}”</blockquote><figcaption>${esc(q.author.toUpperCase())} · ${esc(R.sources[q.source].label.toUpperCase())}${q.service ? ` · ${esc(q.service.toUpperCase())}` : ""}</figcaption></figure>`).join("");
+  const rating = (k) => { const x = R.sources[k]; return `<a href="${esc(k === "booksy" && loc === "es" ? x.url.replace("/en-us/", "/es-us/") : x.url)}" target="_blank" rel="noopener" data-count="${k}:${x.count}">${ICON.star} ${x.rating.toFixed(1)} ${t.rvOn} ${x.label} · ${x.count} ${t.rvReviews}</a>`; };
+  const slides = R.quotes.map((q, i) => `<figure class="df-review-slide${i ? "" : " is-active"}"${i ? ' aria-hidden="true"' : ""}><p class="stars" role="img" aria-label="${t.rvStars}">${ICON.stars}</p><blockquote lang="en">“${esc(q.text)}”</blockquote><figcaption>${esc(q.author.toUpperCase())} · ${esc(R.sources[q.source].label.toUpperCase())}${q.service ? ` · ${esc(q.service.toUpperCase())}` : ""}</figcaption></figure>`).join("");
   return `<section class="review df-reviews" data-df-reviews aria-roledescription="carousel" aria-label="${t.rvLabel}"><span class="eyebrow">${t.rvEyebrow}</span><p class="df-ratings">${rating("google")}${rating("booksy")}<small>${t.rvAsOf} ${asOf}${t.rvOrig ? ` · ${t.rvOrig}` : ""}</small></p><div class="df-review-slides" aria-live="off">${slides}</div><div class="df-review-nav" hidden><button type="button" class="df-review-prev" aria-label="${t.rvPrev}" title="${t.rvPrev}">${ICON.prev}</button><span class="df-review-pos">1 / ${R.quotes.length}</span><button type="button" class="df-review-next" aria-label="${t.rvNext}" title="${t.rvNext}">${ICON.next}</button><button type="button" class="df-review-pause" data-state="playing" aria-label="${t.rvPause}" title="${t.rvPause}" data-pause="${t.rvPause}" data-play="${t.rvPlay}">${ICON.pause}${ICON.play}</button></div><a class="text-link" href="${esc(R.sources.google.url)}" target="_blank" rel="noopener">${t.rvMore}</a></section>`;
 }
 function cta(t) {
@@ -287,7 +355,7 @@ function jsonld(p) {
   const g = [business(p.locale),
     { "@type": "Person", "@id": `${SITE}/#tim`, name: "Timothy Murillo", alternateName: "Tim Murillo", url: `${SITE}${p.locale === "es" ? "/es/sobre-mi/" : "/about/"}`, image: `${SITE}/assets/photos/team-tim-portrait-1200.webp`, jobTitle: p.locale === "es" ? "Barbero y dueño" : "Barber and owner", worksFor: { "@id": `${SITE}/#business` } },
     { "@type": "WebSite", "@id": `${SITE}/#website`, url: `${SITE}/`, name: facts.name, inLanguage: pages.some((x) => x.locale === "es") ? ["en-US", "es-US"] : "en-US", publisher: { "@id": `${SITE}/#business` } },
-    { "@type": p._post ? "WebPage" : ({ about: "AboutPage", visit: "ContactPage" }[p.id] || (/^(services|styles|blog)$/.test(p.id) ? "CollectionPage" : "WebPage")), "@id": `${url}#webpage`, url, name: p.seo?.title, description: p.seo?.description, inLanguage: L, isPartOf: { "@id": `${SITE}/#website` }, about: { "@id": `${SITE}/#business` }, breadcrumb: { "@id": `${url}#breadcrumb` }, ...(gitDate(p._file) ? { dateModified: gitDate(p._file) } : {}), ...(/^(services|styles|blog)$/.test(p.id) && !p._post ? { hasPart: all.filter((q) => q.locale === p.locale && q.id !== p.id && (p.id === "blog" ? q._post : q.id.startsWith(p.id + "-"))).map((q) => ({ "@type": "WebPage", "@id": `${SITE}${q.slug}#webpage`, url: `${SITE}${q.slug}`, name: q.title || q.nav_label || q.seo?.title })) } : {}), ...(p.seo?.og_photo ? { primaryImageOfPage: `${SITE}/assets/photos/${p.seo.og_photo}-1200.webp` } : {}) },
+    { "@type": p._post ? "WebPage" : ({ about: "AboutPage", visit: "ContactPage" }[p.id] || (/^(services|styles|blog)$/.test(p.id) || p.pageType === "city-hub" ? "CollectionPage" : "WebPage")), "@id": `${url}#webpage`, url, name: p.seo?.title, description: p.seo?.description, inLanguage: L, isPartOf: { "@id": `${SITE}/#website` }, about: { "@id": `${SITE}/#business` }, breadcrumb: { "@id": `${url}#breadcrumb` }, ...(gitDate(p._file) ? { dateModified: gitDate(p._file) } : {}), ...(/^(services|styles|blog)$/.test(p.id) && !p._post ? { hasPart: all.filter((q) => q.locale === p.locale && q.id !== p.id && (p.id === "blog" ? q._post : q.id.startsWith(p.id + "-"))).map((q) => ({ "@type": "WebPage", "@id": `${SITE}${q.slug}#webpage`, url: `${SITE}${q.slug}`, name: q.title || q.nav_label || q.seo?.title })) } : {}), ...(p.seo?.og_photo ? { primaryImageOfPage: `${SITE}/assets/photos/${p.seo.og_photo}-1200.webp` } : {}) },
     { "@type": "BreadcrumbList", "@id": `${url}#breadcrumb`, itemListElement: (p.breadcrumb || [[T[p.locale].crumbHome, T[p.locale].home]]).map(([n, u], i) => ({ "@type": "ListItem", position: i + 1, name: n, item: SITE + u })) }];
   // One Service entity per service site-wide (@id on the site root), a generic service type per language, the locale's Booksy link.
   const serviceNode = (key, name, price) => ({ "@type": "Service", "@id": `${SITE}/#service-${key}`, name, serviceType: (SERVICE_TYPE[key] || {})[p.locale] || p.schema.service_type || name, provider: { "@id": `${SITE}/#business` }, areaServed: { "@type": "City", name: "Carlsbad, NM" }, ...(price != null ? { offers: { "@type": "Offer", price, priceCurrency: "USD", url: bk(p.locale) } } : {}) });
@@ -317,15 +385,18 @@ function crumbs(p) {
   return `<nav class="df-crumbs" aria-label="${T[p.locale].ariaCrumbs}">${bc.map(([n, u], i) => (i === bc.length - 1 ? `<span aria-current="page">${esc(n)}</span>` : `<a href="${u}">${esc(n)}</a>`)).join(" / ")}</nav>`;
 }
 function related(p, t) {
-  const r = (p.related || []).map((id) => byKey.get(`${p.locale}:${id}`)).filter(Boolean);
+  const r = p.pageType === "cell" ? cellRelated(p) : (p.related || []).map((id) => byKey.get(`${p.locale}:${id}`)).filter(Boolean);
   if (!r.length) return "";
-  return `<section class="services df-section" data-df-reveal-group><div class="section-heading"><span class="eyebrow" data-df-reveal>${p.locale === "es" ? "SIGUE EXPLORANDO" : "KEEP EXPLORING"}</span></div><div class="df-cards">${r.map((q) => `<a class="df-card" data-df-reveal href="${q.slug}"><h3>${esc(q.nav_label || q.title)}</h3><p>${esc(q.card_text || q.seo?.description || "")}</p></a>`).join("")}</div></section>`;
+  return `<section class="services df-section" data-df-reveal-group><div class="section-heading"><span class="eyebrow" data-df-reveal>${p.locale === "es" ? "SIGUE EXPLORANDO" : "KEEP EXPLORING"}</span></div><div class="df-cards">${r.map((q) => `<a class="df-card" data-df-reveal href="${q.slug}"><h3>${esc((q.nav_label || q.title) + (p.pageType === "cell" && q.id === p.base ? " · Carlsbad" : ""))}</h3><p>${esc(q.card_text || q.seo?.description || "")}</p></a>`).join("")}</div></section>`;
 }
 function renderPage(p) {
   const t = T[p.locale];
-  const body = p._post ? renderPost(p, t) : (p.blocks || []).map((b, i) => blockHTML(b, p, t, i === 0)).join("");
+  const parts = p._post ? [renderPost(p, t)] : (p.blocks || []).map((b, i) => blockHTML(b, p, t, i === 0));
+  if (p.pageType === "cell") parts.splice(1, 0, cellCard(p, t)); // the sourced fact card sits right under the intro
+  else if (!p._post && CELL_FIELDS[p.id] && cityFacts.carlsbad) parts.splice(1, 0, cellCard(p, t, "carlsbad", p.id)); // Carlsbad row
+  const body = parts.join("");
   const rv = !p._post && REVIEW_PAGES.has(p.id) ? reviewsHTML(p.locale) : "";
-  return `${head(p)}<body class="df-page df-${p.locale}">${header(p, t)}${menu(p, t)}<main id="main">${crumbs(p)}${body}${rv}${related(p, t)}${cta(t)}</main>${footer(p.locale)}<script src="/script.js"></script>${rv ? '<script src="/df-reviews.js" defer></script>' : ""}</body></html>\n`;
+  return `${head(p)}<body class="df-page df-${p.locale}">${header(p, t)}${menu(p, t)}<main id="main">${crumbs(p)}${body}${rv}${p._post ? "" : cityDownLinks(p, t)}${related(p, t)}${cta(t)}</main>${footer(p.locale)}<script src="/script.js"></script>${rv ? '<script src="/df-reviews.js" defer></script>' : ""}</body></html>\n`;
 }
 function renderPost(p, t) {
   const hero = p.hero ? `<div class="photo-pair df-post-hero">${img(p.hero, p.hero_alt || "", { eager: true, sizes: "100vw" })}</div>` : "";

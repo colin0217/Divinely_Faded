@@ -1,0 +1,128 @@
+{
+  "id": "artesia-services-braids",
+  "locale": "en",
+  "pageType": "cell",
+  "city": "artesia",
+  "base": "services-braids",
+  "slug": "/artesia/braids/",
+  "alt": "/es/artesia/trenzas/",
+  "nav_label": "Braids · Artesia",
+  "card_text": "Braids for men coming from Artesia: text the style first, clear a long block, and why rows suit a hot, dry summer.",
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Artesia",
+      "/artesia/"
+    ],
+    [
+      "Braids",
+      "/artesia/braids/"
+    ]
+  ],
+  "seo": {
+    "title": "Braids for Men from Artesia, NM | Divinely Faded, Carlsbad",
+    "description": "Men's braids for Artesia, done by Tim in Carlsbad about 44 minutes down US 285. Text a photo first, book a block you can give up, and plan for the heat.",
+    "primary": "braids for men artesia nm",
+    "secondary": [
+      "hair braiding artesia nm",
+      "cornrows artesia nm"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "ARTESIA / BRAIDS",
+      "h1": "Braids, from Artesia.",
+      "paragraphs": [
+        "I braid in Carlsbad, {{city:artesia.drive_mi}} miles south of Artesia on {{city:artesia.route}}, around {{city:artesia.drive_min}} minutes each way (OpenStreetMap routing). A set of braids is one of the longest sittings on my menu, which changes how you plan the trip.",
+        "Settle the style by text, pick a slot you can fully give up, and the drive becomes the easy part."
+      ],
+      "link": {
+        "label": "BOOK BRAIDS",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / BEFORE THE DRIVE",
+      "heading": "Agree on the set by text.",
+      "paragraphs": [
+        "Booksy lists Braids with the price as varies, because the price follows the set: how many rows, whether they meet at the crown, whether you want cuffs on the ends. Send a photo to {{phone}} and I'll tell you what that style runs before you commit to the road.",
+        "From Artesia that avoids a wasted trip: nobody wants {{city:artesia.drive_min}} minutes on the road to learn the style needs more length than they have."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "02 / BOOKING",
+      "heading": "One service, one long block.",
+      "lead": "Booksy holds the full time for a set.",
+      "items": [
+        {
+          "title": "Braids",
+          "meta": "{{price:braids}} · {{minutes:braids}}",
+          "body": "A personalized set, over a fade or taper if you want one. Booksy blocks {{minutes:braids}}, so pick a slot with nothing waiting behind it.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / THE HEAT",
+      "heading": "Rows keep the hair off your neck.",
+      "paragraphs": [
+        "Artesia sees roughly {{city:artesia.days_100f}} days a year at 100°F or more, with humidity averaging about {{city:artesia.humidity_pct}} (Open-Meteo, 2023–25). Braids hold the hair tight to the scalp and a fade underneath leaves the sides bare, so less sits on your neck through a summer like that. Air that dry also dries the scalp under the rows, so oil it between washes and the set lasts better."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / SATURDAY MATH",
+      "heading": "Make it a morning.",
+      "paragraphs": [
+        "Braids plus the round trip is most of a half day. On Saturday I open at 8:00 AM, so the first slot of the morning puts you back on 285 toward Artesia well before the afternoon, with the rest of the weekend untouched.",
+        "A missed braids slot is a hard one for me to refill, so if plans change, cancel on Booksy as early as you can. A late cancellation or a no-show may carry a fee."
+      ],
+      "photos": []
+    },
+    {
+      "type": "faq",
+      "eyebrow": "05 / QUESTIONS",
+      "heading": "Braids from Artesia, answered.",
+      "items": [
+        {
+          "q": "How much are braids?",
+          "a": "The same from Artesia as from across the street: it varies by style. Text me a photo first and ask."
+        },
+        {
+          "q": "How long is the whole trip?",
+          "a": "Roughly {{city:artesia.drive_min}} minutes down, {{minutes:braids}} in the chair, {{city:artesia.drive_min}} minutes back. Clear the block."
+        },
+        {
+          "q": "Can the sides be faded in the same visit?",
+          "a": "Yes. Most sets on the <a href=\"/services/braids/\">braids page</a> sit over a fade or taper. The fade grows out before the braids do, so the sides may bring you back down sooner than the rows."
+        },
+        {
+          "q": "How do I pay?",
+          "a": "After the set is finished: cash, card, Zelle or Cash App."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "BRAIDS",
+      "heading": "Text the photo.<br>Then book the morning.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "id": "roswell-styles-textured-fringe",
+  "locale": "en",
+  "pageType": "cell",
+  "city": "roswell",
+  "base": "styles-textured-fringe",
+  "slug": "/roswell/textured-fringe/",
+  "alt": "/es/roswell/fleco-texturizado/",
+  "nav_label": "Textured fringe · Roswell",
+  "card_text": "A textured fringe for Roswell: a forward cut for school ages and adults, with the trip planned around the front.",
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Roswell",
+      "/roswell/"
+    ],
+    [
+      "Textured Fringe",
+      "/roswell/textured-fringe/"
+    ]
+  ],
+  "seo": {
+    "title": "Textured Fringe for Roswell, NM | Divinely Faded, Carlsbad",
+    "description": "Textured fringe haircuts for Roswell, cut in Carlsbad south on US 285. A forward cut for teens and adults, lighter for summer, and booking.",
+    "primary": "textured fringe roswell nm",
+    "secondary": [
+      "fringe haircut roswell nm",
+      "barber roswell nm"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "ROSWELL / TEXTURED FRINGE",
+      "h1": "Textured fringe, from Roswell.",
+      "paragraphs": [
+        "The front comes forward onto the forehead, the ends are cut so they split into pieces instead of a solid bar, and the sides are tapered to keep the weight where the style lives. I cut textured fringes in Carlsbad, at {{address}}, which from Roswell is {{city:roswell.drive_mi}} miles of {{city:roswell.route}} through Artesia, about {{city:roswell.drive_min}} minutes (OpenStreetMap routing)."
+      ],
+      "link": {
+        "label": "BOOK A TEXTURED FRINGE",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / SCHOOL AGES AND UP",
+      "heading": "A cut that works at fifteen and at forty.",
+      "paragraphs": [
+        "Roswell is {{city:roswell.under18_pct}} under 18 (Census ACS 2023), so a lot of households reading this have a teenager who wants the front forward and the sides clean. The textured fringe is a good fit for that age because it needs no comb and no part, and it looks deliberate even after a day at school. A parent can get the same cut with a lower, heavier fringe and it reads completely grown up.",
+        "Each person books their own appointment on Booksy. Put a teen's slot right after yours so one {{city:roswell.drive_min}}-minute drive takes care of both."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / HOW HEAVY IN FRONT",
+      "heading": "Lighter for summer.",
+      "paragraphs": [
+        "Hair on the forehead is hair on the forehead in a {{city:roswell.july_high_f}} July, and Roswell runs about {{city:roswell.days_100f}} days a year at 100°F or hotter (Open-Meteo, 2023–25). When it's that hot, I'd leave the fringe lighter and shorter, like the first photo on my styles page, so it sits off the skin. Come fall, the longer, heavier sweep is comfortable again."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "03 / BOOK IT AS",
+      "heading": "One service does it.",
+      "lead": "Teens and adults both book the Essential; add the Signature for a beard.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "Fringe cut and textured, sides tapered, nape finished by straight razor, styled forward before you go. Kids welcome on this one.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "The fringe cut plus a beard trim or line-up and a hot towel, for the adult in the car.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / QUESTIONS",
+      "heading": "Fringe questions from Roswell.",
+      "items": [
+        {
+          "q": "When should I book the next one from this far away?",
+          "a": "When the front starts touching your eyes, the shape is finished; the taper on the sides usually goes a little before that. Book on Booksy as soon as the sides look soft, so the trip lands before the fringe does."
+        },
+        {
+          "q": "Is this the same as an edgar?",
+          "a": "Cousins. An edgar has a blunt, straight line across the forehead and a sharper fade; a textured fringe is softer and broken up at the ends. Bring a photo of whichever you mean, or point at the <a href=\"/styles/textured-fringe/\">textured fringe page</a>."
+        },
+        {
+          "q": "My kid has a cowlick at the front. Will a fringe work?",
+          "a": "Sometimes not; a strong front cowlick pushes hair up instead of forward. I'll check it in the chair and suggest a crop or a taper if the fringe would fight it."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "APPOINTMENTS ONLY",
+      "heading": "Book the fringe.<br>Then south on 285.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ]
+}

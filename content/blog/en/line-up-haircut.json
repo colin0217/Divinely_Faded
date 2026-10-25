@@ -6,8 +6,8 @@
   "plan_rank": 18,
   "title": "Line Up Haircut: What It Is and How Long It Stays Sharp",
   "eyebrow": "STYLES",
-  "hero": "cut-low-fade-line-up",
-  "hero_alt": "Low fade with a sharp line-up at the temple and a trimmed mustache",
+  "hero": "pexels-33448216-clippers-line-up",
+  "hero_alt": "Clippers squaring the edge of a hairline, close up",
   "image_plan": null,
   "card_text": "The sharp outline at your forehead, temples and neck: how it's cut, how it differs from a shape up, and why it blurs first.",
   "lede": [
@@ -24,9 +24,18 @@
     ]
   },
   "breadcrumb": [
-    ["Home", "/"],
-    ["Blog", "/blog/"],
-    ["Line Up Haircut", "/blog/line-up-haircut/"]
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Blog",
+      "/blog/"
+    ],
+    [
+      "Line Up Haircut",
+      "/blog/line-up-haircut/"
+    ]
   ],
   "blocks": [
     {

@@ -1,0 +1,123 @@
+{
+  "id": "artesia-styles-skin-fade",
+  "locale": "es",
+  "pageType": "cell",
+  "city": "artesia",
+  "base": "styles-skin-fade",
+  "slug": "/es/artesia/skin-fade/",
+  "alt": "/artesia/skin-fade/",
+  "nav_label": "Skin fade · Artesia",
+  "card_text": "Skin fade para Artesia: verano seco y caliente, lados a piel y el mantenimiento para un viaje por la 285.",
+  "breadcrumb": [
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Artesia",
+      "/es/artesia/"
+    ],
+    [
+      "Skin Fade",
+      "/es/artesia/skin-fade/"
+    ]
+  ],
+  "seo": {
+    "title": "Skin fade para Artesia, NM | Divinely Faded, Carlsbad",
+    "description": "Skin fade para Artesia, en Carlsbad, a unos {{city:artesia.drive_min}} minutos al sur por la US 285. Por qué los lados a piel le van al verano de Artesia y cuándo agendar.",
+    "primary": "corte skin fade artesia nm",
+    "secondary": [
+      "desvanecido artesia nm",
+      "skin fade alto artesia"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "ARTESIA / SKIN FADE",
+      "h1": "Skin fade, desde Artesia.",
+      "paragraphs": [
+        "Un skin fade (desvanecido hasta la piel) lleva los lados y la parte de atrás afeitados hasta el cuero cabelludo, y se difumina hacia el largo que dejes arriba, sin un escalón en ningún punto del cambio. Mi barbería está en Carlsbad, a {{city:artesia.drive_mi}} millas al sur de Artesia por la {{city:artesia.route}}; la ruta de OpenStreetMap calcula el viaje en unos {{city:artesia.drive_min}} minutos.",
+        "Dos cosas deciden si este es tu corte: el clima en el que vives y qué opinas del pelo que vuelve a crecer sobre la piel."
+      ],
+      "link": {
+        "label": "AGENDA UN SKIN FADE",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / CALOR SECO",
+      "heading": "Lados a piel para un verano en Artesia.",
+      "paragraphs": [
+        "Julio en Artesia promedia una máxima de {{city:artesia.july_high_f}}, y el año trae unos {{city:artesia.days_100f}} días de 100°F o más, con una humedad relativa de alrededor de {{city:artesia.humidity_pct}} (Open-Meteo, 2023–25). Es calor seco. Con los lados a piel no hay pelo que lo atrape contra tu cabeza, y por eso hay quien se cambia a este corte en cuanto empiezan los días de 100°F y lo mantiene hasta octubre. Carlsbad, con {{city:carlsbad.july_high_f}}, no es nada más fresco, así que el viaje tampoco te da un respiro."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / EL REGRESO",
+      "heading": "El crecimiento se nota primero abajo.",
+      "paragraphs": [
+        "La piel al descubierto es donde aparecen los primeros días de crecimiento, como una sombra sobre la franja más baja. Nadie más la ve tan pronto como tú. Si te gusta bien nítido, vas a querer volver antes de lo que pediría un taper; si no te molesta el look ya crecido, alárgalo. Desde Artesia, con {{city:artesia.drive_min}} minutos de ida, yo elegiría el intervalo contigo en la silla y pondría la siguiente fecha en Booksy antes de que te vayas."
+      ],
+      "photos": []
+    },
+    {
+      "type": "faq",
+      "eyebrow": "03 / PREGUNTAS",
+      "heading": "Skin fade, preguntas desde Artesia.",
+      "items": [
+        {
+          "q": "¿Skin fade bajo, medio o alto para el calor?",
+          "a": "La altura es cuestión de contraste, no de temperatura; los tres llegan a la piel abajo. Elige según qué tan marcados quieres los lados."
+        },
+        {
+          "q": "¿Cuánto es el viaje desde Artesia hasta tu silla?",
+          "a": "Unas {{city:artesia.drive_mi}} millas y {{city:artesia.drive_min}} minutos, directo por la {{city:artesia.route}} hasta {{address}}."
+        },
+        {
+          "q": "¿Un skin fade funciona en pelo chino?",
+          "a": "Sí, igual en pelo chino, ondulado o lacio, porque los lados se van por completo. La <a href=\"/es/estilos/skin-fade/\">página del skin fade</a> lo muestra junto a una barba completa."
+        },
+        {
+          "q": "¿La barba también se va en verano?",
+          "a": "Eso lo decides tú. Si se queda, agenda el Signature Cut (corte distintivo) para que lleve su delineado (line-up) en la misma visita que el desvanecido (fade)."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "04 / EN BOOKSY",
+      "heading": "Las dos citas.",
+      "lead": "Precios y tiempos directos del menú.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "Desvanecido y parte de arriba, nuca terminada con navaja, peinado para salir. Para una cara bien afeitada o una barba que te arreglas tú mismo.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "El desvanecido más trabajo de barba, recorte o delineado, con toalla caliente y detalles finos con navaja. La cita para un skin fade con barba.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "SOLO CON CITA",
+      "heading": "Agenda el fade.<br>Baja más fresco.",
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
+    }
+  ]
+}

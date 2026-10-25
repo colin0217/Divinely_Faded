@@ -1,0 +1,124 @@
+{
+  "id": "artesia-styles-low-taper-fade",
+  "locale": "es",
+  "pageType": "cell",
+  "city": "artesia",
+  "base": "styles-low-taper-fade",
+  "slug": "/es/artesia/low-taper-fade/",
+  "alt": "/artesia/low-taper-fade/",
+  "nav_label": "Low taper fade · Artesia",
+  "card_text": "Low taper fade para Artesia: un desvanecido suave que alarga el tiempo entre viajes por la 285.",
+  "breadcrumb": [
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Artesia",
+      "/es/artesia/"
+    ],
+    [
+      "Low Taper Fade",
+      "/es/artesia/low-taper-fade/"
+    ]
+  ],
+  "seo": {
+    "title": "Low taper fade para Artesia, NM | Divinely Faded, Carlsbad",
+    "description": "Taper bajo y taper medio para Artesia, en Carlsbad, a unos {{city:artesia.drive_min}} minutos al sur por la US 285. Crece con suavidad: escuela, trabajo y menos viajes.",
+    "primary": "taper bajo artesia nm",
+    "secondary": [
+      "corte taper fade artesia",
+      "taper medio artesia nm"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "ARTESIA / LOW TAPER FADE",
+      "h1": "Low taper fade, desde Artesia.",
+      "paragraphs": [
+        "Un low taper fade (taper bajo) solo recorta los bordes: las patillas, el pelo alrededor de la oreja y el contorno de la nuca. Los lados de arriba conservan su largo, así que el corte se ve limpio de frente y nunca le sale una línea brusca al crecer. Lo corto en Carlsbad, a {{city:artesia.drive_mi}} millas al sur de Artesia por la {{city:artesia.route}}, unos {{city:artesia.drive_min}} minutos de ida según la ruta de OpenStreetMap.",
+        "De todos los desvanecidos (fades) de mi menú, este es el que menos le exige a ese viaje."
+      ],
+      "link": {
+        "label": "AGENDA UN TAPER BAJO",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / MENOS VIAJES",
+      "heading": "Un desvanecido que no te apura a volver.",
+      "paragraphs": [
+        "Como se ve tan poca piel, un taper bajo se cubre despacio. La nuca es el primer punto que pierde el borde, y aun eso es sutil. Para alguien a {{city:artesia.drive_min}} minutos, eso significa un tramo más largo entre visitas del que te daría un skin fade. Un taper medio, que empieza cerca de la sien, muestra el crecimiento antes y pide un calendario un poco más apretado; te digo cuál de los dos estás viendo antes de empezar."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "02 / CÓMO AGENDARLO",
+      "heading": "Con dos citas basta.",
+      "lead": "Precios y tiempos de Booksy.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}} · Niños bienvenidos",
+          "body": "Taper y parte de arriba, cortados a la forma de tu cabeza, con limpieza de la nuca con navaja y peinado final.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "Suma la barba: recorte o delineado (line-up), toalla caliente y detalles con navaja, en la misma sentada.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / SOL, ESCUELA Y TRABAJO",
+      "heading": "Cobertura donde la quieres.",
+      "paragraphs": [
+        "Las máximas de julio en Artesia promedian {{city:artesia.july_high_f}}, y unos {{city:artesia.days_100f}} días al año llegan a 100°F (Open-Meteo, 2023–25). Un skin fade es una respuesta a eso. Un taper es la otra: si prefieres no traer el cuero cabelludo al descubierto bajo ese sol todo el verano, deja pelo en los lados y aun así limpia los bordes.",
+        "También es el desvanecido que le recomendaría a un papá o una mamá. Casi un tercio de Artesia es menor de 18 años, el {{city:artesia.under18_pct}} según Censo ACS 2023, más que el {{city:carlsbad.under18_pct}} de Carlsbad, y un taper pasa el código de vestimenta de la escuela sin una franja rapada por el lado. Pasa la misma prueba en un trabajo conservador. Los niños agendan los servicios normales de corte en Booksy, cada uno en su propio horario."
+      ],
+      "photos": []
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / PREGUNTAS",
+      "heading": "Preguntas sobre el taper, edición Artesia.",
+      "items": [
+        {
+          "q": "¿Taper bajo o taper medio si solo bajo de vez en cuando?",
+          "a": "Bajo. Deja más pelo en los lados, así que el pelo que vuelve a crecer se nota menos y el corte se mantiene presentable más tiempo entre viajes."
+        },
+        {
+          "q": "¿Un taper bajo es un buen primer desvanecido para mi hijo?",
+          "a": "Es el más suave que hago. Nada llega a la piel a menos que lo pidas, y crece sin escalón."
+        },
+        {
+          "q": "¿Puedo dejar el pelo largo arriba con un taper?",
+          "a": "Sí. El taper solo toca los bordes, así que arriba puede ir un crop, un fleco o peinado hacia atrás. La <a href=\"/es/estilos/low-taper-fade/\">página del low taper fade</a> muestra una parte de arriba más larga."
+        },
+        {
+          "q": "¿Cómo sé cuándo es hora de volver?",
+          "a": "Cuando la parte de atrás de tu cuello empieza a verse borrosa en el espejo. Esa es la señal del taper."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "SOLO CON CITA",
+      "heading": "Agenda el taper.<br>Espacia los viajes.",
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "id": "city-artesia",
+  "locale": "es",
+  "slug": "/es/artesia/",
+  "alt": "/artesia/",
+  "nav_label": "Desde Artesia",
+  "card_text": "Si vienes manejando desde Artesia: distancia, ruta y cómo agendar tu cita.",
+  "breadcrumb": [
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Artesia",
+      "/es/artesia/"
+    ]
+  ],
+  "seo": {
+    "title": "Barbería cerca de Artesia, NM: a 44 min en Carlsbad",
+    "description": "¿Vienes de Artesia? Divinely Faded está en Carlsbad, 36 millas al sur, unos 44 minutos por la US 285. Solo con cita: agenda en Booksy antes de salir.",
+    "primary": "barbería artesia nm",
+    "secondary": [
+      "barbería cerca de artesia nm",
+      "corte de pelo artesia nm"
+    ],
+    "og_photo": "cut-skin-fade-long-beard"
+  },
+  "schema": {
+    "type": "CollectionPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "VISÍTANOS / DESDE ARTESIA",
+      "h1": "Si vienes de Artesia.",
+      "paragraphs": [
+        "Mi barbería está en Carlsbad, no en Artesia. Queda a unas 36 millas al sur, casi todo el camino por la US 285: más o menos 44 minutos desde el centro de Artesia hasta mi puerta.",
+        "Si el viaje te vale la pena, esta página te dice cómo planearlo, para que llegues a mi silla a la hora que agendaste."
+      ],
+      "link": {
+        "label": "CÓMO LLEGAR",
+        "href": "directions"
+      },
+      "photos": [
+        "cut-skin-fade-long-beard"
+      ],
+      "alt": {
+        "cut-skin-fade-long-beard": "Skin fade (desvanecido hasta la piel) alto visto por detrás, con una barba larga y canosa"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / PLANEA EL VIAJE",
+      "heading": "Primero agenda, luego maneja.",
+      "paragraphs": [
+        "Solo atiendo con cita, así que escoge tu hora en Booksy antes de salir de Artesia. Ahí aparecen todos los horarios disponibles, y al agendar uno, la silla es tuya a esa hora.",
+        "El sábado abro de 8:00 AM a 2:00 PM, por si entre semana no tienes tiempo. Entre semana hay citas lunes, martes, jueves y viernes. Miércoles y domingo cierro.",
+        "Calcula los 44 minutos completos y un poco más por el tráfico ya dentro de Carlsbad. Si algo te detiene en el camino, mándame un mensaje al {{phone}} para saber por dónde vas.",
+        "Booksy puede cobrar un cargo por cancelación si no llegas a tu cita o si cancelas de último momento. Si cambian tus planes, cancela en la app lo antes posible."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "02 / QUÉ AGENDAR",
+      "heading": "Cuánto tiempo vas a estar en la silla.",
+      "lead": "Precios y tiempos de mi menú en Booksy. Súmale el viaje de ida y vuelta y ya sabes cuánto te toma toda la tarde.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "El corte completo de menor duración de mi menú: a la forma de tu cabeza, con la nuca limpia a navaja y peinado final antes de que regreses por la 285.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "Corte de pelo más corte de barba o delineado (line-up), con toalla caliente al final. En una sola sesión quedan las dos cosas, y en un solo viaje también.",
+          "book": true
+        },
+        {
+          "title": "Luxury Grooming Experience",
+          "meta": "{{price:luxury-grooming}} · {{minutes:luxury-grooming}}",
+          "body": "Una cita completa: corte, modelado de barba, lavado y masaje en el cuero cabelludo, vapor facial y dos toallas calientes. Vale la pena si vas a pasar el día en Carlsbad.",
+          "book": true
+        },
+        {
+          "title": "Head & Beard Shave",
+          "meta": "{{price:head-beard-shave}} · {{minutes:head-beard-shave}}",
+          "body": "Cabeza y barba afeitadas con toallas calientes y bálsamo aftershave, todo en una sola sesión.",
+          "book": true
+        },
+        {
+          "title": "Cortes para niños",
+          "meta": "Niños bienvenidos",
+          "body": "¿Vienes con la familia? Agenda en Booksy un horario para cada niño, uno después de otro, junto al tuyo, y todos salen listos en una sola visita.",
+          "href": "page:services-kids",
+          "link_label": "CORTES PARA NIÑOS",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "eyebrow": "PARA ARTESIA / SERVICIOS",
+      "heading": "Cada servicio, planeado desde Artesia.",
+      "items": "children:services"
+    },
+    {
+      "type": "cards",
+      "eyebrow": "PARA ARTESIA / ESTILOS",
+      "heading": "Cada estilo, planeado desde Artesia.",
+      "items": "children:styles"
+    },
+    {
+      "type": "map",
+      "eyebrow": "03 / MAPA",
+      "heading": "A dónde vas.",
+      "lead": "{{address}}. Toca el mapa para abrir la ruta en Google Maps.",
+      "title": "Mapa a Divinely Faded, 303 S Halagueno St, Carlsbad, NM",
+      "link_label": "CÓMO LLEGAR"
+    },
+    {
+      "type": "table",
+      "eyebrow": "04 / EL CAMINO",
+      "heading": "Artesia en números.",
+      "lead": "Datos públicos de Artesia y del camino a la barbería. Cada fila dice de dónde viene el dato.",
+      "columns": [
+        "Artesia",
+        "",
+        "Fuente"
+      ],
+      "rows": "city:artesia"
+    },
+    {
+      "type": "faq",
+      "eyebrow": "05 / PREGUNTAS",
+      "heading": "Antes de salir.",
+      "items": [
+        {
+          "q": "¿Qué tan lejos está Divinely Faded de Artesia?",
+          "a": "Unas 36 millas al sur por la US 285, más o menos 44 minutos. La barbería está en {{address}}."
+        },
+        {
+          "q": "¿Necesito cita para ir desde Artesia?",
+          "a": "Sí. Solo atiendo con cita, así que agenda en Booksy antes de salir y la silla es tuya a esa hora."
+        },
+        {
+          "q": "¿El sábado es buen día para venir?",
+          "a": "El sábado abro de 8:00 AM a 2:00 PM, y le queda bien a quien trabaja entre semana. En Booksy ves qué horarios del sábado siguen disponibles."
+        },
+        {
+          "q": "¿Pueden venir mis hijos también?",
+          "a": "Sí, los niños son bienvenidos. Agenda un horario para cada uno en Booksy y toda la familia sale lista en un solo viaje."
+        },
+        {
+          "q": "¿Cómo pago cuando llegue?",
+          "a": "Después de tu corte, paga como te acomode: efectivo, tarjeta, Zelle o Cash App."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "SOLO CON CITA",
+      "heading": "Agéndalo.<br>Y agarra la 285.",
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
+    }
+  ],
+  "pageType": "city-hub",
+  "city": "artesia",
+  "related": [
+    "visit",
+    "services",
+    "styles"
+  ]
+}

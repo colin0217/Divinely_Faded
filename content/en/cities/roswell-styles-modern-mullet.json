@@ -1,0 +1,125 @@
+{
+  "id": "roswell-styles-modern-mullet",
+  "locale": "en",
+  "pageType": "cell",
+  "city": "roswell",
+  "base": "styles-modern-mullet",
+  "slug": "/roswell/modern-mullet/",
+  "alt": "/es/roswell/mullet-moderno/",
+  "nav_label": "Modern mullet · Roswell",
+  "card_text": "A modern mullet for Roswell: two growth speeds, one long road, and the color day that justifies the trip.",
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Roswell",
+      "/roswell/"
+    ],
+    [
+      "Modern Mullet",
+      "/roswell/modern-mullet/"
+    ]
+  ],
+  "seo": {
+    "title": "Modern Mullet for Roswell, NM | Divinely Faded, Carlsbad",
+    "description": "Modern mullets and burst fade mullets for Roswell, cut in Carlsbad south on US 285. Sides, tail, platinum color and how to plan the trips.",
+    "primary": "modern mullet roswell nm",
+    "secondary": [
+      "mullet haircut roswell nm",
+      "barber roswell nm"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "ROSWELL / MODERN MULLET",
+      "h1": "Modern mullet, from Roswell.",
+      "paragraphs": [
+        "Tight faded sides, texture through the top, and a tail in back that's long on purpose. The modern mullet is a cut with two halves that age at different speeds, which matters when the barber is {{city:roswell.drive_mi}} miles away. I'm at {{address}} in Carlsbad; from Roswell it's {{city:roswell.route}} south through Artesia and about {{city:roswell.drive_min}} minutes (OpenStreetMap routing).",
+        "This page is about managing those two speeds from a distance, who the cut tends to fit, and the color appointment that makes a full day of it."
+      ],
+      "link": {
+        "label": "BOOK A MULLET",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / TWO SPEEDS, ONE ROAD",
+      "heading": "The sides call you back. The tail doesn't.",
+      "paragraphs": [
+        "The faded sides are short, so a few weeks of growth changes them completely. The back is long, so the same few weeks barely register; it just needs shaping now and then so it looks chosen rather than neglected. If you'll be driving {{city:roswell.drive_min}} minutes for every visit, I can cut the sides to grow out more gracefully, with a lower fade or a slightly longer blend, so the mullet still looks like a mullet when you're between trips."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / WHO WEARS IT",
+      "heading": "Twenties, but not only.",
+      "paragraphs": [
+        "About {{city:roswell.age_20_34_pct}} of Roswell is between 20 and 34 (Census ACS 2023), and if you're in that group you probably already know the burst fade mullet, with the curve behind the ear and the curls left to fall at the nape. Past that age, a lower fade and a shorter tail turn the same cut into something that walks into an office without comment. Texture helps at any age: wavy and curly hair hold the back's shape; straight hair needs enough length to move past the collar."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "03 / BOOK IT AS",
+      "heading": "Cut, beard, or the full platinum day.",
+      "lead": "Color is its own booking; text me before pairing it with a cut.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "Faded sides, textured top and a shaped tail, with the straight razor along the neck before styling.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "Add the beard to the drive: a trim or line-up that matches the mullet's edges, with a hot towel at the end.",
+          "book": true
+        },
+        {
+          "title": "Color Transformation",
+          "meta": "{{price:color-transformation}} · {{minutes:color-transformation}}",
+          "body": "Platinum is a bleach-and-tone appointment that takes most of a day. From Roswell, that length is what makes the drive feel proportionate.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / QUESTIONS",
+      "heading": "Mullet logistics from Roswell.",
+      "items": [
+        {
+          "q": "Can I get the cut and the platinum color on the same drive down?",
+          "a": "Text me before you book. The Color Transformation runs {{minutes:color-transformation}} on its own, so stacking a cut needs the right opening, and I'd rather plan it with you first."
+        },
+        {
+          "q": "How do I keep the tail from looking shaggy between visits?",
+          "a": "Ask me for the length and shape before you leave, then keep it clean and let it be. If it starts looking accidental, that's your cue to book."
+        },
+        {
+          "q": "Which mullet should I bring a photo of?",
+          "a": "Any one you like, and the <a href=\"/styles/modern-mullet/\">modern mullet page</a> has two from my chair, one platinum and one curly, to compare against."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "APPOINTMENTS ONLY",
+      "heading": "Book the mullet.<br>Let the back grow on the way.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ]
+}

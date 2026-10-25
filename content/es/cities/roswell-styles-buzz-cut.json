@@ -1,0 +1,120 @@
+{
+  "id": "roswell-styles-buzz-cut",
+  "locale": "es",
+  "pageType": "cell",
+  "city": "roswell",
+  "base": "styles-buzz-cut",
+  "slug": "/es/roswell/buzz-cut/",
+  "alt": "/roswell/buzz-cut/",
+  "nav_label": "Buzz cut · Roswell",
+  "card_text": "Un buzz cut desde Roswell: por qué el viaje tiene más sentido si lo combinas con algo más.",
+  "breadcrumb": [
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Roswell",
+      "/es/roswell/"
+    ],
+    [
+      "Buzz Cut",
+      "/es/roswell/buzz-cut/"
+    ]
+  ],
+  "seo": {
+    "title": "Buzz cut para Roswell, NM | Divinely Faded, Carlsbad",
+    "description": "Buzz cut, crew cut y high and tight para Roswell, cortados en Carlsbad al sur por la US 285. Cómo aprovechar el viaje, el verano y cómo agendar.",
+    "primary": "corte buzz cut roswell nm",
+    "secondary": [
+      "barbería roswell nm"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "ROSWELL / BUZZ CUT",
+      "h1": "Buzz cut, desde Roswell.",
+      "paragraphs": [
+        "Te lo digo de frente: nadie debería manejar {{city:roswell.drive_mi}} millas por un buzz cut (corte rapado) a un solo número y nada más. Estoy en Carlsbad, en {{address}}, que desde Roswell es la {{city:roswell.route}} pasando por Artesia y unos {{city:roswell.drive_min}} minutos de ida (rutas de OpenStreetMap).",
+        "Lo que hace razonable el viaje es lo que hago alrededor del buzz: un delineado (line-up) cuadrado, un desvanecido (fade) por los lados para que nunca se vea como hecho en casa, y navaja en la nuca. Y rinde más si combinas la visita."
+      ],
+      "link": {
+        "label": "AGENDA UN BUZZ CUT",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / APROVECHA EL VIAJE",
+      "heading": "Combínalo.",
+      "paragraphs": [
+        "Roswell es una ciudad de {{city:roswell.population}} habitantes (Censo ACS 2023) con sus propios barberos, así que si vienes conmigo por un corte corto, dale al día una segunda razón. Agenda el Signature para que la barba se arregle bajo la misma toalla caliente, o pon un facial o un afeitado con navaja justo después del corte.",
+        "Los niños con buzz cut entran en el mismo plan. Cada niño tiene su propia cita en Booksy, agendada seguida de la tuya, y todos regresan a casa listos."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / EL ARGUMENTO DEL VERANO",
+      "heading": "Pelo corto en una temporada larga de calor.",
+      "paragraphs": [
+        "Una tarde de julio en Roswell normalmente llega a {{city:roswell.july_high_f}}, y la ciudad tiene más o menos {{city:roswell.days_100f}} días al año a 100°F o más (Open-Meteo, 2023–25). El buzz es el corte que no te pide nada en esos días: nada de producto que se derrita, ninguna forma que acomodar, y la cabeza mojada se seca en minutos.",
+        "También crece con amabilidad: solo el desvanecido y el delineado se desdibujan, así que el espacio entre viajes al sur puede estirarse."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "03 / CÓMO AGENDARLO",
+      "heading": "Tres citas cortas.",
+      "lead": "Buzz, crew y high and tight viven aquí.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "El buzz con su desvanecido y el delineado al frente, con la nuca limpia con navaja. Los niños también agendan este.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "Buzz más corte de barba o delineado, toalla caliente y detalles con navaja. Lo que más rinde del viaje si usas barba.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / PREGUNTAS",
+      "heading": "Cortes cortos, camino largo.",
+      "items": [
+        {
+          "q": "¿Qué número pido para un buzz cut?",
+          "a": "Dime cuánto cuero cabelludo estás dispuesto a mostrar y si lo quieres parejo en toda la cabeza o con desvanecido en los lados. De ahí escojo el número. La <a href=\"/es/estilos/buzz-cut/\">página del buzz cut</a> explica la familia del buzz, el crew y el high and tight."
+        },
+        {
+          "q": "¿Dos personas de Roswell podemos agendar seguidas?",
+          "a": "Sí, siempre que Booksy muestre dos horarios disponibles en fila. Agéndalos los dos antes de salir; no guardo espacios sin agendar."
+        },
+        {
+          "q": "¿Cuánto tiempo se ve nítido un buzz con desvanecido?",
+          "a": "Eso lo deciden los bordes, no la parte de arriba. Pregúntame en la silla y te doy mi cálculo honesto para tu pelo y la altura de tu desvanecido."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "SOLO CON CITA",
+      "heading": "Agéndalo corto.<br>Maneja una sola vez.",
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
+    }
+  ]
+}

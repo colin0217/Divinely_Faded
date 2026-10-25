@@ -1,0 +1,129 @@
+{
+  "id": "artesia-styles-modern-mullet",
+  "locale": "en",
+  "pageType": "cell",
+  "city": "artesia",
+  "base": "styles-modern-mullet",
+  "slug": "/artesia/modern-mullet/",
+  "alt": "/es/artesia/mullet-moderno/",
+  "nav_label": "Modern mullet · Artesia",
+  "card_text": "Modern mullets for Artesia: faded sides, length in back, and a color appointment worth the drive.",
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Artesia",
+      "/artesia/"
+    ],
+    [
+      "Modern Mullet",
+      "/artesia/modern-mullet/"
+    ]
+  ],
+  "seo": {
+    "title": "Modern Mullet for Artesia, NM | Divinely Faded, Carlsbad",
+    "description": "Modern mullets and burst fade mullets for Artesia, cut in Carlsbad {{city:artesia.drive_min}} minutes south on US 285. Sides on a schedule, back left to grow, platinum optional.",
+    "primary": "modern mullet artesia nm",
+    "secondary": [
+      "mullet haircut artesia nm",
+      "burst fade mullet artesia"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "ARTESIA / MODERN MULLET",
+      "h1": "Modern mullet, from Artesia.",
+      "paragraphs": [
+        "Tight faded sides, a textured front, and real length left in the back. That contrast is what makes a modern mullet a haircut and not a throwback. I cut them in Carlsbad, {{city:artesia.drive_mi}} miles down {{city:artesia.route}} from Artesia, around {{city:artesia.drive_min}} minutes by OpenStreetMap routing.",
+        "Here's how the drive and the cut fit together, including the long appointment if you want it platinum."
+      ],
+      "link": {
+        "label": "BOOK A MULLET",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / TWENTIES AND THIRTIES",
+      "heading": "The ages growing it out.",
+      "paragraphs": [
+        "{{city:artesia.age_20_34_pct}} of Artesia is between 20 and 34 (Census ACS 2023), the stretch of life where the mullet has come back as a deliberate cut rather than a dare. I'm not saying it has an age limit. But if you're in that range and thinking about it, start the back growing now: the sides can be faded at any visit, while the tail takes months to pass the collar. Wavy and curly hair gets there with more shape; straight hair needs the extra length first."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / THE LONG APPOINTMENT",
+      "heading": "Platinum earns the trip.",
+      "paragraphs": [
+        "Color Transformation runs {{minutes:color-transformation}} on my menu, because bleaching and toning to platinum can't be rushed. If you're driving {{city:artesia.drive_min}} minutes to get here, that's a booking that justifies the mileage. Text me first so we plan cut and color as one visit instead of two trips. For the haircut on its own, the faded sides are what bring you back; the tail only needs shaping now and then while it grows."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "03 / BOOK IT AS",
+      "heading": "Cut, beard, or the full platinum.",
+      "lead": "Prices and times from my Booksy menu.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "Sides faded, back shaped, front textured, neckline razored, styled to leave.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "The mullet with a beard trim or line-up and a hot towel, for anyone balancing the length with a beard.",
+          "book": true
+        },
+        {
+          "title": "Color Transformation",
+          "meta": "{{price:color-transformation}} · {{minutes:color-transformation}}",
+          "body": "Bleach and tone to platinum like the photo on the mullet page. Its own booking; text me before pairing it with a cut.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / QUESTIONS",
+      "heading": "Mullet questions from Artesia.",
+      "items": [
+        {
+          "q": "How long before a mullet looks like a mullet?",
+          "a": "Starting from short hair, expect a few visits where I keep the sides tight while the back catches up. Several months, depending on how fast your hair grows."
+        },
+        {
+          "q": "Is a burst fade mullet different?",
+          "a": "The fade curves behind the ear instead of running level, which keeps weight at the nape. Same length in back, a softer outline. See it on the <a href=\"/styles/modern-mullet/\">modern mullet page</a>."
+        },
+        {
+          "q": "Can I do cut and color on the same day from Artesia?",
+          "a": "Text me at {{phone}} before you book and I'll tell you how to line the two up."
+        },
+        {
+          "q": "Can a mullet pass at work?",
+          "a": "A shorter tail over a low fade reads far more conservative than a long one over high skin. It dials up or down."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "APPOINTMENTS ONLY",
+      "heading": "Book the mullet.<br>Then point south on 285.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ]
+}

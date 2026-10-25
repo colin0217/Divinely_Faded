@@ -1,0 +1,113 @@
+{
+  "id": "roswell-services-braids",
+  "locale": "en",
+  "pageType": "cell",
+  "city": "roswell",
+  "base": "services-braids",
+  "slug": "/roswell/braids/",
+  "alt": "/es/roswell/trenzas/",
+  "nav_label": "Braids · Roswell",
+  "card_text": "Braids planned from Roswell: text the style first, then give the trip the half day it needs.",
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Roswell",
+      "/roswell/"
+    ],
+    [
+      "Braids",
+      "/roswell/braids/"
+    ]
+  ],
+  "seo": {
+    "title": "Braids for Roswell, NM | Divinely Faded, Carlsbad",
+    "description": "Men's braids for anyone driving from Roswell, done in Carlsbad about 92 minutes south on US 285. Booksy holds {{minutes:braids}}, so text a photo and plan a half day.",
+    "primary": "braids roswell nm",
+    "secondary": [
+      "mens braids roswell nm",
+      "braids for men roswell nm"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "ROSWELL / BRAIDS",
+      "h1": "Braids, from Roswell.",
+      "paragraphs": [
+        "I braid at my shop in Carlsbad, {{city:roswell.drive_mi}} miles south of Roswell by {{city:roswell.route}}. Add the {{city:roswell.drive_min}} minutes down (OpenStreetMap routing) to the {{minutes:braids}} Booksy sets aside for a set and you've committed most of a day, so this page is about making that day go right."
+      ],
+      "link": {
+        "label": "ASK ABOUT BRAIDS",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / TEXT FIRST",
+      "heading": "Send the photo before you send yourself.",
+      "paragraphs": [
+        "Booksy lists braids with a price that varies, because the style decides it. Text a picture of the set you want to {{phone}} and ask before you book. From {{city:roswell.drive_mi}} miles away, you don't want to learn in the chair that the style needs more length or time than you've got. Five minutes of texting settles the price and the plan while you're still at home in Roswell."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "02 / BOOK IT AS",
+      "heading": "One line on the menu.",
+      "lead": "The price is confirmed by text; the time is fixed.",
+      "items": [
+        {
+          "title": "Braids",
+          "meta": "{{price:braids}} · {{minutes:braids}}",
+          "body": "Personalized braiding styles, with or without a fade underneath. Booksy blocks {{minutes:braids}} for it, so choose a slot with nothing pressing after.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / THE HALF DAY",
+      "heading": "Make the trip pay for itself.",
+      "paragraphs": [
+        "With {{city:roswell.drive_min}} minutes each way plus the set, a morning slot gets you back to Roswell by mid-afternoon; an early afternoon slot means driving 285 toward evening. Either works. What doesn't work is squeezing the set between two other commitments. If you want the sides faded under the braids, say so in the text and I'll tell you how to book it. Some ask for that in summer: Roswell sees around {{city:roswell.days_100f}} days a year at 100°F or more (Open-Meteo, 2023–25), and short sides under the rows hold less heat.",
+        "A set this long is hard to refill, so if plans change cancel early on Booksy; late cancellations and no-shows may carry a fee."
+      ],
+      "photos": []
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / QUESTIONS",
+      "heading": "Braids from Roswell, answered.",
+      "items": [
+        {
+          "q": "How much are braids if I'm coming from Roswell?",
+          "a": "Same as for anyone: it depends on the style, which is why Booksy shows the price as varies. Text me a photo first and I'll tell you."
+        },
+        {
+          "q": "How long is the whole trip for braids?",
+          "a": "Roughly {{city:roswell.drive_min}} minutes down, {{minutes:braids}} in the chair, and the drive back. Plan on a half day."
+        },
+        {
+          "q": "Can I get a fade with the braids?",
+          "a": "Most sets in my photos sit over faded or tapered sides. Mention it in your text and I'll tell you how to book it."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "BRAIDS",
+      "heading": "Text the style.<br>Then take 285.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ]
+}

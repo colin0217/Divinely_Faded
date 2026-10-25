@@ -1,0 +1,128 @@
+{
+  "id": "hobbs-services-designs",
+  "locale": "en",
+  "pageType": "cell",
+  "city": "hobbs",
+  "base": "services-designs",
+  "slug": "/hobbs/hair-designs/",
+  "alt": "/es/hobbs/disenos-de-cabello/",
+  "nav_label": "Hair designs · Hobbs",
+  "card_text": "Hair designs from Hobbs: adding one to your cut, the kids who ask for them, and taking the photo before the drive home.",
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Hobbs",
+      "/hobbs/"
+    ],
+    [
+      "Hair Designs",
+      "/hobbs/hair-designs/"
+    ]
+  ],
+  "seo": {
+    "title": "Hair Designs for Hobbs, NM | Divinely Faded, Carlsbad",
+    "description": "Hair designs for men and kids from Hobbs, cut into the fade in Carlsbad west on US 62/180. How to add the design to your haircut booking on Booksy.",
+    "primary": "hair designs hobbs nm",
+    "secondary": [
+      "fade with design hobbs nm",
+      "haircut design hobbs nm"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "HOBBS / HAIR DESIGNS",
+      "h1": "Hair designs, from Hobbs.",
+      "paragraphs": [
+        "A design is a line or a curve shaved into the shortest part of a fade. I cut them in Carlsbad, {{city:hobbs.drive_mi}} miles west of Hobbs on {{city:hobbs.route}}, about {{city:hobbs.drive_min}} minutes away (OpenStreetMap routing), and on Booksy it's an add-on at {{addon:hair-design}} on top of your haircut.",
+        "Since you're not around the corner, here's how to pair it with the cut and how to get the most out of it before it grows out."
+      ],
+      "link": {
+        "label": "BOOK A CUT WITH A DESIGN",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / ADD IT ON",
+      "heading": "Pair it with the cut you came for.",
+      "paragraphs": [
+        "On Booksy, hair design is listed as an add-on. Book the Essential Haircut or the Signature Cut, then add Hair design from the add-on list, or book the Luxury Grooming Experience, which already includes a basic design.",
+        "Tell me where you want it and how bold. A saved photo works; so does pointing at the spot above your ear."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / WHO ASKS",
+      "heading": "Kids ask, and so do their older cousins.",
+      "paragraphs": [
+        "Census ACS 2023 puts {{city:hobbs.under18_pct}} of Hobbs under 18 and another {{city:hobbs.age_20_34_pct}} between 20 and 34, so a good share of the heads coming over from Lea County are young ones. Two of the designs on my <a href=\"/services/hair-designs/\">hair designs page</a> were cut on kids: a freestyle curve from temple to ear, and a set of lines above the ear. Add the design to a child's haircut booking the same way you'd add it to your own."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / THE GROW-OUT",
+      "heading": "Photograph it before the drive home.",
+      "paragraphs": [
+        "Designs sit where the hair is shortest, so they're sharpest the day they're cut and soften from there. From Hobbs you won't be back for a touch-up next week, so take your photos in Carlsbad while it's crisp, and decide at home whether the next visit gets the same design or a new one."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "04 / BOOK IT AS",
+      "heading": "Two ways to get a design.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "The cut, with Hair design added from the add-on list for {{addon:hair-design}}.",
+          "book": true
+        },
+        {
+          "title": "Luxury Grooming Experience",
+          "meta": "{{price:luxury-grooming}} · {{minutes:luxury-grooming}}",
+          "body": "Basic hair design included, along with the beard sculpt, wash, steam and hot towels.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "05 / QUESTIONS",
+      "heading": "Designs, asked from Hobbs.",
+      "items": [
+        {
+          "q": "How much is a hair design?",
+          "a": "{{addon:hair-design}} as an add-on on Booksy, or included in the Luxury Grooming Experience."
+        },
+        {
+          "q": "How long does a design last?",
+          "a": "It's sharpest at first and softens as the fade grows. How long that takes depends on your hair."
+        },
+        {
+          "q": "Can my kid get a design?",
+          "a": "Yes. Add it to the child's haircut booking."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "CUT IN",
+      "heading": "Your lines.<br>Worth the miles.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ]
+}

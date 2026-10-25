@@ -1,0 +1,118 @@
+{
+  "id": "roswell-styles-textured-fringe",
+  "locale": "es",
+  "pageType": "cell",
+  "city": "roswell",
+  "base": "styles-textured-fringe",
+  "slug": "/es/roswell/fleco-texturizado/",
+  "alt": "/roswell/textured-fringe/",
+  "nav_label": "Fleco texturizado · Roswell",
+  "card_text": "Un fleco texturizado para Roswell: un corte hacia adelante para edad escolar y adultos, planeado según el frente.",
+  "breadcrumb": [
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Roswell",
+      "/es/roswell/"
+    ],
+    [
+      "Fleco texturizado",
+      "/es/roswell/fleco-texturizado/"
+    ]
+  ],
+  "seo": {
+    "title": "Fleco texturizado para Roswell, NM | Divinely Faded",
+    "description": "Fleco texturizado para Roswell, en Carlsbad al sur por la US 285. Un corte hacia adelante para adolescentes y adultos, ligero en verano, y la cita.",
+    "primary": "fleco texturizado roswell nm",
+    "secondary": [
+      "corte con fleco roswell nm"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "ROSWELL / FLECO TEXTURIZADO",
+      "h1": "Fleco texturizado, desde Roswell.",
+      "paragraphs": [
+        "El frente viene hacia adelante sobre la frente, las puntas se cortan para que se separen en mechones en lugar de una barra sólida, y los lados llevan taper para dejar el peso donde vive el estilo. Corto flecos texturizados en Carlsbad, en {{address}}, que desde Roswell son {{city:roswell.drive_mi}} millas de {{city:roswell.route}} pasando por Artesia, unos {{city:roswell.drive_min}} minutos (rutas de OpenStreetMap)."
+      ],
+      "link": {
+        "label": "AGENDA UN FLECO TEXTURIZADO",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / EDAD ESCOLAR EN ADELANTE",
+      "heading": "Un corte que funciona a los quince y a los cuarenta.",
+      "paragraphs": [
+        "Roswell es {{city:roswell.under18_pct}} menor de 18 (Censo ACS 2023), así que muchas de las casas que leen esto tienen un adolescente que quiere el frente hacia adelante y los lados limpios. El fleco texturizado le va bien a esa edad porque no necesita peine ni raya, y se ve intencional incluso después de un día de escuela. Un papá puede hacerse el mismo corte con un fleco más bajo y pesado, y se lee completamente adulto.",
+        "Cada persona agenda su propia cita en Booksy. Pon el horario del adolescente justo después del tuyo para que un solo viaje de {{city:roswell.drive_min}} minutos resuelva los dos."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / QUÉ TAN PESADO AL FRENTE",
+      "heading": "Más ligero para el verano.",
+      "paragraphs": [
+        "Pelo en la frente es pelo en la frente en un julio de {{city:roswell.july_high_f}}, y Roswell tiene unos {{city:roswell.days_100f}} días al año a 100°F o más (Open-Meteo, 2023–25). Con ese calor, dejaría el fleco más ligero y más corto, como en la primera foto de mi página de estilos, para que no se pegue a la piel. Cuando llega el otoño, el barrido más largo y pesado vuelve a ser cómodo."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "03 / CÓMO AGENDARLO",
+      "heading": "Con un servicio basta.",
+      "lead": "Adolescentes y adultos agendan el Essential; suma el Signature para la barba.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "Fleco cortado y texturizado, lados con taper, nuca terminada con navaja y peinado hacia adelante antes de irte. Niños bienvenidos en este.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "El corte con fleco más corte de barba o delineado (line-up) y toalla caliente, para el adulto del carro.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / PREGUNTAS",
+      "heading": "Preguntas sobre el fleco desde Roswell.",
+      "items": [
+        {
+          "q": "¿Cuándo agendo el siguiente desde tan lejos?",
+          "a": "Cuando el frente empieza a tocarte los ojos, la forma se acabó; el taper de los lados normalmente se va un poco antes. Agenda en Booksy en cuanto los lados se vean suaves, para que el viaje llegue antes que el fleco."
+        },
+        {
+          "q": "¿Es lo mismo que un corte Edgar?",
+          "a": "Son primos. Un corte Edgar lleva una línea recta y pareja en la frente y un desvanecido (fade) más marcado; un fleco texturizado es más suave y desfilado en las puntas. Trae una foto del que quieras decir, o señálalo en la <a href=\"/es/estilos/fleco-texturizado/\">página del fleco texturizado</a>."
+        },
+        {
+          "q": "Mi hijo tiene un remolino al frente. ¿Le funciona un fleco?",
+          "a": "A veces no; un remolino fuerte al frente empuja el pelo hacia arriba en vez de hacia adelante. Lo reviso en la silla y le sugiero un crop o un taper si el fleco fuera a pelear con él."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "SOLO CON CITA",
+      "heading": "Agenda el fleco.<br>Y al sur por la 285.",
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
+    }
+  ]
+}

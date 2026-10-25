@@ -1,0 +1,172 @@
+{
+  "id": "city-hobbs",
+  "locale": "en",
+  "pageType": "city-hub",
+  "city": "hobbs",
+  "slug": "/hobbs/",
+  "alt": "/es/hobbs/",
+  "nav_label": "From Hobbs",
+  "card_text": "The 80-minute drive from Hobbs: which appointments make it worth it, and how to book.",
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Hobbs",
+      "/hobbs/"
+    ]
+  ],
+  "seo": {
+    "title": "Barber for Hobbs, NM: 70 Miles West in Carlsbad",
+    "description": "Divinely Faded is in Carlsbad, about 70 miles west of Hobbs on US 62/180, roughly 80 minutes. Book on Booksy before you leave Lea County.",
+    "primary": "barber hobbs nm",
+    "secondary": [
+      "barber shop hobbs nm",
+      "haircut hobbs nm",
+      "hair cut hobbs nm"
+    ],
+    "og_photo": "team-tim-portrait"
+  },
+  "schema": {
+    "type": "CollectionPage"
+  },
+  "related": [
+    "visit",
+    "services",
+    "styles"
+  ],
+  "tim_questions": [
+    "Do clients drive in from Hobbs? If yes, the page can say so in your words. Right now it only gives the drive and how to book."
+  ],
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "HOBBS / TRIP PLANNER",
+      "h1": "Coming from Hobbs.",
+      "paragraphs": [
+        "My chair is in Carlsbad, not Hobbs. From Hobbs it's about {{city:hobbs.drive_mi}} miles west on {{city:hobbs.route}}, close to {{city:hobbs.drive_min}} minutes each way, so a visit is a real piece of your day.",
+        "Since that's close to three hours round trip, this page is about making one trip cover everything: the right appointment, booked before you leave Lea County."
+      ],
+      "link": {
+        "label": "GET DIRECTIONS",
+        "href": "directions"
+      },
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "01 / MAKE THE DRIVE COUNT",
+      "heading": "The longer appointments.",
+      "lead": "If you're driving 80 minutes each way, it can make sense to get more done in one sitting. Times and prices come from my Booksy menu.",
+      "items": [
+        {
+          "title": "Luxury Grooming Experience",
+          "meta": "{{price:luxury-grooming}} · {{minutes:luxury-grooming}}",
+          "body": "Haircut, beard sculpt, wash, scalp massage, steam, hot towels and razor detailing in one block of time.",
+          "book": true
+        },
+        {
+          "title": "Color Transformation",
+          "meta": "{{price:color-transformation}} · {{minutes:color-transformation}}",
+          "body": "Bleaching and toning to the shade you want. It's a long appointment, so plan the whole afternoon around it.",
+          "book": true
+        },
+        {
+          "title": "Perm",
+          "meta": "{{price:perm}} · {{minutes:perm}}",
+          "body": "Volume, texture and movement, set in one sitting.",
+          "book": true
+        },
+        {
+          "title": "Braids",
+          "meta": "{{price:braids}} · {{minutes:braids}}",
+          "body": "Braiding styles fitted to you. Booksy shows the current price when you book.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "If you only need the regular: haircut plus beard trim or line-up, finished with a hot towel.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "eyebrow": "FOR HOBBS / SERVICES",
+      "heading": "Every service, planned from Hobbs.",
+      "items": "children:services"
+    },
+    {
+      "type": "cards",
+      "eyebrow": "FOR HOBBS / CUT STYLES",
+      "heading": "Every cut style, planned from Hobbs.",
+      "items": "children:styles"
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / BEFORE YOU LEAVE LEA COUNTY",
+      "heading": "A short checklist.",
+      "paragraphs": [
+        "Book first. I only work by appointment, and Booksy is where every open time shows up.",
+        "Hobbs and Carlsbad are both on Mountain Time, so the time on your booking is the time on your phone.",
+        "Saturday is 8 AM to 2 PM. On weekdays I take appointments Monday, Tuesday, Thursday and Friday.",
+        "If the drive runs long, text me at {{phone}} before your appointment time, not after."
+      ],
+      "photos": []
+    },
+    {
+      "type": "table",
+      "eyebrow": "03 / HOBBS AT A GLANCE",
+      "heading": "Hobbs by the numbers.",
+      "lead": "Public data for Hobbs and the drive to the shop, with the source on every row.",
+      "columns": [
+        "Hobbs",
+        "",
+        "Source"
+      ],
+      "rows": "city:hobbs"
+    },
+    {
+      "type": "map",
+      "eyebrow": "04 / MAP",
+      "heading": "Where the drive ends.",
+      "lead": "{{address}}. Tap the map for the route in Google Maps.",
+      "title": "Map to Divinely Faded, 303 S Halagueno St, Carlsbad, NM",
+      "link_label": "GET DIRECTIONS"
+    },
+    {
+      "type": "faq",
+      "eyebrow": "05 / QUESTIONS",
+      "heading": "Driving over from Hobbs.",
+      "items": [
+        {
+          "q": "How long is the drive from Hobbs to Divinely Faded?",
+          "a": "About {{city:hobbs.drive_min}} minutes for {{city:hobbs.drive_mi}} miles on {{city:hobbs.route}}, depending on where in Hobbs you start."
+        },
+        {
+          "q": "Which appointment is worth the drive from Hobbs?",
+          "a": "That's up to you. If you want more than a quick cut, the longer services on this page let one trip cover it."
+        },
+        {
+          "q": "Is Hobbs on the same time zone as Carlsbad?",
+          "a": "Yes. Both are on Mountain Time, so your Booksy time is your local time."
+        },
+        {
+          "q": "Can I bring my kids from Hobbs?",
+          "a": "Yes, kids are welcome. Book each of them a slot on Booksy next to yours."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "APPOINTMENTS ONLY",
+      "heading": "Book it before<br>you leave Hobbs.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "id": "artesia-styles-burst-fade",
+  "locale": "en",
+  "pageType": "cell",
+  "city": "artesia",
+  "base": "styles-burst-fade",
+  "slug": "/artesia/burst-fade/",
+  "alt": "/es/artesia/burst-fade/",
+  "nav_label": "Burst fade · Artesia",
+  "card_text": "Burst fade for Artesia: why the arc suits a young town, and how to time the trip down 285.",
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Artesia",
+      "/artesia/"
+    ],
+    [
+      "Burst Fade",
+      "/artesia/burst-fade/"
+    ]
+  ],
+  "seo": {
+    "title": "Burst Fade for Artesia, NM | Divinely Faded, Carlsbad",
+    "description": "Burst fades for Artesia, cut in Carlsbad about {{city:artesia.drive_min}} minutes south on US 285. Why the cut fits a young town, how the arc grows out, and how to book on Booksy.",
+    "primary": "burst fade artesia nm",
+    "secondary": [
+      "fade haircut artesia nm",
+      "barbershop artesia nm"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "ARTESIA / BURST FADE",
+      "h1": "Burst fade, from Artesia.",
+      "paragraphs": [
+        "The burst is the half-moon of bare skin that curves around the ear and fans out behind it, with the back of the head left fuller. My chair is in Carlsbad, not Artesia: {{city:artesia.drive_mi}} miles down {{city:artesia.route}}, about {{city:artesia.drive_min}} minutes door to door by OpenStreetMap routing.",
+        "If you're making that drive for this cut, here's what I'd want you to know before you book."
+      ],
+      "link": {
+        "label": "BOOK A BURST FADE",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / A YOUNG TOWN",
+      "heading": "Built for the styles Artesia wears.",
+      "paragraphs": [
+        "Artesia has a median age of {{city:artesia.median_age}}, younger than Carlsbad's {{city:carlsbad.median_age}} (Census ACS 2023). I mention it because the burst rarely stands alone: it's the fade under curly tops, faux hawks and mullets, cuts that lean young. If that's the direction you're headed, a burst keeps weight at the nape where those shapes need it, and I can match the arc to however much length you're growing in back."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / THE ARC AND THE DRIVE",
+      "heading": "The ear is the clock.",
+      "paragraphs": [
+        "Hair right around the ear is cut the shortest, so that's where the burst starts to blur. The longer hair at the back barely changes between visits. At {{city:artesia.drive_min}} minutes each way, I'd rather you not guess: tell me how crisp you want the arc, and I'll suggest a gap that fits. Then grab that next slot on Booksy before you pull out of Carlsbad.",
+        "One more reason to keep the arc tight through summer: Artesia logs about {{city:artesia.days_100f}} days a year at 100°F or more (Open-Meteo, 2023–25), and bare skin around the ear is one less place for that heat to sit."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "03 / BOOK IT AS",
+      "heading": "Pick one on Booksy.",
+      "lead": "Prices and times are pulled from my Booksy menu.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "Burst, top and back, with the neckline finished by straight razor and the cut styled before you go.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "Adds beard work, a trim or a line-up, and a hot towel. The one for the full look with facial hair.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / QUESTIONS",
+      "heading": "Burst fade, Artesia edition.",
+      "items": [
+        {
+          "q": "Is the drive from Artesia worth it for a burst fade?",
+          "a": "That's your call. The trip is about {{city:artesia.drive_min}} minutes each way, and I book by appointment only, so you'll know your exact chair time before you leave."
+        },
+        {
+          "q": "Can I get a burst fade with a mullet in one visit?",
+          "a": "Yes. The burst fade mullet is one haircut, booked as an Essential or a Signature depending on whether your beard needs work."
+        },
+        {
+          "q": "Will a burst show on straight hair?",
+          "a": "It does, with a softer outline than on curls. I usually cut some texture into the top so it doesn't lie flat against the arc."
+        },
+        {
+          "q": "Where are photos of your burst fades?",
+          "a": "On the <a href=\"/styles/burst-fade/\">burst fade page</a>, from the ear and from behind."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "APPOINTMENTS ONLY",
+      "heading": "Book the burst.<br>Then head down 285.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ]
+}

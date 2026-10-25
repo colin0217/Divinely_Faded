@@ -154,7 +154,7 @@
       "type": "table",
       "eyebrow": "05 / COMING FROM NEARBY",
       "heading": "Coming from nearby.",
-      "lead": "Driving from Loving, Artesia or anywhere else in Eddy County? Here's roughly how far the shop is.",
+      "lead": "Driving in from Loving, Artesia, Hobbs, Roswell or anywhere else nearby? Here's roughly how far the shop is.",
       "columns": [
         "Town",
         "Miles",
@@ -162,7 +162,7 @@
       ],
       "rows": "nearby",
       "paragraphs": [
-        "Coming from Artesia? <a class=\"text-link\" href=\"/visit/artesia/\">Plan the drive</a>."
+        "Coming from out of town? Plan the drive from <a class=\"text-link\" href=\"/artesia/\">Artesia</a>, <a class=\"text-link\" href=\"/hobbs/\">Hobbs</a> or <a class=\"text-link\" href=\"/roswell/\">Roswell</a>."
       ]
     },
     {
@@ -199,10 +199,11 @@
     }
   ],
   "related": [
-    "visit-artesia",
+    "city-artesia",
+    "city-hobbs",
+    "city-roswell",
     "services",
-    "about",
-    "faq"
+    "about"
   ],
   "tim_questions": [
     "[TIM?] Confirm weekday hours: Booksy shows Mon/Tue/Thu/Fri 9:00 AM–12:00 PM and 12:30–5:00 PM.",

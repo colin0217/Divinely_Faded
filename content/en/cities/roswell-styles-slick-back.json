@@ -1,0 +1,120 @@
+{
+  "id": "roswell-styles-slick-back",
+  "locale": "en",
+  "pageType": "cell",
+  "city": "roswell",
+  "base": "styles-slick-back",
+  "slug": "/roswell/slick-back/",
+  "alt": "/es/roswell/peinado-hacia-atras/",
+  "nav_label": "Slick back · Roswell",
+  "card_text": "A slick back for Roswell: a work-ready cut for a town with few hard-hat jobs, planned around a long road.",
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Roswell",
+      "/roswell/"
+    ],
+    [
+      "Slick Back",
+      "/roswell/slick-back/"
+    ]
+  ],
+  "seo": {
+    "title": "Slick Back Haircut for Roswell, NM | Divinely Faded",
+    "description": "Slick back haircuts for Roswell, cut in Carlsbad south on US 285. Why it fits an indoor workweek, how the sides set your schedule, and the booking.",
+    "primary": "slick back haircut roswell nm",
+    "secondary": [
+      "slick back fade roswell nm",
+      "haircut roswell nm"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "ROSWELL / SLICK BACK",
+      "h1": "Slick back, from Roswell.",
+      "paragraphs": [
+        "Length on top combed straight back, sides taken short enough that the combed hair has an edge to sit against. A slick back is the cut I'd suggest to someone who has to look assembled by eight in the morning and wants to keep some hair doing it. I cut it in Carlsbad at {{address}}, {{city:roswell.drive_mi}} miles south of Roswell on {{city:roswell.route}}, about {{city:roswell.drive_min}} minutes with Artesia at the midpoint (OpenStreetMap routing).",
+        "Below: why the cut suits the kind of work Roswell mostly does, how the sides set your calendar, and what to book."
+      ],
+      "link": {
+        "label": "BOOK A SLICK BACK",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / AN INDOOR TOWN'S CUT",
+      "heading": "Few hard hats, more collars.",
+      "paragraphs": [
+        "Just {{city:roswell.mining_ag_jobs_pct}} of Roswell's workers are in mining, oil, gas or agriculture, compared with {{city:carlsbad.mining_ag_jobs_pct}} here in Carlsbad (Census ACS 2023). A slick back doesn't survive a day under a hard hat; it does survive a day at a desk, a counter, a clinic or a classroom, because once it's combed back it mostly stays.",
+        "The median age in Roswell is {{city:roswell.median_age}} (Census ACS 2023). The slick back has long been a grown man's cut: the glossy, longer version on my styles page reads classic; the short one over a high skin fade reads modern. Pick the attitude, not the age."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / SIDES SET THE CALENDAR",
+      "heading": "The top can wait for you. The sides can't.",
+      "paragraphs": [
+        "Extra length on top actually helps a slick back lie down, so the top is patient. The fade or taper on the sides is what puffs out and dates the cut. With {{city:roswell.drive_min}} minutes between you and my chair, choose the sides with that in mind: a low taper softens slowly and buys you time; a high skin fade looks sharper and asks you back sooner."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "03 / BOOK IT AS",
+      "heading": "Two bookings, one direction.",
+      "lead": "I style it before you stand up.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "Sides at the height you choose, length shaped on top, straight razor at the neck, then combed back and finished.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "Your slick back and your beard in one chair: trim or line-up, then a hot towel. A full beard under a slicked top is one of the looks on the styles page.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / QUESTIONS",
+      "heading": "Slick back, planned from Roswell.",
+      "items": [
+        {
+          "q": "My hair is short now. Can I still book a slick back?",
+          "a": "Book the cut, and I'll shape the sides and set the top up to grow into it. The length arrives on its own."
+        },
+        {
+          "q": "Taper or fade on the sides for someone who comes down rarely?",
+          "a": "Taper. It grows out gently and keeps the cut looking tidy for longer between drives. The <a href=\"/styles/slick-back/\">slick back page</a> shows both sides done."
+        },
+        {
+          "q": "How do I keep it combed back once I'm home?",
+          "a": "Ask me before you leave the chair; it depends on your hair."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "APPOINTMENTS ONLY",
+      "heading": "Book the slick back.<br>Then point the car south.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ]
+}

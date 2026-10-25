@@ -1,0 +1,121 @@
+{
+  "id": "roswell-services-color",
+  "locale": "en",
+  "pageType": "cell",
+  "city": "roswell",
+  "base": "services-color",
+  "slug": "/roswell/color-and-perm/",
+  "alt": "/es/roswell/color-y-permanente/",
+  "nav_label": "Color & perm · Roswell",
+  "card_text": "Color and perms planned from Roswell: the longest bookings on my menu, and how to build the day around 285.",
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Roswell",
+      "/roswell/"
+    ],
+    [
+      "Color & Perm",
+      "/roswell/color-and-perm/"
+    ]
+  ],
+  "seo": {
+    "title": "Hair Color & Perm for Roswell, NM | Divinely Faded",
+    "description": "Men's hair color and perms for anyone driving from Roswell, done in Carlsbad about 92 minutes on US 285. A full day for color, a half day for a perm.",
+    "primary": "mens hair color roswell nm",
+    "secondary": [
+      "perm for men roswell nm",
+      "bleach hair roswell nm"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "ROSWELL / COLOR & PERM",
+      "h1": "Color and perm, from Roswell.",
+      "paragraphs": [
+        "Color and perms are the two longest things I do, and I do them in Carlsbad, {{city:roswell.drive_mi}} miles south of Roswell on {{city:roswell.route}}. The drive runs about {{city:roswell.drive_min}} minutes (OpenStreetMap routing), and a Color Transformation holds {{minutes:color-transformation}} on Booksy, so this is the appointment you build a whole day around.",
+        "A Perm is shorter, at {{minutes:perm}}, and fits the same trip with room to spare."
+      ],
+      "link": {
+        "label": "BOOK COLOR OR PERM",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "01 / THE MENU",
+      "heading": "Shade or shape.",
+      "lead": "Two bookings, two very different lengths.",
+      "items": [
+        {
+          "title": "Color Transformation",
+          "meta": "{{price:color-transformation}} · {{minutes:color-transformation}}",
+          "body": "Bleaching and toning to land on the shade you're after. The longest slot on my menu; keep the rest of the day open.",
+          "book": true
+        },
+        {
+          "title": "Perm",
+          "meta": "{{price:perm}} · {{minutes:perm}}",
+          "body": "A customized perm for volume, texture and movement. Long enough to justify the trip, short enough to leave the afternoon.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / THE DAY",
+      "heading": "Build it around the chair.",
+      "paragraphs": [
+        "Say you book color for the morning. You leave Roswell early, pass Artesia at the halfway mark, sit for {{minutes:color-transformation}}, and roll back onto 285 in the afternoon. There's no version of this that fits between other errands, so don't try. Bring a photo of the shade, eat before you come, and keep your phone charged for the sit.",
+        "A perm flips that: {{minutes:perm}} in the chair leaves time to do something else in Carlsbad before the drive home, or to head straight back and still beat the evening."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / BEFORE YOU BOOK",
+      "heading": "Text the picture.",
+      "paragraphs": [
+        "The longest bookings are the ones I least want to guess on. Text a photo of the color or the curl you're aiming for to {{phone}} before you book, and I'll tell you which service gets you there. Payment is after the service, and because these slots take a big piece of my day, cancel early on Booksy if plans change; a late cancellation or no-show may carry a fee.",
+        "Color is for the hair on your head only. I don't dye beards."
+      ],
+      "photos": []
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / QUESTIONS",
+      "heading": "Color and perm from Roswell.",
+      "items": [
+        {
+          "q": "How long is the whole day for a Color Transformation from Roswell?",
+          "a": "About {{city:roswell.drive_min}} minutes each way plus {{minutes:color-transformation}} in the chair. Count on the full day."
+        },
+        {
+          "q": "What does a perm cost and how long does it take?",
+          "a": "{{price:perm}} and {{minutes:perm}} on Booksy."
+        },
+        {
+          "q": "Does the Color Transformation include toning?",
+          "a": "Yes. Bleaching and toning are both part of the {{price:color-transformation}} service."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "COLOR & TEXTURE",
+      "heading": "New shade.<br>Long road home.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ]
+}

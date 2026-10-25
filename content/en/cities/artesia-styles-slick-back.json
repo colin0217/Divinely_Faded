@@ -1,0 +1,124 @@
+{
+  "id": "artesia-styles-slick-back",
+  "locale": "en",
+  "pageType": "cell",
+  "city": "artesia",
+  "base": "styles-slick-back",
+  "slug": "/artesia/slick-back/",
+  "alt": "/es/artesia/peinado-hacia-atras/",
+  "nav_label": "Slick back · Artesia",
+  "card_text": "Slick backs for Artesia: length on top, sides on a schedule, and dry air on your side.",
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Artesia",
+      "/artesia/"
+    ],
+    [
+      "Slick Back",
+      "/artesia/slick-back/"
+    ]
+  ],
+  "seo": {
+    "title": "Slick Back for Artesia, NM | Divinely Faded, Carlsbad",
+    "description": "Slick back haircuts for Artesia, cut in Carlsbad about {{city:artesia.drive_min}} minutes south on US 285. Length on top, a fade or taper underneath, and when to drive back down.",
+    "primary": "slick back haircut artesia nm",
+    "secondary": [
+      "slick back fade artesia nm",
+      "combed back haircut artesia"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "ARTESIA / SLICK BACK",
+      "h1": "Slick back, from Artesia.",
+      "paragraphs": [
+        "Length over the forehead, combed straight back toward the crown, over sides that can run from a soft taper to a skin fade. I cut it in Carlsbad, {{city:artesia.drive_mi}} miles south of Artesia on {{city:artesia.route}}, which OpenStreetMap routing calls a {{city:artesia.drive_min}}-minute drive.",
+        "It's a put-together cut for someone who wants to keep some hair, and it handles the distance better than most."
+      ],
+      "link": {
+        "label": "BOOK A SLICK BACK",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "01 / BOOK IT AS",
+      "heading": "Booking the slick back.",
+      "lead": "Prices and times from my Booksy menu.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "Top, sides, straight razor neckline, then I comb it back and style it so you see how it should sit.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "The cut plus your beard, trimmed or lined up, and a hot towel. For the long-beard version on the slick back page.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / TOP AND SIDES",
+      "heading": "The top stretches. The sides don't.",
+      "paragraphs": [
+        "A slick back is forgiving on top; more length often combs back easier than less. What dates it is underneath, where the fade or taper puffs out as it grows. So the sides decide when you drive down again, and a low taper will give you a longer gap than a high skin fade. Tell me which matters more, the sharpness or the spacing, and I'll cut to it. Then book the next one before the {{city:artesia.drive_min}} minutes home."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / WORK AND WEATHER",
+      "heading": "An office cut in an oilfield town.",
+      "paragraphs": [
+        "Artesia's median age is {{city:artesia.median_age}} and {{city:artesia.mining_ag_jobs_pct}} of its jobs are in mining, oil and gas, or agriculture (Census ACS 2023). A slick back is the opposite of a hard-hat cut: it wants a comb and a minute in the morning. If your week is split between the field and somewhere you need to look sharp, say so, and I'll keep the top short enough to push back by hand on the days a helmet goes on.",
+        "The climate helps. Humidity sits around {{city:artesia.humidity_pct}} (Open-Meteo, 2023–25), and combed-back hair tends to hold in dry air far better than in muggy weather, where it lifts by lunch. You still need something in it, but you're not fighting the sky."
+      ],
+      "photos": []
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / QUESTIONS",
+      "heading": "Slick back, Artesia questions.",
+      "items": [
+        {
+          "q": "How much length do I need on top before I drive down?",
+          "a": "Enough to lie back without standing up, longest at the front. If it's not there yet, I can cut the sides now and shape the top as it grows."
+        },
+        {
+          "q": "Fade or taper under a slick back?",
+          "a": "A skin fade makes it sharper and more modern; a low taper keeps it classic and stretches the time between visits."
+        },
+        {
+          "q": "Can I add a shaved line?",
+          "a": "Yes. The second cut on the <a href=\"/styles/slick-back/\">slick back page</a> has one curving behind the ear."
+        },
+        {
+          "q": "Will my curly hair slick back?",
+          "a": "With a shorter top, or as a looser pushed-back shape. Bring a photo of what you're after."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "APPOINTMENTS ONLY",
+      "heading": "Book the slick back.<br>Then roll down 285.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ]
+}
