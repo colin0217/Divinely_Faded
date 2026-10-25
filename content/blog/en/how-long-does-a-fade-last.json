@@ -6,8 +6,8 @@
   "plan_rank": 20,
   "title": "How Long Does a Fade Last? (And How to Keep It Sharp Longer)",
   "eyebrow": "CARE",
-  "hero": "cut-back-taper",
-  "hero_alt": "Back view of a taper fading to skin at the nape under a short, textured top",
+  "hero": "pexels-12074386-fresh-fade-rear-view",
+  "hero_alt": "Back of the head after a fresh fade, in the barbershop",
   "image_plan": null,
   "card_text": "Why the bottom of a fade blurs first, what makes yours hold longer, what to leave alone at home and what only a recut fixes.",
   "lede": [
@@ -24,9 +24,18 @@
     ]
   },
   "breadcrumb": [
-    ["Home", "/"],
-    ["Blog", "/blog/"],
-    ["How Long a Fade Lasts", "/blog/how-long-does-a-fade-last/"]
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Blog",
+      "/blog/"
+    ],
+    [
+      "How Long a Fade Lasts",
+      "/blog/how-long-does-a-fade-last/"
+    ]
   ],
   "blocks": [
     {

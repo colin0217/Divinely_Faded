@@ -1,0 +1,123 @@
+{
+  "id": "artesia-styles-textured-crop",
+  "locale": "es",
+  "pageType": "cell",
+  "city": "artesia",
+  "base": "styles-textured-crop",
+  "slug": "/es/artesia/crop-texturizado/",
+  "alt": "/artesia/textured-crop/",
+  "nav_label": "Crop texturizado · Artesia",
+  "card_text": "Crop texturizado para Artesia: una parte de arriba que peinas en segundos, para madrugar y para el viaje por la 285.",
+  "breadcrumb": [
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Artesia",
+      "/es/artesia/"
+    ],
+    [
+      "Crop texturizado",
+      "/es/artesia/crop-texturizado/"
+    ]
+  ],
+  "seo": {
+    "title": "Crop texturizado para Artesia, NM | Divinely Faded",
+    "description": "Crop texturizado y French crop para Artesia, en Carlsbad, a {{city:artesia.drive_min}} minutos por la US 285. Arriba desfilado y hacia adelante, sin esfuerzo en la mañana.",
+    "primary": "crop texturizado artesia nm",
+    "secondary": [
+      "corte french crop artesia",
+      "corte crop artesia nm"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "ARTESIA / CROP TEXTURIZADO",
+      "h1": "Crop texturizado, desde Artesia.",
+      "paragraphs": [
+        "Corto arriba, separado en mechones a propósito y echado hacia adelante en un fleco corto sobre lados bien cortos. El French crop es el pariente más ordenado, con el fleco recto y parejo. Los dos salen de mi silla en Carlsbad, a {{city:artesia.drive_mi}} millas al sur de Artesia por la {{city:artesia.route}}, alrededor de {{city:artesia.drive_min}} minutos según la ruta de OpenStreetMap.",
+        "El viaje de ida y vuelta es el único esfuerzo que este corte te va a pedir."
+      ],
+      "link": {
+        "label": "AGENDA UN CROP TEXTURIZADO",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / LAS MAÑANAS",
+      "heading": "Peinado con los dedos, antes del café.",
+      "paragraphs": [
+        "Censo ACS 2023 cuenta el {{city:artesia.mining_ag_jobs_pct}} de los trabajadores de Artesia en minería, petróleo y gas, o agricultura, y a una quinta parte del pueblo, el {{city:artesia.age_20_34_pct}}, entre los 20 y los 34 años. Son muchas alarmas tempranas en gente que aun así quiere un corte con algo de forma. Un crop está hecho justo para eso: echas la parte de arriba hacia adelante con una mano y listo. Nada que partir con raya, nada que una gorra deshaga para siempre, y una parte de arriba desfilada se sigue viendo intencional después de un día debajo de una."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "02 / CÓMO AGENDARLO",
+      "heading": "Una cita, hacia adelante.",
+      "lead": "Precios y tiempos de Booksy.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "El crop es trabajo de precisión: arriba en mechones, lados con desvanecido (fade) o taper, nuca limpia con navaja y luego peinado hacia adelante para que lo veas bien.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "El mismo crop con trabajo de barba y toalla caliente.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / EL FLECO TE AVISA",
+      "heading": "Las cejas son el límite.",
+      "paragraphs": [
+        "Entre visitas no hay nada que cuidar. El corte envejece en dos lugares: el desvanecido de los lados muestra primero el pelo que vuelve a crecer, y el fleco termina por caer sobre tus cejas, y ahí la forma ya se perdió. Para un viaje de {{city:artesia.drive_min}} minutos, procura estar de vuelta antes de que el fleco llegue ahí. Si prefieres alargarlo, pide el fleco un poco más corto y los lados con taper en lugar de skin fade."
+      ],
+      "photos": []
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / PREGUNTAS",
+      "heading": "Preguntas sobre el crop desde Artesia.",
+      "items": [
+        {
+          "q": "¿Crop texturizado o French crop para el trabajo?",
+          "a": "Los dos van hacia adelante y se peinan en segundos. El French es más pulido, con el fleco recto y parejo; el texturizado es más suelto. Elige según qué tan ordenado quieres el frente, no por el esfuerzo."
+        },
+        {
+          "q": "¿Un crop cubre un nacimiento del pelo alto?",
+          "a": "Ayuda. Traer el pelo hacia adelante cubre parte de la frente, donde un peinado hacia atrás la dejaría ver."
+        },
+        {
+          "q": "¿Un crop funciona con pelo grueso y ondulado?",
+          "a": "El pelo grueso que ya quiere irse hacia adelante es el crop más fácil que hay. Mira la <a href=\"/es/estilos/crop-texturizado/\">página del crop texturizado</a> para ver uno lleno por detrás."
+        },
+        {
+          "q": "¿Qué tan cortos llevo los lados si bajo con menos frecuencia?",
+          "a": "Un desvanecido bajo o un taper. Suaviza el pelo que vuelve a crecer, así que el corte se puede llevar más tiempo entre viajes."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "SOLO CON CITA",
+      "heading": "Agenda el crop.<br>Péinalo en el camino de regreso.",
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
+    }
+  ]
+}

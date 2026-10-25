@@ -1,0 +1,127 @@
+{
+  "id": "hobbs-services-designs",
+  "locale": "es",
+  "pageType": "cell",
+  "city": "hobbs",
+  "base": "services-designs",
+  "slug": "/es/hobbs/disenos-de-cabello/",
+  "alt": "/hobbs/hair-designs/",
+  "nav_label": "Diseños en el pelo · Hobbs",
+  "card_text": "Diseños en el pelo desde Hobbs: cómo sumarlo al corte, los niños que lo piden y por qué tomar la foto antes de regresar.",
+  "breadcrumb": [
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Hobbs",
+      "/es/hobbs/"
+    ],
+    [
+      "Diseños en el pelo",
+      "/es/hobbs/disenos-de-cabello/"
+    ]
+  ],
+  "seo": {
+    "title": "Diseños en el pelo para Hobbs, NM | Divinely Faded",
+    "description": "Diseños en el pelo para hombres y niños de Hobbs, marcados en Carlsbad por la US 62/180. Cómo agregar el extra a tu cita de corte en Booksy.",
+    "primary": "corte con diseño hobbs nm",
+    "secondary": [
+      "diseños de cabello hobbs nm"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "HOBBS / DISEÑOS EN EL PELO",
+      "h1": "Diseños en el pelo, desde Hobbs.",
+      "paragraphs": [
+        "Un diseño es una línea o una curva marcada en la parte más corta de un desvanecido (fade). Los hago en Carlsbad, a {{city:hobbs.drive_mi}} millas al oeste de Hobbs por la {{city:hobbs.route}}, unos {{city:hobbs.drive_min}} minutos de distancia (rutas de OpenStreetMap), y en Booksy es un extra de {{addon:hair-design}} sobre tu corte.",
+        "Como no vives a la vuelta, aquí ves cómo combinarlo con el corte y cómo sacarle el mayor provecho antes de que crezca."
+      ],
+      "link": {
+        "label": "AGENDA UN CORTE CON DISEÑO",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / AGRÉGALO",
+      "heading": "Combínalo con el corte por el que viniste.",
+      "paragraphs": [
+        "En Booksy, el diseño en el pelo aparece como extra. Agenda el Essential Haircut (corte esencial) o el Signature Cut (corte distintivo) y luego agrega Diseño en el pelo desde la lista de extras, o agenda la Luxury Grooming Experience (experiencia de arreglo de lujo), que ya incluye un diseño básico.",
+        "Dime dónde lo quieres y qué tan marcado. Sirve una foto guardada; también sirve señalar el punto arriba de la oreja."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / QUIÉN LO PIDE",
+      "heading": "Lo piden los niños, y también sus primos mayores.",
+      "paragraphs": [
+        "El Censo ACS 2023 pone al {{city:hobbs.under18_pct}} de Hobbs por debajo de los 18 años y a otro {{city:hobbs.age_20_34_pct}} entre los 20 y los 34, así que una buena parte de las cabezas que vienen del condado de Lea son jóvenes. Dos de los diseños de mi <a href=\"/es/servicios/disenos-de-cabello/\">página de diseños en el pelo</a> se hicieron en niños: una curva libre de la sien a la oreja y un juego de líneas arriba de la oreja. Agrega el diseño a la cita de corte de un niño igual que lo agregarías a la tuya."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / CUANDO CRECE",
+      "heading": "Tómale la foto antes del camino de regreso.",
+      "paragraphs": [
+        "Los diseños van donde el pelo está más corto, así que se ven más nítidos el día que se marcan y de ahí se van suavizando. Desde Hobbs no vas a volver por un retoque la semana siguiente, así que tómate las fotos en Carlsbad mientras está nítido, y decide en casa si la próxima visita lleva el mismo diseño o uno nuevo."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "04 / CÓMO AGENDARLO",
+      "heading": "Dos formas de llevarte un diseño.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "El corte, con Diseño en el pelo agregado desde la lista de extras por {{addon:hair-design}}.",
+          "book": true
+        },
+        {
+          "title": "Luxury Grooming Experience",
+          "meta": "{{price:luxury-grooming}} · {{minutes:luxury-grooming}}",
+          "body": "Diseño básico incluido, junto con el modelado de barba, el lavado, el vapor y las toallas calientes.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "05 / PREGUNTAS",
+      "heading": "Diseños, preguntados desde Hobbs.",
+      "items": [
+        {
+          "q": "¿Cuánto cuesta un diseño en el pelo?",
+          "a": "{{addon:hair-design}} como extra en Booksy, o incluido en la Luxury Grooming Experience."
+        },
+        {
+          "q": "¿Cuánto dura un diseño?",
+          "a": "Se ve más nítido al principio y se suaviza conforme crece el desvanecido. Cuánto tarda depende de tu pelo."
+        },
+        {
+          "q": "¿Mi hijo puede llevar un diseño?",
+          "a": "Sí. Agrégalo a la cita de corte del niño."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "MARCADO",
+      "heading": "Tus líneas.<br>Valen las millas.",
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
+    }
+  ]
+}

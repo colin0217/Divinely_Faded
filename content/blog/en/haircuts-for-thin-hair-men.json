@@ -1,0 +1,158 @@
+{
+  "id": "post-haircuts-for-thin-hair-men",
+  "locale": "en",
+  "slug": "/blog/haircuts-for-thin-hair-men/",
+  "date": "2027-01-25",
+  "plan_rank": 86,
+  "title": "Haircuts for Thin Hair: Cuts That Look Fuller",
+  "eyebrow": "STYLES",
+  "hero": "pexels-12474260-hand-thinning-hair",
+  "hero_alt": "A man's hand pressed to the top of his head, close up",
+  "image_plan": null,
+  "card_text": "Shorter sides and a textured top make fine hair read thicker. Cuts to look at, styles that work against you, and what to book.",
+  "lede": [
+    "The haircuts that make thin hair look fuller keep the sides shorter and the top textured. Short sides make the top look denser by comparison, and texture breaks the hair into pieces so less scalp shows between them. A textured crop, a short fade with a little length on top, or a clean buzz cut all work. Long, flat, one-length styles tend to show thin hair the most.",
+    "Here's why those cuts work, which ones to look at, and what to skip. This is about styling only. For hair loss itself, a doctor is the right person to ask."
+  ],
+  "seo": {
+    "title": "Haircuts for Thin Hair (Men) | Carlsbad, NM",
+    "description": "Haircuts for thin hair that look fuller, from a Carlsbad, NM barber: shorter sides, texture on top, and cuts like the textured crop and buzz cut.",
+    "primary": "haircuts for thin hair men",
+    "secondary": []
+  },
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Blog",
+      "/blog/"
+    ],
+    [
+      "Haircuts for Thin Hair",
+      "/blog/haircuts-for-thin-hair-men/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / WHY SHORTER WORKS",
+      "heading": "Contrast does the work.",
+      "lead": "Thin hair looks thicker next to shorter hair.",
+      "paragraphs": [
+        "Fine hair looks thinnest when it's long and flat, because it separates and lets the scalp show through. Shorter hair stands up a little on its own and covers more evenly.",
+        "Taking the sides down adds to the effect. When the sides are tight, the top looks fuller simply because there's more of it compared with what surrounds it.",
+        "Weight plays a part too. Long hair drags itself down flat. Removing some length lets the top keep a bit of lift without much help.",
+        "Fine hair, meaning thin individual strands, and thinning hair, meaning fewer strands, both benefit from the same moves."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / CUTS THAT LOOK FULLER",
+      "heading": "Three to look at.",
+      "lead": "All short at the sides.",
+      "subsections": [
+        {
+          "heading": "Textured crop",
+          "paragraphs": [
+            "A short, choppy top brought forward over a fade, like the photo above. The texture keeps the top looking busy, and the forward direction covers the front."
+          ]
+        },
+        {
+          "heading": "Short fade, a little on top",
+          "paragraphs": [
+            "An inch or so on top over a fade. Tidy, quick to style, and it avoids the flatness of longer cuts."
+          ]
+        },
+        {
+          "heading": "Buzz cut",
+          "paragraphs": [
+            "When thinning is spread out, one short length all over evens everything up. Nothing to arrange and nothing to hide."
+          ]
+        }
+      ],
+      "link": {
+        "label": "SEE THE TEXTURED CROP",
+        "href": "page:styles-textured-crop"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / WHAT TENDS TO SHOW IT",
+      "heading": "Styles that work against you.",
+      "lead": "Worth knowing before you grow it.",
+      "paragraphs": [
+        "Long, slicked-back styles pull the hair into lines and show the scalp between them. Very long tops that flop over also tend to split apart.",
+        "Covering a thin area with long hair brought over from somewhere else usually draws attention to it rather than hiding it, and it shifts in the wind.",
+        "Heavy, shiny styling products can clump fine hair into strands and make it look sparser than it is.",
+        "Very short sides under a long, flat top can backfire as well, if the top is so long it lies down and parts. The contrast only helps when the top has enough texture to stand up a little."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / THE BUZZ OPTION",
+      "heading": "Shorter is a choice.",
+      "lead": "Not a last resort.",
+      "paragraphs": [
+        "A buzz cut takes the question off the table. When everything is the same short length, there's no contrast between thicker and thinner areas, and the shape of the cut does the talking.",
+        "A fade on the sides and a clean line at the front keep it sharp. My buzz cut page shows one with a high fade and a squared-off line-up."
+      ],
+      "link": {
+        "label": "SEE THE BUZZ CUT",
+        "href": "page:styles-buzz-cut"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "05 / IN THE CHAIR",
+      "heading": "Be straight with me.",
+      "lead": "It helps me plan the cut.",
+      "paragraphs": [
+        "Tell me where your hair feels thinnest and how you usually wear it. It's an ordinary conversation in a barber chair, and it lets me keep length where it helps and take it where it doesn't.",
+        "The Essential Haircut ({{price:essential-haircut}}, {{minutes:essential-haircut}}) is tailored to your style and head shape and finished with a straight razor neck cleanup and a style, so you leave knowing how it's meant to sit."
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / QUESTIONS",
+      "heading": "Thin hair, answered.",
+      "items": [
+        {
+          "q": "What haircut makes thin hair look thicker?",
+          "a": "Short sides with a textured top, like a textured crop. The contrast and the texture make the top look denser."
+        },
+        {
+          "q": "Is short or long hair better for thin hair?",
+          "a": "Shorter usually looks fuller. Long hair tends to lie flat and separate."
+        },
+        {
+          "q": "Should I shave my head if my hair is thinning?",
+          "a": "That's a personal choice. A short buzz is a middle ground that looks deliberate without going to skin. If you want it smooth, the Head & Beard Shave is {{price:head-beard-shave}}."
+        },
+        {
+          "q": "Can a haircut make my hair grow back?",
+          "a": "No. A cut changes how hair looks, not how it grows. For hair loss, talk to a doctor."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "FULLER LOOK",
+      "heading": "Short sides.<br>Textured top.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "styles-textured-crop",
+    "styles-buzz-cut",
+    "services-haircuts"
+  ],
+  "tim_questions": [
+    "The thin-hair guidance is general styling advice in your voice. Anything you'd add or disagree with?",
+    "Is the hero cut-textured-crop-low-fade on fine hair? The post only calls it a textured crop and doesn't say the client has thin hair."
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "id": "post-high-fade-vs-low-fade",
+  "locale": "en",
+  "slug": "/blog/high-fade-vs-low-fade/",
+  "date": "2026-12-14",
+  "plan_rank": 56,
+  "title": "High Fade vs Low Fade: Picking by Head Shape and Hair Type",
+  "eyebrow": "STYLES",
+  "hero": "pexels-12464840-high-fade-clippers",
+  "hero_alt": "Clippers taking the back of the head down short near the neckline",
+  "image_plan": null,
+  "card_text": "Where each one starts, what it does to the shape of your head, and how hair type and work settle the choice.",
+  "lede": [
+    "A high fade starts up near the top of the side, where the head turns toward the crown, so most of the side is short and the top stands out. A low fade starts just above the ear and the neckline, so most of the side keeps its hair. Pick a high fade for contrast and a taller, narrower shape; pick a low fade for a softer look that hides more of the head's shape.",
+    "Here's how head shape, hair type and your week decide between them."
+  ],
+  "seo": {
+    "title": "High Fade vs Low Fade: How to Pick | Carlsbad, NM",
+    "description": "High fade vs low fade from a Carlsbad, NM barber: where each starts, how it changes your head shape, and which suits your hair type and job.",
+    "primary": "high fade vs low fade",
+    "secondary": [
+      "low fade vs high fade",
+      "high fade",
+      "low fade vs mid fade"
+    ]
+  },
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Blog",
+      "/blog/"
+    ],
+    [
+      "High Fade vs Low Fade",
+      "/blog/high-fade-vs-low-fade/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / THE HEIGHT",
+      "heading": "Where the short part ends.",
+      "lead": "Same blend, different starting line.",
+      "paragraphs": [
+        "Both fades go from short at the bottom to longer at the top. The only real difference is how far up the short section climbs. On a high fade, it reaches close to the parietal ridge, the widest part of the head before it curves into the top. On a low fade, it stays in a narrow band around the ear and the nape.",
+        "The cut at the top of this post is a high fade under a short, even crop. Notice how little hair is left on the sides, and how that makes the front line-up and the top read sharper.",
+        "Between them sits the mid fade, which starts around the temple. If neither extreme sounds right, that's the usual answer.",
+        "The bottom of either one can finish at bare skin or keep a bit of shadow. That choice is separate from the height, so you can mix them: a high fade that stops at a shadow, or a low one taken all the way to skin."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / HEAD SHAPE",
+      "heading": "What each does to your outline.",
+      "lead": "Fade height changes the silhouette.",
+      "subsections": [
+        {
+          "heading": "High fade",
+          "paragraphs": [
+            "Taking the sides down high makes the head look narrower and the top look taller. That helps on a round face or a wide head. It also shows the true shape of your skull, so bumps, dips and scars along the side and back are on display."
+          ]
+        },
+        {
+          "heading": "Low fade",
+          "paragraphs": [
+            "Keeping hair on most of the side leaves more width and covers more of the head. That's kinder to an uneven back of the head and keeps a long or narrow face from looking even longer."
+          ]
+        }
+      ],
+      "link": {
+        "label": "READ ABOUT THE LOW FADE",
+        "href": "page:post-low-fade-haircut"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / HAIR TYPE",
+      "heading": "Your hair has a say.",
+      "lead": "Texture and color change the contrast.",
+      "subsections": [
+        {
+          "heading": "Dark, dense hair",
+          "paragraphs": [
+            "Contrast is strongest here. A high fade on thick dark hair looks dramatic, and it also shows regrowth sooner. A low fade gives the same hair a calmer look."
+          ]
+        },
+        {
+          "heading": "Curly and coily hair",
+          "paragraphs": [
+            "Curls on top often look their sharpest over a high fade, because the tight sides frame the volume. A low fade works too when you'd rather the curls blend down the sides."
+          ]
+        },
+        {
+          "heading": "Fine or thinning hair",
+          "paragraphs": [
+            "A low fade keeps more weight around the head, which helps fine hair look fuller. A high fade on thin hair can leave the top looking sparse by comparison."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / YOUR WEEK",
+      "heading": "Work, school, weekends.",
+      "lead": "Where you wear it matters.",
+      "paragraphs": [
+        "A low fade is the safer choice for conservative workplaces and dress codes. It looks neat without making a statement, and it grows out quietly.",
+        "A high fade is the bolder look. Plenty of people wear one to work, but it draws more attention, and the short sides change faster as they grow.",
+        "If you want to try going higher, step up gradually. Start low or mid, then move it up next time. Raising a fade is quick. Lowering one means waiting for hair.",
+        "Hats and helmets count too. If you wear one most of the day, a low fade keeps the hair that peeks out under the brim looking even, while a high fade shows a hard line where the hat sits."
+      ],
+      "link": {
+        "label": "SEE THE SKIN FADE",
+        "href": "page:styles-skin-fade"
+      }
+    },
+    {
+      "type": "faq",
+      "eyebrow": "05 / QUESTIONS",
+      "heading": "Fade height, answered.",
+      "items": [
+        {
+          "q": "Is a high fade or low fade more professional?",
+          "a": "A low fade usually reads more conservative. It keeps hair on the sides and softens as it grows."
+        },
+        {
+          "q": "Does a high fade suit a round face?",
+          "a": "Often, yes. Short sides slim the head and make the top look taller."
+        },
+        {
+          "q": "Can a fade be high and still keep some hair at the bottom?",
+          "a": "Yes. Height and how short the bottom goes are separate choices. A high fade can stop at a shadow instead of skin."
+        },
+        {
+          "q": "What about a low taper instead?",
+          "a": "A low taper only shortens the edges, so it's even quieter than a low fade.",
+          "href": "page:styles-low-taper-fade",
+          "link_label": "SEE THE LOW TAPER"
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "HIGH OR LOW",
+      "heading": "Pick the height.<br>I'll blend it.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "styles-skin-fade",
+    "styles-low-taper-fade",
+    "services-haircuts"
+  ],
+  "tim_questions": [
+    "OK to advise starting low or mid and moving the fade higher on a later visit? Written as general advice.",
+    "Any head-shape or hair-type advice you'd add or disagree with?"
+  ]
+}

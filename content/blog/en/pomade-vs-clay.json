@@ -1,0 +1,191 @@
+{
+  "id": "post-pomade-vs-clay",
+  "locale": "en",
+  "slug": "/blog/pomade-vs-clay/",
+  "date": "2027-02-10",
+  "plan_rank": 98,
+  "title": "Pomade vs Clay vs Wax: Which Product for Which Cut",
+  "eyebrow": "STYLES",
+  "hero": "pexels-6187571-product-tins",
+  "hero_alt": "Small round metal product tins stacked on a plain surface",
+  "image_plan": "pexels: hair pomade tin barber",
+  "card_text": "Shine and slick, matte and texture, or something in between. What each product type does and the cuts it suits.",
+  "lede": [
+    "Pomade, clay and wax differ in finish and hold. Pomade gives shine and a smooth, combed look, which suits slick backs and side parts. Clay gives a matte, natural finish with strong hold and texture, which suits crops and textured fringes. Wax sits in between, with a soft shine and flexible hold for short styles you want to rework during the day. Choose by the finish your cut needs, then by how much hold your hair needs.",
+    "Here's what each type does, which cuts it suits, and how to use any of them. Product types only, no brands."
+  ],
+  "seo": {
+    "title": "Pomade vs Clay vs Wax: Which for Which Cut | Carlsbad, NM",
+    "description": "Pomade vs clay vs wax: shine and hold vs matte texture, and which product type suits a slick back, crop or fringe. From a Carlsbad, NM barber.",
+    "primary": "pomade vs clay",
+    "secondary": [
+      "pomade vs wax"
+    ]
+  },
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Blog",
+      "/blog/"
+    ],
+    [
+      "Pomade vs Clay vs Wax",
+      "/blog/pomade-vs-clay/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / POMADE",
+      "heading": "Shine and slick.",
+      "lead": "The classic.",
+      "paragraphs": [
+        "Pomade gives hair a shiny, polished finish and lets you comb it into clean lines. Oil-based pomades hold longer but take more washing to get out. Water-based ones rinse out easily and can be restyled with a splash of water.",
+        "It's the natural match for a slick back or a combed side part, where the shine is part of the look.",
+        "Pomade can feel heavy on short, fine hair, and oil-based types can leave the scalp greasy if you overdo them. It does its finest work on hair with enough length to comb."
+      ],
+      "link": {
+        "label": "SEE THE SLICK BACK",
+        "href": "page:styles-slick-back"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / CLAY",
+      "heading": "Matte and texture.",
+      "lead": "The everyday option.",
+      "paragraphs": [
+        "Clay dries to a matte, nearly shine-free finish and gives hair grip and body. It makes hair look thicker and keeps pieces separated instead of clumped together.",
+        "That makes it a common pick for textured crops and forward styles, where the goal is natural movement. It also tends to suit fine hair, because it adds body without much weight.",
+        "Clay can feel stiff if you use too much, and some people find it dries the hair a little. Working it into slightly damp hair makes it easier to spread."
+      ],
+      "link": {
+        "label": "SEE THE TEXTURED CROP",
+        "href": "page:styles-textured-crop"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / WAX",
+      "heading": "Somewhere in between.",
+      "lead": "Flexible hold.",
+      "paragraphs": [
+        "Wax has a light to medium shine and a softer hold that never sets hard, so you can push the hair around again later in the day.",
+        "It works on short to medium styles and for defining individual pieces, like the front of a fringe.",
+        "Wax can feel tacky between your fingers and sometimes takes more washing to remove than water-based products. Warming it fully between your palms avoids clumps."
+      ],
+      "link": {
+        "label": "SEE THE TEXTURED FRINGE",
+        "href": "page:styles-textured-fringe"
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "04 / SIDE BY SIDE",
+      "heading": "Pomade, clay, wax.",
+      "columns": [
+        "",
+        "Pomade",
+        "Clay",
+        "Wax"
+      ],
+      "rows": [
+        [
+          "Finish",
+          "Shiny",
+          "Matte",
+          "Low to medium shine"
+        ],
+        [
+          "Hold",
+          "Medium to strong",
+          "Strong",
+          "Light to medium"
+        ],
+        [
+          "Look",
+          "Slick and combed",
+          "Textured and natural",
+          "Defined and flexible"
+        ],
+        [
+          "Suits",
+          "Slick back, side part",
+          "Textured crop, fringe",
+          "Short styles, piecey fronts"
+        ],
+        [
+          "Washing out",
+          "Water-based easily; oil-based takes work",
+          "Easily",
+          "Can take more than one wash"
+        ]
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "05 / USING ANY OF THEM",
+      "heading": "Less than you think.",
+      "lead": "The habits don't change with the tin.",
+      "paragraphs": [
+        "Very short hair often needs nothing at all. A buzz or a skin-short crop looks fine straight out of the towel.",
+        "For everything else, whatever type you choose:"
+      ],
+      "bullets": [
+        "Start with a pea-sized amount. Add more only if you need it.",
+        "Warm it between your palms until it's spread thin.",
+        "Work it in from the back to the front so the front doesn't get the biggest share.",
+        "Clay and wax usually go on towel-dried hair; pomade can go on damp or dry hair for different levels of shine.",
+        "Wash it out regularly so it doesn't build up on the scalp."
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / QUESTIONS",
+      "heading": "Products, answered.",
+      "items": [
+        {
+          "q": "Is clay or pomade better for short hair?",
+          "a": "Clay for a natural, textured look; pomade for a neat, shiny one. It depends on the cut."
+        },
+        {
+          "q": "What's the difference between pomade and wax?",
+          "a": "Pomade is shinier and combs into clean lines. Wax is softer, less shiny and easier to rework during the day."
+        },
+        {
+          "q": "Where does paste fit in?",
+          "a": "Paste sits between clay and wax: a soft, low-shine finish with medium hold. It works on many short and medium cuts."
+        },
+        {
+          "q": "Which product suits a textured fringe?",
+          "a": "Usually a matte clay or a light wax, to keep the pieces separated."
+        },
+        {
+          "q": "What do I book to get the cut first?",
+          "a": "The Essential Haircut ({{price:essential-haircut}}, {{minutes:essential-haircut}}) ends with a finished style, so you can see how the cut is meant to sit."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "THE FINISH",
+      "heading": "Shine or matte.<br>Cut first.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "styles-slick-back",
+    "styles-textured-crop",
+    "styles-textured-fringe"
+  ],
+  "tim_questions": [
+    "The product descriptions are general, by type only, not your recommendation. Do you use or recommend a particular type in the shop?",
+    "Do you sell styling products? The post says nothing about it."
+  ]
+}

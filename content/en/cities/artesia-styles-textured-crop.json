@@ -1,0 +1,123 @@
+{
+  "id": "artesia-styles-textured-crop",
+  "locale": "en",
+  "pageType": "cell",
+  "city": "artesia",
+  "base": "styles-textured-crop",
+  "slug": "/artesia/textured-crop/",
+  "alt": "/es/artesia/crop-texturizado/",
+  "nav_label": "Textured crop · Artesia",
+  "card_text": "Textured crops for Artesia: a top you style in seconds, built for early starts and the drive down 285.",
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Artesia",
+      "/artesia/"
+    ],
+    [
+      "Textured Crop",
+      "/artesia/textured-crop/"
+    ]
+  ],
+  "seo": {
+    "title": "Textured Crop for Artesia, NM | Divinely Faded, Carlsbad",
+    "description": "Textured crop and French crop haircuts for Artesia, cut in Carlsbad {{city:artesia.drive_min}} minutes south on US 285. A forward, choppy top that asks nothing of your mornings.",
+    "primary": "textured crop artesia nm",
+    "secondary": [
+      "french crop artesia nm",
+      "crop haircut artesia"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "ARTESIA / TEXTURED CROP",
+      "h1": "Textured crop, from Artesia.",
+      "paragraphs": [
+        "Short on top, cut into pieces on purpose, pushed forward into a stubby fringe over tight sides. The French crop is the neater cousin with a blunt fringe. Both come out of my chair in Carlsbad, {{city:artesia.drive_mi}} miles south of Artesia on {{city:artesia.route}}, around {{city:artesia.drive_min}} minutes by OpenStreetMap routing.",
+        "The round trip is the only effort this cut will ever ask of you."
+      ],
+      "link": {
+        "label": "BOOK A TEXTURED CROP",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / MORNINGS",
+      "heading": "Styled with your fingers, before coffee.",
+      "paragraphs": [
+        "Census ACS 2023 counts {{city:artesia.mining_ag_jobs_pct}} of Artesia's workers in mining, oil and gas, or agriculture, and a fifth of the town, {{city:artesia.age_20_34_pct}}, between 20 and 34. That's a lot of early alarms on people who still want a cut with some shape to it. A crop is built for exactly that: push the top forward with one hand, done. Nothing to part, nothing a cap undoes for good, and a choppy top still looks intended after a day under one."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "02 / BOOK IT AS",
+      "heading": "One appointment, worn forward.",
+      "lead": "Prices and times from Booksy.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "The crop is precision work: top broken up, sides faded or tapered, neck cleaned with a straight razor, then styled forward so you see it right.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "The same crop with beard work and a hot towel.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / THE FRINGE TELLS YOU",
+      "heading": "Eyebrows are the deadline.",
+      "paragraphs": [
+        "Between visits there's nothing to manage. The cut ages in two places: the fade on the sides shows regrowth first, and the fringe eventually lands on your eyebrows, which is when the shape is gone. For a {{city:artesia.drive_min}}-minute drive, aim to be back before the fringe gets there. If you'd rather stretch it, ask for the fringe a touch shorter and the sides as a taper rather than a skin fade."
+      ],
+      "photos": []
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / QUESTIONS",
+      "heading": "Crop questions from Artesia.",
+      "items": [
+        {
+          "q": "Textured crop or French crop for work?",
+          "a": "Both sit forward and take seconds. French is tidier with a blunt fringe; textured is looser. Pick by how neat you want the front, not by effort."
+        },
+        {
+          "q": "Does a crop cover a high hairline?",
+          "a": "It helps. Bringing the hair forward covers part of the forehead, where a slick back would show it."
+        },
+        {
+          "q": "Will a crop work with thick, wavy hair?",
+          "a": "Thick hair that already wants to sit forward is the easiest crop there is. See the <a href=\"/styles/textured-crop/\">textured crop page</a> for a full one from behind."
+        },
+        {
+          "q": "How short should I take the sides if I come down less often?",
+          "a": "A low fade or taper. It softens the regrowth, so the cut stays wearable longer between trips."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "APPOINTMENTS ONLY",
+      "heading": "Book the crop.<br>Style it on the drive back.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ]
+}

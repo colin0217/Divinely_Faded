@@ -1,0 +1,169 @@
+{
+  "id": "post-is-a-perm-bad-for-your-hair",
+  "locale": "en",
+  "slug": "/blog/is-a-perm-bad-for-your-hair/",
+  "date": "2027-01-13",
+  "plan_rank": 78,
+  "title": "Is a Perm Bad for Your Hair?",
+  "eyebrow": "COLOR & TEXTURE",
+  "hero": "pexels-112782-perm-rollers",
+  "hero_alt": "Close-up of hair wound on perm rollers",
+  "image_plan": "pexels: men perm texture",
+  "card_text": "What a perm actually does inside the hair, when it's riskier, how it differs from natural curls, and the general aftercare.",
+  "lede": [
+    "A perm isn't automatically bad for your hair, but it isn't nothing either. A perm uses a chemical solution to loosen the bonds that give hair its shape, then sets them again around a new curl. That change is permanent for the hair it touches, and it can leave hair drier and more fragile than before, especially hair that's already bleached or damaged. Healthy hair, a careful process and decent aftercare keep the risk low.",
+    "Here's what the process does, when it's riskier, how permed curls differ from natural ones, and the general care that keeps a perm looking good."
+  ],
+  "seo": {
+    "title": "Is a Perm Bad for Your Hair? | Carlsbad, NM",
+    "description": "Is a perm bad for your hair? What a perm does to men's hair, how it compares to natural curls, and how to care for it, from a Carlsbad, NM barber.",
+    "primary": "is a perm bad for your hair",
+    "secondary": [
+      "perm vs natural curls"
+    ]
+  },
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Blog",
+      "/blog/"
+    ],
+    [
+      "Is a Perm Bad?",
+      "/blog/is-a-perm-bad-for-your-hair/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / WHAT A PERM DOES",
+      "heading": "Bonds, loosened and reset.",
+      "lead": "The chemistry in plain words.",
+      "paragraphs": [
+        "Hair holds its shape through bonds inside each strand. A perm solution loosens those bonds so the hair can take on the shape of the rod it's wrapped around. A second step, the neutralizer, sets them again in the new, curled position.",
+        "That's why a perm doesn't wash out. The curl is built into the hair itself. It stays until the permed hair grows out and gets cut away, while new growth comes in with your natural texture.",
+        "Any process that rearranges the inside of a hair strand takes something out of it. Permed hair can feel drier and more porous afterward, and it handles extra stress less well than it used to."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / WHEN IT'S RISKIER",
+      "heading": "Hair that's been through a lot.",
+      "lead": "The starting condition matters most.",
+      "subsections": [
+        {
+          "heading": "Bleached or colored hair",
+          "paragraphs": [
+            "Lightened hair has already been chemically opened up. Adding a perm on top is where breakage becomes a real concern. Tell me about any color, even old color sitting at the ends, before you book."
+          ]
+        },
+        {
+          "heading": "Hair that's already dry or breaking",
+          "paragraphs": [
+            "If your ends snap or feel like straw, a perm will usually make that worse. Sometimes the right first step is a cut that removes the damaged length."
+          ]
+        },
+        {
+          "heading": "Perming over a perm",
+          "paragraphs": [
+            "Running the process again over hair that's already permed doubles the stress on the same strands. That's why a redo generally focuses on the new growth."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / PERM VS NATURAL CURLS",
+      "heading": "Built curl, grown curl.",
+      "lead": "They look alike from across a room.",
+      "paragraphs": [
+        "Natural curls come from the shape of the follicle, so the hair grows in curly and keeps doing so. A perm adds curl to hair that grows in straight or wavy. Up close, permed curls tend to be more uniform, because each section was wrapped on a rod of a chosen size.",
+        "As a perm grows, you'll see your natural texture at the roots and the curl further down. Natural curls don't have that line.",
+        "Both need moisture. Curly hair of either kind runs drier than straight hair, because the oils from the scalp have a harder time traveling down a coil."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / AFTERCARE",
+      "heading": "Go easy on it.",
+      "lead": "The general advice for permed hair.",
+      "paragraphs": [
+        "The usual care tips all come down to treating the hair as a little more fragile than it was:"
+      ],
+      "bullets": [
+        "Hold off on the first wash for a bit so the new shape can settle, and follow what you're told at the appointment.",
+        "Use a gentle shampoo and condition every time you wash.",
+        "Scrunch with a towel instead of rubbing, and use your fingers rather than a fine comb.",
+        "Keep heat tools to a minimum."
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "05 / BOOKING",
+      "heading": "The Perm, and the cut around it.",
+      "items": [
+        {
+          "title": "Perm",
+          "meta": "{{price:perm}} · {{minutes:perm}}",
+          "body": "A customized perm for volume, texture and movement. Mention any color or past chemical work before you book.",
+          "href": "page:services-color",
+          "link_label": "SEE COLOR AND PERM",
+          "book": true
+        },
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "Keeps the sides tidy and the shape sharp while the curl grows on top.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / QUESTIONS",
+      "heading": "Perm worries, answered.",
+      "items": [
+        {
+          "q": "Does a perm damage your hair?",
+          "a": "It changes the structure of the hair, which can leave it drier and more fragile. Healthy hair and gentle aftercare keep that in check."
+        },
+        {
+          "q": "Is a perm worse than bleach?",
+          "a": "They do different things. Doing both on the same hair is where the risk adds up, so mention any bleach before booking a perm."
+        },
+        {
+          "q": "How long does a perm last?",
+          "a": "The curl stays in the permed hair until it grows out and is cut away.",
+          "href": "page:post-how-long-does-a-perm-last",
+          "link_label": "HOW LONG A PERM LASTS"
+        },
+        {
+          "q": "Can a perm look natural?",
+          "a": "Yes, especially once it has settled and been cut into a shape. The rod size decides how tight the curl is."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "CURL ON PURPOSE",
+      "heading": "Healthy hair.<br>Then the curl.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "services-color",
+    "services-haircuts"
+  ],
+  "tim_questions": [
+    "Do you perm over bleached or colored hair, or ask clients to wait? The post only tells readers to mention past color before booking.",
+    "The aftercare tips (hold off on the first wash, gentle shampoo, conditioner, scrunching, little heat) are written as general advice, not yours. Anything you recommend differently, or a specific wait before the first wash?",
+    "Do you do a consultation or strand test before a perm?",
+    "When redoing a perm, do you focus on new growth as the post says in general terms?"
+  ]
+}

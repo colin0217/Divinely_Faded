@@ -1,0 +1,162 @@
+{
+  "id": "city-roswell",
+  "locale": "es",
+  "pageType": "city-hub",
+  "city": "roswell",
+  "slug": "/es/roswell/",
+  "alt": "/roswell/",
+  "nav_label": "Desde Roswell",
+  "card_text": "Un solo camino al sur desde Roswell: unos 90 minutos por la US 285, pasando por Artesia.",
+  "breadcrumb": [
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Roswell",
+      "/es/roswell/"
+    ]
+  ],
+  "seo": {
+    "title": "Barbería para Roswell, NM: a 76 millas en Carlsbad",
+    "description": "Divinely Faded está en Carlsbad, a unas 76 millas al sur de Roswell por la US 285, más o menos hora y media. Agenda en Booksy antes de salir.",
+    "primary": "barbería roswell nm",
+    "secondary": [
+      "corte de pelo roswell nm"
+    ],
+    "og_photo": "team-tim-portrait"
+  },
+  "schema": {
+    "type": "CollectionPage"
+  },
+  "related": [
+    "visit",
+    "services",
+    "styles"
+  ],
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "ROSWELL / UN SOLO CAMINO AL SUR",
+      "h1": "Si vienes de Roswell.",
+      "paragraphs": [
+        "Divinely Faded está en Carlsbad, a {{city:roswell.drive_mi}} millas al sur de Roswell. Es la {{city:roswell.route}} todo el camino, pasando por Artesia más o menos a la mitad, y se hace como {{city:roswell.drive_min}} minutos.",
+        "Esto es lo que conviene resolver antes de salir: qué agendar, cuándo abro y a dónde llegas al final del camino."
+      ],
+      "link": {
+        "label": "CÓMO LLEGAR",
+        "href": "directions"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / LA RUTA",
+      "heading": "Derecho por la 285.",
+      "paragraphs": [
+        "Toma la {{city:roswell.route}} al sur saliendo de Roswell y no la dejes. Artesia queda más o menos a la mitad; sigue y llegas a Carlsbad.",
+        "La barbería está en {{address}}. Toca Cómo llegar arriba y Google Maps te guía en las últimas vueltas.",
+        "Date un poco de margen por el tráfico al llegar a Carlsbad. Si vas a llegar tarde, mándame un mensaje al {{phone}}."
+      ],
+      "photos": []
+    },
+    {
+      "type": "cards",
+      "eyebrow": "PARA ROSWELL / SERVICIOS",
+      "heading": "Cada servicio, planeado desde Roswell.",
+      "items": "children:services"
+    },
+    {
+      "type": "cards",
+      "eyebrow": "PARA ROSWELL / ESTILOS",
+      "heading": "Cada estilo, planeado desde Roswell.",
+      "items": "children:styles"
+    },
+    {
+      "type": "table",
+      "eyebrow": "02 / ROSWELL EN BREVE",
+      "heading": "Roswell en números.",
+      "lead": "Datos públicos de Roswell y del camino, con la fuente en cada fila.",
+      "columns": [
+        "Roswell",
+        "",
+        "Fuente"
+      ],
+      "rows": "city:roswell"
+    },
+    {
+      "type": "list",
+      "eyebrow": "03 / ESCOGE TU HORA",
+      "heading": "Visitas cortas, si vienes y te vas.",
+      "lead": "No todos los viajes necesitan una cita larga. Estas caben en un día de pendientes en Carlsbad.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "Un corte completo, la nuca limpia a navaja y peinado final, sin una sesión larga.",
+          "book": true
+        },
+        {
+          "title": "Straight Razor Beard Shave",
+          "meta": "{{price:straight-razor-beard-shave}} · {{minutes:straight-razor-beard-shave}}",
+          "body": "Un afeitado tradicional con toallas calientes y crema de afeitar.",
+          "book": true
+        },
+        {
+          "title": "Express Facial",
+          "meta": "{{price:express-facial}} · {{minutes:express-facial}}",
+          "body": "Masaje, vapor, limpieza, exfoliación e hidratante en media hora.",
+          "book": true
+        },
+        {
+          "title": "Cortes para niños",
+          "meta": "Niños bienvenidos",
+          "body": "Cada niño necesita su propio horario en Booksy; ponlos seguidos del tuyo.",
+          "href": "page:services-kids",
+          "link_label": "CORTES PARA NIÑOS",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "map",
+      "eyebrow": "04 / MAPA",
+      "heading": "El final del camino.",
+      "lead": "{{address}}, al final del camino por la 285. Toca el mapa para ver cómo llegar.",
+      "title": "Mapa a Divinely Faded, 303 S Halagueno St, Carlsbad, NM",
+      "link_label": "CÓMO LLEGAR"
+    },
+    {
+      "type": "faq",
+      "eyebrow": "05 / PREGUNTAS",
+      "heading": "Si bajas desde Roswell.",
+      "items": [
+        {
+          "q": "¿Qué tan lejos está Divinely Faded de Roswell?",
+          "a": "Unas {{city:roswell.drive_mi}} millas, como {{city:roswell.drive_min}} minutos al sur por la {{city:roswell.route}}."
+        },
+        {
+          "q": "¿Paso por Artesia?",
+          "a": "Sí. La US 285 pasa justo por Artesia, más o menos a la mitad entre Roswell y Carlsbad."
+        },
+        {
+          "q": "¿Puedo agendar para el mismo día?",
+          "a": "Solo si Booksy muestra un horario disponible ese día. Revisa antes de salir de Roswell, porque solo atiendo con cita."
+        },
+        {
+          "q": "¿Cómo pago?",
+          "a": "Efectivo, tarjeta, Zelle o Cash App, después del servicio."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "SOLO CON CITA",
+      "heading": "Agéndalo.<br>Y vete al sur.",
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
+    }
+  ]
+}

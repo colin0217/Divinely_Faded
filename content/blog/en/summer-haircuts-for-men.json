@@ -1,0 +1,174 @@
+{
+  "id": "post-summer-haircuts-for-men",
+  "locale": "en",
+  "slug": "/blog/summer-haircuts-for-men/",
+  "date": "2026-11-12",
+  "plan_rank": 34,
+  "title": "Summer Haircuts for Hot, Dry Weather",
+  "eyebrow": "SEASONAL",
+  "hero": "pexels-36345491-sunglasses-short-hair-summer",
+  "hero_alt": "Young man in sunglasses with short sides, smiling outdoors on a sunny day",
+  "image_plan": null,
+  "card_text": "Short sides, a top that needs nothing, and a scalp that still needs covering. Three cuts built for a Carlsbad summer.",
+  "lede": [
+    "For a hot, dry summer, go shorter on the sides and simpler on top. Less hair means less heat trapped against your head, less sweat sitting in it, and less styling on mornings when it's already warm by breakfast. A buzz cut, a skin fade or a short textured crop all do that, each with a different amount left on top.",
+    "Here's how to pick between them, what a shorter cut means for your scalp in the New Mexico sun, and how to fit a cut around summer days."
+  ],
+  "seo": {
+    "title": "Summer Haircuts for Hot, Dry Weather | Carlsbad, NM",
+    "description": "Summer haircuts for men in Carlsbad, NM: buzz cut, skin fade or textured crop for hot, dry weather, plus what a short cut means for your scalp.",
+    "primary": "summer haircuts for men",
+    "secondary": []
+  },
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Blog",
+      "/blog/"
+    ],
+    [
+      "Summer Haircuts",
+      "/blog/summer-haircuts-for-men/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / WHAT HEAT ASKS FOR",
+      "heading": "Less hair, less work.",
+      "lead": "Carlsbad summers are hot and dry.",
+      "paragraphs": [
+        "Thick sides hold heat close to the head and soak up sweat. Taking them short lets air reach the skin and lets your hair dry fast after you've been outside.",
+        "The top is the other half of the decision. Anything you have to blow-dry or set every morning becomes a chore when the temperature climbs, and product and sweat don't mix well. A summer cut should look right with a rinse and a towel.",
+        "Short doesn't have to mean plain. A sharp line-up, a clean neckline or a fade with real contrast keeps a low-effort cut looking deliberate."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / THREE CUTS",
+      "heading": "Pick your length.",
+      "lead": "From almost nothing to a little texture.",
+      "subsections": [
+        {
+          "heading": "Buzz cut",
+          "paragraphs": [
+            "One short length all over, or close to it. Nothing to style, quick to dry and easy to wear under a cap. The photo above takes it a step further, with a high fade on the sides and a sharp line-up across the front."
+          ]
+        },
+        {
+          "heading": "Skin fade",
+          "paragraphs": [
+            "Sides taken down to bare skin and blended up into whatever length you keep on top. The coolest-feeling sides you can get without shaving them."
+          ]
+        },
+        {
+          "heading": "Textured crop",
+          "paragraphs": [
+            "A short top with choppy texture, pushed forward, over short sides. Enough hair to look styled, little enough that a towel-dry and your fingers handle it."
+          ]
+        }
+      ],
+      "link": {
+        "label": "SEE THE BUZZ CUT",
+        "href": "page:styles-buzz-cut"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / YOUR SCALP",
+      "heading": "Shorter hair, more sun.",
+      "lead": "Your scalp is skin too.",
+      "paragraphs": [
+        "The shorter the cut, the less your hair shades your scalp. A buzz cut or a high skin fade leaves skin open to the sun that used to sit under hair, including along the part and around the crown.",
+        "Treat that skin the way you'd treat your face on a bright day outside. Shade and a hat help, and the back of the neck deserves the same attention once a fade has bared it.",
+        "If you're going very short for the first time this summer, expect the skin on top to be lighter than the rest of you for a while. That evens out on its own."
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "04 / BOOK IT AS",
+      "heading": "Services for summer.",
+      "lead": "Book the one that matches your plan.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "Any of the three cuts above, finished with a straight razor cleanup at the neck.",
+          "href": "page:styles-skin-fade",
+          "link_label": "SKIN FADE DETAILS",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "The cut plus a beard trim or line-up, a hot towel and razor detailing. For keeping a summer beard short and neat.",
+          "book": true
+        },
+        {
+          "title": "Head & Beard Shave",
+          "meta": "{{price:head-beard-shave}} · {{minutes:head-beard-shave}}",
+          "body": "Going all the way smooth? A precision head shave and beard shave with hot towels and an aftershave balm.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "05 / SUMMER DAYS",
+      "heading": "Fit it in early.",
+      "lead": "Mornings are cooler.",
+      "paragraphs": [
+        "Saturday opens at 8:00 AM and runs to 2:00 PM, so an early Saturday slot gets the cut done before the hottest part of the day. During the week, morning appointments work the same way.",
+        "School is out for summer, so kids can come in on a weekday too. They book from the same menu as everyone else. The shop is closed Wednesday and Sunday, so plan around those two days."
+      ],
+      "link": {
+        "label": "SEE THE TEXTURED CROP",
+        "href": "page:styles-textured-crop"
+      }
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / QUESTIONS",
+      "heading": "Summer-cut questions.",
+      "items": [
+        {
+          "q": "What's a good haircut for hot weather?",
+          "a": "Something short on the sides and easy on top: a buzz cut, a skin fade or a short textured crop."
+        },
+        {
+          "q": "Does a shorter haircut keep you cooler?",
+          "a": "Shorter sides let air reach your scalp and let sweat dry faster, which is why most summer cuts start there."
+        },
+        {
+          "q": "Should I shave my head for summer?",
+          "a": "You can. The Head & Beard Shave takes both down smooth. Keep in mind a bare scalp gets full sun, so plan to cover it."
+        },
+        {
+          "q": "When is the shop open on Saturday?",
+          "a": "8:00 AM to 2:00 PM. The shop is closed Wednesday and Sunday."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "SUMMER READY",
+      "heading": "Short sides.<br>Cool head.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "styles-buzz-cut",
+    "styles-skin-fade",
+    "styles-textured-crop"
+  ],
+  "tim_questions": [
+    "Do you want to recommend any scalp sun protection (sunscreen, hats)? Products were left out; the post only says to cover up.",
+    "Does summer get busier at the shop? The post doesn't say."
+  ]
+}

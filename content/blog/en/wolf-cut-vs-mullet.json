@@ -1,0 +1,165 @@
+{
+  "id": "post-wolf-cut-vs-mullet",
+  "locale": "en",
+  "slug": "/blog/wolf-cut-vs-mullet/",
+  "date": "2026-12-21",
+  "plan_rank": 61,
+  "title": "Wolf Cut vs Mullet: Which One Is Which",
+  "eyebrow": "STYLES",
+  "hero": "pexels-13347809-shaggy-hair-from-above",
+  "hero_alt": "Shaggy layered hair seen from above as a man sits by the water",
+  "image_plan": "pexels: wolf cut men",
+  "card_text": "Shaggy layers all over, or short sides with length in back. How to tell a wolf cut from a mullet, and how to ask.",
+  "lede": [
+    "A wolf cut is layered and shaggy all over, with choppy volume at the crown and length that blends from the face around to the back. A mullet keeps the sides short, often faded, and leaves noticeable length at the back. The quickest way to tell them apart is to look at the sides: if they're short and tight, it's a mullet; if they're layered and full, it's a wolf cut.",
+    "Here's what defines each one, where they overlap, and what to show your barber so you get the right one."
+  ],
+  "seo": {
+    "title": "Wolf Cut vs Mullet: Which One Is Which | Carlsbad, NM",
+    "description": "Wolf cut vs mullet explained by a Carlsbad, NM barber: shaggy layers all over or short sides with length in back, and how to ask for each.",
+    "primary": "wolf cut vs mullet",
+    "secondary": [
+      "wolf cut men"
+    ]
+  },
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Blog",
+      "/blog/"
+    ],
+    [
+      "Wolf Cut vs Mullet",
+      "/blog/wolf-cut-vs-mullet/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / THE WOLF CUT",
+      "heading": "Layers everywhere.",
+      "lead": "Shaggy on purpose.",
+      "paragraphs": [
+        "The wolf cut is built from layers cut all over the head. The crown is short and choppy so it lifts, the layers get longer as they fall toward the face and the neck, and the ends are left textured rather than blunt. The whole shape is soft and messy in a deliberate way.",
+        "The sides are the giveaway. On a wolf cut, they're layered too, not clipped short. Hair covers the ears or sits around them, and the cut flows from front to back without a sharp change in length.",
+        "Because so much of the cut is about layering long hair with scissors, it relies on length everywhere. You can't get a true wolf cut out of short sides."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / THE MULLET",
+      "heading": "Short sides, long back.",
+      "lead": "Contrast is the whole idea.",
+      "paragraphs": [
+        "A mullet is about two zones. The sides are taken short, and on a modern mullet they're usually faded, sometimes all the way to skin. The back is left long, falling past the neckline. The top is often textured to tie the two together.",
+        "That contrast, tight on the sides and long at the back, is what makes it a mullet. A burst fade mullet curves the fade around the ear so the length in back looks like it belongs to the cut.",
+        "The modern mullet is on my styles list, with photos: a platinum version faded high to skin, and a dark, curly version with a burst fade."
+      ],
+      "link": {
+        "label": "SEE THE MODERN MULLET",
+        "href": "page:styles-modern-mullet"
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "03 / SIDE BY SIDE",
+      "heading": "Wolf cut and mullet, compared.",
+      "lead": "Read across a row.",
+      "columns": [
+        "",
+        "Wolf cut",
+        "Mullet"
+      ],
+      "rows": [
+        [
+          "Sides",
+          "Layered, covering or framing the ears",
+          "Short, often faded"
+        ],
+        [
+          "Back",
+          "Long and layered",
+          "Long, the focal point"
+        ],
+        [
+          "Crown",
+          "Short, choppy volume",
+          "Textured, varies"
+        ],
+        [
+          "Main tool",
+          "Scissors, lots of layering",
+          "Clippers on the sides, scissors on top and back"
+        ],
+        [
+          "Overall shape",
+          "Soft and shaggy",
+          "Sharp contrast"
+        ]
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / THE OVERLAP",
+      "heading": "Where they meet.",
+      "lead": "The names get blurred.",
+      "paragraphs": [
+        "Some cuts sit between the two: a shaggy, layered top and back with the sides taken a little tighter than a classic wolf cut. People call that a wolf mullet, a shag mullet or just a wolf cut, depending on who's talking.",
+        "That's why the name you use matters less than the picture you bring. Show the sides, the back and the front if you can. The side view tells me more than anything else, because that's where the two styles split.",
+        "If you like the shag of a wolf cut but want something easier to keep tidy, the mullet route gives you length in the back with short sides that clean up fast."
+      ],
+      "link": {
+        "label": "SEE THE TEXTURED FRINGE",
+        "href": "page:styles-textured-fringe"
+      }
+    },
+    {
+      "type": "faq",
+      "eyebrow": "05 / QUESTIONS",
+      "heading": "Wolf cut or mullet, answered.",
+      "items": [
+        {
+          "q": "Is a wolf cut a mullet?",
+          "a": "Not quite. A wolf cut is layered all over, including the sides. A mullet keeps the sides short and leaves the length in back."
+        },
+        {
+          "q": "Which one needs more length?",
+          "a": "The wolf cut, because it layers long hair all over. A mullet only needs real length at the back."
+        },
+        {
+          "q": "Which one is easier to grow out?",
+          "a": "A mullet's short sides can be kept faded or left to fill in while the back stays long. A wolf cut grows into longer, looser layers, which can look shaggy on the way."
+        },
+        {
+          "q": "Can I get a mullet at Divinely Faded?",
+          "a": "Yes. The modern mullet is on my styles list. Book the Essential Haircut ({{price:essential-haircut}}), or the Signature Cut ({{price:signature-cut}}) to add a beard trim or line-up."
+        },
+        {
+          "q": "What if I want a wolf cut?",
+          "a": "Text me a photo of the wolf cut you want, with the sides visible, and ask before you book."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "SHORT SIDES, LONG BACK",
+      "heading": "Show me the sides.<br>I'll read the cut.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "styles-modern-mullet",
+    "styles-textured-fringe",
+    "services-haircuts"
+  ],
+  "tim_questions": [
+    "Do you cut wolf cuts? The post does not say you do; it asks readers to text a photo and ask before booking.",
+    "Is there a wolf cut or wolf mullet photo of your own work we could use instead of a stock photo?"
+  ]
+}

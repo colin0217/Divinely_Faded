@@ -1,0 +1,155 @@
+{
+  "id": "post-haircuts-for-big-forehead",
+  "locale": "en",
+  "slug": "/blog/haircuts-for-big-forehead/",
+  "date": "2026-12-18",
+  "plan_rank": 60,
+  "title": "Haircuts for a Big Forehead",
+  "eyebrow": "STYLES",
+  "hero": "pexels-1182125-fringe-brick-wall",
+  "hero_alt": "Young man with a straight fringe brushed down over his forehead, against a brick wall",
+  "image_plan": null,
+  "card_text": "A fringe or a crop brings the line down. The cuts that balance a tall forehead, and the ones that put it on display.",
+  "lede": [
+    "The haircuts that suit a big forehead are the ones that bring hair forward and down: a textured fringe, a forward crop, or a soft side part with some fall at the front. They shorten how tall the face looks by moving the visual line lower. Styles that sweep everything up and back, like a high pompadour, do the opposite and show the whole forehead.",
+    "Here's why that works, which cuts to try, and what to ask for so the front isn't cut too short."
+  ],
+  "seo": {
+    "title": "Haircuts for a Big Forehead (Men) | Carlsbad, NM",
+    "description": "Haircuts for a big forehead from a Carlsbad, NM barber: fringes and crops that bring the line down, what to avoid, and how to ask for the front.",
+    "primary": "haircut for big forehead men",
+    "secondary": []
+  },
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Blog",
+      "/blog/"
+    ],
+    [
+      "Haircuts for a Big Forehead",
+      "/blog/haircuts-for-big-forehead/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / WHY IT WORKS",
+      "heading": "Move the line down.",
+      "lead": "It's about proportion.",
+      "paragraphs": [
+        "Faces read in thirds: hairline to brow, brow to nose, nose to chin. A tall forehead makes the top third bigger than the other two. Hair that falls across part of it shrinks that top third, and the face looks balanced again.",
+        "The sides matter too. Tight sides with lots of height on top stretch the whole head upward, which makes a tall forehead look taller. Keeping a little weight on the sides and the volume moving forward, not up, keeps the proportions even.",
+        "None of this is about hiding. Lots of people with a tall forehead wear it proudly with a slick back. This is just how to soften it if you'd like to."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / CUTS TO TRY",
+      "heading": "Three that bring it down.",
+      "lead": "Pick by how much hair you want up front.",
+      "subsections": [
+        {
+          "heading": "Textured fringe",
+          "paragraphs": [
+            "The cut in the photo above: the top falls straight forward with texture through it, the temple has a sharp corner, and the sideburn tapers to skin. The fringe covers the upper forehead without looking like a curtain, because the texture lets skin show through in places."
+          ]
+        },
+        {
+          "heading": "Textured crop",
+          "paragraphs": [
+            "A shorter top pushed forward, with a fringe cut fairly blunt across the front. It's lower maintenance than a long fringe and still lowers the line."
+          ]
+        },
+        {
+          "heading": "Soft side part",
+          "paragraphs": [
+            "If you don't want hair on your forehead, a side part with some length falling to one side breaks up the space diagonally. Keep it relaxed rather than slicked flat."
+          ]
+        }
+      ],
+      "link": {
+        "label": "SEE THE TEXTURED FRINGE",
+        "href": "page:styles-textured-fringe"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / WHAT TO SKIP",
+      "heading": "Cuts that show more.",
+      "lead": "Not wrong, just louder.",
+      "bullets": [
+        "Tall quiffs and pompadours that push everything up and back.",
+        "Very short buzz cuts all over, which leave nothing to frame the face.",
+        "High skin fades paired with a lot of height on top, which lengthen the head.",
+        "A line-up that squares the hairline higher than it naturally sits."
+      ],
+      "paragraphs": [
+        "These put the forehead on show. If you love one of them, wear it. Just know what it does before you commit:"
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / ASKING FOR IT",
+      "heading": "Protect the front.",
+      "lead": "The length up front is the whole point.",
+      "paragraphs": [
+        "Tell me early that you want hair covering part of your forehead. That changes how I approach the front. The fringe length is the one thing you can't take back, so it's better to leave it long and trim more than to cut it short and wait.",
+        "If your hairline is receding at the temples, say so. A forward cut can soften that area too, and the edges around it can be kept natural instead of squared off.",
+        "Bring a photo of a fringe or crop you like, ideally on someone with a similar hair texture. Straight hair falls differently from wavy or curly hair, and a photo shows me which you're after."
+      ],
+      "link": {
+        "label": "SEE THE TEXTURED CROP",
+        "href": "page:styles-textured-crop"
+      }
+    },
+    {
+      "type": "faq",
+      "eyebrow": "05 / QUESTIONS",
+      "heading": "Forehead, answered.",
+      "items": [
+        {
+          "q": "What haircut suits a big forehead?",
+          "a": "A textured fringe, a forward crop or a soft side part. Each brings hair forward and lowers the line of the face."
+        },
+        {
+          "q": "Should I avoid a slick back with a big forehead?",
+          "a": "Not if you like it. It shows the whole forehead, so it's a confident look rather than a balancing one."
+        },
+        {
+          "q": "Does a fade work with a big forehead?",
+          "a": "Yes. A low or mid fade pairs well with a fringe. Very high fades with a tall top are the ones that lengthen the face."
+        },
+        {
+          "q": "Does a beard help balance a big forehead?",
+          "a": "It can. A fuller beard adds weight to the lower part of the face, which evens out a tall top third. The Signature Cut includes a beard trim or line-up."
+        },
+        {
+          "q": "What do I book?",
+          "a": "The Essential Haircut ({{price:essential-haircut}}, {{minutes:essential-haircut}}), or the Signature Cut ({{price:signature-cut}}) if the beard needs a trim or line-up too."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "BALANCE THE FRONT",
+      "heading": "Bring it forward.<br>Keep it sharp.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "styles-textured-fringe",
+    "styles-textured-crop",
+    "services-haircuts"
+  ],
+  "tim_questions": [
+    "Any face-shape or forehead advice you disagree with? The post is general styling guidance written in your voice.",
+    "Do you avoid lining up a hairline higher than it naturally sits? The post lists it under 'what to skip' as general advice and says edges can be kept natural, without stating your practice."
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "id": "hobbs-styles-textured-crop",
+  "locale": "es",
+  "pageType": "cell",
+  "city": "hobbs",
+  "base": "styles-textured-crop",
+  "slug": "/es/hobbs/crop-texturizado/",
+  "alt": "/hobbs/textured-crop/",
+  "nav_label": "Crop texturizado · Hobbs",
+  "card_text": "El crop texturizado desde Hobbs: se peina con los dedos cada día y se corta en Carlsbad cada 70 millas.",
+  "breadcrumb": [
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Hobbs",
+      "/es/hobbs/"
+    ],
+    [
+      "Crop texturizado",
+      "/es/hobbs/crop-texturizado/"
+    ]
+  ],
+  "seo": {
+    "title": "Crop texturizado para Hobbs, NM | Divinely Faded, Carlsbad",
+    "description": "Crop texturizado y French crop para Hobbs, cortados en Carlsbad a 80 minutos. Arriba corto, hacia adelante: se peina en segundos y dura entre viajes.",
+    "primary": "crop texturizado hobbs nm",
+    "secondary": [
+      "corte french crop hobbs"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "HOBBS / CROP TEXTURIZADO",
+      "h1": "Crop texturizado, desde Hobbs.",
+      "paragraphs": [
+        "Arriba corto, cortado en mechones a propósito y echado hacia adelante en un fleco cortito sobre lados bien cortos. Corto el crop texturizado en Carlsbad; Hobbs queda a {{city:hobbs.drive_mi}} millas al este de mi silla, un viaje de unos {{city:hobbs.drive_min}} minutos por la {{city:hobbs.route}} (rutas de OpenStreetMap).",
+        "Es el corte que señalaría cuando alguien quiere el pelo corto que aun así se vea como un corte, y no quiere pensar en él entre un viaje y otro."
+      ],
+      "link": {
+        "label": "AGENDA UN CROP TEXTURIZADO",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / LA DISTANCIA",
+      "heading": "Yo lo peino una vez. Tus dedos hacen el resto.",
+      "paragraphs": [
+        "El único día en que un barbero peina un crop es el día que manejas los {{city:hobbs.drive_min}} minutos de regreso. Cada mañana después de eso es un empujón hacia adelante con la mano, y listo. Ese es el atractivo: un corte que se ve intencional sin que nadie lo mantenga así.",
+        "Para estirar el tiempo entre viajes, pídeme que deje el fleco un poco más corto que en las fotos. En las semanas siguientes crece hasta el largo de siempre en lugar de pasarse, y la forma se mantiene hasta que el fleco cae sobre tus cejas."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / EL AIRE",
+      "heading": "Un poco de esponjado se lee como textura.",
+      "paragraphs": [
+        "Hobbs tiene una humedad relativa promedio de alrededor del {{city:hobbs.humidity_pct}}, frente al {{city:carlsbad.humidity_pct}} de Carlsbad (Open-Meteo, 2023–25). El pelo grueso puede esponjarse un poco en las mañanas húmedas. En un estilo pulido eso se ve como frizz; en un crop, donde los mechones ya están cortados para separarse, solo se ve como más textura."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "03 / CÓMO AGENDARLO",
+      "heading": "Normalmente, solo uno.",
+      "lead": "Precios y tiempos de Booksy.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "Un corte de precisión: arriba desfilado, el fleco en su lugar, los lados con taper o desvanecido (fade), el contorno de la nuca limpio con navaja y luego echado hacia adelante para que lo veas bien hecho.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "El mismo crop, con barba incluida y toalla caliente al final.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / PREGUNTAS",
+      "heading": "Preguntas de crop desde Hobbs.",
+      "items": [
+        {
+          "q": "¿Crop texturizado o French crop si vengo manejando desde Hobbs?",
+          "a": "El French crop lleva un fleco recto y parejo, que muestra lo disparejo conforme crece. La versión texturizada se corta dispareja desde el principio, así que perdona más las semanas entre viajes."
+        },
+        {
+          "q": "¿Qué tan corto debe ir el fleco para que aguante más entre visitas?",
+          "a": "Un poco más arriba de donde normalmente lo llevas. Dime cuántas semanas quieres que dure y lo corto para eso."
+        },
+        {
+          "q": "¿Dónde están las fotos del crop?",
+          "a": "La <a href=\"/es/estilos/crop-texturizado/\">página del crop texturizado</a> muestra una vista de atrás más llena y una vista lateral más corta."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "SOLO CON CITA",
+      "heading": "Córtalo corto.<br>Échalo hacia adelante.",
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
+    }
+  ]
+}

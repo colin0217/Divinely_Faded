@@ -1,0 +1,180 @@
+{
+  "id": "post-haircut-near-carlsbad-caverns",
+  "locale": "en",
+  "slug": "/blog/haircut-near-carlsbad-caverns/",
+  "date": "2026-12-16",
+  "plan_rank": 58,
+  "title": "Visiting Carlsbad Caverns? Getting a Fresh Cut While You're in Town",
+  "eyebrow": "LOCAL",
+  "hero": "pexels-13383722-limestone-cave",
+  "hero_alt": "Lit stalactites and stalagmites inside a limestone cave, with two visitors on the path",
+  "image_plan": "pexels: carlsbad new mexico desert road",
+  "card_text": "In town for the caverns or a stretch of work? The shop is about 24 minutes from Whites City. How to book a cut on a short stay.",
+  "lede": [
+    "If you're in the area for Carlsbad Caverns, my shop is in the city of Carlsbad at 303 S Halagueno St, about 20 miles and 24 minutes by car from Whites City at the caverns turnoff. Every cut is by appointment, so book a slot on Booksy from your phone before you drive in, and you'll be back on the road with a fresh cut.",
+    "Here's how to fit a haircut into a short stay, which service to pick, and what to know about my days and hours."
+  ],
+  "seo": {
+    "title": "Visiting Carlsbad Caverns? Get a Fresh Cut in Town",
+    "description": "Barber near Carlsbad Caverns: Divinely Faded is about 24 minutes from Whites City in Carlsbad, NM. Book a cut on Booksy during your stay.",
+    "primary": "barber near carlsbad caverns",
+    "secondary": [
+      "things to do in carlsbad nm"
+    ]
+  },
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Blog",
+      "/blog/"
+    ],
+    [
+      "Haircut Near Carlsbad Caverns",
+      "/blog/haircut-near-carlsbad-caverns/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / WHERE I AM",
+      "heading": "In town, not at the caverns.",
+      "lead": "A short drive from the turnoff.",
+      "paragraphs": [
+        "The caverns sit outside the city, past Whites City. My shop is in Carlsbad itself, at {{address}}. If you're staying in town, it's likely a quick hop. If you're staying near the park, plan on about 24 minutes each way.",
+        "The visit page has the map link, my days and the payment options, all in one place. Save it on your phone before you head out, so the address is there when you need it."
+      ],
+      "link": {
+        "label": "HOURS AND DIRECTIONS",
+        "href": "page:visit"
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "02 / DRIVE TIMES",
+      "heading": "Coming from nearby.",
+      "lead": "Driving distance to the shop.",
+      "columns": [
+        "From",
+        "Miles",
+        "Drive"
+      ],
+      "rows": "nearby"
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / ON A SHORT STAY",
+      "heading": "Fitting it in.",
+      "lead": "Book first, then plan around it.",
+      "subsections": [
+        {
+          "heading": "Book before you drive",
+          "paragraphs": [
+            "I cut by appointment only. Open Booksy, pick the service, and grab a time that fits your itinerary. If nothing works, text me at {{phone}} and ask before you drive over."
+          ]
+        },
+        {
+          "heading": "Know my days",
+          "paragraphs": [
+            "Saturdays run 8:00 AM to 2:00 PM. I'm closed Wednesday and Sunday. Booksy shows the open times on every other day, so check there for the slot you want."
+          ]
+        },
+        {
+          "heading": "Traveling over a holiday",
+          "paragraphs": [
+            "I'm open on holidays at regular hours. Appointments on the holiday itself carry a {{holiday_fee}} holiday fee on top of the service."
+          ]
+        },
+        {
+          "heading": "Paying",
+          "paragraphs": [
+            "Payment is due after the service, and I take cash, card, Zelle and Cash App, so whatever you travel with works."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / AWAY FROM HOME",
+      "heading": "A cut that travels.",
+      "lead": "Tell me about the trip.",
+      "paragraphs": [
+        "A new chair in a new town can feel like a gamble, so take the guesswork out. Bring a photo of your usual cut on a day you liked it, and tell me what your barber back home normally does. I'd rather match what you're used to than surprise you a long way from home.",
+        "Tell me how you'll be living for the next while, too. A hotel sink and a small bag of travel products call for a cut that sits right with a little water and a comb. Long shifts under a hard hat call for something that still looks tidy at the end of the day.",
+        "If the trip has a photo in it, like a family picture at the park, book your cut early in the stay. That gives it a day to settle instead of looking freshly cut in every shot."
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "05 / WHAT TO BOOK",
+      "heading": "Pick by the time you have.",
+      "lead": "Three good fits for a visit.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "The quickest full haircut on my menu: cut to your style and head shape, a straight razor cleanup at the neck, and styled. A good fit between sightseeing stops.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "The haircut plus a beard trim or line-up, a hot towel finish and straight razor detailing. The one to book if a week on the road has let the beard go.",
+          "book": true
+        },
+        {
+          "title": "Straight Razor Beard Shave",
+          "meta": "{{price:straight-razor-beard-shave}} · {{minutes:straight-razor-beard-shave}}",
+          "body": "A traditional wet shave with hot towels, shaving cream and a soothing aftershave, for when the beard is coming off entirely.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / QUESTIONS",
+      "heading": "Visitors, answered.",
+      "items": [
+        {
+          "q": "How far is the shop from Carlsbad Caverns?",
+          "a": "From Whites City, at the turnoff for the caverns, it's about 20 miles and 24 minutes to the shop in Carlsbad."
+        },
+        {
+          "q": "Can I just stop in on my way through?",
+          "a": "Every cut is by appointment. Book a time on Booksy first, and text me if you can't find one that fits."
+        },
+        {
+          "q": "I'm in town for work for a few weeks. Can I book more than one visit?",
+          "a": "Yes. Booksy lets you pick each appointment ahead, so you can set your next cut before you leave the chair.",
+          "href": "page:services-haircuts",
+          "link_label": "SEE THE HAIRCUTS"
+        },
+        {
+          "q": "Is the shop open on weekends?",
+          "a": "Saturdays from 8:00 AM to 2:00 PM. Sundays I'm closed."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "PASSING THROUGH",
+      "heading": "Fresh cut.<br>Back on the road.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "visit",
+    "services-haircuts",
+    "faq"
+  ],
+  "tim_questions": [
+    "Weekday hours are taken from the Booksy calendar and are not stated in this post until you confirm them (Mon/Tue/Thu/Fri 9-12 and 12:30-5).",
+    "Do you see many visitors or work crews who are only in town for a short time? The post addresses them without claiming you do.",
+    "Can people book same-day on Booksy, or is there a minimum notice? Not stated in the post."
+  ]
+}

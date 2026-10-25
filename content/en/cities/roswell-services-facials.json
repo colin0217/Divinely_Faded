@@ -1,0 +1,124 @@
+{
+  "id": "roswell-services-facials",
+  "locale": "en",
+  "pageType": "cell",
+  "city": "roswell",
+  "base": "services-facials",
+  "slug": "/roswell/mens-facials/",
+  "alt": "/es/roswell/faciales-para-hombres/",
+  "nav_label": "Men's facials · Roswell",
+  "card_text": "Men's facials planned from Roswell: dry-air skin care in the barber chair, short enough to pair with a haircut.",
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Roswell",
+      "/roswell/"
+    ],
+    [
+      "Men's Facials",
+      "/roswell/mens-facials/"
+    ]
+  ],
+  "seo": {
+    "title": "Men's Facials for Roswell, NM | Divinely Faded, Carlsbad",
+    "description": "Express and Deluxe facials for anyone driving from Roswell, done in Carlsbad about 92 minutes on US 285. Steam, massage and moisturizer for dry-air skin.",
+    "primary": "mens facial roswell nm",
+    "secondary": [
+      "facial for men roswell nm",
+      "skin care barber roswell nm"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "ROSWELL / MEN'S FACIALS",
+      "h1": "Men's facials, from Roswell.",
+      "paragraphs": [
+        "Both of my facials happen in the barber chair at my shop in Carlsbad, {{city:roswell.drive_mi}} miles south of Roswell on {{city:roswell.route}}, about {{city:roswell.drive_min}} minutes door to door (OpenStreetMap routing).",
+        "Steam, a massage across the face and temples, exfoliation and moisturizer, in either {{minutes:express-facial}} or {{minutes:deluxe-facial}}. Short enough to share a trip with a haircut."
+      ],
+      "link": {
+        "label": "BOOK A FACIAL",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / DRY AIR",
+      "heading": "What the air up there does to skin.",
+      "paragraphs": [
+        "Roswell averages {{city:roswell.humidity_pct}} humidity, with a July high around {{city:roswell.july_high_f}} and about {{city:roswell.days_100f}} days a year at or above 100°F (Open-Meteo, 2023–25). That's a lot of dry, hot days pulling moisture out of your face. A facial is built in the opposite direction: warm steam first, then exfoliation to lift what the wind left behind, then a hydrating moisturizer to put something back. The Deluxe adds advanced skin treatments and an anti-aging serum on top."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "02 / BOOK IT AS",
+      "heading": "Express or Deluxe.",
+      "lead": "Two facials, both from the chair.",
+      "items": [
+        {
+          "title": "Express Facial",
+          "meta": "{{price:express-facial}} · {{minutes:express-facial}}",
+          "body": "The quick one: a deep cleanse and gentle exfoliation, with steam, massage and moisturizer.",
+          "book": true
+        },
+        {
+          "title": "Deluxe Facial",
+          "meta": "{{price:deluxe-facial}} · {{minutes:deluxe-facial}}",
+          "body": "Adds advanced skin treatments and an anti-aging serum to a facial of massage, steam, exfoliation and moisturizer.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / ONE TRIP",
+      "heading": "Stack it with the haircut.",
+      "paragraphs": [
+        "The whole point of a {{city:roswell.drive_min}}-minute drive is to get more than one thing out of it. Book a haircut and a facial back to back on Booksy, and the trip covers your hair and your skin in a single sitting. If what you mostly want is steam and hot towels around the cut, the Luxury Grooming Experience already has both built in, and it's one booking instead of two.",
+        "I work by appointment only, so lock in both slots before you leave Roswell. You pay after the service."
+      ],
+      "photos": []
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / QUESTIONS",
+      "heading": "Facials from Roswell, answered.",
+      "items": [
+        {
+          "q": "Can I get a facial and a haircut on the same visit?",
+          "a": "Yes. Book them as two back-to-back slots on Booksy so the times line up."
+        },
+        {
+          "q": "Which facial should I pick?",
+          "a": "The Express Facial at {{price:express-facial}} if you want the reset; the Deluxe at {{price:deluxe-facial}} if you want the advanced treatments and the serum."
+        },
+        {
+          "q": "How long does the drive from Roswell take?",
+          "a": "About {{city:roswell.drive_min}} minutes on {{city:roswell.route}}, {{city:roswell.drive_mi}} miles, to {{address}}."
+        },
+        {
+          "q": "Is the facial done in the barber chair?",
+          "a": "Yes. You lean back in the same chair, no separate room or spa appointment."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "SKIN CARE",
+      "heading": "Steam, massage.<br>Then the road.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ]
+}

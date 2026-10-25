@@ -1,0 +1,119 @@
+{
+  "id": "hobbs-styles-curly-top-fade",
+  "locale": "en",
+  "pageType": "cell",
+  "city": "hobbs",
+  "base": "styles-curly-top-fade",
+  "slug": "/hobbs/curly-top-fade/",
+  "alt": "/es/hobbs/curly-top-fade/",
+  "nav_label": "Curly top fade · Hobbs",
+  "card_text": "Curly top fades for Hobbs: why the damper air argues for faded sides, and how to book the kids too.",
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Hobbs",
+      "/hobbs/"
+    ],
+    [
+      "Curly Top Fade",
+      "/hobbs/curly-top-fade/"
+    ]
+  ],
+  "seo": {
+    "title": "Curly Top Fade for Hobbs, NM | Divinely Faded, Carlsbad",
+    "description": "Curly top fades for Hobbs, cut in Carlsbad about 80 minutes west. Why faded sides suit Hobbs humidity, and how to book kids and adults on one trip.",
+    "primary": "curly top fade hobbs nm",
+    "secondary": [
+      "curly hair fade hobbs nm",
+      "kids fade hobbs nm"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "HOBBS / CURLY TOP FADE",
+      "h1": "Curly top fade, from Hobbs.",
+      "paragraphs": [
+        "Natural curl left on top, the sides faded close so the texture above looks fuller. I cut the curly top fade at {{address}} in Carlsbad. From Hobbs that's {{city:hobbs.drive_mi}} miles on {{city:hobbs.route}}, so figure about {{city:hobbs.drive_min}} minutes of road before anyone sits down.",
+        "This cut suits kids as well as adults, so part of this page is for parents turning one trip into haircuts for more than one head."
+      ],
+      "link": {
+        "label": "BOOK A CURLY TOP FADE",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / THE AIR",
+      "heading": "Damper air, bigger curls, tighter sides.",
+      "paragraphs": [
+        "Hobbs averages around {{city:hobbs.humidity_pct}} relative humidity, a few points above Carlsbad's {{city:carlsbad.humidity_pct}} (Open-Meteo, 2023–25). Curly hair gains volume in moister air, and the sides are where that puff flatters least. Fading them to skin takes the swelling out of the silhouette and leaves the curls on top to do what they want."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / ONE TRIP, SEVERAL HEADS",
+      "heading": "Book the siblings in a row.",
+      "paragraphs": [
+        "Hobbs is a young city: {{city:hobbs.under18_pct}} of residents are under 18 (Census ACS 2023). If the curly top is for your son and you're making the drive anyway, book each child his own Essential Haircut in back-to-back Booksy slots, and add yours. Running late? Text {{phone}} before the first appointment time."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "03 / BOOK IT AS",
+      "heading": "Cut, or texture first.",
+      "lead": "Kids book the same haircut service as adults.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}} · Kids welcome",
+          "body": "Curls shaped on top, sides faded to the height you pick, neckline finished with the straight razor.",
+          "book": true
+        },
+        {
+          "title": "Perm",
+          "meta": "{{price:perm}} · {{minutes:perm}}",
+          "body": "For straight hair that wants a curly top: texture first. A longer sitting, easier to justify for a {{city:hobbs.drive_min}}-minute drive.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / QUESTIONS",
+      "heading": "Curly top fade, asked from Hobbs.",
+      "items": [
+        {
+          "q": "Can my kids get a curly top fade on the same trip as mine?",
+          "a": "Yes. Kids are welcome. Book each one an Essential Haircut next to yours on Booksy so the whole family is done in one visit."
+        },
+        {
+          "q": "Low fade or high fade for curly hair in Hobbs?",
+          "a": "Low keeps more hair on the sides and grows out more gently, which helps when the next cut is {{city:hobbs.drive_mi}} miles away. High puts the curls on display and shows regrowth sooner."
+        },
+        {
+          "q": "Is there a photo of the cut?",
+          "a": "The <a href=\"/styles/curly-top-fade/\">curly top fade page</a> shows it on a younger client, sides to skin, curls loose on top."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "APPOINTMENTS ONLY",
+      "heading": "Book the curls.<br>Bring the kids.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ]
+}

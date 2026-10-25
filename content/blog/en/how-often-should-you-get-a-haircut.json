@@ -1,0 +1,159 @@
+{
+  "id": "post-how-often-should-you-get-a-haircut",
+  "locale": "en",
+  "slug": "/blog/how-often-should-you-get-a-haircut/",
+  "date": "2026-11-11",
+  "plan_rank": 33,
+  "title": "How Often Should You Get a Haircut?",
+  "eyebrow": "CARE",
+  "hero": "pexels-11773871-calendar-marking-date",
+  "hero_alt": "A hand circling a date on a desk calendar with a pen",
+  "image_plan": null,
+  "card_text": "There's no single number. The shortest part of your cut sets the clock, and a few signs tell you when it has run out.",
+  "lede": [
+    "How often you need a haircut depends on the shortest part of the cut you have now. Hair keeps growing at roughly the same pace everywhere on your head, but that growth shows first where the hair is shortest. A skin fade or a sharp line-up changes shape fast, while a longer scissor cut can grow for a good while before anyone notices.",
+    "So instead of one number for everyone, here's how to work out yours, the signs that say it's time, and how to keep the next cut on the calendar."
+  ],
+  "seo": {
+    "title": "How Often Should You Get a Haircut? | Carlsbad, NM",
+    "description": "How often to get a haircut depends on your cut's shortest part. The signs it's time and how to plan your next one at Divinely Faded, Carlsbad, NM.",
+    "primary": "how often should you get a haircut",
+    "secondary": [
+      "how often should men get a haircut",
+      "how often should you get a fade"
+    ]
+  },
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Blog",
+      "/blog/"
+    ],
+    [
+      "How Often to Get a Haircut",
+      "/blog/how-often-should-you-get-a-haircut/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / THE MATH",
+      "heading": "Growth shows where hair is short.",
+      "lead": "Same growth, different results.",
+      "paragraphs": [
+        "Scalp hair grows a little over a centimeter a month for most adults, a bit under half an inch. That rate is about the same on the sides, the back and the top.",
+        "What changes is how much that growth matters. Add a few millimeters to a fade taken down to skin and the bottom has visibly filled in. Add the same few millimeters to three inches on top and the change is hard to spot.",
+        "That's why two people who got cut on the same day can need their next one weeks apart. The shorter and sharper your cut, the sooner it drifts from the shape it left the shop with."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / BY CUT",
+      "heading": "Where your cut falls.",
+      "lead": "From shortest-lived to longest.",
+      "subsections": [
+        {
+          "heading": "Skin fades and line-ups",
+          "paragraphs": [
+            "These are cut right at the skin, so they lose their crispness first. If sharp edges are the whole point of your style, this is the end of the scale that comes back most often."
+          ]
+        },
+        {
+          "heading": "Tapers",
+          "paragraphs": [
+            "A taper only shortens the edges and leaves length on most of the side. It grows out gently, so it holds a tidy look longer than a high fade does."
+          ]
+        },
+        {
+          "heading": "Longer cuts",
+          "paragraphs": [
+            "A scissor cut with length on top and around the ears changes slowly. The neckline and the hair over the ears usually tell you first, before the overall shape does."
+          ]
+        },
+        {
+          "heading": "The beard",
+          "paragraphs": [
+            "A lined-up beard edge softens about as fast as a line-up on the head. If your beard is part of the look, the Signature Cut keeps it on the same visit as the haircut."
+          ]
+        }
+      ],
+      "link": {
+        "label": "SEE THE SKIN FADE",
+        "href": "page:styles-skin-fade"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / THE SIGNS",
+      "heading": "Time for the chair.",
+      "lead": "Check these before the calendar.",
+      "bullets": [
+        "The neckline has gone fuzzy or started growing down your neck.",
+        "Hair is touching the top of your ears or curling over them.",
+        "The corners of your line-up have rounded off.",
+        "You can see steps in the fade where it used to look smooth.",
+        "The top won't sit the way you style it, no matter what you try.",
+        "You catch yourself wearing a hat to hide it."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / PLAN IT",
+      "heading": "Book the next one early.",
+      "lead": "Before it has grown out, not after.",
+      "paragraphs": [
+        "Once you notice how long your cut holds the look you like, book the following appointment before you need it. Booksy shows open times ahead, so you can grab a slot while you still have choices.",
+        "I work solo, which means the week only has so many openings. Saturday runs 8:00 AM to 2:00 PM, the shop is closed Wednesday and Sunday, and the times that suit you are easier to get when you book them in advance.",
+        "Your regular cut is an Essential Haircut ({{price:essential-haircut}}, {{minutes:essential-haircut}}) or a Signature Cut ({{price:signature-cut}}, {{minutes:signature-cut}}) when the beard needs work too."
+      ],
+      "link": {
+        "label": "SEE THE HAIRCUTS",
+        "href": "page:services-haircuts"
+      }
+    },
+    {
+      "type": "faq",
+      "eyebrow": "05 / QUESTIONS",
+      "heading": "Timing questions.",
+      "items": [
+        {
+          "q": "How often should men get a haircut?",
+          "a": "It depends on the cut. Short fades and line-ups show growth soonest, tapers hold longer, and longer scissor cuts can go the longest between visits."
+        },
+        {
+          "q": "How often should you get a fade?",
+          "a": "More often than a longer cut, because the bottom of a fade is the shortest hair on your head. How often depends on how sharp you want it to look."
+        },
+        {
+          "q": "Does cutting your hair often make it grow faster?",
+          "a": "No. Cutting changes the shape, not how fast hair grows from the scalp."
+        },
+        {
+          "q": "How do I know when I'm due?",
+          "a": "Watch the neckline, the hair over your ears and the corners of your line-up. When those lose their shape, it's time."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "ON SCHEDULE",
+      "heading": "Your cut.<br>Your timing.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "services-haircuts",
+    "styles-skin-fade",
+    "faq"
+  ],
+  "tim_questions": [
+    "What intervals do you suggest between cuts for fades, tapers and longer cuts? The plan suggested '2-3 weeks for fades, 4-6 for longer cuts', but the post gives no number until you confirm.",
+    "Can clients book their next appointment with you at checkout, or only on Booksy themselves? The post only says Booksy shows open times ahead."
+  ]
+}

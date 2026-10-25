@@ -1,0 +1,125 @@
+{
+  "id": "artesia-services-color",
+  "locale": "en",
+  "pageType": "cell",
+  "city": "artesia",
+  "base": "services-color",
+  "slug": "/artesia/color-and-perm/",
+  "alt": "/es/artesia/color-y-permanente/",
+  "nav_label": "Color & perm · Artesia",
+  "card_text": "A Color Transformation or Perm from Artesia: how to block the whole day, and what the summer sun does to bleached hair.",
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Artesia",
+      "/artesia/"
+    ],
+    [
+      "Color & Perm",
+      "/artesia/color-and-perm/"
+    ]
+  ],
+  "seo": {
+    "title": "Hair Color & Perm for Artesia, NM | Divinely Faded",
+    "description": "Men's hair color and perms for Artesia, by Tim in Carlsbad about 44 minutes south on US 285. How to plan a full-day booking and protect bleached hair.",
+    "primary": "mens hair color artesia nm",
+    "secondary": [
+      "perm for men artesia nm",
+      "bleached hair artesia nm"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "ARTESIA / COLOR & PERM",
+      "h1": "Color and perm, from Artesia.",
+      "paragraphs": [
+        "A Color Transformation or a Perm means a long stretch in my chair in Carlsbad, {{city:artesia.drive_mi}} miles down {{city:artesia.route}} from Artesia, about {{city:artesia.drive_min}} minutes each way (OpenStreetMap routing). These are the two services where the drive is the smallest part of the day.",
+        "What follows: how to block the time, what the Artesia sun does to a fresh bleach, and what to send me before you book."
+      ],
+      "link": {
+        "label": "BOOK COLOR OR PERM",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "01 / THE TWO",
+      "heading": "Both need a full block.",
+      "lead": "Booksy times. Neither fits between errands.",
+      "items": [
+        {
+          "title": "Color Transformation",
+          "meta": "{{price:color-transformation}} · {{minutes:color-transformation}}",
+          "body": "Bleach, tone, and the shade you asked for. Booksy holds {{minutes:color-transformation}}, the longest booking I have.",
+          "book": true
+        },
+        {
+          "title": "Perm",
+          "meta": "{{price:perm}} · {{minutes:perm}}",
+          "body": "Volume, texture or movement set into hair that won't do it on its own. {{minutes:perm}} in the chair.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / THE WHOLE DAY",
+      "heading": "Plan it Artesia to Artesia.",
+      "paragraphs": [
+        "Take the Color Transformation: {{city:artesia.drive_min}} minutes down, {{minutes:color-transformation}} in the chair, {{city:artesia.drive_min}} minutes back. That's a day given to your hair, so don't line anything up behind it in Artesia that can't wait. The Perm is shorter, but the same thinking applies.",
+        "Start times matter. Saturday opens at 8:00 AM, and a color booked early leaves you daylight for the drive home. On a weekday, take the earliest slot Booksy shows."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / THE SUN",
+      "heading": "Bleach meets a long summer.",
+      "paragraphs": [
+        "Artesia's July high averages {{city:artesia.july_high_f}}, and the year brings around {{city:artesia.days_100f}} days at 100°F or more (Open-Meteo, 2023–25). Bleached hair dries faster and drifts warmer under that kind of sun, so if you go platinum heading into summer, plan on covering it outdoors and conditioning it more than you did before. Tell me what your days look like and I'll tone with that in mind.",
+        "A perm has the opposite worry: dry heat can leave the curl looking dull, so keep it moisturized between visits."
+      ],
+      "photos": []
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / QUESTIONS",
+      "heading": "Color and perm questions from Artesia.",
+      "items": [
+        {
+          "q": "How long will I be in Carlsbad for a Color Transformation?",
+          "a": "Booksy blocks {{minutes:color-transformation}} for it. With the drive both ways from Artesia, treat it as a full day."
+        },
+        {
+          "q": "Should I text before booking a perm?",
+          "a": "Yes. Send a photo of the wave or curl you're after to {{phone}}, so the {{minutes:perm}} go toward the result you pictured instead of working it out in the chair."
+        },
+        {
+          "q": "What if I have to cancel the day before?",
+          "a": "Cancel on Booksy as soon as you know. These bookings hold a big piece of my day, and a late cancellation or no-show may be charged a fee."
+        },
+        {
+          "q": "Can you color my beard too?",
+          "a": "No. Beard dyeing isn't on my menu; color is for the hair on your head. The <a href=\"/services/color-and-perm/\">color and perm page</a> has the photos."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "COLOR & TEXTURE",
+      "heading": "Block the day.<br>Then drive down.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ]
+}

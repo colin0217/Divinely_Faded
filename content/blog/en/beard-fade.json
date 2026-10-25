@@ -6,8 +6,8 @@
   "plan_rank": 15,
   "title": "Beard Fade: Blending Your Beard into Your Fade",
   "eyebrow": "BEARDS",
-  "hero": "cut-high-skin-fade-full-beard",
-  "hero_alt": "High skin fade under a short buzzed top, a razor line above the ear and a full, squared beard",
+  "hero": "cut-low-taper-full-beard",
+  "hero_alt": "Low taper on the sides blending into a full, shaped beard, side view",
   "image_plan": null,
   "card_text": "How the sideburn connects your fade to your beard, how fade height and beard length change it, and which service to book.",
   "lede": [
@@ -21,9 +21,18 @@
     "secondary": []
   },
   "breadcrumb": [
-    ["Home", "/"],
-    ["Blog", "/blog/"],
-    ["Beard Fade", "/blog/beard-fade/"]
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Blog",
+      "/blog/"
+    ],
+    [
+      "Beard Fade",
+      "/blog/beard-fade/"
+    ]
   ],
   "blocks": [
     {

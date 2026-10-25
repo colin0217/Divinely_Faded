@@ -7,8 +7,8 @@
   "plan_rank": 13,
   "title": "¿Qué es un afeitado con toalla caliente? Lo que pasa en la silla",
   "eyebrow": "AFEITADO",
-  "hero": "hot-towel",
-  "hero_alt": "Toalla caliente envuelta en la cara de un cliente reclinado antes de un afeitado",
+  "hero": "pexels-20405689-hot-towel-barber",
+  "hero_alt": "Un barbero colocando una toalla caliente sobre la cara de un cliente antes del afeitado",
   "image_plan": null,
   "card_text": "Toallas, espuma, navaja, aftershave: cada paso de un afeitado con toalla caliente, qué hace el calor y qué servicios incluyen toalla.",
   "lede": [
@@ -22,9 +22,18 @@
     "secondary": []
   },
   "breadcrumb": [
-    ["Inicio", "/es/"],
-    ["Blog", "/es/blog/"],
-    ["Toalla caliente", "/es/blog/afeitado-con-toalla-caliente/"]
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Blog",
+      "/es/blog/"
+    ],
+    [
+      "Toalla caliente",
+      "/es/blog/afeitado-con-toalla-caliente/"
+    ]
   ],
   "blocks": [
     {

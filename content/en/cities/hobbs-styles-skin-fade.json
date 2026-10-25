@@ -1,0 +1,120 @@
+{
+  "id": "hobbs-styles-skin-fade",
+  "locale": "en",
+  "pageType": "cell",
+  "city": "hobbs",
+  "base": "styles-skin-fade",
+  "slug": "/hobbs/skin-fade/",
+  "alt": "/es/hobbs/skin-fade/",
+  "nav_label": "Skin fade · Hobbs",
+  "card_text": "Planning a skin fade from Hobbs: the drive, the upkeep and how to book it.",
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Hobbs",
+      "/hobbs/"
+    ],
+    [
+      "Skin Fade",
+      "/hobbs/skin-fade/"
+    ]
+  ],
+  "seo": {
+    "title": "Skin Fade for Hobbs, NM | Divinely Faded, Carlsbad",
+    "description": "Skin fades for Hobbs clients, cut in Carlsbad about 80 minutes west on US 62/180. How to plan the upkeep around the drive, and how to book on Booksy.",
+    "primary": "skin fade hobbs nm",
+    "secondary": [
+      "fade haircut hobbs nm",
+      "barber hobbs nm"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "HOBBS / SKIN FADE",
+      "h1": "Skin fade, from Hobbs.",
+      "paragraphs": [
+        "A skin fade runs the sides and back down to bare skin and blends up into the length on top. I cut them in Carlsbad, {{city:hobbs.drive_mi}} miles west of Hobbs on {{city:hobbs.route}}, so from Hobbs this is a planned trip of about {{city:hobbs.drive_min}} minutes each way.",
+        "Here's how to book it, how to time the regrowth around that drive, and what to ask for when you sit down."
+      ],
+      "link": {
+        "label": "BOOK A SKIN FADE",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / PLAN THE UPKEEP",
+      "heading": "Book the next one before you head home.",
+      "paragraphs": [
+        "Bare skin is where regrowth shows first, so this cut softens sooner than most. From Hobbs every touch-up means another {{city:hobbs.drive_mi}}-mile drive, so it helps to grab your next time on Booksy while you're still in Carlsbad.",
+        "How long you go between visits is your call. Some people want it razor sharp every time; others don't mind the grown-in stage for a while."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / THE HEAT",
+      "heading": "Short sides for a long summer.",
+      "paragraphs": [
+        "Hobbs averages a July high of {{city:hobbs.july_high_f}}, with about {{city:hobbs.days_100f}} days a year at 100°F or more (Open-Meteo, 2023–25). Taking the sides down to skin leaves less hair to hold that heat, which is why some people switch to a skin fade when summer comes."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "03 / BOOK IT AS",
+      "heading": "Two ways to book it.",
+      "lead": "Prices and times from my Booksy menu.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "The fade and the top, finished with a razor-clean neckline. Right for a clean-shaven face.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "The fade plus your beard, trimmed or lined up, with a hot towel at the end. Book this one if the beard stays.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / QUESTIONS",
+      "heading": "Skin fade from Hobbs, answered.",
+      "items": [
+        {
+          "q": "How far do I drive from Hobbs for a skin fade?",
+          "a": "About {{city:hobbs.drive_mi}} miles, or roughly {{city:hobbs.drive_min}} minutes west on {{city:hobbs.route}}, to {{address}}."
+        },
+        {
+          "q": "Essential Haircut or Signature Cut for a skin fade?",
+          "a": "Essential if you keep your face clean-shaven, Signature if you want your beard done in the same visit."
+        },
+        {
+          "q": "Where can I see skin fades you've cut?",
+          "a": "The <a href=\"/styles/skin-fade/\">skin fade page</a> shows cuts from my chair, front and back."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "APPOINTMENTS ONLY",
+      "heading": "Book the fade.<br>Then take 62/180.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ]
+}

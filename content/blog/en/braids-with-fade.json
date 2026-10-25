@@ -6,8 +6,8 @@
   "plan_rank": 16,
   "title": "Braids with a Fade: How to Pair Them",
   "eyebrow": "BRAIDS",
-  "hero": "braids-blonde-side",
-  "hero_alt": "Two cornrow braids ending in a gold cuff over a skin-faded side",
+  "hero": "pexels-15412398-braids-sunglasses-portrait",
+  "hero_alt": "Man with braids and sunglasses, photographed outdoors",
   "image_plan": null,
   "card_text": "How fade height decides where braids can go, which patterns suit which fade, and how to plan both for one visit.",
   "lede": [
@@ -23,9 +23,18 @@
     ]
   },
   "breadcrumb": [
-    ["Home", "/"],
-    ["Blog", "/blog/"],
-    ["Braids with a Fade", "/blog/braids-with-fade/"]
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Blog",
+      "/blog/"
+    ],
+    [
+      "Braids with a Fade",
+      "/blog/braids-with-fade/"
+    ]
   ],
   "blocks": [
     {

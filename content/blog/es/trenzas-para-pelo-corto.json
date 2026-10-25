@@ -7,8 +7,8 @@
   "plan_rank": 23,
   "title": "Trenzas para pelo corto: qué largo necesita tu cabello",
   "eyebrow": "TRENZAS",
-  "hero": "braids-crown",
-  "hero_alt": "Dos trenzas en tono rubio con raya al centro que se juntan en la coronilla",
+  "hero": "pexels-29138334-short-cornrows-portrait",
+  "hero_alt": "Hombre con trenzas pegadas cortas en un retrato al aire libre",
   "image_plan": null,
   "card_text": "Una trenza necesita largo para agarrar. Cómo saber si ya lo tienes, qué estilos le quedan al pelo corto y qué mandar primero.",
   "lede": [
@@ -22,9 +22,18 @@
     "secondary": []
   },
   "breadcrumb": [
-    ["Inicio", "/es/"],
-    ["Blog", "/es/blog/"],
-    ["Trenzas para pelo corto", "/es/blog/trenzas-para-pelo-corto/"]
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Blog",
+      "/es/blog/"
+    ],
+    [
+      "Trenzas para pelo corto",
+      "/es/blog/trenzas-para-pelo-corto/"
+    ]
   ],
   "blocks": [
     {

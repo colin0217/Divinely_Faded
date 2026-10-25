@@ -1,0 +1,138 @@
+{
+  "id": "post-is-bleaching-hair-bad",
+  "locale": "en",
+  "slug": "/blog/is-bleaching-hair-bad/",
+  "date": "2026-12-10",
+  "plan_rank": 54,
+  "title": "Is Bleaching Your Hair Bad? What to Know Before You Go Blonde",
+  "eyebrow": "COLOR & TEXTURE",
+  "hero": "pexels-5313997-bleached-blond-outdoors",
+  "hero_alt": "Man with bleached-blond hair pushed back, hand at his temple, outdoors",
+  "image_plan": null,
+  "card_text": "Bleach changes the hair strand for good. What it does, why the process matters as much as the bleach, and what to ask first.",
+  "lede": [
+    "Bleaching isn't automatically bad for your hair, but it always changes it. Bleach opens the outer layer of each strand and breaks down the pigment inside, and that leaves the hair drier and more porous than before. How much that matters depends on how light you go, the condition your hair starts in, and how carefully the process is run.",
+    "Here's what's actually happening to the hair, why a controlled, toned process is gentler than rushing it at home, and what to think through before you go blonde."
+  ],
+  "seo": {
+    "title": "Is Bleaching Hair Bad? Know Before You Go Blonde",
+    "description": "What bleach does to hair, why a toned, professional process is gentler than box bleach, and what to ask before going blonde in Carlsbad, NM.",
+    "primary": "is bleaching hair bad",
+    "secondary": [
+      "how to bleach hair men"
+    ]
+  },
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Blog",
+      "/blog/"
+    ],
+    [
+      "Is Bleaching Hair Bad?",
+      "/blog/is-bleaching-hair-bad/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / WHAT BLEACH DOES",
+      "heading": "Inside the strand.",
+      "lead": "Lightening means taking something out.",
+      "paragraphs": [
+        "Every hair has a protective outer layer, the cuticle, wrapped around a core that holds your natural pigment. Bleach lifts that outer layer so it can reach the pigment, then breaks the pigment down. The lighter you want to end up, the more pigment has to go.",
+        "That's the trade. With the cuticle roughed up and the pigment gone, the strand holds moisture less well, tangles more easily and can feel straw-like if it's pushed too far. It's a real change to the hair, and it stays in that hair until it grows out and gets cut off.",
+        "None of that means you shouldn't do it. It means the goal and the process should be planned, not improvised."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / WHAT DECIDES THE DAMAGE",
+      "heading": "Four things that matter.",
+      "lead": "Not every bleach job is equal.",
+      "bullets": [
+        "How light you go. A soft blonde asks less of the hair than the near-white platinum in the photo above.",
+        "Where your hair starts. Dark hair has more pigment to remove than light brown, so it takes more lifting.",
+        "What's already on it. Old box dye, earlier bleach or a lot of heat styling all change how hair reacts.",
+        "How it's handled. Even application, watching the lift, and not leaving bleach on longer than the hair can take."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / BOX BLEACH",
+      "heading": "Why the process matters.",
+      "lead": "The bathroom sink is the hard way.",
+      "paragraphs": [
+        "Bleaching your own hair means working blind on the back of your head, mixing by guesswork and trying to keep an even layer across every section. Patches get more product or more time than others, and they lift unevenly. Going over the same spot twice to fix it is where hair starts to suffer.",
+        "There's also the color you land on. Hair rarely lifts straight to a clean blonde. On the way up it passes through orange and yellow, and stopping there leaves a brassy result that most people didn't want.",
+        "Toning is the second half of the job. After the lift, a toner adjusts the shade, cooling yellow toward a cleaner blonde or warming a white that came out too stark. It's the step that turns \"lighter\" into the color in your photo.",
+        "That's what toning is for. A Color Transformation on my menu is professional coloring that includes bleaching and toning, so the lift and the final shade are handled as one plan."
+      ],
+      "link": {
+        "label": "SEE COLOR SERVICES",
+        "href": "page:services-color"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / BEFORE YOU BOOK",
+      "heading": "Think it through.",
+      "lead": "A few honest questions.",
+      "paragraphs": [
+        "Pick the shade with a photo, not a word. \"Blonde\" covers a lot of ground, and the gap between honey and platinum is a lot of extra lifting.",
+        "Tell me what your hair has been through. Past dye, past bleach, a perm, anything. It changes the plan, and it's better said before the bleach goes on than after.",
+        "Clear the day. Booksy holds {{minutes:color-transformation}} for a Color Transformation, which is {{price:color-transformation}}. That's the longest appointment I have, so don't book anything tight after it.",
+        "Color is for the hair on your head. Beard dyeing isn't on my menu."
+      ],
+      "link": {
+        "label": "WHY IT TAKES FOUR HOURS",
+        "href": "page:post-how-long-to-bleach-hair"
+      }
+    },
+    {
+      "type": "faq",
+      "eyebrow": "05 / QUESTIONS",
+      "heading": "Bleach, answered.",
+      "items": [
+        {
+          "q": "Is bleaching hair bad for it?",
+          "a": "It changes the hair for good, leaving it drier and more porous. Done with a plan and the right care afterward, plenty of people wear bleached hair happily."
+        },
+        {
+          "q": "Does bleached hair grow back normal?",
+          "a": "New growth comes in with your natural color and texture. The bleached part stays bleached until it's cut off."
+        },
+        {
+          "q": "Why did my home bleach turn orange?",
+          "a": "Hair passes through warm tones as it lightens. Without enough lift and a toner after, it often stops at orange or yellow."
+        },
+        {
+          "q": "Can you dye my beard to match?",
+          "a": "No. Beard dyeing isn't a service I offer."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "GOING BLONDE",
+      "heading": "Plan the shade.<br>Then lift.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "services-color",
+    "styles-modern-mullet"
+  ],
+  "tim_questions": [
+    "Was the platinum crop in blonde-crop-side your own color work? The post says only that it is in the photo.",
+    "Do you use any bond-protecting product or do a strand test before a Color Transformation? Left out.",
+    "Will you bleach hair that has old box dye on it, or hair that was permed? The post only asks clients to tell you their hair history.",
+    "Do you color kids' hair, and is there an age minimum?"
+  ]
+}

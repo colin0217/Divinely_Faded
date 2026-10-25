@@ -1,0 +1,120 @@
+{
+  "id": "roswell-services-designs",
+  "locale": "en",
+  "pageType": "cell",
+  "city": "roswell",
+  "base": "services-designs",
+  "slug": "/roswell/hair-designs/",
+  "alt": "/es/roswell/disenos-de-cabello/",
+  "nav_label": "Hair designs · Roswell",
+  "card_text": "Hair designs planned from Roswell: time the lines to an event, since they soften as the fade grows back.",
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Roswell",
+      "/roswell/"
+    ],
+    [
+      "Hair Designs",
+      "/roswell/hair-designs/"
+    ]
+  ],
+  "seo": {
+    "title": "Hair Designs for Roswell, NM | Divinely Faded, Carlsbad",
+    "description": "Hair designs cut into a fade for anyone driving from Roswell, done in Carlsbad about 92 minutes south on US 285. A {{addon:hair-design}} add-on; time it to an event.",
+    "primary": "hair designs roswell nm",
+    "secondary": [
+      "haircut with design roswell nm",
+      "hair design barber roswell nm"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "ROSWELL / HAIR DESIGNS",
+      "h1": "Hair designs, from Roswell.",
+      "paragraphs": [
+        "A design is a line or curve cut into the shortest part of a fade, and I cut them at my shop in Carlsbad, {{city:roswell.drive_mi}} miles south of Roswell on {{city:roswell.route}}. On Booksy it's a {{addon:hair-design}} add-on to whatever haircut you book.",
+        "The catch with a design is that it lives in the hair that grows back first, so from {{city:roswell.drive_min}} minutes away it pays to think about timing before you think about shape."
+      ],
+      "link": {
+        "label": "BOOK A CUT WITH A DESIGN",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / TIMING",
+      "heading": "Cut it for the date, not for the month.",
+      "paragraphs": [
+        "Because the lines sit where the fade is shortest, they blur as that stubble fills in. If you're driving {{city:roswell.drive_min}} minutes down {{city:roswell.route}} (OpenStreetMap routing), book the design close to whatever you want it sharp for: a game, a party, photos. Leave it longer and the design is the first thing to go, which is fine if you only wanted it once.",
+        "Bring a picture, or tell me where you want it and how bold, and we'll settle the shape in the chair."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / KIDS",
+      "heading": "Plenty of young heads.",
+      "paragraphs": [
+        "Designs cut across ages. Roswell is {{city:roswell.under18_pct}} under 18 and {{city:roswell.age_20_34_pct}} between 20 and 34 (Census ACS 2023), and on my hair designs page the two cut on young clients, a curve from the temple to behind the ear and a set of lines above the ear, sit right next to the adult ones. Each child books their own haircut on Booksy and adds the design to it."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "03 / BOOK IT AS",
+      "heading": "A cut plus the add-on.",
+      "lead": "The design is added to a haircut, never booked alone.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "The cut and a clean neckline, with the design added on for {{addon:hair-design}}. The usual pairing.",
+          "book": true
+        },
+        {
+          "title": "Luxury Grooming Experience",
+          "meta": "{{price:luxury-grooming}} · {{minutes:luxury-grooming}}",
+          "body": "A basic hair design is already included, along with the beard sculpt, wash, steam and hot towels.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / QUESTIONS",
+      "heading": "Designs from Roswell, answered.",
+      "items": [
+        {
+          "q": "How much is a hair design?",
+          "a": "{{addon:hair-design}} on top of the haircut you book. The Luxury Grooming Experience includes a basic one."
+        },
+        {
+          "q": "How long does a design last?",
+          "a": "It softens as the short hair around it grows back. How long that takes depends on your hair, which is why I'd time it to an event rather than count on weeks."
+        },
+        {
+          "q": "Can I book the design without a haircut?",
+          "a": "It's an add-on, so it goes with a cut. Text me at {{phone}} if you're unsure how to pair it."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "CUT IN",
+      "heading": "Pick the date.<br>Then the lines.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ]
+}

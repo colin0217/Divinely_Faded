@@ -1,0 +1,124 @@
+{
+  "id": "roswell-styles-modern-mullet",
+  "locale": "es",
+  "pageType": "cell",
+  "city": "roswell",
+  "base": "styles-modern-mullet",
+  "slug": "/es/roswell/mullet-moderno/",
+  "alt": "/roswell/modern-mullet/",
+  "nav_label": "Mullet moderno · Roswell",
+  "card_text": "Un mullet moderno para Roswell: dos ritmos de crecimiento, un camino largo y el día de color que justifica el viaje.",
+  "breadcrumb": [
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Roswell",
+      "/es/roswell/"
+    ],
+    [
+      "Mullet moderno",
+      "/es/roswell/mullet-moderno/"
+    ]
+  ],
+  "seo": {
+    "title": "Mullet moderno para Roswell, NM | Divinely Faded, Carlsbad",
+    "description": "Mullet moderno y burst fade mullet para Roswell, en Carlsbad al sur por la US 285. Lados, cola, color platinado y cómo planear los viajes.",
+    "primary": "mullet moderno roswell nm",
+    "secondary": [
+      "corte mullet roswell nm"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "ROSWELL / MULLET MODERNO",
+      "h1": "Mullet moderno, desde Roswell.",
+      "paragraphs": [
+        "Lados cortos con desvanecido (fade), textura en la parte de arriba y una cola atrás que es larga a propósito. El mullet moderno es un corte con dos mitades que envejecen a distinta velocidad, y eso importa cuando el barbero está a {{city:roswell.drive_mi}} millas. Estoy en {{address}}, en Carlsbad; desde Roswell es la {{city:roswell.route}} al sur pasando por Artesia, unos {{city:roswell.drive_min}} minutos (rutas de OpenStreetMap).",
+        "Esta página trata de manejar esos dos ritmos desde lejos, a quién le suele quedar el corte y la cita de color que lo convierte en un día completo."
+      ],
+      "link": {
+        "label": "AGENDA UN MULLET",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / DOS RITMOS, UN CAMINO",
+      "heading": "Los lados te llaman de vuelta. La cola, no.",
+      "paragraphs": [
+        "Los lados con desvanecido van cortos, así que unas semanas de crecimiento los cambian por completo. Atrás va largo, así que esas mismas semanas apenas se notan; solo necesita forma de vez en cuando para que se vea elegido y no descuidado. Si vas a manejar {{city:roswell.drive_min}} minutos por cada visita, puedo cortar los lados para que crezcan con más gracia, con un desvanecido más bajo o una transición un poco más larga, para que el mullet siga pareciendo mullet entre viaje y viaje."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / QUIÉN LO USA",
+      "heading": "Veinteañeros, pero no solo ellos.",
+      "paragraphs": [
+        "Alrededor del {{city:roswell.age_20_34_pct}} de Roswell tiene entre 20 y 34 años (Censo ACS 2023), y si estás en ese grupo probablemente ya conoces el burst fade mullet, con la curva detrás de la oreja y el pelo chino que cae en la nuca. Pasada esa edad, un desvanecido más bajo y una cola más corta convierten el mismo corte en algo que entra a una oficina sin comentarios. La textura ayuda a cualquier edad: el pelo ondulado y el chino sostienen la forma de atrás; el lacio necesita suficiente largo para pasar del cuello de la camisa."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "03 / CÓMO AGENDARLO",
+      "heading": "Corte, barba o el día completo de platinado.",
+      "lead": "El color es una cita aparte; mándame un mensaje antes de juntarlo con un corte.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "Lados con desvanecido, parte de arriba texturizada y la cola con forma, con la navaja a lo largo de la nuca antes del peinado.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "Suma la barba al viaje: recorte o delineado que sigue las líneas del mullet, con toalla caliente al final.",
+          "book": true
+        },
+        {
+          "title": "Color Transformation",
+          "meta": "{{price:color-transformation}} · {{minutes:color-transformation}}",
+          "body": "El platinado es una cita de decoloración y matizado que ocupa casi todo un día. Desde Roswell, esa duración es lo que hace que el camino se sienta proporcionado.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / PREGUNTAS",
+      "heading": "Logística del mullet desde Roswell.",
+      "items": [
+        {
+          "q": "¿Puedo hacerme el corte y el color platinado en el mismo viaje?",
+          "a": "Mándame un mensaje antes de agendar. La Color Transformation (transformación de color) dura {{minutes:color-transformation}} por sí sola, así que sumar un corte necesita el hueco correcto, y prefiero planearlo contigo primero."
+        },
+        {
+          "q": "¿Cómo evito que la cola se vea descuidada entre visitas?",
+          "a": "Pídeme el largo y la forma antes de irte, luego mantenla limpia y déjala en paz. Si empieza a verse accidental, esa es tu señal para agendar."
+        },
+        {
+          "q": "¿De qué mullet traigo foto?",
+          "a": "Del que te guste, y la <a href=\"/es/estilos/mullet-moderno/\">página del mullet moderno</a> tiene dos de mi silla, uno platinado y uno chino, para comparar."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "SOLO CON CITA",
+      "heading": "Agenda el mullet.<br>Deja que atrás crezca en el camino.",
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
+    }
+  ]
+}

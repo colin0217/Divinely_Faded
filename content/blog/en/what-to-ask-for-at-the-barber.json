@@ -1,0 +1,244 @@
+{
+  "id": "post-what-to-ask-for-at-the-barber",
+  "locale": "en",
+  "slug": "/blog/what-to-ask-for-at-the-barber/",
+  "date": "2026-11-19",
+  "plan_rank": 39,
+  "title": "What to Ask for at the Barber: Words That Get You the Cut",
+  "eyebrow": "GUIDE",
+  "hero": "pexels-7697640-barber-touch-up-client",
+  "hero_alt": "A barber checking a client's hair with his hand while the client looks on",
+  "image_plan": "pexels: barber consultation",
+  "card_text": "Sides, fade height, top length, neckline and a photo. The words that turn the cut in your head into the one you leave with.",
+  "lede": [
+    "To get the haircut you want, tell your barber five things: how short the sides go, how high the fade or taper starts, how long the top stays, how the neckline is finished, and what happens to the beard. Then show a photo. Those answers and a picture cover almost every cut, and they keep both of us from guessing.",
+    "Below is what each term means, a quick guide to clipper guard numbers, and the style names on this site so you can point at the one you want."
+  ],
+  "seo": {
+    "title": "What to Ask for at the Barber | Carlsbad, NM",
+    "description": "What to ask for at the barber: sides, fade height, top length, neckline and a photo. A plain-English guide from Divinely Faded in Carlsbad, NM.",
+    "primary": "what to ask for at the barber",
+    "secondary": [
+      "how to ask for a haircut",
+      "what to tell your barber"
+    ]
+  },
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Blog",
+      "/blog/"
+    ],
+    [
+      "What to Ask For",
+      "/blog/what-to-ask-for-at-the-barber/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / FIVE DECISIONS",
+      "heading": "Say these out loud.",
+      "lead": "In this order.",
+      "subsections": [
+        {
+          "heading": "The sides",
+          "paragraphs": [
+            "Fade or taper? A fade takes the sides down short and blends up. A taper only shortens the edges around the ears and at the nape. Then say how short the bottom goes: bare skin, or a little shadow."
+          ]
+        },
+        {
+          "heading": "How high",
+          "paragraphs": [
+            "A low fade starts just above the ear, a mid fade around the temple, a high fade near the top of the head. The higher it starts, the more skin shows."
+          ]
+        },
+        {
+          "heading": "The top",
+          "paragraphs": [
+            "Say how much to leave, in inches or by holding your fingers apart, and how you wear it: forward, to the side, slicked back or up. Mention texture if you want it choppy instead of one length."
+          ]
+        },
+        {
+          "heading": "The neckline",
+          "paragraphs": [
+            "Tapered fades the hair out naturally at the back of the neck. Blocked is a straight line across. Rounded softens the corners of a block."
+          ]
+        },
+        {
+          "heading": "The beard",
+          "paragraphs": [
+            "Leaving it, trimming it, lining it up or taking it off. On my menu, beard work comes with the Signature Cut, so it helps to know before you book."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "eyebrow": "02 / GUARD NUMBERS",
+      "heading": "What the numbers mean.",
+      "lead": "Standard clipper guards, by length.",
+      "columns": [
+        "Guard",
+        "Length left",
+        "Looks like"
+      ],
+      "rows": [
+        [
+          "No guard",
+          "About 1/16 inch",
+          "Scalp clearly shows"
+        ],
+        [
+          "1",
+          "1/8 inch",
+          "Very short, scalp shows through"
+        ],
+        [
+          "2",
+          "1/4 inch",
+          "Short, a dark shadow of hair"
+        ],
+        [
+          "3",
+          "3/8 inch",
+          "Short but full coverage"
+        ],
+        [
+          "4",
+          "1/2 inch",
+          "Longer buzz, no scalp showing"
+        ]
+      ],
+      "paragraphs": [
+        "You don't need to memorize these. If you know the number your last barber used, say it. If not, a photo tells me the same thing."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / THE PHOTO",
+      "heading": "Bring a picture.",
+      "lead": "It settles what words can't.",
+      "paragraphs": [
+        "A photo of the cut you want beats any description. Look for one on hair like yours: straight, wavy, curly or coarse hair all wear the same cut differently, so a match on texture tells you more than a match on the celebrity.",
+        "Front, side and back views are ideal. If you only have one, a side view shows the fade height and the top length at once.",
+        "A photo of what you don't want helps too. If your last cut went too high or too short, show it and say so."
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "04 / NAME THE STYLE",
+      "heading": "Point at one.",
+      "lead": "Every style page on this site, in a line.",
+      "items": [
+        {
+          "title": "Low taper fade",
+          "body": "Edges taken down low around the ears and nape, length kept on the sides.",
+          "href": "page:styles-low-taper-fade"
+        },
+        {
+          "title": "Skin fade",
+          "body": "Sides blended all the way down to bare skin.",
+          "href": "page:styles-skin-fade"
+        },
+        {
+          "title": "Burst fade",
+          "body": "A fade that drops to skin in an arc around the ear, keeping length at the back.",
+          "href": "page:styles-burst-fade"
+        },
+        {
+          "title": "Buzz cut",
+          "body": "One short length all over, or close to it.",
+          "href": "page:styles-buzz-cut"
+        },
+        {
+          "title": "Textured crop",
+          "body": "A short, choppy top pushed forward over short sides.",
+          "href": "page:styles-textured-crop"
+        },
+        {
+          "title": "Textured fringe",
+          "body": "Longer, piecey hair brought forward over the forehead.",
+          "href": "page:styles-textured-fringe"
+        },
+        {
+          "title": "Curly top fade",
+          "body": "Natural curls on top over faded sides.",
+          "href": "page:styles-curly-top-fade"
+        },
+        {
+          "title": "Hard part",
+          "body": "A part line shaved in where your hair naturally divides.",
+          "href": "page:styles-hard-part"
+        },
+        {
+          "title": "Slick back",
+          "body": "A longer top combed straight back over shorter sides.",
+          "href": "page:styles-slick-back"
+        },
+        {
+          "title": "Modern mullet",
+          "body": "Faded sides with real length kept at the back.",
+          "href": "page:styles-modern-mullet"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "05 / ON BOOKSY",
+      "heading": "Book the right service.",
+      "lead": "The beard decides it.",
+      "paragraphs": [
+        "If the beard isn't involved, the Essential Haircut ({{price:essential-haircut}}, {{minutes:essential-haircut}}) covers the cut and a straight razor cleanup at the neck. If it is, the Signature Cut ({{price:signature-cut}}, {{minutes:signature-cut}}) has the time built in for a trim or line-up and a hot towel.",
+        "Not sure what to call the cut you want? Text the photo to {{phone}} before your appointment and ask."
+      ],
+      "link": {
+        "label": "SEE THE HAIRCUTS",
+        "href": "page:services-haircuts"
+      }
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / QUESTIONS",
+      "heading": "Asking questions.",
+      "items": [
+        {
+          "q": "How do I ask for a haircut?",
+          "a": "Say how short the sides go, how high the fade starts, how long the top stays, how the neckline is finished, and what happens to the beard. Then show a photo."
+        },
+        {
+          "q": "What should I tell my barber if I don't know haircut names?",
+          "a": "Show a picture. A photo of the cut on hair like yours does the explaining for you."
+        },
+        {
+          "q": "What's the difference between a fade and a taper?",
+          "a": "A fade takes the sides down short and blends up. A taper only shortens the edges around the ears and at the neckline."
+        },
+        {
+          "q": "What does a 2 guard mean?",
+          "a": "A 2 guard leaves about a quarter inch of hair. Lower numbers leave less, higher numbers more."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "SAY IT CLEARLY",
+      "heading": "Your words.<br>Your cut.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "styles",
+    "services-haircuts"
+  ],
+  "tim_questions": [
+    "Do you work in guard numbers with clients, and are the standard lengths in the table right for your clippers?",
+    "Check the one-line style definitions match how you cut each style on its page (especially burst fade and modern mullet)."
+  ]
+}

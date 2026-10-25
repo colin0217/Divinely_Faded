@@ -1,0 +1,120 @@
+{
+  "id": "roswell-services-color",
+  "locale": "es",
+  "pageType": "cell",
+  "city": "roswell",
+  "base": "services-color",
+  "slug": "/es/roswell/color-y-permanente/",
+  "alt": "/roswell/color-and-perm/",
+  "nav_label": "Color y permanente · Roswell",
+  "card_text": "Color y permanente planeados desde Roswell: las citas más largas de mi menú, y cómo armar el día alrededor de la 285.",
+  "breadcrumb": [
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Roswell",
+      "/es/roswell/"
+    ],
+    [
+      "Color y permanente",
+      "/es/roswell/color-y-permanente/"
+    ]
+  ],
+  "seo": {
+    "title": "Tinte y permanente para Roswell, NM | Divinely Faded",
+    "description": "Tinte y permanente para hombre desde Roswell, en Carlsbad, a unos 92 minutos por la US 285. Un día entero para el color, medio día para la permanente.",
+    "primary": "tinte de pelo para hombre roswell nm",
+    "secondary": [
+      "permanente para hombre roswell nm"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "ROSWELL / COLOR Y PERMANENTE",
+      "h1": "Color y permanente, desde Roswell.",
+      "paragraphs": [
+        "El color y la permanente son las dos cosas más largas que hago, y las hago en Carlsbad, a {{city:roswell.drive_mi}} millas al sur de Roswell por la {{city:roswell.route}}. El camino toma unos {{city:roswell.drive_min}} minutos (rutas de OpenStreetMap), y una Color Transformation (transformación de color) ocupa {{minutes:color-transformation}} en Booksy, así que esta es la cita alrededor de la cual armas un día entero.",
+        "La permanente (en Booksy aparece como Perm) es más corta, {{minutes:perm}}, y cabe en el mismo viaje con tiempo de sobra."
+      ],
+      "link": {
+        "label": "AGENDA COLOR O PERMANENTE",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "01 / EL MENÚ",
+      "heading": "Tono o forma.",
+      "lead": "Dos citas, dos duraciones muy distintas.",
+      "items": [
+        {
+          "title": "Color Transformation",
+          "meta": "{{price:color-transformation}} · {{minutes:color-transformation}}",
+          "body": "Decoloración y matizado para llegar al tono que buscas. El horario más largo de mi menú; deja libre el resto del día.",
+          "book": true
+        },
+        {
+          "title": "Perm",
+          "meta": "{{price:perm}} · {{minutes:perm}}",
+          "body": "Una permanente a tu medida para volumen, textura y movimiento. Lo bastante larga para justificar el viaje, lo bastante corta para dejarte la tarde.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / EL DÍA",
+      "heading": "Ármalo alrededor de la silla.",
+      "paragraphs": [
+        "Digamos que agendas el color para la mañana. Sales temprano de Roswell, pasas Artesia a la mitad del camino, te sientas {{minutes:color-transformation}} y regresas a la 285 por la tarde. No hay versión de esto que quepa entre otros mandados, así que ni lo intentes. Trae una foto del tono, come antes de venir y trae el teléfono cargado para la sesión.",
+        "La permanente lo voltea: {{minutes:perm}} en la silla dejan tiempo para hacer algo más en Carlsbad antes del regreso, o para irte directo y llegar antes de que anochezca."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / ANTES DE AGENDAR",
+      "heading": "Manda la foto por mensaje.",
+      "paragraphs": [
+        "Las citas más largas son en las que menos quiero adivinar. Manda una foto del color o del chino que buscas al {{phone}} antes de agendar, y te digo qué servicio te lleva ahí. Pagas después del servicio, y como estos horarios ocupan un buen pedazo de mi día, cancela con tiempo en Booksy si cambian tus planes; una cancelación de último momento o no llegar a tu cita puede tener un cargo.",
+        "El color es solo para el pelo de tu cabeza. No tiño barbas."
+      ],
+      "photos": []
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / PREGUNTAS",
+      "heading": "Color y permanente desde Roswell.",
+      "items": [
+        {
+          "q": "¿Cuánto dura todo el día para una Color Transformation desde Roswell?",
+          "a": "Unos {{city:roswell.drive_min}} minutos de ida y otros de vuelta, más {{minutes:color-transformation}} en la silla. Cuenta con el día completo."
+        },
+        {
+          "q": "¿Cuánto cuesta la permanente y cuánto dura?",
+          "a": "{{price:perm}} y {{minutes:perm}} en Booksy."
+        },
+        {
+          "q": "¿La Color Transformation incluye el matizado?",
+          "a": "Sí. La decoloración y el matizado son parte del servicio de {{price:color-transformation}}."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "COLOR Y TEXTURA",
+      "heading": "Tono nuevo.<br>Camino largo a casa.",
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
+    }
+  ]
+}

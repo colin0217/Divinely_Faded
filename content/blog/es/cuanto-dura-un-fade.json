@@ -7,8 +7,8 @@
   "plan_rank": 20,
   "title": "¿Cuánto dura un fade? (Y cómo mantenerlo nítido más tiempo)",
   "eyebrow": "CUIDADO",
-  "hero": "cut-back-taper",
-  "hero_alt": "Vista de atrás de un taper que se desvanece hasta la piel en la nuca, bajo una parte de arriba corta y texturizada",
+  "hero": "pexels-12074386-fresh-fade-rear-view",
+  "hero_alt": "Parte de atrás de la cabeza con un desvanecido (fade) recién hecho, en la barbería",
   "image_plan": null,
   "card_text": "Por qué lo de abajo de un desvanecido se borra primero, qué hace que el tuyo aguante, qué no tocar en casa y qué solo arregla otro corte.",
   "lede": [
@@ -22,9 +22,18 @@
     "secondary": []
   },
   "breadcrumb": [
-    ["Inicio", "/es/"],
-    ["Blog", "/es/blog/"],
-    ["Cuánto dura un fade", "/es/blog/cuanto-dura-un-fade/"]
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Blog",
+      "/es/blog/"
+    ],
+    [
+      "Cuánto dura un fade",
+      "/es/blog/cuanto-dura-un-fade/"
+    ]
   ],
   "blocks": [
     {

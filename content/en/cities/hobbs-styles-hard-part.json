@@ -1,0 +1,125 @@
+{
+  "id": "hobbs-styles-hard-part",
+  "locale": "en",
+  "pageType": "cell",
+  "city": "hobbs",
+  "base": "styles-hard-part",
+  "slug": "/hobbs/hard-part/",
+  "alt": "/es/hobbs/corte-con-raya/",
+  "nav_label": "Hard part · Hobbs",
+  "card_text": "A hard part from Hobbs: the line fills in fast, so time the 70-mile trip to the date that matters.",
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Hobbs",
+      "/hobbs/"
+    ],
+    [
+      "Hard Part",
+      "/hobbs/hard-part/"
+    ]
+  ],
+  "seo": {
+    "title": "Hard Part Haircut for Hobbs, NM | Divinely Faded, Carlsbad",
+    "description": "Hard part haircuts for Hobbs, shaved in at my Carlsbad shop about 80 minutes west. When to time the drive so the line is sharp for the event.",
+    "primary": "hard part haircut hobbs nm",
+    "secondary": [
+      "hard part fade hobbs",
+      "haircut hobbs nm"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "HOBBS / HARD PART",
+      "h1": "Hard part, from Hobbs.",
+      "paragraphs": [
+        "A hard part is a part line shaved into the hair so it never needs combing in. I cut it in Carlsbad, at {{address}}; for anyone leaving Hobbs that means {{city:hobbs.route}} heading west for close to {{city:hobbs.drive_min}} minutes.",
+        "The line fills in faster than anything else on the head, so this is a cut you time rather than keep on a routine."
+      ],
+      "link": {
+        "label": "BOOK A HARD PART",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / TIMING",
+      "heading": "Cut it as close to the date as you can.",
+      "paragraphs": [
+        "A shaved line has no hair to hide regrowth, so it blurs before the fade around it. If you're covering {{city:hobbs.drive_mi}} miles for a wedding, a graduation or photos, book it in the last day or two before, not the week before. At about {{city:hobbs.drive_min}} minutes each way (OpenStreetMap routing), a Saturday morning slot has you back in Hobbs by early afternoon with the line at its sharpest.",
+        "No event? Let the line soften into the cut and decide next visit whether to shave it again."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / PLACEMENT",
+      "heading": "Send me the side before you leave.",
+      "paragraphs": [
+        "The line should follow the side your hair already falls toward, or you'll fight it every morning. Text a photo of your hair after a shower to {{phone}} before you set out and I'll plan the placement before you arrive."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "03 / BOOK IT AS",
+      "heading": "The cut, and the line on top of it.",
+      "lead": "Prices and minutes are Booksy's.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "The fade and top shaped for your head, a razor-clean neckline, and the part shaved where we agree it belongs.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "Adds the beard, trimmed or lined up, and a hot towel, so the whole face is ready for the camera.",
+          "book": true
+        },
+        {
+          "title": "Hair design add-on",
+          "meta": "{{addon:hair-design}}",
+          "body": "A plain part line usually isn't a design; a curved one tied into other line work may be. Text me a reference."
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / QUESTIONS",
+      "heading": "Hard part, from the Hobbs side.",
+      "items": [
+        {
+          "q": "How far ahead of an event should I drive over for a hard part?",
+          "a": "As late as you can manage. A day or two before is ideal, since the shaved line is the first thing to grow in."
+        },
+        {
+          "q": "Can I get the hard part on a fade?",
+          "a": "Yes, and the contrast helps; the main page shows one shaved through a high skin fade just above the ear."
+        },
+        {
+          "q": "Where can I read more about placing the line?",
+          "a": "The <a href=\"/styles/hard-part/\">hard part page</a> covers which side, how high, and what happens as it grows out."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "APPOINTMENTS ONLY",
+      "heading": "Book the line.<br>Time the drive.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ]
+}

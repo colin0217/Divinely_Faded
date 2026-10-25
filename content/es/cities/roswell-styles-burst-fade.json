@@ -1,0 +1,119 @@
+{
+  "id": "roswell-styles-burst-fade",
+  "locale": "es",
+  "pageType": "cell",
+  "city": "roswell",
+  "base": "styles-burst-fade",
+  "slug": "/es/roswell/burst-fade/",
+  "alt": "/roswell/burst-fade/",
+  "nav_label": "Burst fade · Roswell",
+  "card_text": "Un burst fade para Roswell: el arco detrás de la oreja, el camino por la 285 y cuándo volver por él.",
+  "breadcrumb": [
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Roswell",
+      "/es/roswell/"
+    ],
+    [
+      "Burst Fade",
+      "/es/roswell/burst-fade/"
+    ]
+  ],
+  "seo": {
+    "title": "Burst fade para Roswell, NM | Divinely Faded, Carlsbad",
+    "description": "Burst fades para Roswell, en Carlsbad, a hora y media al sur por la US 285. Cómo crece el arco, qué agendar y cómo planear el viaje.",
+    "primary": "burst fade roswell nm",
+    "secondary": [
+      "corte burst fade roswell nm"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "ROSWELL / BURST FADE",
+      "h1": "Burst fade, desde Roswell.",
+      "paragraphs": [
+        "El burst es la media luna de piel que se curva detrás de la oreja y vuelve a abrirse hacia el pelo, con la nuca más llena de lo que la dejaría un desvanecido (fade) normal. Mi silla está en Carlsbad, en {{address}}, a {{city:roswell.drive_mi}} millas de Roswell por la {{city:roswell.route}}, así que pasas por Artesia en el camino y tardas unos {{city:roswell.drive_min}} minutos en llegar (rutas de OpenStreetMap).",
+        "Esa distancia cambia cómo te hablaría de este corte, así que esta página trata del arco, del camino y de la cita."
+      ],
+      "link": {
+        "label": "AGENDA UN BURST FADE",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / EL ARCO Y EL CAMINO",
+      "heading": "La curva es la parte que te necesita de vuelta.",
+      "paragraphs": [
+        "Todo en un burst fade crece a la misma velocidad, pero la piel detrás de la oreja es lo que va más al ras, así que es lo primero que deja de verse intencional.",
+        "Si prefieres no hacer el viaje de {{city:roswell.drive_min}} minutos al sur cada vez que el arco se ve borroso, dímelo en la silla. Puedo poner el burst un poco más alto y dejar la transición un poco más larga, para que crezca con gracia en lugar de verse como si esperara un retoque."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / EL VERANO DETRÁS DE LA OREJA",
+      "heading": "Donde se junta el sudor.",
+      "paragraphs": [
+        "Roswell tiene alrededor de {{city:roswell.days_100f}} días al año a 100°F o más, con una máxima típica de julio de {{city:roswell.july_high_f}} (Open-Meteo, 2023–25). La zona detrás y arriba de la oreja es donde el pelo guarda el calor bajo una gorra o un casco, y un burst lleva esa zona hasta la piel mientras conserva tu largo arriba y atrás."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "03 / CÓMO AGENDARLO",
+      "heading": "Lo que va en Booksy.",
+      "lead": "El burst se corta dentro de cualquiera de los dos servicios de corte.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "El burst, la parte de arriba y la de atrás, con el contorno de la nuca limpio con navaja antes de peinarlo.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "Suma trabajo de barba, toalla caliente y detalles con navaja. Si la barba es parte del look, este es el indicado.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / PREGUNTAS",
+      "heading": "De Roswell a Carlsbad por un burst.",
+      "items": [
+        {
+          "q": "¿Vale la pena manejar {{city:roswell.drive_mi}} millas por un burst fade?",
+          "a": "Eso lo decides tú, no yo. Lo que sí te prometo es un arco limpio y una respuesta honesta sobre cuánto va a durar, para que decidas cada cuánto hacer el viaje."
+        },
+        {
+          "q": "¿Puedo combinar el burst con un mullet en la misma visita?",
+          "a": "Sí. Un burst fade mullet es un solo corte, agendado como Essential o como Signature. Trae una foto y dime qué tan largo quieres atrás."
+        },
+        {
+          "q": "¿Cómo describo el desvanecido que quiero si nunca me he hecho un burst?",
+          "a": "Di burst fade, y luego dime si quieres la parte de arriba china o texturizada y cuánto conservar en la nuca. La <a href=\"/es/estilos/burst-fade/\">página del burst fade</a> tiene la vista lateral para señalar."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "SOLO CON CITA",
+      "heading": "Agenda el burst.<br>Y toma la 285 al sur.",
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
+    }
+  ]
+}

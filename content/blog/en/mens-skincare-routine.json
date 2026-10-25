@@ -1,0 +1,163 @@
+{
+  "id": "post-mens-skincare-routine",
+  "locale": "en",
+  "slug": "/blog/mens-skincare-routine/",
+  "date": "2027-02-02",
+  "plan_rank": 92,
+  "title": "A Simple Skincare Routine for Men",
+  "eyebrow": "GROOMING",
+  "hero": "pexels-7608046-washing-face-sink",
+  "hero_alt": "A man in a bathrobe washing his face at a bathroom sink",
+  "image_plan": "pexels: men skincare sink",
+  "card_text": "Wash, moisturize, sunscreen. A three-step routine for a dry, sunny climate, with a facial as the occasional reset.",
+  "lede": [
+    "A simple men's skincare routine has three steps: wash your face with a gentle cleanser, moisturize, and wear sunscreen during the day. In a dry, sunny place like Carlsbad, the last two matter more than most people think. That's the whole daily routine. Everything else, from exfoliating to serums, is optional, and a facial now and then works as a reset rather than a daily chore.",
+    "Here's each step, why a dry climate changes things, and where a facial fits in. This is general grooming information in product types only. For any skin condition, a doctor or dermatologist is the person to ask."
+  ],
+  "seo": {
+    "title": "A Simple Skincare Routine for Men | Carlsbad, NM",
+    "description": "A simple men's skincare routine for a dry climate like Carlsbad, NM: wash, moisturize, sunscreen, and a facial now and then. Product types only.",
+    "primary": "men's skincare routine",
+    "secondary": []
+  },
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Blog",
+      "/blog/"
+    ],
+    [
+      "Men's Skincare Routine",
+      "/blog/mens-skincare-routine/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / WASH",
+      "heading": "A gentle cleanser.",
+      "lead": "Morning, night, or both.",
+      "paragraphs": [
+        "Washing removes oil, sweat, dust and yesterday's sunscreen. A gentle cleanser made for faces is the usual choice. Bar soap and body wash can be harsh on facial skin and leave it feeling tight.",
+        "Lukewarm water is easier on skin than hot. Pat dry with a towel instead of scrubbing.",
+        "Shaving days count too. Washing first clears away oil and dirt, so the razor glides and the skin is ready for lather.",
+        "If you work outside or around dust all day, the evening wash is the one that matters most."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / MOISTURIZE",
+      "heading": "Even if your skin is oily.",
+      "lead": "Dry air pulls water out of skin.",
+      "paragraphs": [
+        "Our air is dry for much of the year, and dry air draws moisture out of the skin. A basic moisturizer after washing helps hold onto it. Putting it on while the skin is still slightly damp is a common tip.",
+        "Oily skin still does well with a lighter, oil-free moisturizer. Skipping it can leave skin tight in some spots and flaky in others.",
+        "Notice how your skin feels by mid-afternoon. Tight and dull means it wants more moisture; shiny and slick means a lighter moisturizer will do.",
+        "If you shave, the moisturizer goes on after the shave, once the skin has been rinsed and patted dry."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / SUNSCREEN",
+      "heading": "The step most men skip.",
+      "lead": "The sun doesn't take winter off here.",
+      "paragraphs": [
+        "Southeast New Mexico gets a lot of sun. Daily sunscreen on the face is a standard part of skincare advice, and it applies year round, not only in summer.",
+        "Some moisturizers include sunscreen, which turns two morning steps into one.",
+        "Sunscreen goes on last in the morning, after moisturizer. On long days outside, sweat and wiping your face take it off, so it needs another layer. A hat with a brim helps, but it doesn't replace it.",
+        "The ears and the back of the neck get missed often, and a fresh short haircut leaves more of that skin exposed than you might think."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / OPTIONAL EXTRAS",
+      "heading": "Nice, not necessary.",
+      "lead": "Add these if you want to.",
+      "paragraphs": [
+        "Once the basics are a habit, some people add:"
+      ],
+      "bullets": [
+        "Exfoliating once in a while to clear dead skin. Overdoing it irritates.",
+        "A lip balm, since lips dry out first in dry air.",
+        "Eye creams or serums, if you're curious. They're extras, not requirements."
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "05 / THE RESET",
+      "heading": "Facials in the chair.",
+      "lead": "An occasional deep clean.",
+      "items": [
+        {
+          "title": "Express Facial",
+          "meta": "{{price:express-facial}} · {{minutes:express-facial}}",
+          "body": "The shorter reset. Massage and warm steam open things up, then a cleanse, a light exfoliation and moisturizer to close.",
+          "href": "page:services-facials",
+          "link_label": "SEE THE FACIALS",
+          "book": true
+        },
+        {
+          "title": "Deluxe Facial",
+          "meta": "{{price:deluxe-facial}} · {{minutes:deluxe-facial}}",
+          "body": "Steam, massage, exfoliation and moisturizer, with advanced skin treatments and an anti-aging serum added on top.",
+          "book": true
+        },
+        {
+          "title": "Luxury Grooming Experience",
+          "meta": "{{price:luxury-grooming}} · {{minutes:luxury-grooming}}",
+          "body": "Facial steam and dual hot towels come with the haircut, the beard sculpt, and a wash and scalp massage.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / QUESTIONS",
+      "heading": "Skincare, answered.",
+      "items": [
+        {
+          "q": "What's a good skincare routine for men?",
+          "a": "Wash with a gentle cleanser, moisturize, and wear sunscreen during the day. Keep it that simple."
+        },
+        {
+          "q": "Do men need moisturizer?",
+          "a": "In a dry climate especially. Even oily skin does well with a light one."
+        },
+        {
+          "q": "Can I use body wash on my face?",
+          "a": "It works in a pinch, but body soaps are often harsh on facial skin. A face cleanser is gentler."
+        },
+        {
+          "q": "How often should men get a facial?",
+          "a": "There's no set rule. A facial works well as an occasional reset or before a big day.",
+          "href": "page:post-what-happens-during-a-mens-facial",
+          "link_label": "WHAT HAPPENS IN A FACIAL"
+        },
+        {
+          "q": "Can a facial fix acne or a skin condition?",
+          "a": "No. Facials here are grooming, not treatment. See a doctor or dermatologist for skin conditions."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "SKIN FIRST",
+      "heading": "Wash. Moisturize.<br>Cover up.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "services-facials",
+    "services-beard-shaves"
+  ],
+  "tim_questions": [
+    "The routine (cleanser, moisturizer, sunscreen, optional extras) is general information in product types only, not your recommendation. Want to add or change anything?",
+    "What are the 'advanced skin treatments' in the Deluxe Facial? The post repeats the Booksy wording only."
+  ]
+}

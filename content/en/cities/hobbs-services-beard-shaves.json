@@ -1,0 +1,122 @@
+{
+  "id": "hobbs-services-beard-shaves",
+  "locale": "en",
+  "pageType": "cell",
+  "city": "hobbs",
+  "base": "services-beard-shaves",
+  "slug": "/hobbs/beard-and-shaves/",
+  "alt": "/es/hobbs/barba-y-afeitado/",
+  "nav_label": "Beard & shaves · Hobbs",
+  "card_text": "Beard work and shaves from Hobbs: hot towels, the razor, and making one trip cover the head and the beard.",
+  "breadcrumb": [
+    ["Home", "/"],
+    ["Hobbs", "/hobbs/"],
+    ["Beard & Shaves", "/hobbs/beard-and-shaves/"]
+  ],
+  "seo": {
+    "title": "Beard Trim & Shave for Hobbs, NM | Divinely Faded",
+    "description": "Beard trims, straight razor shaves and head and beard shaves for Hobbs clients, done in Carlsbad west on US 62/180. Hot towels every time. Book on Booksy.",
+    "primary": "beard trim hobbs nm",
+    "secondary": [
+      "straight razor shave hobbs nm",
+      "head shave hobbs nm"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "HOBBS / BEARD & SHAVES",
+      "h1": "Beard work and shaves, from Hobbs.",
+      "paragraphs": [
+        "The hot towels and the straight razor live in Carlsbad, {{city:hobbs.drive_mi}} miles down {{city:hobbs.route}} from Hobbs. Budget about {{city:hobbs.drive_min}} minutes each way (OpenStreetMap routing) and book before you set out, since I take appointments only.",
+        "Three services cover beards here: the beard with a haircut, the beard shaved on its own, and the head and beard shaved together."
+      ],
+      "link": {
+        "label": "BOOK BEARD WORK",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / THE AIR",
+      "heading": "Hobbs air is a little kinder to the skin.",
+      "paragraphs": [
+        "Open-Meteo's 2023–25 archive gives Hobbs an average humidity of {{city:hobbs.humidity_pct}}, the least dry of the cities I write about, against {{city:carlsbad.humidity_pct}} in Carlsbad. The average July high in Hobbs is {{city:hobbs.july_high_f}}, where Carlsbad's is {{city:carlsbad.july_high_f}}.",
+        "That still adds up to a dry, hot stretch of year. If the skin under your beard flakes or your neck gets irritated after you shave at home, the hot towel before the razor and the soothing aftershave after it are there for exactly that."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "02 / BOOK IT AS",
+      "heading": "Three beard bookings.",
+      "lead": "Prices and times are Booksy's.",
+      "items": [
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "Haircut with your beard trimmed or lined up, finished with a hot towel and razor detailing.",
+          "book": true
+        },
+        {
+          "title": "Straight Razor Beard Shave",
+          "meta": "{{price:straight-razor-beard-shave}} · {{minutes:straight-razor-beard-shave}}",
+          "body": "Hot towels, shaving cream, the straight razor and a soothing aftershave. A traditional wet shave, nothing on the head.",
+          "book": true
+        },
+        {
+          "title": "Head & Beard Shave",
+          "meta": "{{price:head-beard-shave}} · {{minutes:head-beard-shave}}",
+          "body": "Head and beard shaved together with hot towels and an aftershave balm. The longest of the three, and the one that gets the most out of a Hobbs trip.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / ONE TRIP",
+      "heading": "Shave everything while you're here.",
+      "paragraphs": [
+        "If you shave your head and your beard, the Head & Beard Shave does both in one block of {{minutes:head-beard-shave}}. From Hobbs that uses the drive far better than coming over for one and doing the other at home.",
+        "Keeping the beard and the hair? The Luxury Grooming Experience adds a beard sculpt, steam and two hot towels to the haircut."
+      ],
+      "photos": []
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / QUESTIONS",
+      "heading": "Beard questions from Hobbs.",
+      "items": [
+        {
+          "q": "Can I book just a beard trim from Hobbs?",
+          "a": "On Booksy the beard trim or line-up comes with the Signature Cut. If you only want the beard shaved off, book the Straight Razor Beard Shave."
+        },
+        {
+          "q": "How long does the Head & Beard Shave take?",
+          "a": "Booksy sets aside {{minutes:head-beard-shave}} for it, hot towels included."
+        },
+        {
+          "q": "Do you dye beards?",
+          "a": "No. Beard dyeing isn't on my menu."
+        },
+        {
+          "q": "Where is the shop?",
+          "a": "{{address}}. From Hobbs, head west on {{city:hobbs.route}}."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "STRAIGHT RAZOR",
+      "heading": "Hot towel on.<br>Then 62/180 home.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ]
+}

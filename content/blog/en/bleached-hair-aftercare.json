@@ -1,0 +1,165 @@
+{
+  "id": "post-bleached-hair-aftercare",
+  "locale": "en",
+  "slug": "/blog/bleached-hair-aftercare/",
+  "date": "2026-12-23",
+  "plan_rank": 63,
+  "title": "Bleached Hair Aftercare: Keeping Platinum Bright",
+  "eyebrow": "COLOR & TEXTURE",
+  "hero": "pexels-3872899-towels-conditioner-bottle",
+  "hero_alt": "Folded white towels and a bottle of hair product on a bathroom ledge",
+  "image_plan": null,
+  "card_text": "Why platinum turns yellow, and the general care that slows it down: gentler washing, toning shampoo, heat and sun.",
+  "lede": [
+    "Bleached hair stays bright longest when you wash it less often and more gently, use a purple toning shampoo now and then to cancel yellow, and protect it from heat, sun and pool water. Platinum doesn't fail all at once. It drifts warm and dry little by little, and most of the usual aftercare is about slowing that drift down.",
+    "Here's why bleached hair changes after you leave the chair, the general care habits people use to keep it bright, and when it's time to come back."
+  ],
+  "seo": {
+    "title": "Bleached Hair Aftercare: Keep Platinum Bright | Carlsbad, NM",
+    "description": "Bleached hair aftercare for men in Carlsbad, NM: why platinum turns yellow, toning shampoo, gentler washing, and sun and heat in a dry climate.",
+    "primary": "how to care for bleached hair",
+    "secondary": [
+      "how to tone blonde hair",
+      "purple shampoo for men",
+      "how to keep platinum hair"
+    ]
+  },
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Blog",
+      "/blog/"
+    ],
+    [
+      "Bleached Hair Aftercare",
+      "/blog/bleached-hair-aftercare/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / WHY IT CHANGES",
+      "heading": "Platinum drifts warm.",
+      "lead": "Two things are going on.",
+      "paragraphs": [
+        "Bleach takes pigment out of the hair, but it rarely takes every trace of warmth. Toner is what neutralizes the leftover yellow and gives you a clean shade like the one in the photo above. Toner sits in the hair rather than changing it for good, so it washes out bit by bit. As it fades, the warm undertone underneath starts to show again.",
+        "At the same time, bleached hair is more porous than it was before. It soaks up water quickly and loses moisture quickly, and it picks up whatever it touches, from minerals in water to chlorine in a pool. That's why platinum can go dull, dry or brassy even when the bleach job itself was clean."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / WASHING",
+      "heading": "Wash less, wash gently.",
+      "lead": "The common advice, and why.",
+      "subsections": [
+        {
+          "heading": "Space out the shampoo",
+          "paragraphs": [
+            "Every wash takes a little toner with it. Washing less often is the most common way people stretch a fresh tone. Rinsing with water between shampoos keeps the scalp feeling fresh without stripping the hair."
+          ]
+        },
+        {
+          "heading": "Pick a gentle shampoo",
+          "paragraphs": [
+            "Harsh, deep-cleaning shampoos strip more color and more moisture. A mild shampoo labeled for color-treated hair is the usual choice for bleached hair."
+          ]
+        },
+        {
+          "heading": "Condition every time",
+          "paragraphs": [
+            "Porous hair dries out fast. A conditioner after each wash, and a richer mask now and then, help the ends stay soft instead of straw-like."
+          ]
+        },
+        {
+          "heading": "Cooler water",
+          "paragraphs": [
+            "Very hot water opens the hair up and speeds up fading. Lukewarm or cool rinses are kinder to fresh color."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / TONING AT HOME",
+      "heading": "Purple shampoo, explained.",
+      "lead": "Color theory in a bottle.",
+      "paragraphs": [
+        "Purple sits opposite yellow on the color wheel, so a purple-pigmented shampoo cancels yellow tones and makes blonde look cooler and whiter. It's a maintenance tool, not a substitute for professional toning. It nudges the shade; it doesn't rebuild it.",
+        "It's easy to overdo. Leave it on too long or use it too often and very light hair can pick up a lilac or gray cast. Follow the directions on the bottle, and if your platinum starts looking purple, ease off.",
+        "If your blonde has gone orange rather than yellow, that's a bigger shift than purple shampoo is made to fix. Blue-toned products target orange, but a strong orange cast usually means the hair needs to be retoned or lifted further."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / HEAT, SUN, WATER",
+      "heading": "Carlsbad is hard on blonde.",
+      "lead": "Dry air and strong sun add up.",
+      "paragraphs": [
+        "Our dry climate pulls moisture out of hair that already struggles to hold it, and strong sun can fade toner and leave bleached ends feeling rough. A hat on long days outside is the simplest protection there is.",
+        "Hot tools add to it. If you blow-dry or use a flat iron, a heat protectant and a lower setting go a long way. Air-drying when you can is easier on bleached hair.",
+        "Pool chlorine is the classic platinum killer. Wetting your hair with clean water before you swim, and rinsing right after, keeps it from soaking up as much pool water."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "05 / COMING BACK",
+      "heading": "When home care isn't enough.",
+      "lead": "Roots and tone.",
+      "paragraphs": [
+        "Two things bring people back to the chair: dark roots growing in, and a tone that home care can't pull back to where it was. Both are handled as a Color Transformation, which covers bleaching and toning. It's {{price:color-transformation}}, and Booksy holds {{minutes:color-transformation}} for it.",
+        "The faded sides of a cut like this one grow out long before the blonde does. Those can be cleaned up with a regular haircut while the color holds. If you're unsure whether you need a full color appointment or just a cut, text me a photo and ask."
+      ],
+      "link": {
+        "label": "SEE COLOR SERVICES",
+        "href": "page:services-color"
+      }
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / QUESTIONS",
+      "heading": "Platinum care, answered.",
+      "items": [
+        {
+          "q": "Why is my bleached hair turning yellow?",
+          "a": "The toner that cancelled the yellow is washing out, and the warm undertone left after bleaching is showing through."
+        },
+        {
+          "q": "Does purple shampoo work on men's hair?",
+          "a": "It works the same on any blonde hair. It cancels yellow tones; it won't fix orange or regrow color."
+        },
+        {
+          "q": "Can I bleach my own roots at home?",
+          "a": "Overlapping bleach onto hair that's already light is where breakage tends to happen. Roots are safer done as part of a color appointment.",
+          "href": "page:post-is-bleaching-hair-bad",
+          "link_label": "IS BLEACHING HAIR BAD?"
+        },
+        {
+          "q": "Can I keep my fade sharp between color visits?",
+          "a": "Yes. Book a regular haircut for the sides. The Essential Haircut is {{price:essential-haircut}}."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "KEEP IT BRIGHT",
+      "heading": "Bright blonde.<br>Clean fade.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "services-color",
+    "styles-modern-mullet"
+  ],
+  "tim_questions": [
+    "The care tips (wash less, gentle color-safe shampoo, conditioner, purple shampoo, heat protectant, hats, pool rinse) are written as general advice, not your recommendation. Do you want to recommend anything specific, or disagree with any of it?",
+    "How soon after a Color Transformation should clients come back for roots or a retone? No interval given.",
+    "Was the platinum color in color-platinum-mullet-fade your work? The post only refers to 'the photo above'.",
+    "Can a haircut be booked between color visits without touching the blonde top? The post says the sides can be cleaned up with a regular haircut."
+  ]
+}

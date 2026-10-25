@@ -6,8 +6,8 @@
   "plan_rank": 14,
   "title": "Low Fade Haircut: The Everyday Fade",
   "eyebrow": "STYLES",
-  "hero": "cut-low-fade-line-up",
-  "hero_alt": "Low fade with a sharp line-up at the temple and a trimmed mustache",
+  "hero": "pexels-39559262-fade-trimmer-closeup",
+  "hero_alt": "Close-up of a trimmer working a fade in at the side of the head",
   "image_plan": null,
   "card_text": "Where a low fade starts, how it differs from a low taper and a skin fade, and how to ask for one in the chair.",
   "lede": [
@@ -23,9 +23,18 @@
     ]
   },
   "breadcrumb": [
-    ["Home", "/"],
-    ["Blog", "/blog/"],
-    ["Low Fade Haircut", "/blog/low-fade-haircut/"]
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Blog",
+      "/blog/"
+    ],
+    [
+      "Low Fade Haircut",
+      "/blog/low-fade-haircut/"
+    ]
   ],
   "blocks": [
     {

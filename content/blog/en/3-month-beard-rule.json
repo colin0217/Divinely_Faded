@@ -1,0 +1,148 @@
+{
+  "id": "post-3-month-beard-rule",
+  "locale": "en",
+  "slug": "/blog/3-month-beard-rule/",
+  "date": "2027-01-11",
+  "plan_rank": 76,
+  "title": "The 3-Month Beard Rule: Grow First, Shape Second",
+  "eyebrow": "BEARDS",
+  "hero": "pexels-36812513-full-beard-plaid",
+  "hero_alt": "Man with a long, full beard in a plaid shirt against a dark backdrop",
+  "image_plan": null,
+  "card_text": "Why a new beard should grow untouched for a while before the first real shaping, and what can stay clean meanwhile.",
+  "lede": [
+    "The 3-month beard rule is simple: let a new beard grow untouched for about three months before you start shaping it. Facial hair grows at different speeds in different spots, and trimming early tends to chase the slow patches instead of letting them fill in. Three months is a rule of thumb, not a law, but the idea behind it holds up. You can't shape what isn't there yet.",
+    "Here's why the rule exists, the stages most beards pass through, and what a barber can keep clean while you wait without touching the length."
+  ],
+  "seo": {
+    "title": "The 3-Month Beard Rule | Carlsbad, NM",
+    "description": "The 3-month beard rule, explained by a Carlsbad, NM barber: why to let a new beard grow before shaping it, and what can still be kept clean meanwhile.",
+    "primary": "3 month beard rule",
+    "secondary": []
+  },
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Blog",
+      "/blog/"
+    ],
+    [
+      "3-Month Beard Rule",
+      "/blog/3-month-beard-rule/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / THE RULE",
+      "heading": "Grow first, shape second.",
+      "lead": "Why waiting works.",
+      "paragraphs": [
+        "A beard doesn't come in as one even sheet. The chin and mustache often show up first, while the cheeks and the stretch along the jaw take longer. Trim in the first few weeks and you end up cutting the strong areas down to match the weak ones, so the whole thing stays short and looks patchy.",
+        "Waiting lets the slower spots catch up. Longer hair also lies over small gaps, so a beard that looked thin at one month can look full at three without anything changing in the skin underneath.",
+        "The number itself comes from beard-growing circles, not from science. Some beards are ready sooner and some need longer. What matters is giving the whole face enough time before you decide on a shape."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / THE STAGES",
+      "heading": "What the months look like.",
+      "lead": "Roughly. Every face runs on its own clock.",
+      "subsections": [
+        {
+          "heading": "The first weeks",
+          "paragraphs": [
+            "Stubble turns into short growth, and this is usually when the itch arrives. New hairs have blunt tips that poke at the skin as they lengthen. It's the stage where most people give up and reach for the razor."
+          ]
+        },
+        {
+          "heading": "The middle stretch",
+          "paragraphs": [
+            "The beard has length but no shape. Hairs grow in different directions, the cheek line creeps up toward the eyes, and the neck fills in. It looks scruffy, and that's normal."
+          ]
+        },
+        {
+          "heading": "Around the third month",
+          "paragraphs": [
+            "Most of the beard has filled in about as much as it's going to for now. There's enough length to see what shape your face can carry, which is the point where shaping finally has something to work with."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / WHILE YOU WAIT",
+      "heading": "Leave the length, tidy the rest.",
+      "lead": "Growing a beard isn't a reason to look unkempt.",
+      "paragraphs": [
+        "The rule is about beard length. It doesn't mean your haircut has to go too. A fresh cut with clean sides makes a half-grown beard look like a choice instead of a missed appointment.",
+        "If you're growing one, say so the moment you sit down. Tell me you're on the beard rule and I'll leave the length alone and only clean up what you ask for.",
+        "The Essential Haircut is {{price:essential-haircut}} for {{minutes:essential-haircut}}: a precision cut tailored to your style and head shape, a straight razor neck cleanup and a finished style, with the beard left as it is."
+      ],
+      "link": {
+        "label": "SEE HAIRCUTS",
+        "href": "page:services-haircuts"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / THE FIRST SHAPE",
+      "heading": "When it's ready.",
+      "lead": "The visit that sets your lines.",
+      "paragraphs": [
+        "Once the beard has filled in, the first shaping decides the lines you'll keep: where the cheek line sits, where the neckline falls under the jaw, and how the length tapers from the sides to the chin. Those choices are easier with a full beard to work from.",
+        "On my menu, a beard trim or line-up comes with the Signature Cut, {{price:signature-cut}} for {{minutes:signature-cut}}, together with the haircut, a hot towel finish and straight razor detailing. If you want the beard to get the most time, the Luxury Grooming Experience ({{price:luxury-grooming}}) includes a full beard sculpt.",
+        "The photo at the top shows the kind of shape a filled-in beard can carry: squared off, with clean edges, sitting under a high skin fade."
+      ],
+      "link": {
+        "label": "SEE BEARD SERVICES",
+        "href": "page:services-beard-shaves"
+      }
+    },
+    {
+      "type": "faq",
+      "eyebrow": "05 / QUESTIONS",
+      "heading": "Beard rule, answered.",
+      "items": [
+        {
+          "q": "What is the 3-month beard rule?",
+          "a": "Let a new beard grow without trimming for about three months, then shape it once the slower areas have filled in."
+        },
+        {
+          "q": "Can I clean my neck during the three months?",
+          "a": "That's up to you. The rule is about leaving the length alone, and many people keep the neck below the jaw tidy while they wait."
+        },
+        {
+          "q": "Why does a new beard itch?",
+          "a": "Fresh hairs have blunt tips that poke the skin as they grow, and it usually eases with length. If the skin is sore or irritated, ask a doctor."
+        },
+        {
+          "q": "Can I get a haircut without touching my beard?",
+          "a": "Yes. Book the Essential Haircut and tell me you're growing the beard. Your hair and neck get cleaned up and the beard keeps its length."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "THE BEARD RULE",
+      "heading": "Grow it in.<br>Shape it right.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "services-beard-shaves",
+    "services-haircuts"
+  ],
+  "tim_questions": [
+    "Do you agree with the 3-month rule as written (grow first, shape after about three months)? The post presents it as a general rule of thumb, not your advice.",
+    "The post says you'll leave a growing beard's length alone and clean only what the client asks for during an Essential Haircut. Confirm that's how you handle it.",
+    "Can a client book a beard-only shaping without a haircut? Booksy lists beard trims only inside the Signature Cut, so the post doesn't offer a standalone trim.",
+    "Is the beard in cut-high-skin-fade-full-beard your work?"
+  ]
+}

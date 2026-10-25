@@ -1,0 +1,118 @@
+{
+  "id": "roswell-styles-textured-crop",
+  "locale": "es",
+  "pageType": "cell",
+  "city": "roswell",
+  "base": "styles-textured-crop",
+  "slug": "/es/roswell/crop-texturizado/",
+  "alt": "/roswell/textured-crop/",
+  "nav_label": "Crop texturizado · Roswell",
+  "card_text": "Un crop texturizado para Roswell: mechones que aguantan en aire seco, un fleco que te avisa cuándo bajar.",
+  "breadcrumb": [
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Roswell",
+      "/es/roswell/"
+    ],
+    [
+      "Crop texturizado",
+      "/es/roswell/crop-texturizado/"
+    ]
+  ],
+  "seo": {
+    "title": "Crop texturizado para Roswell, NM | Divinely Faded",
+    "description": "Crop texturizado y French crop para Roswell, en Carlsbad al sur por la US 285. Por qué el aire seco le va, cómo el fleco marca tu regreso y la cita.",
+    "primary": "crop texturizado roswell nm",
+    "secondary": [
+      "corte french crop roswell nm"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "ROSWELL / CROP TEXTURIZADO",
+      "h1": "Crop texturizado, desde Roswell.",
+      "paragraphs": [
+        "La parte de arriba corta y cortada para que caiga en mechones separados, echada hacia adelante en un fleco corto, sobre lados con taper o desvanecido (fade). El crop texturizado es un corte que peinas con los dedos en lo que tarda en servirse el café. Lo corto en Carlsbad, en {{address}}, a {{city:roswell.drive_mi}} millas al sur de Roswell; el camino es la {{city:roswell.route}} pasando por Artesia, unos {{city:roswell.drive_min}} minutos (rutas de OpenStreetMap).",
+        "Lo que sigue trata del clima en el que lo vas a usar, del recordatorio integrado que te dice cuándo volver y de qué cita lo cubre."
+      ],
+      "link": {
+        "label": "AGENDA UN CROP TEXTURIZADO",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / AIRE SECO, MECHONES SEPARADOS",
+      "heading": "El clima hace la mitad del peinado.",
+      "paragraphs": [
+        "La humedad en Roswell promedia alrededor de {{city:roswell.humidity_pct}} (Open-Meteo, 2023–25). En lugares húmedos los mechones de un crop se pegan y se aplastan para la hora de la comida; en un aire así de seco tienden a quedarse separados como los corté, y por eso el crop es un corte de tan poco esfuerzo por aquí."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / EL RECORDATORIO INTEGRADO",
+      "heading": "Cuando el fleco llega a tus cejas, agenda.",
+      "paragraphs": [
+        "Un crop trae su propio reloj. El desvanecido de los lados se desdibuja primero, luego el fleco baja poco a poco hasta caer sobre tus cejas y la forma se perdió. Desde Roswell, no esperes a las cejas: en cuanto los lados se vean suaves, abre Booksy y fija el siguiente viaje de {{city:roswell.drive_min}} minutos, porque para cuando llegues el frente también va a estar listo para el corte."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "03 / CÓMO AGENDARLO",
+      "heading": "Un crop es un corte de precisión.",
+      "lead": "Di French crop si quieres el fleco recto y parejo en vez de desfilado.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "La parte de arriba cortada en mechones, el fleco definido, los lados con taper o desvanecido, el contorno de la nuca con navaja, y luego peinado hacia adelante para que veas cómo cae.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "El crop con tu barba recortada o con delineado (line-up) bajo toalla caliente. Sensato si prefieres no hacer un viaje aparte por la barba.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / PREGUNTAS",
+      "heading": "Preguntas sobre el crop desde Roswell.",
+      "items": [
+        {
+          "q": "¿Crop texturizado o French crop para alguien que odia batallar con el pelo?",
+          "a": "Cualquiera; los dos toman segundos. La versión texturizada esconde una mañana sin peinar porque está hecha para verse dispareja. La <a href=\"/es/estilos/crop-texturizado/\">página del crop texturizado</a> muestra los dos lado a lado."
+        },
+        {
+          "q": "¿Qué tan cortos van los lados si no puedo volver seguido?",
+          "a": "Déjalos en un desvanecido bajo o un taper. Un skin fade (desvanecido hasta la piel) alto hace resaltar la parte de arriba pero muestra antes el pelo que vuelve a crecer, y estás a {{city:roswell.drive_mi}} millas del arreglo."
+        },
+        {
+          "q": "¿Un crop funciona con mi frente grande?",
+          "a": "Es una de las cosas que hace bien. El fleco viene hacia adelante y cubre parte de ella, donde un peinado hacia atrás (slick back) la mostraría completa."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "SOLO CON CITA",
+      "heading": "Agenda el crop.<br>Y baja por la 285.",
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
+    }
+  ]
+}

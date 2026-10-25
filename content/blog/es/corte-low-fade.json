@@ -7,8 +7,8 @@
   "plan_rank": 14,
   "title": "Corte low fade: el desvanecido de todos los días",
   "eyebrow": "ESTILOS",
-  "hero": "cut-low-fade-line-up",
-  "hero_alt": "Desvanecido bajo con un delineado nítido en la sien y el bigote recortado",
+  "hero": "pexels-39559262-fade-trimmer-closeup",
+  "hero_alt": "Primer plano de una máquina trabajando el desvanecido (fade) a un lado de la cabeza",
   "image_plan": null,
   "card_text": "Dónde empieza un desvanecido bajo, en qué se diferencia de un taper bajo y de un skin fade, y cómo pedirlo en la silla.",
   "lede": [
@@ -22,9 +22,18 @@
     "secondary": []
   },
   "breadcrumb": [
-    ["Inicio", "/es/"],
-    ["Blog", "/es/blog/"],
-    ["Low fade", "/es/blog/corte-low-fade/"]
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Blog",
+      "/es/blog/"
+    ],
+    [
+      "Low fade",
+      "/es/blog/corte-low-fade/"
+    ]
   ],
   "blocks": [
     {

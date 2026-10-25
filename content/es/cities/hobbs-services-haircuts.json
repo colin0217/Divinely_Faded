@@ -1,0 +1,126 @@
+{
+  "id": "hobbs-services-haircuts",
+  "locale": "es",
+  "pageType": "cell",
+  "city": "hobbs",
+  "base": "services-haircuts",
+  "slug": "/es/hobbs/cortes-de-cabello/",
+  "alt": "/hobbs/haircuts/",
+  "nav_label": "Cortes de pelo · Hobbs",
+  "card_text": "Cortes de pelo agendados desde Hobbs: cómo acomodar el corte entre la semana de trabajo del condado de Lea y el camino.",
+  "breadcrumb": [
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Hobbs",
+      "/es/hobbs/"
+    ],
+    [
+      "Cortes de pelo",
+      "/es/hobbs/cortes-de-cabello/"
+    ]
+  ],
+  "seo": {
+    "title": "Cortes de pelo para Hobbs, NM | Divinely Faded, Carlsbad",
+    "description": "Cortes de pelo para hombres de Hobbs, en Carlsbad, al oeste por la US 62/180. Cómo acomodar el corte en tu semana de trabajo. Agenda en Booksy.",
+    "primary": "cortes de pelo hobbs nm",
+    "secondary": [
+      "barbería hobbs nm"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "HOBBS / CORTES DE PELO",
+      "h1": "Cortes de pelo, agendados desde Hobbs.",
+      "paragraphs": [
+        "Corto pelo en Carlsbad, en {{address}}, y eso deja mi silla a unas {{city:hobbs.drive_mi}} millas al oeste de Hobbs por la {{city:hobbs.route}}. Cuenta unos {{city:hobbs.drive_min}} minutos de ida (rutas de OpenStreetMap), así que un corte desde Hobbs es una tarde, no un mandado.",
+        "En mi menú de Booksy hay tres servicios de corte. Esta página es para elegir el que se gane ese camino."
+      ],
+      "link": {
+        "label": "AGENDA UN CORTE",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / LA SEMANA DE TRABAJO",
+      "heading": "El corte se acomoda al horario, no al revés.",
+      "paragraphs": [
+        "El Censo ACS 2023 pone el {{city:hobbs.mining_ag_jobs_pct}} de los empleos de Hobbs en minería, petróleo y agro, una proporción mayor que el {{city:carlsbad.mining_ag_jobs_pct}} de Carlsbad. Si tu semana va por rotación, el horario de sábado puede ser el que sí se sostiene: abro de 8:00 AM a 2:00 PM, y con una hora temprana estás de vuelta en Hobbs antes de la tarde.",
+        "El trayecto promedio al trabajo en Hobbs ya es de {{city:hobbs.commute_min}} minutos (Censo ACS 2023). Ponle encima el viaje a Carlsbad y se entiende por qué prefiero que agendes una vez y te vayas con un corte que dure."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "02 / CÓMO AGENDARLO",
+      "heading": "Tres cortes, un solo viaje.",
+      "lead": "Lo que Booksy separa para cada uno.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "El corte solo, adaptado a tu cabeza, con la nuca limpia a navaja. Si tú mismo cuidas tu barba, este es el tuyo.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "Corte más recorte o delineado (line-up) de barba, toalla caliente y detalles con navaja. La barba se atiende en la misma cita.",
+          "book": true
+        },
+        {
+          "title": "Luxury Grooming Experience",
+          "meta": "{{price:luxury-grooming}} · {{minutes:luxury-grooming}}",
+          "body": "Consulta, corte, modelado de barba, lavado y masaje en el cuero cabelludo, vapor, dos toallas calientes, un diseño básico, depilación con cera de nariz y orejas y fragancia. La cita que hace lo más posible en una sola sesión.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / QUE VALGA LA PENA",
+      "heading": "Sácale todo a la silla.",
+      "paragraphs": [
+        "Manejar {{city:hobbs.drive_min}} minutos por un corte de {{minutes:essential-haircut}} le parece un trato justo a algunos. Si no es tu caso, agenda la Luxury Grooming Experience (experiencia de arreglo de lujo), o agrégale el lavado, las cejas o un diseño al Essential Haircut (corte esencial) o al Signature Cut (corte distintivo) desde la lista de extras de Booksy.",
+        "Antes de irte, agenda tu próxima cita. Entre semana atiendo lunes, martes, jueves y viernes; miércoles y domingo cierro."
+      ],
+      "photos": []
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / PREGUNTAS",
+      "heading": "Cortes desde Hobbs, en respuestas.",
+      "items": [
+        {
+          "q": "¿Qué servicio de corte agendo desde Hobbs?",
+          "a": "El Essential si solo quieres el corte, el Signature si tu barba también necesita atención, y la Luxury Grooming Experience si quieres que el viaje lo cubra todo."
+        },
+        {
+          "q": "¿Cuánto es el camino de Hobbs a la barbería?",
+          "a": "Unas {{city:hobbs.drive_mi}} millas al oeste por la {{city:hobbs.route}}, más o menos {{city:hobbs.drive_min}} minutos (rutas de OpenStreetMap)."
+        },
+        {
+          "q": "¿Puedo cortarme el pelo en sábado?",
+          "a": "Sí. El sábado atiendo de 8:00 AM a 2:00 PM, solo con cita en Booksy. Agenda con tiempo; el horario que ves en Booksy es el que te toca."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "SOLO CON CITA",
+      "heading": "Elige el corte.<br>Y maneja al oeste.",
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "id": "city-hobbs",
+  "locale": "es",
+  "pageType": "city-hub",
+  "city": "hobbs",
+  "slug": "/es/hobbs/",
+  "alt": "/hobbs/",
+  "nav_label": "Desde Hobbs",
+  "card_text": "El viaje de 80 minutos desde Hobbs: qué citas valen la pena y cómo agendar.",
+  "breadcrumb": [
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Hobbs",
+      "/es/hobbs/"
+    ]
+  ],
+  "seo": {
+    "title": "Barbería para Hobbs, NM: a 70 millas en Carlsbad",
+    "description": "Divinely Faded está en Carlsbad, a unas 70 millas al oeste de Hobbs por la US 62/180, unos 80 min. Agenda en Booksy antes de salir del condado de Lea.",
+    "primary": "barbería hobbs nm",
+    "secondary": [
+      "barbería cerca de hobbs nm"
+    ],
+    "og_photo": "team-tim-portrait"
+  },
+  "schema": {
+    "type": "CollectionPage"
+  },
+  "related": [
+    "visit",
+    "services",
+    "styles"
+  ],
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "HOBBS / PLANEA EL VIAJE",
+      "h1": "Si vienes de Hobbs.",
+      "paragraphs": [
+        "Mi silla está en Carlsbad, no en Hobbs. Desde Hobbs son unas {{city:hobbs.drive_mi}} millas al oeste por la {{city:hobbs.route}}, casi {{city:hobbs.drive_min}} minutos de ida, así que la visita ocupa buena parte de tu día.",
+        "Como son casi tres horas de ida y vuelta, esta página es para que un solo viaje te alcance para todo: la cita correcta, agendada antes de salir del condado de Lea."
+      ],
+      "link": {
+        "label": "CÓMO LLEGAR",
+        "href": "directions"
+      },
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "01 / QUE EL VIAJE VALGA LA PENA",
+      "heading": "Las citas más largas.",
+      "lead": "Si vas a manejar 80 minutos de ida, puede convenirte hacer más en una sola sesión. Los tiempos y precios son de mi menú en Booksy.",
+      "items": [
+        {
+          "title": "Luxury Grooming Experience",
+          "meta": "{{price:luxury-grooming}} · {{minutes:luxury-grooming}}",
+          "body": "Corte, modelado de barba, lavado, masaje en el cuero cabelludo, vapor, toallas calientes y detalle con navaja, todo en un mismo bloque.",
+          "book": true
+        },
+        {
+          "title": "Color Transformation",
+          "meta": "{{price:color-transformation}} · {{minutes:color-transformation}}",
+          "body": "Decoloración y matiz hasta el tono que quieres. Es una cita larga, así que planea toda la tarde.",
+          "book": true
+        },
+        {
+          "title": "Perm",
+          "meta": "{{price:perm}} · {{minutes:perm}}",
+          "body": "Volumen, textura y movimiento en una sola sesión.",
+          "book": true
+        },
+        {
+          "title": "Braids",
+          "meta": "{{price:braids}} · {{minutes:braids}}",
+          "body": "Trenzas a tu medida. Booksy te muestra el precio actual al agendar.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "Si solo necesitas lo de siempre: corte de pelo más corte de barba o delineado (line-up), con toalla caliente al final.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "eyebrow": "PARA HOBBS / SERVICIOS",
+      "heading": "Cada servicio, planeado desde Hobbs.",
+      "items": "children:services"
+    },
+    {
+      "type": "cards",
+      "eyebrow": "PARA HOBBS / ESTILOS",
+      "heading": "Cada estilo, planeado desde Hobbs.",
+      "items": "children:styles"
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / ANTES DE SALIR DEL CONDADO DE LEA",
+      "heading": "Una lista corta.",
+      "paragraphs": [
+        "Primero agenda. Solo atiendo con cita, y en Booksy aparecen todos los horarios disponibles.",
+        "Hobbs y Carlsbad tienen la misma hora de la montaña, así que la hora de tu cita es la misma que ves en tu teléfono.",
+        "El sábado abro de 8:00 AM a 2:00 PM. Entre semana hay citas lunes, martes, jueves y viernes.",
+        "Si el camino se alarga, mándame un mensaje al {{phone}} antes de la hora de tu cita, no después."
+      ],
+      "photos": []
+    },
+    {
+      "type": "table",
+      "eyebrow": "03 / HOBBS EN BREVE",
+      "heading": "Hobbs en números.",
+      "lead": "Datos públicos de Hobbs y del camino a la barbería, con la fuente en cada fila.",
+      "columns": [
+        "Hobbs",
+        "",
+        "Fuente"
+      ],
+      "rows": "city:hobbs"
+    },
+    {
+      "type": "map",
+      "eyebrow": "04 / MAPA",
+      "heading": "Donde termina el camino.",
+      "lead": "{{address}}. Toca el mapa para ver la ruta en Google Maps.",
+      "title": "Mapa a Divinely Faded, 303 S Halagueno St, Carlsbad, NM",
+      "link_label": "CÓMO LLEGAR"
+    },
+    {
+      "type": "faq",
+      "eyebrow": "05 / PREGUNTAS",
+      "heading": "Si vienes manejando desde Hobbs.",
+      "items": [
+        {
+          "q": "¿Cuánto se tarda de Hobbs a Divinely Faded?",
+          "a": "Unos {{city:hobbs.drive_min}} minutos para {{city:hobbs.drive_mi}} millas por la {{city:hobbs.route}}, según de qué parte de Hobbs salgas."
+        },
+        {
+          "q": "¿Qué cita vale la pena desde Hobbs?",
+          "a": "Eso lo decides tú. Si quieres algo más que un corte rápido, los servicios largos de esta página te permiten hacerlo todo en un viaje."
+        },
+        {
+          "q": "¿Hobbs tiene la misma hora que Carlsbad?",
+          "a": "Sí. Las dos ciudades usan la hora de la montaña, así que la hora de Booksy es tu hora local."
+        },
+        {
+          "q": "¿Puedo llevar a mis hijos desde Hobbs?",
+          "a": "Sí, los niños son bienvenidos. Agenda en Booksy un horario para cada uno junto al tuyo."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "SOLO CON CITA",
+      "heading": "Agéndalo antes<br>de salir de Hobbs.",
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
+    }
+  ]
+}

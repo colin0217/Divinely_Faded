@@ -1,0 +1,154 @@
+{
+  "id": "post-haircuts-for-men-with-glasses",
+  "locale": "en",
+  "slug": "/blog/haircuts-for-men-with-glasses/",
+  "date": "2027-01-14",
+  "plan_rank": 79,
+  "title": "Haircuts for Guys Who Wear Glasses",
+  "eyebrow": "STYLES",
+  "hero": "pexels-30316395-glasses-short-haircut",
+  "hero_alt": "Young man in glasses with a short, neat haircut",
+  "image_plan": "pexels: man glasses fresh haircut",
+  "card_text": "Frames sit over the ears. Why the temples and sides matter most for glasses wearers, and cuts that sit well with frames.",
+  "lede": [
+    "The haircuts that work with glasses keep the area around the temples and above the ears clean and fairly short, so the arms of your frames sit flat against your head instead of pushing hair out. From there, the top can be almost anything. A taper or fade on the sides, a hard part, or a textured top all work, as long as the hair under the frames is under control.",
+    "Here's why glasses change the way a cut grows in, which styles sit well with frames, and what to mention when you're in my chair."
+  ],
+  "seo": {
+    "title": "Haircuts for Guys Who Wear Glasses | Carlsbad, NM",
+    "description": "Haircuts for men with glasses, from a Carlsbad, NM barber: keeping the temples and ears clean so frames sit right, and matching the cut to the frames.",
+    "primary": "haircuts for men with glasses",
+    "secondary": []
+  },
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Blog",
+      "/blog/"
+    ],
+    [
+      "Haircuts with Glasses",
+      "/blog/haircuts-for-men-with-glasses/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / WHERE FRAMES MEET HAIR",
+      "heading": "The temples and the ears.",
+      "lead": "Two small areas, a big difference.",
+      "paragraphs": [
+        "Glasses rest on the ears and run along the sides of your head. Any hair in that path gets pressed down or pushed outward. Over a few weeks that can leave a dent, a flick sticking out behind the frame, or hair folding over the top of the ear.",
+        "That's why the sides matter more than the top for anyone who wears glasses every day. When the hair under the arms is short and tidy, the frames sit cleanly and the cut keeps its outline longer.",
+        "It matters for comfort too. Hair caught between the arm and the head gets tugged every time the glasses come off."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / CUTS THAT WORK",
+      "heading": "Styles that sit well with frames.",
+      "lead": "Clean sides, your choice on top.",
+      "subsections": [
+        {
+          "heading": "Taper or low fade",
+          "paragraphs": [
+            "Short, graduated sides keep the area under the frames neat without drawing attention to it. It's the quiet option and goes with most frame styles."
+          ]
+        },
+        {
+          "heading": "Hard part",
+          "paragraphs": [
+            "A side part with a shaved line gives the top real structure. Thick frames already make a strong statement, and a defined part matches that instead of competing with it."
+          ]
+        },
+        {
+          "heading": "Textured top",
+          "paragraphs": [
+            "A loose, textured top with short sides balances lighter frames and keeps the whole look relaxed."
+          ]
+        },
+        {
+          "heading": "What to be careful with",
+          "paragraphs": [
+            "Long hair over the ears and heavy sideburns sit right where the arms go. They can work, but they need more upkeep, and the frames will keep pushing them out of place."
+          ]
+        }
+      ],
+      "link": {
+        "label": "SEE THE HARD PART",
+        "href": "page:styles-hard-part"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / FRAMES AND PROPORTION",
+      "heading": "Match the weight.",
+      "lead": "Think of the frames as part of the cut.",
+      "paragraphs": [
+        "Thick, dark frames add a lot of visual weight across the middle of the face. A cut with some height or structure on top keeps the head from looking bottom-heavy.",
+        "Thin metal or rimless frames are subtle, so a softer cut sits comfortably with them. Very heavy volume on top can overpower a light frame.",
+        "None of this is a rule. Your face, your hair and how you like to wear it matter more. Browse the cuts on my styles page and bring the one you like."
+      ],
+      "link": {
+        "label": "BROWSE STYLES",
+        "href": "page:styles"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / IN THE CHAIR",
+      "heading": "Bring your glasses.",
+      "lead": "Two minutes that help.",
+      "paragraphs": [
+        "Wear your everyday glasses to the appointment. They come off while I cut around your ears, but seeing where the arms sit before I start tells me exactly how short the area above the ears needs to be.",
+        "Put them back on before you leave the chair. If anything sticks out behind the frame, it's quick to fix while you're still sitting there.",
+        "Cuts like these book as an Essential Haircut, {{price:essential-haircut}} for {{minutes:essential-haircut}}, with a straight razor neck cleanup and a finished style. Brows sit right above most frames, and the eyebrow add-on is {{addon:eyebrows}} if you want them tidied too."
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "05 / QUESTIONS",
+      "heading": "Glasses and haircuts, answered.",
+      "items": [
+        {
+          "q": "What haircut suits guys with glasses?",
+          "a": "One with clean, short sides around the ears and temples, so the frames sit flat. A taper, a fade or a hard part all work."
+        },
+        {
+          "q": "Should I take my glasses off for a haircut?",
+          "a": "They come off while the area around your ears is cut, but bring them so I can see where they sit first."
+        },
+        {
+          "q": "Do glasses look better with short or long hair?",
+          "a": "Either works if the hair under the frames is controlled. Long hair over the ears tends to tangle with the arms."
+        },
+        {
+          "q": "Why does my hair stick out behind my glasses?",
+          "a": "The arms press hair down in front and it pops up behind them. Shorter hair above the ears stops it."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "FRAMES ON",
+      "heading": "Clean temples.<br>Frames sit right.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "styles",
+    "styles-hard-part",
+    "services-haircuts"
+  ],
+  "tim_questions": [
+    "The post says you check where a client's glasses sit before cutting around the ears. Confirm or correct.",
+    "The frame-and-proportion guidance is general styling advice written in your voice. Anything you disagree with?",
+    "Do you have a photo of your own work on a client with glasses to use instead of stock?"
+  ]
+}

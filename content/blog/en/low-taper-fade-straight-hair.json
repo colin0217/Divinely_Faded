@@ -1,0 +1,168 @@
+{
+  "id": "post-low-taper-fade-straight-hair",
+  "locale": "en",
+  "slug": "/blog/low-taper-fade-straight-hair/",
+  "date": "2026-11-10",
+  "plan_rank": 32,
+  "title": "Low Taper Fade on Straight Hair: Making It Hold Its Shape",
+  "eyebrow": "STYLES",
+  "hero": "pexels-39559270-barber-clippers-fade",
+  "hero_alt": "Clippers working the side of a fade in the barber chair",
+  "image_plan": null,
+  "card_text": "Straight hair shows every clipper line and lies flat on top. A slow blend and a textured top keep a low taper looking full.",
+  "lede": [
+    "A low taper fade works on straight hair, but straight hair is honest about everything. It shows every clipper line in the taper, and it lies flat on top when the length is all one level. The answer is a blend built slowly from the skin up and texture cut into the top, so the hair has something to hold its shape with.",
+    "Here's why straight hair behaves differently, what to ask for, and how to keep the shape from collapsing between visits."
+  ],
+  "seo": {
+    "title": "Low Taper Fade on Straight Hair | Carlsbad, NM",
+    "description": "How a low taper fade holds its shape on straight hair: a slow blend, a textured top and what to ask for. Divinely Faded in Carlsbad, NM.",
+    "primary": "low taper fade straight hair",
+    "secondary": []
+  },
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Blog",
+      "/blog/"
+    ],
+    [
+      "Low Taper on Straight Hair",
+      "/blog/low-taper-fade-straight-hair/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / WHY IT'S DIFFERENT",
+      "heading": "Straight hair hides nothing.",
+      "lead": "Light runs right across it.",
+      "subsections": [
+        {
+          "heading": "Lines show",
+          "paragraphs": [
+            "Curly and coarse hair blurs small jumps between guard lengths. Straight hair lies close to the head and reflects light evenly, so any jump in the blend shows up as a visible band. On a low taper, that band sits right above the ear where everyone looks."
+          ]
+        },
+        {
+          "heading": "The top lies down",
+          "paragraphs": [
+            "Straight hair grows down and forward under its own weight. Cut to one length, it folds flat against the crown and can look heavier and thinner at the same time."
+          ]
+        },
+        {
+          "heading": "Cowlicks stand out",
+          "paragraphs": [
+            "With no curl to hide them, swirls at the crown and the hairline are obvious. Where your hair naturally falls decides where the part goes and which way the fringe should sit."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / THE CUT",
+      "heading": "How it keeps its shape.",
+      "lead": "Clean bottom, broken-up top.",
+      "paragraphs": [
+        "The taper stays low, around the ears and down at the nape, so most of the side keeps some length. On straight hair, that leftover length is what makes the head shape look full instead of tight to the skull.",
+        "On top, texture gets cut in rather than leaving a blunt line. Shorter and longer pieces mixed together give straight hair something to lift and separate, so it doesn't fold flat by the afternoon.",
+        "A textured fringe pairs naturally with this. The front comes forward in loose pieces, which suits the direction straight hair already wants to fall."
+      ],
+      "link": {
+        "label": "SEE THE TEXTURED FRINGE",
+        "href": "page:styles-textured-fringe"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / WHAT TO SAY",
+      "heading": "Ask for it plainly.",
+      "lead": "Five details cover it.",
+      "bullets": [
+        "Low taper, not a full fade. A taper only takes the edges down, around the ears and at the neckline.",
+        "How short the bottom goes: all the way to skin, or a little shadow left.",
+        "How long the top stays, and whether you push it forward, to the side or back.",
+        "Texture on top, so it isn't one solid length.",
+        "A photo of a low taper on straight hair specifically. A curly example will sit differently on your head."
+      ],
+      "link": {
+        "label": "SEE THE LOW TAPER FADE",
+        "href": "page:styles-low-taper-fade"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / AT HOME",
+      "heading": "Keep it from going flat.",
+      "lead": "Mostly, it's how you dry it.",
+      "paragraphs": [
+        "Straight hair sets in whatever position it dries in. Let it dry pressed under a cap and it stays pressed. Dry it with your fingers pushing the top in the direction you want and it keeps some lift through the day.",
+        "Leave the taper alone between cuts. The neckline and the edges around the ear are where straight hair shows a crooked home trim fastest, and there's no curl to cover the mistake.",
+        "When the top lies flat no matter how you dry it, it has grown past the texture that was cut in. That's the signal to book, more than any date on the calendar."
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "05 / BOOK IT AS",
+      "heading": "Two ways in.",
+      "lead": "Pick by the beard.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "The taper and the textured top, a straight razor cleanup at the neck and a finished style.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "The same cut with a beard trim or line-up, a hot towel and razor detailing around the edges.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / QUESTIONS",
+      "heading": "Straight-hair questions.",
+      "items": [
+        {
+          "q": "Does a low taper fade work on straight hair?",
+          "a": "Yes. It needs a gradual blend at the bottom and texture on top, so the taper looks smooth and the top doesn't lie flat."
+        },
+        {
+          "q": "Why does my low taper look patchy on straight hair?",
+          "a": "Straight hair shows each change in length as a band. A slower blend from the skin up smooths those bands out."
+        },
+        {
+          "q": "Is a taper or a fade better for straight hair?",
+          "a": "A taper keeps more length on the sides, which looks fuller on straight hair. A fade takes more of the side short, so the blend has to be cleaner still."
+        },
+        {
+          "q": "How do I stop my straight hair from lying flat?",
+          "a": "Get texture cut into the top, and dry it in the direction you want it to sit instead of letting it dry under a hat."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "STRAIGHT HAIR",
+      "heading": "Clean taper.<br>Lift on top.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "styles-low-taper-fade",
+    "styles-textured-fringe"
+  ],
+  "tim_questions": [
+    "How do you texturize the top on straight hair (scissors, clippers, razor)? The post says texture gets cut in without naming a tool.",
+    "Any styling product or routine you want to recommend for straight hair? Products were left out."
+  ]
+}

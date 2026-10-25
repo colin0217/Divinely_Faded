@@ -7,8 +7,8 @@
   "plan_rank": 27,
   "title": "¿Cuánto tarda un corte de pelo? Cada servicio, con su tiempo",
   "eyebrow": "GUÍA",
-  "hero": "shop-chair",
-  "hero_alt": "La silla de barbero negra capitonada de Divinely Faded, lista para la próxima cita",
+  "hero": "pexels-23916841-wall-clock",
+  "hero_alt": "Un reloj de pared con números romanos",
   "image_plan": null,
   "card_text": "Desde un facial de {{minutes:express-facial}} hasta un color de {{minutes:color-transformation}}: cada servicio de mi menú con el tiempo que Booksy le guarda.",
   "lede": [
@@ -22,9 +22,18 @@
     "secondary": []
   },
   "breadcrumb": [
-    ["Inicio", "/es/"],
-    ["Blog", "/es/blog/"],
-    ["Cuánto tarda un corte", "/es/blog/cuanto-tarda-un-corte-de-pelo/"]
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Blog",
+      "/es/blog/"
+    ],
+    [
+      "Cuánto tarda un corte",
+      "/es/blog/cuanto-tarda-un-corte-de-pelo/"
+    ]
   ],
   "blocks": [
     {

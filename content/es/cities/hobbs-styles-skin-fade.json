@@ -1,0 +1,119 @@
+{
+  "id": "hobbs-styles-skin-fade",
+  "locale": "es",
+  "pageType": "cell",
+  "city": "hobbs",
+  "base": "styles-skin-fade",
+  "slug": "/es/hobbs/skin-fade/",
+  "alt": "/hobbs/skin-fade/",
+  "nav_label": "Skin fade · Hobbs",
+  "card_text": "Cómo planear un skin fade desde Hobbs: el camino, el mantenimiento y cómo agendarlo.",
+  "breadcrumb": [
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Hobbs",
+      "/es/hobbs/"
+    ],
+    [
+      "Skin Fade",
+      "/es/hobbs/skin-fade/"
+    ]
+  ],
+  "seo": {
+    "title": "Skin fade para Hobbs, NM | Divinely Faded, Carlsbad",
+    "description": "Skin fades para quienes vienen de Hobbs, en Carlsbad, a unos 80 minutos al oeste por la US 62/180. Cómo planear el mantenimiento y agendar en Booksy.",
+    "primary": "skin fade hobbs nm",
+    "secondary": [
+      "fade hobbs nm"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "HOBBS / SKIN FADE",
+      "h1": "Skin fade, desde Hobbs.",
+      "paragraphs": [
+        "Un skin fade (desvanecido hasta la piel) baja los lados y la nuca hasta la piel y se funde con el largo de arriba. Lo corto en Carlsbad, a {{city:hobbs.drive_mi}} millas al oeste de Hobbs por la {{city:hobbs.route}}, así que desde Hobbs es un viaje planeado de unos {{city:hobbs.drive_min}} minutos de ida.",
+        "Aquí ves cómo agendarlo, cómo calcular el crecimiento con ese viaje en mente y qué pedir cuando te sientes."
+      ],
+      "link": {
+        "label": "AGENDA UN SKIN FADE",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / PLANEA EL MANTENIMIENTO",
+      "heading": "Agenda el siguiente antes de regresar.",
+      "paragraphs": [
+        "La piel al descubierto es donde primero se nota el crecimiento, así que este corte pierde definición antes que otros. Desde Hobbs, cada retoque son otras {{city:hobbs.drive_mi}} millas de camino, así que conviene agendar tu siguiente hora en Booksy mientras sigues en Carlsbad.",
+        "Cuánto esperas entre visitas lo decides tú. Hay quien lo quiere siempre bien marcado y hay a quien no le molesta que crezca un tiempo."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / EL CALOR",
+      "heading": "Lados cortos para un verano largo.",
+      "paragraphs": [
+        "En Hobbs la máxima promedio de julio es de {{city:hobbs.july_high_f}}, con unos {{city:hobbs.days_100f}} días al año de 100°F o más (Open-Meteo, 2023–25). Bajar los lados hasta la piel deja menos pelo que guarde ese calor, y por eso hay quien se pasa al skin fade cuando llega el verano."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "03 / AGÉNDALO COMO",
+      "heading": "Dos formas de agendarlo.",
+      "lead": "Precios y tiempos de mi menú en Booksy.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "El fade y la parte de arriba, con la nuca limpia a navaja. Para quien trae la cara afeitada.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "El fade más tu barba, recortada o con delineado (line-up), y toalla caliente al final. Agéndalo si te quedas con la barba.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / PREGUNTAS",
+      "heading": "Skin fade desde Hobbs, en respuestas.",
+      "items": [
+        {
+          "q": "¿Cuánto manejo desde Hobbs para un skin fade?",
+          "a": "Unas {{city:hobbs.drive_mi}} millas, más o menos {{city:hobbs.drive_min}} minutos al oeste por la {{city:hobbs.route}}, hasta {{address}}."
+        },
+        {
+          "q": "¿Essential Haircut o Signature Cut para un skin fade?",
+          "a": "Essential si traes la cara afeitada; Signature si quieres que te arregle la barba en la misma visita."
+        },
+        {
+          "q": "¿Dónde veo skin fades que has cortado?",
+          "a": "La <a href=\"/es/estilos/skin-fade/\">página de skin fade</a> muestra cortes de mi silla, de frente y por detrás."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "SOLO CON CITA",
+      "heading": "Agenda el fade.<br>Y agarra la 62/180.",
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
+    }
+  ]
+}

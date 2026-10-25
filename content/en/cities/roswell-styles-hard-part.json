@@ -1,0 +1,119 @@
+{
+  "id": "roswell-styles-hard-part",
+  "locale": "en",
+  "pageType": "cell",
+  "city": "roswell",
+  "base": "styles-hard-part",
+  "slug": "/roswell/hard-part/",
+  "alt": "/es/roswell/corte-con-raya/",
+  "nav_label": "Hard part · Roswell",
+  "card_text": "A hard part for Roswell: a shaved line that suits a grown-up cut, timed to the event and the drive.",
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Roswell",
+      "/roswell/"
+    ],
+    [
+      "Hard Part",
+      "/roswell/hard-part/"
+    ]
+  ],
+  "seo": {
+    "title": "Hard Part Haircut for Roswell, NM | Divinely Faded",
+    "description": "Hard part haircuts for Roswell, shaved in at my chair in Carlsbad, south on US 285. Who the line suits, booking it before an event, and the drive.",
+    "primary": "hard part haircut roswell nm",
+    "secondary": [
+      "side part fade roswell nm",
+      "barber roswell nm"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "ROSWELL / HARD PART",
+      "h1": "Hard part, from Roswell.",
+      "paragraphs": [
+        "A hard part is a parting shaved into the scalp, so it holds without a comb from the moment you leave until the hair fills it back in. I shave them in Carlsbad, at {{address}}, {{city:roswell.drive_mi}} miles south of Roswell on {{city:roswell.route}}, a drive of about {{city:roswell.drive_min}} minutes (OpenStreetMap routing)."
+      ],
+      "link": {
+        "label": "BOOK A HARD PART",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / A GROWN-UP LINE",
+      "heading": "Not only a young man's cut.",
+      "paragraphs": [
+        "Roswell's median age is {{city:roswell.median_age}}, almost the same as Carlsbad's {{city:carlsbad.median_age}} (Census ACS 2023). I mention it because people assume a shaved part belongs to teenagers. On a side part or a comb-over, it does the opposite: it sharpens a classic cut without changing it, which is why it looks right on someone in their thirties or forties who wants the part to stay put through a workday.",
+        "Only {{city:roswell.mining_ag_jobs_pct}} of Roswell's workers are in mining, oil, gas or farming, against {{city:carlsbad.mining_ag_jobs_pct}} in Carlsbad (Census ACS 2023). If your week is desks, counters or classrooms, a single clean line over a low fade reads as tidy, not loud."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / TIMING",
+      "heading": "Book the line close to the day.",
+      "paragraphs": [
+        "A part shaved to skin is the first detail to vanish, because there's nothing to hide the stubble. If the line is for a wedding, a photo or an interview, get the cut within a few days of it rather than a few weeks. After the event, let it soften into the rest of the cut until your next trip down."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "03 / BOOK IT AS",
+      "heading": "The cut carries the line.",
+      "lead": "Pick one; mention the part when you sit down.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "Fade, top and the shaved part, with a straight razor neckline to finish.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "The same cut plus your beard, trimmed or lined up, and a hot towel. One drive, whole head done.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / QUESTIONS",
+      "heading": "Hard part, Roswell edition.",
+      "items": [
+        {
+          "q": "Does a hard part cost extra?",
+          "a": "A simple part line is cut as part of the haircut. If you want it to turn into a design, text me a picture first and I'll tell you whether it's the hair design add-on, {{addon:hair-design}}."
+        },
+        {
+          "q": "Which side goes the line, if I've never had one?",
+          "a": "The side your hair already falls toward. Fighting your natural part means fighting it every morning in Roswell, with me {{city:roswell.drive_mi}} miles away. The <a href=\"/styles/hard-part/\">hard part page</a> shows the placement on a real cut."
+        },
+        {
+          "q": "How long until the line is gone?",
+          "a": "It depends on how fast your hair grows and how dark it is against your scalp. I'll give you my honest guess in the chair."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "APPOINTMENTS ONLY",
+      "heading": "Book the line.<br>Then come south.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ]
+}

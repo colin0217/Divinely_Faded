@@ -40,7 +40,9 @@
     var s = document.createElement('a');
     s.className = 'df-video-source';
     s.href = href; s.target = '_blank'; s.rel = 'noopener noreferrer';
-    s.textContent = LABEL + ' ↗';
+    s.textContent = LABEL + ' ';
+    // drawn arrow, not an arrow glyph (no emoji-capable symbols on the site)
+    s.insertAdjacentHTML('beforeend', '<svg class="df-ext" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M8 16L16 8M9 8h7v7" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>');
     card.appendChild(f);
     card.appendChild(s);
     card.classList.add('is-playing');

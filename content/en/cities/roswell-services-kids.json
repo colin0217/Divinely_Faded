@@ -1,0 +1,115 @@
+{
+  "id": "roswell-services-kids",
+  "locale": "en",
+  "pageType": "cell",
+  "city": "roswell",
+  "base": "services-kids",
+  "slug": "/roswell/kids-haircuts/",
+  "alt": "/es/roswell/cortes-para-ninos/",
+  "nav_label": "Kids' haircuts · Roswell",
+  "card_text": "Kids' haircuts planned from Roswell: book each child their own slot, line them up, and make one trip of it.",
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Roswell",
+      "/roswell/"
+    ],
+    [
+      "Kids' Haircuts",
+      "/roswell/kids-haircuts/"
+    ]
+  ],
+  "seo": {
+    "title": "Kids' Haircuts for Roswell, NM | Divinely Faded, Carlsbad",
+    "description": "Kids' fades and tapers for families driving from Roswell, cut in Carlsbad about 92 minutes south on US 285. One Booksy slot per child, back to back.",
+    "primary": "kids haircut roswell nm",
+    "secondary": [
+      "kids barber roswell nm",
+      "boys haircut roswell nm"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "ROSWELL / KIDS",
+      "h1": "Kids' haircuts, from Roswell.",
+      "paragraphs": [
+        "Kids get the same fades and tapers in my chair that adults do, cut at my shop in Carlsbad. From Roswell that's {{city:roswell.drive_mi}} miles down {{city:roswell.route}}, around {{city:roswell.drive_min}} minutes with a kid in the back seat (OpenStreetMap routing).",
+        "Here's how parents make the trip count: one slot per child, booked in a row, and a photo of the cut they want."
+      ],
+      "link": {
+        "label": "BOOK A KIDS' CUT",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / SIBLINGS",
+      "heading": "One in four, so bring them all.",
+      "paragraphs": [
+        "A quarter of Roswell is under 18, {{city:roswell.under18_pct}} by the Census (ACS 2023), so many homes have more than one head to cut. Booksy has no separate kids' service, which means each child books a regular haircut in their own slot. Pick slots that touch each other, put yours on the end, and the whole family is done in one visit instead of two drives.",
+        "I work alone, so the kid who was nervous last time sees the same face this time."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / WHAT TO BOOK",
+      "heading": "The Essential, with a picture.",
+      "paragraphs": [
+        "For most kids the Essential Haircut is the booking: {{price:essential-haircut}}, with {{minutes:essential-haircut}} held on Booksy. A low fade with a line-up, a taper under a longer top, or curls over a skin fade all fit inside that time. Lines cut in are a {{addon:hair-design}} add-on.",
+        "Save a photo on your phone before you leave Roswell. Showing me the cut beats describing it, especially with a kid who isn't sure what to call it."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "03 / BOOK IT AS",
+      "heading": "What each child books.",
+      "lead": "Kids book the same services as adults.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}} · Kids welcome",
+          "body": "A full cut with a clean neckline, sized to a smaller head. Book one per child.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / PARENTS ASK",
+      "heading": "From Roswell, with kids.",
+      "items": [
+        {
+          "q": "Can two kids share one appointment?",
+          "a": "Each child needs their own slot so I can give both the full time. Book them back to back."
+        },
+        {
+          "q": "What's the drive like with kids from Roswell?",
+          "a": "About {{city:roswell.drive_min}} minutes each way on {{city:roswell.route}}, with Artesia roughly halfway if anyone needs a stop. The shop is at {{address}}."
+        },
+        {
+          "q": "When are you open on weekends?",
+          "a": "Saturdays, 8:00 AM to 2:00 PM. With about {{city:roswell.k12_students}} kids in K–12 school in Roswell (Census ACS 2023), that Saturday window is how families avoid missing class for a {{city:roswell.drive_min}}-minute drive. Closed Wednesdays and Sundays."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "YOUNG CLIENTS",
+      "heading": "Line them up.<br>One trip south.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ]
+}

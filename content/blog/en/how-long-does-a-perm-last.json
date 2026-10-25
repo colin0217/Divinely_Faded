@@ -1,0 +1,149 @@
+{
+  "id": "post-how-long-does-a-perm-last",
+  "locale": "en",
+  "slug": "/blog/how-long-does-a-perm-last/",
+  "date": "2026-12-08",
+  "plan_rank": 52,
+  "title": "How Long Does a Perm Last?",
+  "eyebrow": "COLOR & TEXTURE",
+  "hero": "pexels-19193133-curly-hair-outdoors",
+  "hero_alt": "Young man with tight curls on top, outdoors on a sunny day",
+  "image_plan": "pexels: curly perm men",
+  "card_text": "A perm doesn't wash out. It grows out and gets cut off. What that means for your top, your sides and your next visit.",
+  "lede": [
+    "A perm doesn't fade the way color does. The curl stays in the hair that was permed until that hair grows away from the scalp and gets cut off. So the real answer to how long a perm lasts is: as long as the permed length stays on your head. New growth comes in with your natural texture, and every trim takes a little of the curl with it.",
+    "Here's how that plays out on a men's cut, why the sides and the top behave differently, and what to think about before booking the next one."
+  ],
+  "seo": {
+    "title": "How Long Does a Perm Last? | Carlsbad, NM",
+    "description": "How long a men's perm lasts: why the curl grows out instead of washing out, what haircuts do to it, and when to redo it. Divinely Faded, Carlsbad, NM.",
+    "primary": "how long does a perm last",
+    "secondary": [
+      "how long do perms last men"
+    ]
+  },
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Blog",
+      "/blog/"
+    ],
+    [
+      "How Long a Perm Lasts",
+      "/blog/how-long-does-a-perm-last/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / WHY IT STAYS",
+      "heading": "Grows out, not off.",
+      "lead": "The curl lives in the hair that was treated.",
+      "paragraphs": [
+        "A perm reshapes the hair strand itself. The solution loosens the bonds that give your hair its natural shape, the hair is set around rods, and a second step locks the new shape in. Once that's done, shampoo won't straighten it back out.",
+        "What changes is everything around it. Your scalp keeps making new hair with the texture you were born with. On average, hair grows somewhere around half an inch a month, so a straighter band slowly appears at the root while the curl rides further out toward the ends.",
+        "Curl can also relax a little as the hair gets longer and heavier, because weight pulls a wave looser. That's why the same perm can look tighter on a short top than on a long one."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / TOP AND SIDES",
+      "heading": "Two clocks on one head.",
+      "lead": "Short sides change first.",
+      "subsections": [
+        {
+          "heading": "The sides",
+          "paragraphs": [
+            "Most men's perms are about the top. If your sides are faded or tapered, that hair is short to begin with, and the next cleanup removes whatever curl was there. Faded sides don't really carry a perm for long, and they don't need to."
+          ]
+        },
+        {
+          "heading": "The top",
+          "paragraphs": [
+            "The top is where the perm earns its keep. The longer you leave it, the longer the curl hangs around. Trim it hard and you're cutting off curl; trim lightly and most of it stays."
+          ]
+        },
+        {
+          "heading": "The crown and fringe",
+          "paragraphs": [
+            "These areas often show the root regrowth first, because they're the spots people look at in the mirror. A straighter root under curly ends is the usual sign that it's time to think about the next round."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / HAIRCUTS",
+      "heading": "Cutting permed hair.",
+      "lead": "Tell me what you want to keep.",
+      "paragraphs": [
+        "You can keep getting regular cuts on a perm. The fade underneath can be refreshed as often as you like, because the sides were never where the curl mattered. The top is the part to talk about.",
+        "When you sit down, tell me whether you want to hold onto the length on top or start trimming the permed ends away. That one sentence decides how much curl leaves the shop with you. If you're planning another perm later, keeping a bit more length gives the next one something to work with.",
+        "If the curl has gone uneven, with tight ends and a flat root, a shaping cut can make it look intentional while it grows."
+      ],
+      "link": {
+        "label": "SEE COLOR AND PERM",
+        "href": "page:services-color"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / THE NEXT ONE",
+      "heading": "When to redo it.",
+      "lead": "Your call, based on the root.",
+      "paragraphs": [
+        "There isn't one right moment. Some people redo the perm as soon as the root shows. Others let it grow out completely and go back to their natural texture. Both are fine choices.",
+        "The thing to know is that a perm is a long appointment. Booksy holds {{minutes:perm}} for it, and the Perm is {{price:perm}}. Plan the day around it, and book early if you have a date in mind.",
+        "Wondering if it's time for another round? Text me a photo of how it looks now and ask. That's quicker than guessing."
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "05 / QUESTIONS",
+      "heading": "Perm timing, answered.",
+      "items": [
+        {
+          "q": "Does a perm wash out?",
+          "a": "No. The curl is set into the hair itself. It leaves when the permed hair is cut off, not when you shampoo."
+        },
+        {
+          "q": "Why does my perm look looser now?",
+          "a": "Longer hair is heavier, and weight stretches the wave. New straight growth at the root also changes how the top sits."
+        },
+        {
+          "q": "Can I still get a fade on permed hair?",
+          "a": "Yes. The sides are cut like any other visit. Just tell me how much of the top you want to keep."
+        },
+        {
+          "q": "How long does the appointment take?",
+          "a": "Booksy blocks {{minutes:perm}} for the Perm. There's more on what happens in that time in the post on how long a perm takes.",
+          "href": "page:post-how-long-does-a-perm-take",
+          "link_label": "HOW LONG A PERM TAKES"
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "TEXTURE ON PURPOSE",
+      "heading": "Keep the curl.<br>Trim the rest.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "services-color",
+    "services-haircuts",
+    "faq"
+  ],
+  "tim_questions": [
+    "Roughly how long do you tell clients a perm holds on a typical men's top before they redo it? The post gives no interval.",
+    "Any aftercare you want stated (how long to wait before washing, products)? Left out.",
+    "Do you cut or shape the top in the same visit as the Perm, or is that a separate booking?",
+    "Will you perm hair that is already bleached or colored?"
+  ]
+}

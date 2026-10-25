@@ -1,0 +1,186 @@
+{
+  "id": "post-new-year-haircut",
+  "locale": "en",
+  "slug": "/blog/new-year-haircut/",
+  "date": "2026-11-18",
+  "plan_rank": 38,
+  "title": "New Year, Fresh Cut: Booking Your First Haircut of the Year",
+  "eyebrow": "SEASONAL",
+  "hero": "pexels-17415374-fireworks-skyline",
+  "hero_alt": "Fireworks bursting over a city skyline at night",
+  "image_plan": null,
+  "card_text": "Trying something new for the new year? How to plan the change, how holiday week falls, and when the holiday fee applies.",
+  "lede": [
+    "If you want your first haircut of the new year, book it now. The week between Christmas and New Year's is short at my shop: Wednesday is closed as always, and the holiday itself carries a {{holiday_fee}} fee on top of the service. The regular days around it are regular price, so a slot on one of those starts the year at the usual cost.",
+    "Here's how the calendar falls, how to plan a new style, and what to book."
+  ],
+  "seo": {
+    "title": "New Year Haircut: Booking Holiday Week | Carlsbad, NM",
+    "description": "Your first haircut of the year in Carlsbad, NM: how New Year's week falls at Divinely Faded, the holiday fee, and how to plan a new style.",
+    "primary": "new year haircut",
+    "secondary": []
+  },
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Blog",
+      "/blog/"
+    ],
+    [
+      "New Year Haircut",
+      "/blog/new-year-haircut/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "table",
+      "eyebrow": "01 / HOLIDAY WEEK",
+      "heading": "How the days fall.",
+      "lead": "New Year's Day lands on a Friday this time.",
+      "columns": [
+        "Day",
+        "Date",
+        "At the shop"
+      ],
+      "rows": [
+        [
+          "Wednesday",
+          "Dec 30",
+          "Closed, as every Wednesday"
+        ],
+        [
+          "Thursday",
+          "Dec 31",
+          "Open"
+        ],
+        [
+          "Friday",
+          "Jan 1, New Year's Day",
+          "Open regular hours, holiday fee applies"
+        ],
+        [
+          "Saturday",
+          "Jan 2",
+          "Open 8:00 AM to 2:00 PM"
+        ],
+        [
+          "Sunday",
+          "Jan 3",
+          "Closed, as every Sunday"
+        ]
+      ],
+      "paragraphs": [
+        "I'm open on holidays at my regular hours for that day of the week. The {{holiday_fee}} fee applies only on the holiday itself, not on the days before or after it."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / A NEW STYLE",
+      "heading": "Change it on purpose.",
+      "lead": "Start the year with a plan.",
+      "paragraphs": [
+        "A new year is a natural time to try the cut you've been saving photos of. The trick is knowing what your hair can do right now. Going shorter can happen in one visit. Going longer takes months of growing, and a cut that shapes the in-between stages.",
+        "Bring a photo of the style and a photo of your hair as it is today, or text both to me before you book. That tells us whether it's a one-appointment change or the first step of a few.",
+        "If you want a big change but you're nervous about it, try it in stages. Take the sides shorter first, live with it, and adjust the top next time."
+      ],
+      "link": {
+        "label": "BROWSE THE STYLES",
+        "href": "page:styles"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / BUILT FOR JANUARY",
+      "heading": "A cut you'll keep up.",
+      "lead": "Pick one that fits your mornings.",
+      "paragraphs": [
+        "The new style only works if you can wear it on a regular Tuesday. Ask yourself how long you'll spend on it before work, whether a hat is part of your day, and how sharp you want it to stay.",
+        "A textured crop like the one in the photo above is a low-effort place to start: short sides, a choppy top pushed forward, and very little to do once it's dry. A skin fade or a hard part asks for more frequent visits to stay crisp.",
+        "Once you've picked, book the next appointment while you're thinking about it. Booksy shows open times ahead, and the week only has so many of them."
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "04 / BOOK IT AS",
+      "heading": "Start the year here.",
+      "lead": "Same menu, all year.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "The new style itself, with a straight razor cleanup at the neck and a finished style.",
+          "href": "page:services-haircuts",
+          "link_label": "SEE THE HAIRCUTS",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "Adds a beard trim or line-up, a hot towel and razor detailing, for a new year that includes the beard.",
+          "book": true
+        },
+        {
+          "title": "Luxury Grooming Experience",
+          "meta": "{{price:luxury-grooming}} · {{minutes:luxury-grooming}}",
+          "body": "A consultation first, then the cut, a beard sculpt, a wash, steam, hot towels, waxing, a basic design and a fragrance finish. The full reset.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "05 / AROUND THE HOLIDAYS",
+      "heading": "Plan around the break.",
+      "lead": "Travel, beards and changed plans.",
+      "paragraphs": [
+        "Heading out of town for the holidays? Book the cut for the days before you leave, or for the first open slot after you get back, so you aren't hunting for a time in the middle of the trip.",
+        "Grew a beard over the break? Bring it in rather than shaving it off at home. The Signature Cut can trim it down or line it up, and the Straight Razor Beard Shave ({{price:straight-razor-beard-shave}}, {{minutes:straight-razor-beard-shave}}) takes it off completely with hot towels.",
+        "Holiday plans change fast. If yours do, move or cancel the appointment in Booksy right away, since a no-show or a late cancellation may be charged a fee, and someone else may want that slot."
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "05 / QUESTIONS",
+      "heading": "Holiday-week questions.",
+      "items": [
+        {
+          "q": "Are you open on New Year's Day?",
+          "a": "Yes. I'm open my regular Friday hours, and appointments on the holiday itself carry a {{holiday_fee}} holiday fee."
+        },
+        {
+          "q": "Is there a holiday fee the rest of the week?",
+          "a": "No. The fee applies only on the holiday itself. The days around it are regular prices."
+        },
+        {
+          "q": "Are you open on Wednesday, December 30?",
+          "a": "No. The shop is closed every Wednesday and every Sunday, holiday week included."
+        },
+        {
+          "q": "How do I pay?",
+          "a": "After the service, by cash, card, Zelle or Cash App."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "NEW YEAR",
+      "heading": "Fresh start.<br>Fresh cut.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "services-haircuts",
+    "styles"
+  ],
+  "tim_questions": [
+    "Is New Year's Eve (Thu Dec 31) a regular day, or does the holiday fee apply? The table shows it as 'Open' with no fee mentioned.",
+    "Confirm you're open your usual Friday hours on New Year's Day (Fri Jan 1, 2027) with the holiday fee.",
+    "Weekday hours are still unconfirmed site-wide; the post avoids weekday times."
+  ]
+}

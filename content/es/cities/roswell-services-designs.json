@@ -1,0 +1,119 @@
+{
+  "id": "roswell-services-designs",
+  "locale": "es",
+  "pageType": "cell",
+  "city": "roswell",
+  "base": "services-designs",
+  "slug": "/es/roswell/disenos-de-cabello/",
+  "alt": "/roswell/hair-designs/",
+  "nav_label": "Diseños en el pelo · Roswell",
+  "card_text": "Diseños en el pelo desde Roswell: calcúlalos para una fecha, porque se suavizan cuando el desvanecido crece.",
+  "breadcrumb": [
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Roswell",
+      "/es/roswell/"
+    ],
+    [
+      "Diseños en el pelo",
+      "/es/roswell/disenos-de-cabello/"
+    ]
+  ],
+  "seo": {
+    "title": "Corte con diseño para Roswell, NM | Divinely Faded",
+    "description": "Diseños libres en el desvanecido para quien viene de Roswell, en Carlsbad, a unos 92 minutos por la US 285. Extra de {{addon:hair-design}}; calcúlalo para una fecha.",
+    "primary": "corte de pelo con diseño roswell nm",
+    "secondary": [
+      "corte con diseño roswell nm"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "ROSWELL / DISEÑOS",
+      "h1": "Diseños en el pelo, desde Roswell.",
+      "paragraphs": [
+        "Un diseño es una línea o una curva cortada en la parte más corta de un desvanecido (fade), y los hago en mi barbería en Carlsbad, a {{city:roswell.drive_mi}} millas al sur de Roswell por la {{city:roswell.route}}. En Booksy es un extra de {{addon:hair-design}} sobre el corte que agendes.",
+        "El detalle con un diseño es que vive en el pelo que vuelve a crecer primero, así que desde {{city:roswell.drive_min}} minutos de distancia conviene pensar en el momento antes de pensar en la forma."
+      ],
+      "link": {
+        "label": "AGENDA UN CORTE CON DISEÑO",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / EL MOMENTO",
+      "heading": "Córtalo para la fecha, no para el mes.",
+      "paragraphs": [
+        "Como las líneas quedan donde el desvanecido es más corto, se desdibujan conforme esa parte se rellena. Si vas a manejar {{city:roswell.drive_min}} minutos por la {{city:roswell.route}} (rutas de OpenStreetMap), agenda el diseño cerca de aquello para lo que lo quieres nítido: un partido, una fiesta, unas fotos. Si lo dejas más tiempo, el diseño es lo primero que se va, y eso está bien si solo lo querías una vez.",
+        "Trae una foto, o dime dónde lo quieres y qué tan llamativo, y la forma la definimos en la silla."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / NIÑOS",
+      "heading": "Muchas cabezas jóvenes.",
+      "paragraphs": [
+        "Los diseños no son cosa de una sola edad. Roswell tiene un {{city:roswell.under18_pct}} de menores de 18 y un {{city:roswell.age_20_34_pct}} de entre 20 y 34 años (Censo ACS 2023), y en mi página de diseños los dos que se hicieron en clientes pequeños, una curva de la sien a detrás de la oreja y un juego de líneas arriba de la oreja, están junto a los de adultos. Cada niño agenda su propio corte en Booksy y le agrega el diseño."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "03 / CÓMO AGENDARLO",
+      "heading": "Un corte más el extra.",
+      "lead": "El diseño se agrega a un corte, nunca se agenda solo.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "El corte y la nuca limpia, con el diseño agregado por {{addon:hair-design}}. La combinación de siempre.",
+          "book": true
+        },
+        {
+          "title": "Luxury Grooming Experience",
+          "meta": "{{price:luxury-grooming}} · {{minutes:luxury-grooming}}",
+          "body": "Ya incluye un diseño en el pelo básico, junto con el modelado de barba, el lavado, el vapor y las toallas calientes.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / PREGUNTAS",
+      "heading": "Diseños desde Roswell, en respuestas.",
+      "items": [
+        {
+          "q": "¿Cuánto cuesta un diseño en el pelo?",
+          "a": "{{addon:hair-design}} además del corte que agendes. La Luxury Grooming Experience (experiencia de arreglo de lujo) incluye uno básico."
+        },
+        {
+          "q": "¿Cuánto dura un diseño?",
+          "a": "Se suaviza conforme el pelo corto de alrededor vuelve a crecer. Cuánto tarda depende de tu pelo, y por eso lo calcularía para una fecha en lugar de contar semanas."
+        },
+        {
+          "q": "¿Puedo agendar el diseño sin corte?",
+          "a": "Es un extra, así que va con un corte. Mándame un mensaje al {{phone}} si no sabes cómo combinarlo."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "EN EL PELO",
+      "heading": "Escoge la fecha.<br>Luego las líneas.",
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
+    }
+  ]
+}

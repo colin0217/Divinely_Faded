@@ -1,0 +1,123 @@
+{
+  "id": "roswell-services-facials",
+  "locale": "es",
+  "pageType": "cell",
+  "city": "roswell",
+  "base": "services-facials",
+  "slug": "/es/roswell/faciales-para-hombres/",
+  "alt": "/roswell/mens-facials/",
+  "nav_label": "Faciales para hombres · Roswell",
+  "card_text": "Faciales desde Roswell: piel contra el aire seco, en la silla de barbero, y caben junto a un corte en un solo viaje.",
+  "breadcrumb": [
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Roswell",
+      "/es/roswell/"
+    ],
+    [
+      "Faciales para hombres",
+      "/es/roswell/faciales-para-hombres/"
+    ]
+  ],
+  "seo": {
+    "title": "Faciales para hombres para Roswell, NM | Divinely Faded",
+    "description": "Express y Deluxe Facial para quien viene de Roswell, en Carlsbad, a unos 92 minutos por la US 285. Vapor, masaje y crema hidratante para piel seca.",
+    "primary": "facial para hombres roswell nm",
+    "secondary": [
+      "faciales roswell nm"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "ROSWELL / FACIALES",
+      "h1": "Faciales para hombres, desde Roswell.",
+      "paragraphs": [
+        "Mis dos faciales se hacen en la silla de barbero de mi barbería en Carlsbad, a {{city:roswell.drive_mi}} millas al sur de Roswell por la {{city:roswell.route}}, unos {{city:roswell.drive_min}} minutos de puerta a puerta (rutas de OpenStreetMap).",
+        "Vapor, un masaje en la cara y las sienes, exfoliación y crema hidratante, en {{minutes:express-facial}} o en {{minutes:deluxe-facial}}. Lo bastante corto para compartir viaje con un corte."
+      ],
+      "link": {
+        "label": "AGENDA UN FACIAL",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / AIRE SECO",
+      "heading": "Lo que el aire de allá le hace a la piel.",
+      "paragraphs": [
+        "Roswell promedia {{city:roswell.humidity_pct}} de humedad, con una máxima de julio cerca de {{city:roswell.july_high_f}} y unos {{city:roswell.days_100f}} días al año de 100°F o más (Open-Meteo, 2023–25). Son muchos días secos y calientes sacándole humedad a tu cara. Un facial va en la dirección contraria: primero vapor tibio, luego exfoliación para quitar lo que dejó el viento, y después crema hidratante para devolverle algo. El Deluxe suma tratamientos avanzados para la piel y sérum antiedad."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "02 / CÓMO AGENDARLO",
+      "heading": "Express o Deluxe.",
+      "lead": "Dos faciales, los dos desde la silla.",
+      "items": [
+        {
+          "title": "Express Facial",
+          "meta": "{{price:express-facial}} · {{minutes:express-facial}}",
+          "body": "El rápido: limpieza profunda y exfoliación suave, con vapor, masaje y crema hidratante.",
+          "book": true
+        },
+        {
+          "title": "Deluxe Facial",
+          "meta": "{{price:deluxe-facial}} · {{minutes:deluxe-facial}}",
+          "body": "Suma tratamientos avanzados para la piel y sérum antiedad a un facial de masaje, vapor, exfoliación y crema hidratante.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / UN SOLO VIAJE",
+      "heading": "Júntalo con el corte.",
+      "paragraphs": [
+        "El punto de un camino de {{city:roswell.drive_min}} minutos es sacarle más de una cosa. Agenda un corte y un facial seguidos en Booksy, y el viaje cubre tu pelo y tu piel en una sola sesión. Si lo que más quieres es vapor y toallas calientes alrededor del corte, la Luxury Grooming Experience (experiencia de arreglo de lujo) ya trae los dos, y es una cita en lugar de dos.",
+        "Atiendo solo con cita, así que asegura los dos horarios antes de salir de Roswell. Pagas después del servicio."
+      ],
+      "photos": []
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / PREGUNTAS",
+      "heading": "Faciales desde Roswell, en respuestas.",
+      "items": [
+        {
+          "q": "¿Puedo hacerme un facial y un corte en la misma visita?",
+          "a": "Sí. Agéndalos como dos horarios seguidos en Booksy para que los tiempos cuadren."
+        },
+        {
+          "q": "¿Qué facial escojo?",
+          "a": "El Express Facial (facial exprés) de {{price:express-facial}} si quieres la renovación; el Deluxe Facial (facial deluxe) de {{price:deluxe-facial}} si quieres los tratamientos avanzados y el sérum."
+        },
+        {
+          "q": "¿Cuánto toma el camino desde Roswell?",
+          "a": "Unos {{city:roswell.drive_min}} minutos por la {{city:roswell.route}}, {{city:roswell.drive_mi}} millas, hasta {{address}}."
+        },
+        {
+          "q": "¿El facial se hace en la silla de barbero?",
+          "a": "Sí. Te recuestas en la misma silla, sin cuarto aparte ni cita en un spa."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "CUIDADO DE LA PIEL",
+      "heading": "Vapor, masaje.<br>Y luego el camino.",
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
+    }
+  ]
+}

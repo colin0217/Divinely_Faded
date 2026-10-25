@@ -1,0 +1,187 @@
+{
+  "id": "post-military-haircut",
+  "locale": "en",
+  "slug": "/blog/military-haircut/",
+  "date": "2027-01-20",
+  "plan_rank": 83,
+  "title": "Military Haircut: High and Tight vs Buzz",
+  "eyebrow": "STYLES",
+  "hero": "pexels-7468063-soldier-uniform",
+  "hero_alt": "A soldier in camouflage uniform with arms crossed, against a white wall",
+  "image_plan": "pexels: high and tight haircut",
+  "card_text": "Skin or near-skin sides with a short top, or one length all over. How the high and tight and the buzz cut differ.",
+  "lede": [
+    "A military haircut usually means one of two cuts: the high and tight or the buzz cut. A high and tight takes the sides and back down to skin or close to it, high up the head, and leaves a short patch of hair on top. A buzz cut keeps one short clipper length over the whole head. The difference is all in the sides.",
+    "Here's how the two compare, the variations in between, and how to ask for the one you want. One note up front: grooming rules for service members come from their branch, so check yours."
+  ],
+  "seo": {
+    "title": "Military Haircut: High and Tight vs Buzz | Carlsbad, NM",
+    "description": "Military haircut styles explained by a Carlsbad, NM barber: how a high and tight differs from an all-over buzz, and how to ask for each one.",
+    "primary": "military haircut",
+    "secondary": []
+  },
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Blog",
+      "/blog/"
+    ],
+    [
+      "Military Haircut",
+      "/blog/military-haircut/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / HIGH AND TIGHT",
+      "heading": "Skin on the sides, short on top.",
+      "lead": "The sharpest of the military cuts.",
+      "paragraphs": [
+        "The sides and back are taken very short, often to skin, and the short part climbs well up the head, close to where the sides start curving into the top. The hair on top stays short too, but it's noticeably longer than the sides.",
+        "The contrast is the point. From the front it looks squared off and tidy. From the side, the top sits like a short block on clean skin.",
+        "Because it starts at skin, a high and tight shows regrowth quickly on the sides. That's the trade for how sharp it looks fresh."
+      ],
+      "link": {
+        "label": "SEE THE SKIN FADE",
+        "href": "page:styles-skin-fade"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / THE BUZZ",
+      "heading": "One length, all over.",
+      "lead": "Simple by design.",
+      "paragraphs": [
+        "A buzz cut runs the same short guard over the whole head, or close to it. There's no separate patch on top and no dramatic contrast. It grows out evenly, so it looks about the same for longer.",
+        "Many people add a fade on the sides of a buzz so the edges stay crisp as it grows. Take that fade higher and shorter and it starts drifting toward a high and tight.",
+        "A buzz is also easier to keep up between visits. Anyone with clippers can run the same guard over the top. The sides of a high and tight, especially the blend from skin into hair, are much harder to manage at home. That's the practical difference most people notice after a few weeks."
+      ],
+      "link": {
+        "label": "SEE THE BUZZ CUT",
+        "href": "page:styles-buzz-cut"
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "03 / SIDE BY SIDE",
+      "heading": "High and tight vs buzz.",
+      "columns": [
+        "",
+        "High and tight",
+        "Buzz cut"
+      ],
+      "rows": [
+        [
+          "Sides",
+          "Skin or near skin, taken high",
+          "Same short length as the top, or a light fade"
+        ],
+        [
+          "Top",
+          "Short, but longer than the sides",
+          "Short, one length"
+        ],
+        [
+          "Contrast",
+          "Strong",
+          "Little to none"
+        ],
+        [
+          "Growing out",
+          "Sides show it quickly",
+          "Grows in evenly"
+        ],
+        [
+          "Overall look",
+          "Sharp and squared",
+          "Clean and simple"
+        ]
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / IN BETWEEN",
+      "heading": "Settings you can change.",
+      "lead": "Same family, different dials.",
+      "subsections": [
+        {
+          "heading": "Regulation-style taper",
+          "paragraphs": [
+            "A more conservative take: tapered sides instead of skin, a little more length on top, enough to comb. It suits workplaces with stricter dress codes."
+          ]
+        },
+        {
+          "heading": "Lower on the sides",
+          "paragraphs": [
+            "Bring the skin section down so it stops lower on the head. It keeps the military feel with less exposed scalp."
+          ]
+        },
+        {
+          "heading": "A sharp front",
+          "paragraphs": [
+            "A clean line across the front squares off the hairline and makes either cut look more deliberate."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "05 / HOW TO ASK",
+      "heading": "Say it in three parts.",
+      "lead": "Sides, top, front.",
+      "paragraphs": [
+        "Military cuts book as an Essential Haircut, {{price:essential-haircut}} for {{minutes:essential-haircut}}, which includes a straight razor neck cleanup. To get it right the first time, tell me:"
+      ],
+      "bullets": [
+        "How high the short part goes, and whether it goes to skin.",
+        "How long the top stays, in guard numbers if you know them.",
+        "Whether you want a sharp line at the front or a natural hairline."
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / QUESTIONS",
+      "heading": "Military cuts, answered.",
+      "items": [
+        {
+          "q": "What is a military haircut called?",
+          "a": "Usually a high and tight, a buzz cut or a regulation cut, depending on how short the sides go and how much is left on top."
+        },
+        {
+          "q": "Is a high and tight the same as a buzz cut?",
+          "a": "No. A high and tight has skin or near-skin sides with a short top. A buzz is one short length all over."
+        },
+        {
+          "q": "Does a high and tight meet military grooming rules?",
+          "a": "Each branch sets its own rules, so check yours before you sit down."
+        },
+        {
+          "q": "Can I get my beard done in the same visit?",
+          "a": "Yes. The Signature Cut ({{price:signature-cut}}) adds a beard trim or line-up and a hot towel finish."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "SHORT AND SHARP",
+      "heading": "High and tight.<br>Or all over.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "styles-buzz-cut",
+    "styles-skin-fade",
+    "services-haircuts"
+  ],
+  "tim_questions": [
+    "Do you take high and tights to skin with a razor, with clippers, or both? The post doesn't say.",
+    "Is there a photo of your own high and tight to use instead of stock? (cut-high-fade-short-crop is already described on the buzz cut page as close to that end.)"
+  ]
+}

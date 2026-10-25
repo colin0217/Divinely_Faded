@@ -1,0 +1,119 @@
+{
+  "id": "roswell-styles-skin-fade",
+  "locale": "es",
+  "pageType": "cell",
+  "city": "roswell",
+  "base": "styles-skin-fade",
+  "slug": "/es/roswell/skin-fade/",
+  "alt": "/roswell/skin-fade/",
+  "nav_label": "Skin fade · Roswell",
+  "card_text": "Un skin fade desde Roswell: el corte que cambia más rápido en el camino más largo, y cómo lo manejaría.",
+  "breadcrumb": [
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Roswell",
+      "/es/roswell/"
+    ],
+    [
+      "Skin Fade",
+      "/es/roswell/skin-fade/"
+    ]
+  ],
+  "seo": {
+    "title": "Skin fade para Roswell, NM | Divinely Faded, Carlsbad",
+    "description": "Skin fades para Roswell, en Carlsbad al sur por la US 285. Las cuentas honestas de la piel y el camino largo, el calor en Carlsbad y qué agendar.",
+    "primary": "skin fade roswell nm",
+    "secondary": [
+      "corte desvanecido roswell nm"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "ROSWELL / SKIN FADE",
+      "h1": "Skin fade, desde Roswell.",
+      "paragraphs": [
+        "Piel abajo, una subida suave hacia el pelo, sin escalón en ninguna parte. Un skin fade (desvanecido hasta la piel) es el corte que se ve más nítido los primeros días y te delata más pronto, y soy honesto con eso con cualquiera que venga manejando. Mi barbería está en Carlsbad, en {{address}}: desde Roswell son {{city:roswell.drive_mi}} millas por la {{city:roswell.route}} pasando por Artesia, alrededor de {{city:roswell.drive_min}} minutos (rutas de OpenStreetMap).",
+        "Así que esta página hace las cuentas contigo, habla del calor en los dos extremos del camino y te dice qué servicio elegir."
+      ],
+      "link": {
+        "label": "AGENDA UN SKIN FADE",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / LAS CUENTAS HONESTAS",
+      "heading": "La piel envejece más rápido. El camino es el más largo.",
+      "paragraphs": [
+        "Esos dos hechos jalan en direcciones opuestas. El pelo que vuelve a crecer sobre el cuero cabelludo a piel se nota en días, y la parte más baja de la transición se suaviza primero, así que un skin fade es el corte que más pide un retoque rápido. Desde Roswell, un retoque rápido son {{city:roswell.drive_min}} minutos por trayecto.",
+        "Hay tres formas de manejarlo, y te ayudo a elegir: bajar seguido y mantenerlo nítido; aceptar el look crecido durante parte de cada ciclo; o dejar que empiece el desvanecido (fade) un poco más arriba y lo difumine más largo, para que se vea intencional mientras crece."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / CALOR EN LOS DOS EXTREMOS",
+      "heading": "Vas manejando hacia aire más caliente.",
+      "paragraphs": [
+        "Roswell promedia unos {{city:roswell.days_100f}} días al año a 100°F o más; Carlsbad, donde vas a sentarte en mi silla, promedia {{city:carlsbad.days_100f}} (Open-Meteo, 2023–25). Los lados a piel son el corte que la gente busca con un calor así, porque no hay nada en los lados que guarde el sudor."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "03 / CÓMO AGENDARLO",
+      "heading": "Con barba o sin barba, eso lo decide.",
+      "lead": "Los dos incluyen el desvanecido a cualquier altura.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "Skin fade bajo, medio o alto con la parte de arriba cortada a juego, y el contorno de la nuca terminado con navaja.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "El desvanecido más la barba, desde un recorte ordenado hasta un delineado (line-up) nítido, con toalla caliente. Las sienes a piel junto a una barba completa es el look que cubre.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / PREGUNTAS",
+      "heading": "Preguntas sobre el skin fade desde el norte de la 285.",
+      "items": [
+        {
+          "q": "¿Bajo, medio o alto si solo puedo bajar de vez en cuando?",
+          "a": "Bajo o medio. Menos cuero cabelludo expuesto significa que el pelo que vuelve a crecer tiene dónde esconderse. El alto es el más atrevido ese día y el primero en verse pendiente."
+        },
+        {
+          "q": "¿Puedo agendar mi siguiente skin fade antes de manejar de regreso?",
+          "a": "Sí, y te lo sugiero. Abre Booksy mientras sigues en Carlsbad y toma la fecha que vaya con qué tan nítido te gusta mantenerlo."
+        },
+        {
+          "q": "¿Qué te muestro si quiero el de la raya marcada y la barba?",
+          "a": "Señálalo en la <a href=\"/es/estilos/skin-fade/\">página del skin fade</a>; ese corte es de mi silla. Luego dime qué tan alto quieres el desvanecido."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "SOLO CON CITA",
+      "heading": "Agenda el fade.<br>Y baja por la 285.",
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "id": "post-scalp-massage",
+  "locale": "en",
+  "slug": "/blog/scalp-massage/",
+  "date": "2026-11-24",
+  "plan_rank": 42,
+  "title": "What a Wash and Scalp Massage Adds to Your Cut",
+  "eyebrow": "GROOMING",
+  "hero": "pexels-20092123-salon-hair-wash",
+  "hero_alt": "A man with eyes closed having his hair washed at a salon basin",
+  "image_plan": null,
+  "card_text": "A clean start for the haircut and a few slow minutes in the chair. What the wash and scalp massage add-on is, and how to book it.",
+  "lede": [
+    "A wash and scalp massage gives your haircut a clean starting point and gives you a few unhurried minutes in the chair. Product, sweat and dust come out, your hair falls the way it naturally grows, and the massage is simply a good part of the visit. At my shop it's a {{addon:wash-scalp-massage}} add-on to any haircut, and it's already built into the Luxury Grooming Experience.",
+    "Here's what it actually does, what I won't claim about it, and how to add it on Booksy."
+  ],
+  "seo": {
+    "title": "What a Wash and Scalp Massage Adds | Carlsbad, NM",
+    "description": "What a wash and scalp massage adds to a haircut at Divinely Faded in Carlsbad, NM: a clean start for the cut, a slower visit, and how to book it.",
+    "primary": "scalp massage benefits",
+    "secondary": []
+  },
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Blog",
+      "/blog/"
+    ],
+    [
+      "Wash & Scalp Massage",
+      "/blog/scalp-massage/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / WHAT IT IS",
+      "heading": "Wash, then hands.",
+      "lead": "A small add-on with a big presence.",
+      "paragraphs": [
+        "The wash and scalp massage is listed on my Booksy menu as an add-on, so you can put it on top of the Essential Haircut or the Signature Cut when you book. It costs {{addon:wash-scalp-massage}}.",
+        "Your hair gets washed, and your scalp gets worked over by hand instead of just rinsed. It's part of the appointment, not a separate visit.",
+        "In the Luxury Grooming Experience, it comes standard. That service also includes facial steam, two hot towels and a fragrance finish, so the wash fits into a longer stretch of the visit spent leaning back."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / WHAT IT ADDS TO THE CUT",
+      "heading": "A clean slate.",
+      "lead": "The haircut starts from your real hair.",
+      "subsections": [
+        {
+          "heading": "Product out",
+          "paragraphs": [
+            "Gel, pomade or spray from this morning holds hair in a shape that isn't its own. Washed out, the hair shows where it grows and how it falls."
+          ]
+        },
+        {
+          "heading": "The day out",
+          "paragraphs": [
+            "Sweat, dust and a hat band all leave their mark, especially after a workday outside. A wash clears it all out."
+          ]
+        },
+        {
+          "heading": "A fresh finish",
+          "paragraphs": [
+            "You leave with hair that was cut clean and styled clean, instead of a new shape sitting on yesterday's product."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / ABOUT THE CLAIMS",
+      "heading": "What I won't promise.",
+      "lead": "No miracle on the menu.",
+      "paragraphs": [
+        "Read about scalp massage online and you'll find claims about hair growth, circulation and stress. I'm a barber, not a doctor, so I'm not going to sell you on any of that.",
+        "What I can tell you is what happens in my chair: your hair gets clean, your scalp gets real attention, and the appointment slows down for a few minutes. If that sounds good, it's worth the add-on. If you just want a fast cut, skip it.",
+        "If you have a scalp condition or any concern about your skin, that's a question for a doctor, not for a haircut appointment."
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "04 / HOW TO GET IT",
+      "heading": "Three ways in.",
+      "lead": "Pick it when you book.",
+      "items": [
+        {
+          "title": "Essential Haircut + wash",
+          "meta": "{{price:essential-haircut}} + {{addon:wash-scalp-massage}}",
+          "body": "The precision cut, a straight razor neck cleanup and a finished style, with the wash and scalp massage added on.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut + wash",
+          "meta": "{{price:signature-cut}} + {{addon:wash-scalp-massage}}",
+          "body": "The cut with a beard trim or line-up, a hot towel and razor detailing, plus the wash and scalp massage.",
+          "href": "page:services-haircuts",
+          "link_label": "SEE THE HAIRCUTS",
+          "book": true
+        },
+        {
+          "title": "Luxury Grooming Experience",
+          "meta": "{{price:luxury-grooming}} · {{minutes:luxury-grooming}}",
+          "body": "The wash and scalp massage is already included, along with a consultation, a beard sculpt, facial steam, hot towels, waxing, a basic design and a fragrance finish.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "05 / WHEN TO ADD IT",
+      "heading": "Worth it when.",
+      "lead": "Skip it on a quick lunch-break cut.",
+      "bullets": [
+        "You wear a lot of product. Heavy gel or pomade hides how your hair really sits.",
+        "You're coming straight from work outside, with a hat band, dust or sweat in your hair.",
+        "It's before something that matters, like a wedding, an interview or photos, and you want to leave fully finished.",
+        "You've got a little extra time and want the visit to feel less like an errand."
+      ],
+      "paragraphs": [
+        "It's optional, and the haircut stands on its own without it. Add it when one of these fits your visit."
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "05 / QUESTIONS",
+      "heading": "Wash questions.",
+      "items": [
+        {
+          "q": "How much is a wash and scalp massage?",
+          "a": "It's a {{addon:wash-scalp-massage}} add-on to a haircut, and it's included in the Luxury Grooming Experience."
+        },
+        {
+          "q": "What are the benefits of a scalp massage at the barber?",
+          "a": "Your hair is washed clean before the cut, the cut starts from how your hair really falls, and you get a few slow minutes in the chair. I don't make medical claims about it."
+        },
+        {
+          "q": "Can I add it to a Signature Cut?",
+          "a": "Yes. Pick the wash and scalp massage as an add-on when you book the Signature Cut on Booksy, the same way you would with the Essential."
+        },
+        {
+          "q": "Where do I find the other add-ons?",
+          "a": "Every service and add-on, with its price, is listed on the services page and on Booksy.",
+          "href": "page:services",
+          "link_label": "SEE ALL SERVICES"
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "TAKE A MINUTE",
+      "heading": "Lean back.<br>Start clean.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "services-haircuts",
+    "services"
+  ],
+  "tim_questions": [
+    "When in the appointment does the wash happen, before or after the cut? The post says it gives the cut a clean starting point.",
+    "Can the wash & scalp massage be booked without a haircut?"
+  ]
+}

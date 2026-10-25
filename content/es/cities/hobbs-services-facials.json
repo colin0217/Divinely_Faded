@@ -1,0 +1,123 @@
+{
+  "id": "hobbs-services-facials",
+  "locale": "es",
+  "pageType": "cell",
+  "city": "hobbs",
+  "base": "services-facials",
+  "slug": "/es/hobbs/faciales-para-hombres/",
+  "alt": "/hobbs/mens-facials/",
+  "nav_label": "Faciales para hombres · Hobbs",
+  "card_text": "Faciales desde Hobbs: el aire del condado de Lea, cuál facial va con el viaje y cómo agendarlo junto al corte.",
+  "breadcrumb": [
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Hobbs",
+      "/es/hobbs/"
+    ],
+    [
+      "Faciales para hombres",
+      "/es/hobbs/faciales-para-hombres/"
+    ]
+  ],
+  "seo": {
+    "title": "Faciales para hombres desde Hobbs, NM | Divinely Faded",
+    "description": "Faciales para hombres de Hobbs, en la silla de barbero en Carlsbad por la US 62/180. El Express y el Deluxe Facial, junto a tu corte en Booksy.",
+    "primary": "facial para hombres hobbs nm",
+    "secondary": [
+      "faciales hobbs nm"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "HOBBS / FACIALES",
+      "h1": "Faciales para hombres, desde Hobbs.",
+      "paragraphs": [
+        "Mis dos faciales se hacen en la silla de barbero en Carlsbad, a {{city:hobbs.drive_mi}} millas al oeste de Hobbs por la {{city:hobbs.route}}. Son más o menos {{city:hobbs.drive_min}} minutos de ida (rutas de OpenStreetMap), y por eso te recomiendo agendarlo junto a un corte y no por sí solo.",
+        "Aquí ves lo que el aire del condado de Lea le hace a tu cara, y cuál facial le va al viaje."
+      ],
+      "link": {
+        "label": "AGENDA UN FACIAL",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / EL AIRE",
+      "heading": "Seco, pero no tanto como aquí.",
+      "paragraphs": [
+        "Los datos 2023–25 de Open-Meteo le dan a Hobbs una humedad promedio de {{city:hobbs.humidity_pct}}, la menos seca de las ciudades de este sitio, junto al {{city:carlsbad.humidity_pct}} de Carlsbad, y le dan a Hobbs unas {{city:hobbs.rain_in}} pulgadas de lluvia al año frente a las {{city:carlsbad.rain_in}} de Carlsbad.",
+        "Aun así, es mucho sol y viento sobre una piel que pasa en promedio {{city:hobbs.commute_min}} minutos llegando al trabajo (Censo ACS 2023) y buena parte del día afuera. El vapor, la exfoliación y la crema hidratante son las partes del facial que responden a eso."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "02 / CÓMO AGENDARLO",
+      "heading": "Express o Deluxe.",
+      "items": [
+        {
+          "title": "Express Facial",
+          "meta": "{{price:express-facial}} · {{minutes:express-facial}}",
+          "body": "Masaje, vapor tibio, limpieza profunda, exfoliación suave y crema hidratante. Cabe junto a un corte sin estirar el día.",
+          "book": true
+        },
+        {
+          "title": "Deluxe Facial",
+          "meta": "{{price:deluxe-facial}} · {{minutes:deluxe-facial}}",
+          "body": "Masaje, vapor tibio, exfoliación suave y crema hidratante, más tratamientos avanzados para la piel y un sérum antiedad. El más largo.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / JÚNTALO",
+      "heading": "Agéndalo junto al corte.",
+      "paragraphs": [
+        "Un facial por sí solo es una razón corta para un camino largo. Agéndalo justo después de tu horario de corte en Booksy y los dos van seguidos. Si lo que más quieres es el vapor y las toallas calientes, la Luxury Grooming Experience (experiencia de arreglo de lujo) ya los incluye con el corte.",
+        "Pagas al terminar, en efectivo, tarjeta, Zelle o Cash App. Si el plan cambia, cancela con tiempo; si no llegas a tu cita sin avisar se puede cobrar un cargo por cancelación."
+      ],
+      "photos": []
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / PREGUNTAS",
+      "heading": "Faciales, preguntados desde Hobbs.",
+      "items": [
+        {
+          "q": "¿Qué facial combino con un corte desde Hobbs?",
+          "a": "El Express Facial (facial exprés) si quieres un viaje corto; el Deluxe Facial (facial deluxe) si quieres los tratamientos y el sérum."
+        },
+        {
+          "q": "¿Cuánto tardan los dos?",
+          "a": "El Express dura {{minutes:express-facial}} y el Deluxe {{minutes:deluxe-facial}}, además del tiempo de tu corte."
+        },
+        {
+          "q": "¿Tengo que preparar algo?",
+          "a": "No. Llega a tu cita como estés; el vapor y la limpieza se encargan del polvo del camino."
+        },
+        {
+          "q": "¿Qué incluye cada facial?",
+          "a": "La <a href=\"/es/servicios/faciales-para-hombres/\">página de faciales para hombres</a> describe los dos completos."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "CUIDADO DE LA PIEL",
+      "heading": "Recuéstate.<br>El camino puede esperar.",
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
+    }
+  ]
+}

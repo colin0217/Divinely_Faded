@@ -1,0 +1,125 @@
+{
+  "id": "hobbs-styles-buzz-cut",
+  "locale": "es",
+  "pageType": "cell",
+  "city": "hobbs",
+  "base": "styles-buzz-cut",
+  "slug": "/es/hobbs/buzz-cut/",
+  "alt": "/hobbs/buzz-cut/",
+  "nav_label": "Buzz cut · Hobbs",
+  "card_text": "El buzz cut desde Hobbs: el corte que menos te pide entre un viaje de 80 minutos y el siguiente.",
+  "breadcrumb": [
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Hobbs",
+      "/es/hobbs/"
+    ],
+    [
+      "Buzz Cut",
+      "/es/hobbs/buzz-cut/"
+    ]
+  ],
+  "seo": {
+    "title": "Buzz cut para Hobbs, NM | Divinely Faded, Carlsbad",
+    "description": "Buzz cut, crew cut y high and tight para Hobbs, cortados en Carlsbad a 70 millas al oeste. Un corte para turnos y cascos, con más tiempo entre viajes.",
+    "primary": "corte buzz cut hobbs nm",
+    "secondary": [
+      "corte rapado hobbs"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "HOBBS / BUZZ CUT",
+      "h1": "Buzz cut, desde Hobbs.",
+      "paragraphs": [
+        "Un solo largo de máquina en toda la cabeza, un desvanecido (fade) que sube por los lados y un delineado (line-up) cuadrado al frente. Lo corto en Carlsbad, a más o menos {{city:hobbs.drive_min}} minutos (rutas de OpenStreetMap) de una cochera en Hobbs por la {{city:hobbs.route}}.",
+        "Si tu semana es de un pozo, una planta o un campo, este es el corte que menos te pide entre una visita y otra."
+      ],
+      "link": {
+        "label": "AGENDA UN BUZZ CUT",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / EL CAMINO",
+      "heading": "Crece parejo y aguanta más tiempo.",
+      "paragraphs": [
+        "Cuando cada corte te cuesta {{city:hobbs.drive_min}} minutos en cada dirección, gana el corte que crece parejo. En un buzz cut (corte rapado) la parte de arriba casi no cambia al alargarse; lo que se desdibuja es el desvanecido y el frente cuadrado, y en la silla te digo más o menos cuándo van a empezar a perderse.",
+        "Cerca del {{city:hobbs.mining_ag_jobs_pct}} de los habitantes de Hobbs con empleo trabaja en minería, petróleo y gas o agricultura (Censo ACS 2023). Si trabajas por rotación, agenda el viaje en un día libre y no después de una jornada; el sábado abro de 8:00 AM a 2:00 PM."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / DEBAJO DEL CASCO",
+      "heading": "Nada que se aplaste, nada que arreglar.",
+      "paragraphs": [
+        "Un buzz cut sale de debajo del casco igual que entró: sin raya que acomodar ni parte de arriba que levantar. Lo único que importa después de la jornada es si el contorno sigue limpio."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "03 / CÓMO AGENDARLO",
+      "heading": "Corto, más corto, a piel.",
+      "lead": "Tres citas, según qué tan abajo quieras llegar.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "Buzz cut, crew cut o high and tight (estilo militar), con el desvanecido donde lo quieras y el contorno de la nuca limpio con navaja.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "El mismo corte corto con la barba recortada o delineada, y luego toalla caliente. Con el pelo así de corto, la barba carga el look.",
+          "book": true
+        },
+        {
+          "title": "Head & Beard Shave",
+          "meta": "{{price:head-beard-shave}} · {{minutes:head-beard-shave}}",
+          "body": "Hasta la cabeza rapada: un afeitado de cabeza de precisión y un afeitado de barba con toallas calientes y bálsamo aftershave.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / PREGUNTAS",
+      "heading": "Preguntas sobre el buzz cut desde el condado de Lea.",
+      "items": [
+        {
+          "q": "¿Cada cuánto voy a hacer el viaje desde Hobbs por un buzz cut?",
+          "a": "Menos seguido que con casi cualquier otro corte, porque el largo crece parejo; el desvanecido y el delineado marcan el ritmo. Pregúntame en la silla."
+        },
+        {
+          "q": "¿Buzz cut, crew cut o high and tight para trabajar por turnos?",
+          "a": "Cualquiera de los tres. El crew cut deja un poco más arriba si no estás seguro de la forma de tu cabeza; el high and tight es el que más luce el contorno."
+        },
+        {
+          "q": "¿Cómo se ven los tres cortes cortos?",
+          "a": "La <a href=\"/es/estilos/buzz-cut/\">página del buzz cut</a> explica el buzz cut, el crew cut y el high and tight uno junto al otro, con una foto de mi silla."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "SOLO CON CITA",
+      "heading": "Rápalo corto.<br>Manéjalo a casa.",
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
+    }
+  ]
+}

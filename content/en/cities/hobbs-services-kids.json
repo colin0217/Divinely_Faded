@@ -1,0 +1,124 @@
+{
+  "id": "hobbs-services-kids",
+  "locale": "en",
+  "pageType": "cell",
+  "city": "hobbs",
+  "base": "services-kids",
+  "slug": "/hobbs/kids-haircuts/",
+  "alt": "/es/hobbs/cortes-para-ninos/",
+  "nav_label": "Kids' haircuts · Hobbs",
+  "card_text": "Kids' haircuts from Hobbs: booking the siblings back to back and aiming for a Saturday morning.",
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Hobbs",
+      "/hobbs/"
+    ],
+    [
+      "Kids' Haircuts",
+      "/hobbs/kids-haircuts/"
+    ]
+  ],
+  "seo": {
+    "title": "Kids' Haircuts for Hobbs, NM | Divinely Faded, Carlsbad",
+    "description": "Kids' haircuts for Hobbs families, cut in Carlsbad west on US 62/180. Booking brothers and sisters back to back, and why Saturday morning works.",
+    "primary": "kids haircut hobbs nm",
+    "secondary": [
+      "boys haircut hobbs nm",
+      "kids barber hobbs nm"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "HOBBS / KIDS",
+      "h1": "Kids' haircuts, from Hobbs.",
+      "paragraphs": [
+        "Kids sit in my chair the same as adults do, and my chair is in Carlsbad: {{city:hobbs.drive_mi}} miles west of Hobbs on {{city:hobbs.route}}, about {{city:hobbs.drive_min}} minutes (OpenStreetMap routing) with a car full of kids who are behaving.",
+        "Here's how parents from Lea County can book more than one child at once, and why a Saturday morning is the time to aim for."
+      ],
+      "link": {
+        "label": "BOOK A KID'S CUT",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / A YOUNG TOWN",
+      "heading": "Book the siblings together.",
+      "paragraphs": [
+        "Hobbs is young. Census ACS 2023 puts {{city:hobbs.under18_pct}} of the city under 18, against {{city:carlsbad.under18_pct}} in Carlsbad, and counts about {{city:hobbs.k12_students}} kids enrolled in K–12 there. That's a lot of households with more than one head to cut.",
+        "Booksy has no kids' service, so each child gets a regular haircut booking. Book them back to back, and add your own cut to the run if you want one. One drive, every head done."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "02 / BOOK IT AS",
+      "heading": "What to book for a kid.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}} · Kids welcome",
+          "body": "A fade, a taper or a textured top, scaled to a smaller head, with the neck cleaned up. Book one per child.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "For the parent in the lineup: haircut with a beard trim or line-up and a hot towel.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / SATURDAY",
+      "heading": "Saturday from Hobbs.",
+      "paragraphs": [
+        "Saturday I'm open 8:00 AM to 2:00 PM. Leave Hobbs early enough for the first slots and you're home for lunch, with nobody tired yet.",
+        "If a kid has a photo of the cut they want, bring it. For lines cut in, the hair design add-on is {{addon:hair-design}}."
+      ],
+      "photos": []
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / PARENTS ASK",
+      "heading": "From Hobbs, with kids.",
+      "items": [
+        {
+          "q": "Can I book two or three kids in a row?",
+          "a": "Yes. Book each one a separate haircut on Booksy, one after the other, and text me at {{phone}} if the slots don't line up."
+        },
+        {
+          "q": "Is there a kids' price?",
+          "a": "No. Kids book the regular haircut services at the Booksy price, {{price:essential-haircut}} for the Essential Haircut."
+        },
+        {
+          "q": "What if my kid is nervous about the clippers?",
+          "a": "I work alone, so they'll see the same barber every trip. That familiarity helps more than anything."
+        },
+        {
+          "q": "Where can I see kids' cuts you've done?",
+          "a": "The <a href=\"/services/kids-haircuts/\">kids' haircuts page</a> has photos from my chair."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "KIDS WELCOME",
+      "heading": "Every kid cut.<br>One drive home.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "id": "post-mid-taper-fade",
+  "locale": "en",
+  "slug": "/blog/mid-taper-fade/",
+  "date": "2026-12-07",
+  "plan_rank": 51,
+  "title": "Mid Taper Fade: What It Is and How to Ask for One",
+  "eyebrow": "STYLES",
+  "hero": "pexels-34702982-barber-trimming-fade",
+  "hero_alt": "A barber trimming the side of a young man's hair with clippers",
+  "image_plan": "pexels: mid taper fade haircut",
+  "card_text": "A taper that climbs to the middle of the side. Where it starts, how it differs from a low taper, and the words to use in the chair.",
+  "lede": [
+    "A mid taper fade is a taper whose blend starts higher than a low taper, roughly halfway up the side of the head, level with the temple or a little above the ear. The sideburns and the nape still go short, but the gradient climbs further before it meets the length on top. It sits between the quiet low taper and the louder high fade.",
+    "Here's what it looks like, how it compares with its neighbors, and exactly what to say when you sit down in my chair."
+  ],
+  "seo": {
+    "title": "Mid Taper Fade: What It Is and How to Ask | Carlsbad, NM",
+    "description": "What a mid taper fade is, where it starts, how it compares with a low taper, and how to ask for one at Divinely Faded in Carlsbad, NM.",
+    "primary": "mid taper fade",
+    "secondary": [
+      "mid taper",
+      "what is a mid taper fade",
+      "how to ask for a mid taper fade"
+    ]
+  },
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Blog",
+      "/blog/"
+    ],
+    [
+      "Mid Taper Fade",
+      "/blog/mid-taper-fade/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / THE SHAPE",
+      "heading": "Halfway up the side.",
+      "lead": "A taper with more reach.",
+      "paragraphs": [
+        "Every taper has a starting line, the height where the hair stops being short and begins to blend into the top. On a mid taper, that line sits around the middle of the side panel. Below it, the hair gets shorter and shorter toward the ear and the neck. Above it, the length you chose for the top takes over.",
+        "What makes it a taper and not a full fade is where the shortest hair lives. The tightest work stays at the edges, the sideburn and the nape, so the cut keeps a natural outline. From the front, the sides look clean and slim without the whole panel reading as bare.",
+        "The bottom can go to skin or keep a little shadow. Both count. That choice changes how sharp the cut looks on day one more than it changes the shape."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / NEIGHBORS",
+      "heading": "Low, mid, high.",
+      "lead": "Same idea, different heights.",
+      "subsections": [
+        {
+          "heading": "Mid taper vs low taper",
+          "paragraphs": [
+            "A low taper keeps the blend down by the ear and the neckline, so most of the side holds its hair. The mid version lifts that blend toward the temple, which slims the sides more and shows more of the gradient. If the low taper feels too subtle for you, mid is the next step up."
+          ]
+        },
+        {
+          "heading": "Mid taper vs mid fade",
+          "paragraphs": [
+            "People use these names for nearly the same cut, and that's fine. When there's a difference, it's coverage: a mid fade carries the short section around the entire back of the head in one band, while a mid taper concentrates it at the edges. Bring a photo and we'll settle which one you mean."
+          ]
+        },
+        {
+          "heading": "Mid taper vs high fade",
+          "paragraphs": [
+            "A high fade starts up near the parietal ridge, the spot where the head turns from side to top. That's a lot more scalp on show. The mid taper stops well short of that, so it reads sharp without looking shaved."
+          ]
+        }
+      ],
+      "link": {
+        "label": "SEE THE LOW TAPER FADE",
+        "href": "page:styles-low-taper-fade"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / WHO IT SUITS",
+      "heading": "Where it works.",
+      "lead": "A flexible middle ground.",
+      "paragraphs": [
+        "A mid taper pairs well with a textured top, a short crop, curls left loose on top, or a longer style pushed back. Because the sides stay slim without going fully bare, the top gets more attention, which helps when the top is the part you care about.",
+        "It also handles the in-between dress codes. It's fresher than a classic taper for weekends, and still tidy enough for most jobs where a high skin fade would stand out.",
+        "If your head has a bump or a flat spot you'd rather not show, tell me before I start. A taper that starts lower keeps more hair over that area, and it's an easy adjustment to make up front."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / ASKING FOR IT",
+      "heading": "What to say.",
+      "lead": "Four details, one photo.",
+      "paragraphs": [
+        "\"Mid taper\" gets us most of the way there. These four details get us the rest of the way, and a screenshot of a cut you like covers all of them at once:"
+      ],
+      "bullets": [
+        "Height: say mid, and touch the spot on the side of your head where you want the blend to start.",
+        "Bottom: skin at the sideburn and nape, or a little shadow left.",
+        "Top: how much length comes off, and how you style it each morning.",
+        "Edges: whether you want a line-up at the temples and forehead, or a natural hairline."
+      ],
+      "link": {
+        "label": "SEE THE HAIRCUT SERVICES",
+        "href": "page:services-haircuts"
+      }
+    },
+    {
+      "type": "list",
+      "eyebrow": "05 / BOOK IT AS",
+      "heading": "Pick the service.",
+      "lead": "Same cut, different extras.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "The mid taper and the top, tailored to your style and head shape, finished with a straight razor cleanup at the neck and styled.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "The same taper plus a beard trim or line-up, a hot towel finish and straight razor detailing. Pick it when the beard or the edges need attention too.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / QUESTIONS",
+      "heading": "Mid taper, answered.",
+      "items": [
+        {
+          "q": "What is a mid taper fade?",
+          "a": "A taper whose blend starts around the middle of the side, near the temple, with the shortest hair kept at the sideburns and the nape."
+        },
+        {
+          "q": "Is a mid taper more noticeable than a low taper?",
+          "a": "Yes. The blend climbs higher, so more of the side looks short and the contrast with the top is stronger."
+        },
+        {
+          "q": "Can I get a mid taper with a beard?",
+          "a": "Book the Signature Cut. It has the beard trim or line-up built in, so the beard and the taper are finished in one visit."
+        },
+        {
+          "q": "What if I'm unsure between low and mid?",
+          "a": "Start low. Taking it up next time takes one visit. Bringing it back down means waiting for hair to grow."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "MID TAPER",
+      "heading": "Point to the spot.<br>I'll blend it.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "styles-low-taper-fade",
+    "services-haircuts",
+    "styles-skin-fade"
+  ],
+  "tim_questions": [
+    "Confirm how you define a mid taper vs a mid fade (the post says the taper keeps the shortest hair at the sideburn and nape, the fade wraps the whole back).",
+    "Does the Essential Haircut include a line-up at the temples and forehead, or is that only in the Signature Cut? The post lists the line-up as a detail to ask about and puts it under the Signature Cut.",
+    "Is there a mid taper photo of your own work we can use as the hero instead of a stock photo?"
+  ]
+}

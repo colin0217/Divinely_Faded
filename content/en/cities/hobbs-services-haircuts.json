@@ -1,0 +1,127 @@
+{
+  "id": "hobbs-services-haircuts",
+  "locale": "en",
+  "pageType": "cell",
+  "city": "hobbs",
+  "base": "services-haircuts",
+  "slug": "/hobbs/haircuts/",
+  "alt": "/es/hobbs/cortes-de-cabello/",
+  "nav_label": "Haircuts · Hobbs",
+  "card_text": "Haircuts booked from Hobbs: fitting the cut around a Lea County work week and the drive west.",
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Hobbs",
+      "/hobbs/"
+    ],
+    [
+      "Haircuts",
+      "/hobbs/haircuts/"
+    ]
+  ],
+  "seo": {
+    "title": "Men's Haircuts for Hobbs, NM | Divinely Faded, Carlsbad",
+    "description": "Men's haircuts for Hobbs clients, cut in Carlsbad west on US 62/180. Fitting the Essential, Signature or Luxury around a Lea County work week.",
+    "primary": "mens haircut hobbs nm",
+    "secondary": [
+      "haircut hobbs nm",
+      "barber shop hobbs nm"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "HOBBS / HAIRCUTS",
+      "h1": "Haircuts, booked from Hobbs.",
+      "paragraphs": [
+        "I cut hair in Carlsbad, at {{address}}, which puts my chair about {{city:hobbs.drive_mi}} miles west of Hobbs on {{city:hobbs.route}}. Call it {{city:hobbs.drive_min}} minutes each way (OpenStreetMap routing), so a haircut from Hobbs is an afternoon, not an errand.",
+        "Three haircut services are on my Booksy menu. This page is about picking the one that earns that drive."
+      ],
+      "link": {
+        "label": "BOOK A HAIRCUT",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / THE WORK WEEK",
+      "heading": "Cut around the schedule, not the other way.",
+      "paragraphs": [
+        "Census ACS 2023 puts {{city:hobbs.mining_ag_jobs_pct}} of Hobbs jobs in mining, oil and ag, a higher share than Carlsbad's {{city:carlsbad.mining_ag_jobs_pct}}. If your week runs on a rotation, a Saturday slot may be the one that holds: I'm open 8:00 AM to 2:00 PM, and an early time gets you back to Hobbs before the afternoon.",
+        "The average Hobbs commute is already {{city:hobbs.commute_min}} minutes (Census ACS 2023). Put the trip to Carlsbad on top of that and you can see why I'd rather you book once and leave with a cut that lasts."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "02 / BOOK IT AS",
+      "heading": "Three haircuts, one drive.",
+      "lead": "What Booksy holds for each.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "The cut on its own, shaped to your head, neck cleaned with a straight razor. If you keep your own beard, this is the one.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "Haircut plus a beard trim or line-up, a hot towel and razor detailing. The beard is handled in the same appointment.",
+          "book": true
+        },
+        {
+          "title": "Luxury Grooming Experience",
+          "meta": "{{price:luxury-grooming}} · {{minutes:luxury-grooming}}",
+          "body": "Consultation, cut, beard sculpt, wash and scalp massage, steam, two hot towels, a basic design, ear and nose wax, fragrance. The booking that does the most in one sitting.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / MAKE IT COUNT",
+      "heading": "Get the most out of the chair.",
+      "paragraphs": [
+        "Driving {{city:hobbs.drive_min}} minutes for a {{minutes:essential-haircut}} haircut is a fair trade for some people. If it isn't for you, book the Luxury, or add the wash, eyebrows or a design to the Essential or Signature from Booksy's add-on list.",
+        "Before you leave, grab your next date. Weekday appointments run Monday, Tuesday, Thursday and Friday; I'm closed Wednesday and Sunday."
+      ],
+      "photos": []
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / QUESTIONS",
+      "heading": "Haircuts from Hobbs, answered.",
+      "items": [
+        {
+          "q": "Which haircut service should I book from Hobbs?",
+          "a": "The Essential if you only want the cut, the Signature if your beard needs attention too, and the Luxury Grooming Experience if you want the trip to cover everything."
+        },
+        {
+          "q": "How long is the drive from Hobbs to the shop?",
+          "a": "About {{city:hobbs.drive_mi}} miles west on {{city:hobbs.route}}, roughly {{city:hobbs.drive_min}} minutes (OpenStreetMap routing)."
+        },
+        {
+          "q": "Can I get a Saturday haircut?",
+          "a": "Yes. Saturday runs 8:00 AM to 2:00 PM, by appointment on Booksy. Book ahead; the slot you see on Booksy is the one you get."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "APPOINTMENTS ONLY",
+      "heading": "Pick the cut.<br>Then drive west.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ]
+}

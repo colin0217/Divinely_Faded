@@ -1,0 +1,120 @@
+{
+  "id": "hobbs-styles-slick-back",
+  "locale": "en",
+  "pageType": "cell",
+  "city": "hobbs",
+  "base": "styles-slick-back",
+  "slug": "/hobbs/slick-back/",
+  "alt": "/es/hobbs/peinado-hacia-atras/",
+  "nav_label": "Slick back · Hobbs",
+  "card_text": "The slick back from Hobbs: a style for the days you're not under a hard hat, cut 70 miles west in Carlsbad.",
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Hobbs",
+      "/hobbs/"
+    ],
+    [
+      "Slick Back",
+      "/hobbs/slick-back/"
+    ]
+  ],
+  "seo": {
+    "title": "Slick Back for Hobbs, NM | Divinely Faded, Carlsbad",
+    "description": "Slick back haircuts for Hobbs, cut in Carlsbad about 80 minutes west on US 62/180. Length on top over a fade or taper, and an honest word about hard hats.",
+    "primary": "slick back haircut hobbs nm",
+    "secondary": [
+      "slick back fade hobbs",
+      "mens haircut hobbs nm"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "HOBBS / SLICK BACK",
+      "h1": "Slick back, from Hobbs.",
+      "paragraphs": [
+        "Length on top combed straight back over a taper or a fade. I cut it at {{address}} in Carlsbad, which from Hobbs is a {{city:hobbs.drive_mi}}-mile run west on {{city:hobbs.route}}, around {{city:hobbs.drive_min}} minutes door to door.",
+        "It's a style for people who need to look put together in the morning. Whether it survives your workday is the honest question below."
+      ],
+      "link": {
+        "label": "BOOK A SLICK BACK",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / THE JOB",
+      "heading": "Hard hats flatten it. Plan around that.",
+      "paragraphs": [
+        "About {{city:hobbs.mining_ag_jobs_pct}} of Hobbs's workers are in mining, oil and gas or agriculture (Census ACS 2023), more than Carlsbad's {{city:carlsbad.mining_ag_jobs_pct}}. If that's you and a hard hat sits on your head most of the shift, a slick back comes out of it pressed flat and sideways. I'd still cut it, but with that in mind: enough length to comb back on days off, and sides tapered close so it looks finished even with the top flattened.",
+        "If your work leaves your head uncovered, none of that applies. Comb it back, add a little product, go."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / BETWEEN VISITS",
+      "heading": "Let the top run a little long.",
+      "paragraphs": [
+        "The sides date a slick back, since they show regrowth before the top. With {{city:hobbs.drive_min}} minutes between you and my chair, a slightly longer top combs back more easily and still looks right once the taper softens. When the sides start pushing outward, book."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "03 / BOOK IT AS",
+      "heading": "With or without the beard.",
+      "lead": "Booksy prices and times.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "Sides, top and a razor-clean neckline, then combed back and styled so you leave knowing how it should sit.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "Adds the beard, shaped or lined up, and a hot towel: the match for the long-beard version on the main page.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / QUESTIONS",
+      "heading": "Slick back, asked from Hobbs.",
+      "items": [
+        {
+          "q": "Can a slick back work if I wear a hard hat all day?",
+          "a": "It works on your days off, and I can cut it so the flattened version still looks tidy. If you'd rather not fight it, a crop or a buzz suits a hard hat better."
+        },
+        {
+          "q": "Taper or fade for a slick back from Hobbs?",
+          "a": "A low taper grows out more gently, which suits a longer gap between drives. A high skin fade looks sharper and shows regrowth sooner."
+        },
+        {
+          "q": "Are there photos of the two versions?",
+          "a": "Both are on the <a href=\"/styles/slick-back/\">slick back page</a>: the long glossy one and the short one with the shaved line."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "APPOINTMENTS ONLY",
+      "heading": "Comb it back.<br>Point the car west.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ]
+}

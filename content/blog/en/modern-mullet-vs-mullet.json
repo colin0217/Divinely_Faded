@@ -1,0 +1,185 @@
+{
+  "id": "post-modern-mullet-vs-mullet",
+  "locale": "en",
+  "slug": "/blog/modern-mullet-vs-mullet/",
+  "date": "2027-01-21",
+  "plan_rank": 84,
+  "title": "Modern Mullet vs Classic Mullet",
+  "eyebrow": "STYLES",
+  "hero": "pexels-28079523-curly-mullet-profile",
+  "hero_alt": "Side profile of a curly mullet with earrings, outdoors",
+  "image_plan": null,
+  "card_text": "Faded or burst sides and a blended back versus the blunt 80s shape. How to tell them apart and ask for the one you want.",
+  "lede": [
+    "The difference between a modern mullet and a classic mullet is in the sides and the blend. A classic 80s mullet has short, blunt sides that sit flat, a short top, and a long back that simply hangs. A modern mullet fades or bursts the sides, adds texture on top, and connects the back to the rest of the cut, so it looks like one shape instead of two haircuts stacked together.",
+    "Here's how each one is built, what a burst fade adds, and how to decide how far to take it."
+  ],
+  "seo": {
+    "title": "Modern Mullet vs Classic Mullet | Carlsbad, NM",
+    "description": "Modern mullet vs classic mullet: faded or burst sides and a blended back versus the blunt 80s shape. A Carlsbad, NM barber explains the difference.",
+    "primary": "modern mullet vs mullet",
+    "secondary": []
+  },
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Blog",
+      "/blog/"
+    ],
+    [
+      "Modern vs Classic Mullet",
+      "/blog/modern-mullet-vs-mullet/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / THE CLASSIC",
+      "heading": "Business up front.",
+      "lead": "The original shape.",
+      "paragraphs": [
+        "The classic mullet is short on the top and sides and long in the back, with a clear jump between them. The sides are usually scissor-cut and blunt, sitting over the ears rather than faded down. The back hangs straight, often in a single length.",
+        "That hard step from short to long is the whole look. It's meant to be obvious, which is why it reads as a throwback today.",
+        "Classic mullets were often grown rather than designed. The top and sides got cut, the back got skipped, and that was the shape. It's part of why the classic version can look a little unplanned, and why wearing it today is usually a deliberate nod to the era."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / THE MODERN VERSION",
+      "heading": "Same idea, softer edges.",
+      "lead": "Three changes.",
+      "subsections": [
+        {
+          "heading": "Faded sides",
+          "paragraphs": [
+            "Instead of blunt sides, the modern cut fades them, sometimes high to skin like the photo above. The short part reads clean and current."
+          ]
+        },
+        {
+          "heading": "Texture on top",
+          "paragraphs": [
+            "The top keeps some length and movement instead of being cut flat, so the cut has life from the front as well as the side."
+          ]
+        },
+        {
+          "heading": "A connected back",
+          "paragraphs": [
+            "The back still carries length, but it's shaped and tied into the top. It looks like part of the haircut, not something that was left behind."
+          ]
+        }
+      ],
+      "link": {
+        "label": "SEE THE MODERN MULLET",
+        "href": "page:styles-modern-mullet"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / THE BURST",
+      "heading": "Curving the fade.",
+      "lead": "A common way to finish the sides.",
+      "paragraphs": [
+        "A burst fade arcs around the ear in a half circle and leaves weight at the back of the neck. On a mullet, that leftover weight flows straight into the tail, so the change from short to long looks natural.",
+        "It's one of the clearest signs you're looking at the modern version. A classic mullet has no fade at all."
+      ],
+      "link": {
+        "label": "SEE THE BURST FADE",
+        "href": "page:styles-burst-fade"
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "04 / SIDE BY SIDE",
+      "heading": "Classic vs modern.",
+      "columns": [
+        "",
+        "Classic mullet",
+        "Modern mullet"
+      ],
+      "rows": [
+        [
+          "Sides",
+          "Short, blunt, scissor-cut",
+          "Faded, tapered or burst"
+        ],
+        [
+          "Top",
+          "Short and flat",
+          "Textured, with movement"
+        ],
+        [
+          "Back",
+          "Long and straight, one length",
+          "Long and shaped into the cut"
+        ],
+        [
+          "Transition",
+          "A hard step",
+          "Blended"
+        ],
+        [
+          "Feel",
+          "Retro on purpose",
+          "Current"
+        ]
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "05 / PICKING ONE",
+      "heading": "Decide how loud.",
+      "lead": "Subtle or all the way.",
+      "paragraphs": [
+        "If you like the throwback, the classic shape is about blunt lines and leaving the back alone. If you want something you can wear to work, a modern mullet with a low fade and a shorter tail is the quiet end of the range.",
+        "Hair type plays a part. Wavy and curly hair softens a classic mullet on its own, while straight hair shows every blunt line. If your hair is straight and you want the modern look, the fade and the texture on top matter even more.",
+        "Either way, it's booked as a regular haircut: the Essential Haircut is {{price:essential-haircut}}. Platinum like the photo is a separate Color Transformation, {{price:color-transformation}} for {{minutes:color-transformation}}, so text me before you plan the cut and color for the same day."
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / QUESTIONS",
+      "heading": "Mullets, answered.",
+      "items": [
+        {
+          "q": "What's the difference between a mullet and a modern mullet?",
+          "a": "A modern mullet fades the sides and blends the back into the cut. A classic mullet has blunt sides and a back that just hangs."
+        },
+        {
+          "q": "Is a burst fade mullet a modern mullet?",
+          "a": "Yes. The burst is one of the most common ways to fade the sides of a modern mullet."
+        },
+        {
+          "q": "Is a wolf cut a modern mullet?",
+          "a": "No. A wolf cut is layered all over, sides included.",
+          "href": "page:post-wolf-cut-vs-mullet",
+          "link_label": "WOLF CUT VS MULLET"
+        },
+        {
+          "q": "Which mullet is easier to grow?",
+          "a": "Both start the same way: keep the sides short and let the back grow. The modern version just keeps the sides faded along the way."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "PICK YOUR ERA",
+      "heading": "Blunt or blended.<br>Your call.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "styles-modern-mullet",
+    "styles-burst-fade",
+    "services-haircuts"
+  ],
+  "tim_questions": [
+    "Do you cut the classic, blunt 80s mullet as well as the modern faded version? The post presents both without saying you do the classic.",
+    "Is the platinum mullet in color-platinum-mullet-fade your work (cut and color)?"
+  ]
+}

@@ -7,8 +7,8 @@
   "plan_rank": 15,
   "title": "Barba desvanecida: cómo unir tu barba con tu desvanecido",
   "eyebrow": "BARBA",
-  "hero": "cut-high-skin-fade-full-beard",
-  "hero_alt": "Skin fade alto con la parte de arriba rapada corta, una línea marcada con navaja arriba de la oreja y una barba tupida y cuadrada",
+  "hero": "cut-low-taper-full-beard",
+  "hero_alt": "Taper bajo a los lados que se une con una barba completa y modelada, de lado",
   "image_plan": null,
   "card_text": "Cómo la patilla conecta tu desvanecido con tu barba, cómo cambia según la altura y el largo de la barba, y qué servicio agendar.",
   "lede": [
@@ -22,9 +22,18 @@
     "secondary": []
   },
   "breadcrumb": [
-    ["Inicio", "/es/"],
-    ["Blog", "/es/blog/"],
-    ["Barba desvanecida", "/es/blog/barba-degradada/"]
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Blog",
+      "/es/blog/"
+    ],
+    [
+      "Barba desvanecida",
+      "/es/blog/barba-degradada/"
+    ]
   ],
   "blocks": [
     {

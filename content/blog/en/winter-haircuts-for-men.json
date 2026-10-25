@@ -1,0 +1,177 @@
+{
+  "id": "post-winter-haircuts-for-men",
+  "locale": "en",
+  "slug": "/blog/winter-haircuts-for-men/",
+  "date": "2027-01-27",
+  "plan_rank": 88,
+  "title": "Fall and Winter Haircuts: Keeping a Little More Length",
+  "eyebrow": "SEASONAL",
+  "hero": "pexels-40448078-beanie-snowy-forest",
+  "hero_alt": "Man in a beanie among snow-covered trees",
+  "image_plan": null,
+  "card_text": "Cooler months, hats and a bit more on top. Cuts that carry well through winter, and the edges that stay tight all year.",
+  "lede": [
+    "Fall and winter haircuts usually keep a little more length on top, so there's something to style and a bit of cover on cold mornings, while the sides, neckline and edges stay tight. A slick back, a textured crop with extra length, or a modern mullet all carry well through the cooler months. What you don't want is the whole cut drifting long, because shaggy sides and a fuzzy neckline look untidy in any season.",
+    "Here's how to adjust your cut for the colder months, a few styles that suit them, and how to live with a hat."
+  ],
+  "seo": {
+    "title": "Fall and Winter Haircuts for Men | Carlsbad, NM",
+    "description": "Fall and winter haircuts for men in Carlsbad, NM: keeping a bit more length on top for cooler months and hats, and what to keep tight all year.",
+    "primary": "winter haircuts men",
+    "secondary": [
+      "fall haircuts for men"
+    ]
+  },
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Blog",
+      "/blog/"
+    ],
+    [
+      "Winter Haircuts",
+      "/blog/winter-haircuts-for-men/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / WHY GO LONGER",
+      "heading": "A little more on top.",
+      "lead": "Cooler months, different priorities.",
+      "paragraphs": [
+        "In the heat, shorter is easier. When the weather cools, there's less reason to keep everything short, and some extra length on top gives you more ways to wear it.",
+        "Length on top also handles hats well. Very short tops show every dent a hat leaves, while a bit more length can be pushed back into shape with your fingers.",
+        "Winter here is mild compared with much of the country, but mornings still get cold. A little more hair on top makes a real difference the moment you step outside on a chilly morning.",
+        "This isn't about growing your hair out. It's about letting the top carry a touch more for a few months."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / WHAT STAYS TIGHT",
+      "heading": "Edges don't take the winter off.",
+      "lead": "The parts that make a cut look cared for.",
+      "paragraphs": [
+        "Longer on top doesn't mean longer everywhere. A tidy neckline under a coat collar is what makes a cut look fresh even when the top has grown. These stay clean all year:"
+      ],
+      "bullets": [
+        "The neckline, with collars and scarves rubbing against it.",
+        "Around the ears, where a beanie pushes hair outward.",
+        "The sideburns and the line where hair meets beard."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / STYLES FOR COLDER MONTHS",
+      "heading": "Three that carry well.",
+      "lead": "All keep some length up top.",
+      "subsections": [
+        {
+          "heading": "Slick back",
+          "paragraphs": [
+            "Length on top combed straight back over a short taper, like the photo above. It looks sharp with a coat collar, and it goes back into place quickly after a hat comes off."
+          ]
+        },
+        {
+          "heading": "Textured crop, a bit longer",
+          "paragraphs": [
+            "Keep the crop but leave extra length on top. The texture hides hat dents and still looks finished."
+          ]
+        },
+        {
+          "heading": "Modern mullet",
+          "paragraphs": [
+            "For people who want real length, cooler months are an easy time to let the back grow while the sides stay faded."
+          ]
+        }
+      ],
+      "link": {
+        "label": "SEE THE SLICK BACK",
+        "href": "page:styles-slick-back"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / HATS AND COLD MORNINGS",
+      "heading": "Living with a beanie.",
+      "lead": "General tips.",
+      "paragraphs": [
+        "Put a hat on dry hair. Damp hair takes the hat's shape and keeps it all day.",
+        "When the hat comes off, run damp fingers through the top and push it back where it goes.",
+        "Static is another winter nuisance, especially under wool hats. A damp hand or a little product over the top usually settles it.",
+        "On a cold morning, a few warm minutes in the chair don't hurt either. The wash and scalp massage add-on is {{addon:wash-scalp-massage}} with any cut."
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "05 / BOOKING",
+      "heading": "Cuts for cold weather.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "A longer top shaped to your style, the sides kept tight and a straight razor neck cleanup before it's styled.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "The same cut with the beard trimmed or lined up and a hot towel finish. A hot towel on a cold morning is hard to argue with.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / QUESTIONS",
+      "heading": "Winter cuts, answered.",
+      "items": [
+        {
+          "q": "What haircuts work well in winter?",
+          "a": "Ones with a little more length on top and clean sides, like a slick back, a longer textured crop or a modern mullet.",
+          "href": "page:styles-textured-crop",
+          "link_label": "SEE THE TEXTURED CROP"
+        },
+        {
+          "q": "Should I grow my hair longer in winter?",
+          "a": "A little more on top works well for hats and styling. Keep the sides and neckline tidy either way."
+        },
+        {
+          "q": "Do hats ruin haircuts?",
+          "a": "They flatten them for a while. Putting the hat on dry hair and keeping some length on top helps it bounce back."
+        },
+        {
+          "q": "Is a mullet a good winter cut?",
+          "a": "It's a comfortable season to grow the back while the sides stay faded.",
+          "href": "page:styles-modern-mullet",
+          "link_label": "SEE THE MODERN MULLET"
+        },
+        {
+          "q": "Are you open on holidays?",
+          "a": "Yes, at regular hours, with a {{holiday_fee}} holiday fee on the holiday itself."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "COLD MONTHS",
+      "heading": "A bit more on top.<br>Tight everywhere else.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "styles-slick-back",
+    "styles-textured-crop",
+    "styles-modern-mullet"
+  ],
+  "tim_questions": [
+    "Do your clients tend to ask for more length in fall and winter? The post doesn't claim it, but it would be a good line if true.",
+    "The hat tips are general advice. OK as written?"
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "id": "post-how-to-grow-a-mullet",
+  "locale": "en",
+  "slug": "/blog/how-to-grow-a-mullet/",
+  "date": "2027-01-12",
+  "plan_rank": 77,
+  "title": "How to Grow a Mullet: Stages and Timeline",
+  "eyebrow": "STYLES",
+  "hero": "pexels-5337944-hair-back-view-nape",
+  "hero_alt": "Back view of hair left longer at the nape than on the sides",
+  "image_plan": "pexels: man mullet haircut grow out",
+  "card_text": "Keep the sides tight, leave the back alone. What gets cut at each stage so a mullet grows in without a shaggy middle.",
+  "lede": [
+    "To grow a mullet, keep the sides and top under control while you leave the back completely alone. The back is the only part that needs real length, so every visit along the way trims around it, never into it. Hair grows roughly half an inch a month, so from a short cut the back usually needs a few months before it reads as a mullet. How long exactly depends on where you start and how long you want the tail.",
+    "Here's how the grow-out goes stage by stage, what gets cut at each one, and how to keep the middle from looking like an overdue haircut."
+  ],
+  "seo": {
+    "title": "How to Grow a Mullet: Stages and Timeline | Carlsbad, NM",
+    "description": "How to grow a mullet from short hair, from a Carlsbad, NM barber: what to cut and what to leave at each stage so the back grows without an awkward phase.",
+    "primary": "how to grow a mullet",
+    "secondary": [
+      "how long does it take to grow a mullet"
+    ]
+  },
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Blog",
+      "/blog/"
+    ],
+    [
+      "Growing a Mullet",
+      "/blog/how-to-grow-a-mullet/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / THE PLAN",
+      "heading": "Cut around the back.",
+      "lead": "One rule runs the whole grow-out.",
+      "paragraphs": [
+        "Most mullet attempts stall the same way: everything gets long together, and for a while you just look shaggy. The fix is to treat the head as three zones from day one. The sides stay short, the top gets shaped, and the back is off limits.",
+        "Because the sides stay tight the whole time, the contrast that defines a mullet starts to show long before the back is finished. That contrast is what carries you through the middle months."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / STAGE BY STAGE",
+      "heading": "From short to tail.",
+      "lead": "Lengths, not dates. Everyone's hair moves at its own pace.",
+      "subsections": [
+        {
+          "heading": "Starting short",
+          "paragraphs": [
+            "From a buzz or a short fade, the back has nothing to show yet. Keep the sides tidy and let the top and back grow. At this point it simply looks like a fresh short cut."
+          ]
+        },
+        {
+          "heading": "Reaching the neck",
+          "paragraphs": [
+            "Once the hair at the nape starts creeping down the neck, the shape begins to appear. The sides get faded or tapered again, the top gets some texture, and the back is cleaned only at the very edges, if at all."
+          ]
+        },
+        {
+          "heading": "Over the collar",
+          "paragraphs": [
+            "When the back sits on or past your collar, you have a mullet. From here the job is shaping: deciding how far the tail goes and keeping it connected to the rest of the cut."
+          ]
+        },
+        {
+          "heading": "Choosing your finish",
+          "paragraphs": [
+            "Some people stop at a short, subtle back. Others keep going for a real tail. You can stop at any stage once the balance looks right to you."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / THE AWKWARD MIDDLE",
+      "heading": "Getting through it.",
+      "lead": "Habits that keep it looking intentional.",
+      "paragraphs": [
+        "The middle stage is where most grow-outs end early. A few things help:"
+      ],
+      "bullets": [
+        "Keep the sides tight. Short sides are what make longer hair in back look deliberate.",
+        "Don't trim the back at home. Evening it out usually costs you the length you've been waiting for.",
+        "Give the top some texture so it doesn't sit flat against a longer back.",
+        "Say you're growing a mullet every time you sit down, so the back stays untouched."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / HAIR TYPE",
+      "heading": "Wave, curl or straight.",
+      "lead": "The same plan at different speeds.",
+      "paragraphs": [
+        "Wavy and curly hair tends to look like a mullet sooner, because the back bends into a shape on its own. Curly hair also shrinks as it dries, so it can take longer to show length than straight hair of the same measurement.",
+        "Straight hair needs more length before the back moves and looks finished, and in the middle stage it can lie flat against the neck. Texture on top and a clean fade on the sides do more of the work there.",
+        "If platinum is part of the plan, like the modern mullet on my style page, color is booked separately as a Color Transformation. Text me before planning both."
+      ],
+      "link": {
+        "label": "SEE THE MODERN MULLET",
+        "href": "page:styles-modern-mullet"
+      }
+    },
+    {
+      "type": "list",
+      "eyebrow": "05 / BOOKING IT",
+      "heading": "What to book along the way.",
+      "lead": "Each grow-out visit is a regular cut.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "Sides faded or tapered, the top shaped, the back left alone or cleaned at the edges, and the cut finished and styled. This covers most grow-out visits.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "The same grow-out work plus a beard trim or line-up, a hot towel finish and straight razor detailing.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / QUESTIONS",
+      "heading": "Mullet grow-out, answered.",
+      "items": [
+        {
+          "q": "How long does it take to grow a mullet?",
+          "a": "It depends on your starting length and how long you want the back. From a short cut, expect a few months before it reads as a mullet."
+        },
+        {
+          "q": "Should I cut my sides while growing a mullet?",
+          "a": "Yes. Short sides are what make the back look like a mullet instead of a haircut that's overdue."
+        },
+        {
+          "q": "Can I grow a mullet with straight hair?",
+          "a": "Yes. It needs a bit more length in back before it moves and looks finished."
+        },
+        {
+          "q": "What do I tell the barber?",
+          "a": "Say you're growing a mullet and the back is off limits, then say how short you want the sides.",
+          "href": "page:services-haircuts",
+          "link_label": "SEE HAIRCUTS"
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "THE GROW-OUT",
+      "heading": "Tight sides.<br>Let the back grow.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "styles-modern-mullet",
+    "services-haircuts"
+  ],
+  "tim_questions": [
+    "Do you cut mullet grow-outs this way (sides kept short, top shaped, back left alone)? The post describes it as general practice.",
+    "The growth rate 'roughly half an inch a month' is general knowledge, not your number. OK to keep?",
+    "Do you have a photo of a mullet grow-out of your own to use instead of a stock photo?"
+  ]
+}

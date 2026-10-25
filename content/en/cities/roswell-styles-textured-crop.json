@@ -1,0 +1,119 @@
+{
+  "id": "roswell-styles-textured-crop",
+  "locale": "en",
+  "pageType": "cell",
+  "city": "roswell",
+  "base": "styles-textured-crop",
+  "slug": "/roswell/textured-crop/",
+  "alt": "/es/roswell/crop-texturizado/",
+  "nav_label": "Textured crop · Roswell",
+  "card_text": "A textured crop for Roswell: pieces that hold in dry air, a fringe that tells you when to drive down.",
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Roswell",
+      "/roswell/"
+    ],
+    [
+      "Textured Crop",
+      "/roswell/textured-crop/"
+    ]
+  ],
+  "seo": {
+    "title": "Textured Crop for Roswell, NM | Divinely Faded, Carlsbad",
+    "description": "Textured crops and French crops for Roswell, cut in Carlsbad south on US 285. Why dry air suits the cut, how the fringe sets your return, and booking.",
+    "primary": "textured crop roswell nm",
+    "secondary": [
+      "french crop roswell nm",
+      "haircuts in roswell nm"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "ROSWELL / TEXTURED CROP",
+      "h1": "Textured crop, from Roswell.",
+      "paragraphs": [
+        "A short top cut so it falls into separate pieces, pushed forward into a stubby fringe, over sides that are tapered or faded. The textured crop is a cut you style with your fingers in the time it takes the coffee to pour. I cut it in Carlsbad at {{address}}, {{city:roswell.drive_mi}} miles south of Roswell; the drive is {{city:roswell.route}} through Artesia, about {{city:roswell.drive_min}} minutes (OpenStreetMap routing).",
+        "What follows is about the climate you'll wear it in, the built-in reminder that tells you when to come back, and which booking covers it."
+      ],
+      "link": {
+        "label": "BOOK A TEXTURED CROP",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / DRY AIR, SEPARATE PIECES",
+      "heading": "The climate does half the styling.",
+      "paragraphs": [
+        "Humidity in Roswell averages about {{city:roswell.humidity_pct}} (Open-Meteo, 2023–25). In damp places a crop's pieces clump and flatten by lunchtime; in air this dry they tend to stay separated the way I cut them, which is why the crop is such a low-effort cut out here."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / THE BUILT-IN REMINDER",
+      "heading": "When the fringe reaches your eyebrows, book.",
+      "paragraphs": [
+        "A crop carries its own clock. The fade on the sides blurs first, then the fringe creeps down until it lands on your brows and the shape is gone. From Roswell, don't wait for the brows: once the sides look soft, open Booksy and set the next {{city:roswell.drive_min}}-minute trip, because by the time you arrive the front will be ready for it too."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "03 / BOOK IT AS",
+      "heading": "A crop is a precision cut.",
+      "lead": "Say French crop if you want the fringe blunt instead of broken up.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "Top cut into pieces, fringe set, sides tapered or faded, neckline done by straight razor, then styled forward so you see how it lands.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "The crop with your beard trimmed or lined up under a hot towel. Sensible if you'd rather not make a separate trip for the beard.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / QUESTIONS",
+      "heading": "Crop questions from Roswell.",
+      "items": [
+        {
+          "q": "Textured crop or French crop for someone who hates fussing with hair?",
+          "a": "Either; both take seconds. The textured version hides a missed morning better because it's meant to look uneven. The <a href=\"/styles/textured-crop/\">textured crop page</a> shows the two side by side."
+        },
+        {
+          "q": "How short should the sides be if I can't come back often?",
+          "a": "Keep them at a low fade or a taper. A high skin fade makes the top pop but shows regrowth sooner, and you're {{city:roswell.drive_mi}} miles from the fix."
+        },
+        {
+          "q": "Will a crop work on my bigger forehead?",
+          "a": "That's one of the things it does well. The fringe comes forward and covers part of it, where a slick back would show all of it."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "APPOINTMENTS ONLY",
+      "heading": "Book the crop.<br>Drive it down 285.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ]
+}

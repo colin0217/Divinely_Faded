@@ -1,0 +1,131 @@
+{
+  "id": "artesia-services-haircuts",
+  "locale": "en",
+  "pageType": "cell",
+  "city": "artesia",
+  "base": "services-haircuts",
+  "slug": "/artesia/haircuts/",
+  "alt": "/es/artesia/cortes-de-cabello/",
+  "nav_label": "Haircuts · Artesia",
+  "card_text": "Three haircut services for anyone driving down from Artesia: which to book and how to fit the trip around work.",
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Artesia",
+      "/artesia/"
+    ],
+    [
+      "Haircuts",
+      "/artesia/haircuts/"
+    ]
+  ],
+  "seo": {
+    "title": "Men's Haircuts for Artesia, NM | Divinely Faded, Carlsbad",
+    "description": "Men's haircuts for Artesia, cut by Tim in Carlsbad about 44 minutes south on US 285. Which of the three services to book and how to fit it around work.",
+    "primary": "mens haircut artesia nm",
+    "secondary": [
+      "haircut artesia nm",
+      "barber artesia nm"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "ARTESIA / HAIRCUTS",
+      "h1": "Haircuts, from Artesia.",
+      "paragraphs": [
+        "Three haircut services, all cut by me in Carlsbad, not in Artesia. The shop sits {{city:artesia.drive_mi}} miles south on {{city:artesia.route}}, about {{city:artesia.drive_min}} minutes door to door (OpenStreetMap routing), the closest of the three cities on these pages.",
+        "Below: which of the three to book, how the drive fits a work week, and when to set the next one."
+      ],
+      "link": {
+        "label": "BOOK A HAIRCUT",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / THE WORK WEEK",
+      "heading": "Cuts that survive a hard hat.",
+      "paragraphs": [
+        "In Artesia, {{city:artesia.mining_ag_jobs_pct}} of jobs are in mining, oil and gas or agriculture (Census ACS 2023). If that's your week, you want hair that holds under a hard hat and asks nothing of you in the morning: the Essential Haircut, my shortest full service.",
+        "Another {{city:artesia.age_20_34_pct}} of Artesia is between 20 and 34 (Census ACS 2023). At that age a lined-up beard is often part of the ask, which is the Signature Cut.",
+        "Saturday runs 8:00 AM to 2:00 PM. If a rotation eats your weekdays, an early Saturday slot gets you cut and back on 285 with most of the day still ahead of you."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "02 / THE THREE",
+      "heading": "Decide before you leave Artesia.",
+      "lead": "Prices and times from my Booksy menu. Add about {{city:artesia.drive_min}} minutes each way.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "The cut by itself: shaped to your head, straight razor on the neckline, a quick style, done. Book it when the beard isn't part of the visit.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "Adds a beard trim or line-up and closes with a hot towel. One drive from Artesia takes care of the hair and the beard together.",
+          "book": true
+        },
+        {
+          "title": "Luxury Grooming Experience",
+          "meta": "{{price:luxury-grooming}} · {{minutes:luxury-grooming}}",
+          "body": "Cut, beard sculpt, wash and scalp massage, steam, two hot towels, a basic design and more. If you're driving down anyway, this booking uses the trip fully.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / THE RETURN TRIP",
+      "heading": "Set the next one before you go.",
+      "paragraphs": [
+        "A {{city:artesia.drive_min}}-minute drive is short, but not short enough to make for a cut that's already past the point you liked. Pick the gap that suits your hair and put the next date on Booksy while you're still in the chair."
+      ],
+      "photos": []
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / FROM ARTESIA",
+      "heading": "Haircut questions from Artesia.",
+      "items": [
+        {
+          "q": "Which haircut should I book if I work in the oilfield?",
+          "a": "Any of the three. Short and easy: the Essential Haircut. Beard needs lining up too: the Signature Cut. Mention the hard hat when you sit down and we'll talk through how short to go on the sides."
+        },
+        {
+          "q": "How long is the drive from Artesia?",
+          "a": "About {{city:artesia.drive_min}} minutes and {{city:artesia.drive_mi}} miles down {{city:artesia.route}} to {{address}}."
+        },
+        {
+          "q": "Can I come after work on a weekday?",
+          "a": "Weekday appointments are Monday, Tuesday, Thursday and Friday; Booksy shows the latest open time each day. Wednesday and Sunday I'm closed."
+        },
+        {
+          "q": "Do I need an appointment?",
+          "a": "Yes. I only cut by appointment, so grab a time on Booksy before you head down. The <a href=\"/services/haircuts/\">haircuts page</a> has the full menu."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "APPOINTMENTS ONLY",
+      "heading": "Book the cut.<br>Then head south on 285.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "id": "artesia-styles-curly-top-fade",
+  "locale": "en",
+  "pageType": "cell",
+  "city": "artesia",
+  "base": "styles-curly-top-fade",
+  "slug": "/artesia/curly-top-fade/",
+  "alt": "/es/artesia/curly-top-fade/",
+  "nav_label": "Curly top fade · Artesia",
+  "card_text": "Curly top fades for Artesia kids and adults: siblings back to back, one trip down 285.",
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Artesia",
+      "/artesia/"
+    ],
+    [
+      "Curly Top Fade",
+      "/artesia/curly-top-fade/"
+    ]
+  ],
+  "seo": {
+    "title": "Curly Top Fade for Artesia, NM | Divinely Faded, Carlsbad",
+    "description": "Curly top fades for Artesia families and adults, cut in Carlsbad about {{city:artesia.drive_min}} minutes south on US 285. Book the kids back to back and make one trip of it.",
+    "primary": "curly top fade artesia nm",
+    "secondary": [
+      "curly hair fade artesia nm",
+      "kids fade artesia nm"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "ARTESIA / CURLY TOP FADE",
+      "h1": "Curly top fade, from Artesia.",
+      "paragraphs": [
+        "Natural curls left to move on top, the sides faded to skin so the texture above looks fuller. It's a cut I do on grown men and on kids, and I do it in Carlsbad: {{city:artesia.drive_mi}} miles south of Artesia on {{city:artesia.route}}, about {{city:artesia.drive_min}} minutes by OpenStreetMap routing.",
+        "Because the trip costs the same whether one person gets cut or four, this page is mostly about making it count."
+      ],
+      "link": {
+        "label": "BOOK A CURLY TOP FADE",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "01 / WHAT TO BOOK",
+      "heading": "Each head gets its own slot.",
+      "lead": "From my Booksy menu. Kids book the same haircut services.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}} · Kids welcome",
+          "body": "Curls shaped on top, sides faded, neckline finished with a straight razor.",
+          "book": true
+        },
+        {
+          "title": "Perm",
+          "meta": "{{price:perm}} · {{minutes:perm}}",
+          "body": "For straight hair that wants curl before a curly top can happen. A longer sitting, so plan the afternoon.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / A TOWN FULL OF KIDS",
+      "heading": "Book the siblings in a row.",
+      "paragraphs": [
+        "This is a cut I do on kids and on men in their twenties and thirties alike, and Artesia has plenty of both: Census ACS 2023 counts {{city:artesia.k12_students}} kids enrolled in K–12, and {{city:artesia.age_20_34_pct}} of the town is 20 to 34. So if you're a parent driving down, odds are you're not driving alone. Book each child their own appointment back to back with yours, and everyone leaves with a fresh fade from a single trip. A photo of the fade height you want for each kid saves time in the chair."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / THE SIDES SET THE PACE",
+      "heading": "Curls forgive. Skin doesn't.",
+      "paragraphs": [
+        "On top, a few weeks of growth just reads as more curl. The faded sides are where you'll notice the cut aging, since regrowth shows against bare skin. From Artesia, that's the part worth timing: ask me how long the sides will hold, then put the next date on Booksy before the {{city:artesia.drive_min}}-minute drive home. A low fade keeps more hair on the sides and buys a little more room between visits."
+      ],
+      "photos": []
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / QUESTIONS",
+      "heading": "Curly hair, Artesia questions.",
+      "items": [
+        {
+          "q": "How young can my kid be for a curly top fade?",
+          "a": "If they can sit still for the clippers, I'll cut it. Parents pick the haircut on Booksy; it's the same menu as adults."
+        },
+        {
+          "q": "Is one appointment enough for two kids?",
+          "a": "No. Each child needs their own booking so I have the full time for each cut. Book them back to back."
+        },
+        {
+          "q": "What fade height do you suggest for school?",
+          "a": "Low keeps it soft and grows out gently. Higher gives more contrast. The <a href=\"/styles/curly-top-fade/\">curly top fade page</a> shows a high one."
+        },
+        {
+          "q": "Can I get curls if my hair is straight?",
+          "a": "A perm adds the texture first. Text me at {{phone}} before booking so we plan it right."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "APPOINTMENTS ONLY",
+      "heading": "Book every seat.<br>Drive down once.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ]
+}

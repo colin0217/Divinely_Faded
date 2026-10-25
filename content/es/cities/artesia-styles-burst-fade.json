@@ -1,0 +1,124 @@
+{
+  "id": "artesia-styles-burst-fade",
+  "locale": "es",
+  "pageType": "cell",
+  "city": "artesia",
+  "base": "styles-burst-fade",
+  "slug": "/es/artesia/burst-fade/",
+  "alt": "/artesia/burst-fade/",
+  "nav_label": "Burst fade · Artesia",
+  "card_text": "Burst fade para Artesia: por qué el arco le va a un pueblo joven y cómo calcular el viaje por la 285.",
+  "breadcrumb": [
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Artesia",
+      "/es/artesia/"
+    ],
+    [
+      "Burst Fade",
+      "/es/artesia/burst-fade/"
+    ]
+  ],
+  "seo": {
+    "title": "Burst fade para Artesia, NM | Divinely Faded, Carlsbad",
+    "description": "Burst fade para quienes vienen de Artesia, en Carlsbad, a unos {{city:artesia.drive_min}} minutos al sur por la US 285. Cómo crece el arco y cómo agendar en Booksy.",
+    "primary": "corte burst fade artesia nm",
+    "secondary": [
+      "burst fade artesia",
+      "barbería artesia nm"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "ARTESIA / BURST FADE",
+      "h1": "Burst fade, desde Artesia.",
+      "paragraphs": [
+        "El burst es la media luna de piel al descubierto que se curva alrededor de la oreja y se abre hacia atrás, con la parte de atrás de la cabeza más llena. Mi silla está en Carlsbad, no en Artesia: {{city:artesia.drive_mi}} millas por la {{city:artesia.route}}, unos {{city:artesia.drive_min}} minutos de puerta a puerta según la ruta de OpenStreetMap.",
+        "Si vas a hacer ese viaje por este corte, esto es lo que me gustaría que supieras antes de agendar."
+      ],
+      "link": {
+        "label": "AGENDA UN BURST FADE",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / UN PUEBLO JOVEN",
+      "heading": "Hecho para los estilos que se usan en Artesia.",
+      "paragraphs": [
+        "Artesia tiene una edad mediana de {{city:artesia.median_age}}, más joven que los {{city:carlsbad.median_age}} de Carlsbad (Censo ACS 2023). Lo menciono porque el burst casi nunca va solo: es el desvanecido (fade) que va debajo del curly top, del faux hawk (cresta) y del mullet, cortes que se inclinan a lo joven. Si vas en esa dirección, un burst deja peso en la nuca, justo donde esas formas lo necesitan, y yo puedo ajustar el arco al largo que estés dejando crecer atrás."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / EL ARCO Y EL CAMINO",
+      "heading": "La oreja es el reloj.",
+      "paragraphs": [
+        "El pelo justo alrededor de la oreja es lo que va más corto, así que ahí es donde el burst empieza a perder definición. El pelo más largo de atrás casi no cambia entre visitas. Con {{city:artesia.drive_min}} minutos de ida, prefiero que no adivines: dime qué tan nítido quieres el arco y te sugiero un intervalo que te funcione. Luego toma ese siguiente horario en Booksy antes de salir de Carlsbad.",
+        "Una razón más para mantener el arco cerrado en verano: Artesia registra unos {{city:artesia.days_100f}} días al año de 100°F o más (Open-Meteo, 2023–25), y la piel al descubierto alrededor de la oreja es un lugar menos donde se queda ese calor."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "03 / CÓMO AGENDARLO",
+      "heading": "Elige uno en Booksy.",
+      "lead": "Los precios y tiempos salen de mi menú en Booksy.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "Burst, parte de arriba y parte de atrás, con el contorno de la nuca terminado con navaja y el corte peinado antes de que te vayas.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "Suma el trabajo de barba, un recorte o un delineado (line-up), y una toalla caliente. El indicado para el look completo con vello facial.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / PREGUNTAS",
+      "heading": "Burst fade, edición Artesia.",
+      "items": [
+        {
+          "q": "¿Vale la pena el viaje desde Artesia por un burst fade?",
+          "a": "Eso lo decides tú. El viaje es de unos {{city:artesia.drive_min}} minutos de ida, y yo atiendo solo con cita, así que vas a saber tu hora exacta en la silla antes de salir."
+        },
+        {
+          "q": "¿Puedo hacerme un burst fade con mullet en una sola visita?",
+          "a": "Sí. El burst fade mullet es un solo corte, y se agenda como Essential Haircut (corte esencial) o como Signature Cut (corte distintivo) según si tu barba necesita trabajo."
+        },
+        {
+          "q": "¿Se nota el burst en pelo lacio?",
+          "a": "Sí, con un contorno más suave que en pelo chino. Normalmente le corto algo de textura a la parte de arriba para que no quede plana contra el arco."
+        },
+        {
+          "q": "¿Dónde hay fotos de tus burst fades?",
+          "a": "En la <a href=\"/es/estilos/burst-fade/\">página del burst fade</a>, desde la oreja y por detrás."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "SOLO CON CITA",
+      "heading": "Agenda el burst.<br>Luego baja por la 285.",
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
+    }
+  ]
+}

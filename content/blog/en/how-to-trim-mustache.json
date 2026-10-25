@@ -1,0 +1,184 @@
+{
+  "id": "post-how-to-trim-mustache",
+  "locale": "en",
+  "slug": "/blog/how-to-trim-mustache/",
+  "date": "2027-02-08",
+  "plan_rank": 96,
+  "title": "How to Trim a Mustache Between Visits",
+  "eyebrow": "BEARDS",
+  "hero": "pexels-7697315-barber-trimming-mustache",
+  "hero_alt": "A barber trimming a reclined client's mustache with scissors",
+  "image_plan": "pexels: mustache trim scissors",
+  "card_text": "Comb it down, clear the lip line, leave the shape to your barber. A careful home mustache trim in a few small steps.",
+  "lede": [
+    "To trim a mustache between visits, comb it straight down, then cut only the hairs that hang past your upper lip, working from the center out to each corner. Leave the overall shape, the bulk and the outline for your barber. Most home mustache trims go wrong by cutting too much, so take a little, check in the mirror, and stop sooner than you think you should.",
+    "Here's the setup, the step-by-step, the tools that make it easier, and what to leave alone."
+  ],
+  "seo": {
+    "title": "How to Trim a Mustache Between Visits | Carlsbad, NM",
+    "description": "How to trim a mustache between barber visits: comb it down, trim the lip line, and leave the shape to your barber. Simple steps from Carlsbad, NM.",
+    "primary": "how to trim mustache",
+    "secondary": []
+  },
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Blog",
+      "/blog/"
+    ],
+    [
+      "Trimming a Mustache",
+      "/blog/how-to-trim-mustache/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / BEFORE YOU START",
+      "heading": "Dry, combed, good light.",
+      "lead": "Setup matters.",
+      "paragraphs": [
+        "Start with a clean mustache. Food and product weigh hairs down so they look shorter than they are.",
+        "Trim a dry mustache. Wet hair looks longer and lies differently, so it's easy to take off more than you meant.",
+        "Comb the hair straight down over your lip with a fine-toothed comb. That shows you exactly which hairs hang past the line.",
+        "Stand in good, direct light and keep your face relaxed. Smiling or pressing your lips together moves the lip line while you cut."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / THE TRIM",
+      "heading": "Lip line first.",
+      "lead": "Step by step.",
+      "subsections": [
+        {
+          "heading": "Clear the lip line",
+          "paragraphs": [
+            "With small scissors, or a trimmer with no guard held flat, cut the hairs hanging over the edge of the upper lip. Start in the middle and work out toward one corner, then the other."
+          ]
+        },
+        {
+          "heading": "Check the corners",
+          "paragraphs": [
+            "The corners grow down toward the mouth. Trim them to follow your lip, not to change the shape of the mustache."
+          ]
+        },
+        {
+          "heading": "Look straight on",
+          "paragraphs": [
+            "Step back and compare the two sides. Even them up in tiny cuts. A snip on one side often calls for a snip on the other, so go slowly."
+          ]
+        },
+        {
+          "heading": "Stray hairs",
+          "paragraphs": [
+            "Clip any long single hairs sticking out from the top or the ends. Leave the bulk alone."
+          ]
+        },
+        {
+          "heading": "Finish with a check",
+          "paragraphs": [
+            "Comb it again and look once more in good light. Any hair still hanging over the lip gets one more snip; anything else waits."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / TOOLS",
+      "heading": "Small and sharp.",
+      "lead": "General picks.",
+      "paragraphs": [
+        "Small, sharp grooming scissors give the most control on the lip line. A trimmer without a guard works too, held flat so it doesn't dig in.",
+        "A fine-toothed comb is the other must-have. A mustache that isn't combed straight down can't be trimmed straight.",
+        "Keep the scissors for grooming only so the blades stay sharp. Dull blades fold hairs instead of cutting them. A small mirror you can hold close helps with the corners."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / LEAVE IT TO THE CHAIR",
+      "heading": "What not to touch.",
+      "lead": "The parts that set the style.",
+      "paragraphs": [
+        "A mustache reshaped at home usually ends up smaller than intended, because each correction takes a little more.",
+        "Keeping the lip clear is a home job. Shaping is easier with someone else holding the scissors. Leave these for your appointment:"
+      ],
+      "bullets": [
+        "Changing the overall shape, like squaring or rounding the ends.",
+        "Thinning out the bulk.",
+        "The outline above the mustache and where it meets the beard.",
+        "Anything you'd need a second mirror to see."
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "05 / BOOKING",
+      "heading": "Mustache and beard, done properly.",
+      "items": [
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "A haircut plus a beard trim or line-up, with a hot towel finish and straight razor detailing around the edges, mustache included.",
+          "href": "page:services-beard-shaves",
+          "link_label": "SEE BEARD SERVICES",
+          "book": true
+        },
+        {
+          "title": "Straight Razor Beard Shave",
+          "meta": "{{price:straight-razor-beard-shave}} · {{minutes:straight-razor-beard-shave}}",
+          "body": "For when it's all coming off: hot towels, shaving cream, the razor and a soothing aftershave.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / QUESTIONS",
+      "heading": "Mustache trims, answered.",
+      "items": [
+        {
+          "q": "How do I trim my mustache without messing it up?",
+          "a": "Trim it dry, comb it straight down, cut only what hangs over the lip, and work in small snips from the center out."
+        },
+        {
+          "q": "Should I trim my mustache wet or dry?",
+          "a": "Dry. Wet hair looks longer and lies differently, so you'd end up cutting more than you meant."
+        },
+        {
+          "q": "Scissors or a trimmer?",
+          "a": "Either. Small scissors give the most control on the lip line."
+        },
+        {
+          "q": "What about the rest of the beard?",
+          "a": "The neckline and cheek line follow the same idea: hold the lines that were set.",
+          "href": "page:post-how-to-shape-a-beard",
+          "link_label": "SHAPING A BEARD"
+        },
+        {
+          "q": "Can I book only a mustache trim?",
+          "a": "Beard work is part of the Signature Cut on Booksy. For anything else, text me at {{phone}} and ask."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "LIP LINE",
+      "heading": "Comb down.<br>Trim light.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "services-beard-shaves",
+    "services-haircuts"
+  ],
+  "tim_questions": [
+    "The steps and tools are general advice, not yours. Do you recommend anything different for home mustache trims?",
+    "Can clients book a mustache-only or beard-only trim? The post tells them to text and ask.",
+    "Is the mustache detailed as part of the Signature Cut's beard trim or line-up? The post says 'mustache included'."
+  ]
+}

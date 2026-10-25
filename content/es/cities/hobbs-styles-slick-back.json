@@ -1,0 +1,119 @@
+{
+  "id": "hobbs-styles-slick-back",
+  "locale": "es",
+  "pageType": "cell",
+  "city": "hobbs",
+  "base": "styles-slick-back",
+  "slug": "/es/hobbs/peinado-hacia-atras/",
+  "alt": "/hobbs/slick-back/",
+  "nav_label": "Peinado hacia atrás · Hobbs",
+  "card_text": "El peinado hacia atrás desde Hobbs: un estilo para los días sin casco, cortado a 70 millas al oeste en Carlsbad.",
+  "breadcrumb": [
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Hobbs",
+      "/es/hobbs/"
+    ],
+    [
+      "Peinado hacia atrás",
+      "/es/hobbs/peinado-hacia-atras/"
+    ]
+  ],
+  "seo": {
+    "title": "Peinado hacia atrás para Hobbs, NM | Divinely Faded",
+    "description": "Peinado hacia atrás (slick back) para Hobbs, en Carlsbad a unos 80 minutos al oeste. Largo arriba sobre fade o taper, y la verdad sobre el casco.",
+    "primary": "peinado hacia atrás hombre hobbs nm",
+    "secondary": [
+      "corte slick back hobbs"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "HOBBS / PEINADO HACIA ATRÁS",
+      "h1": "Peinado hacia atrás, desde Hobbs.",
+      "paragraphs": [
+        "Largo arriba, peinado recto hacia atrás (slick back) sobre un taper o un desvanecido (fade). Lo corto en {{address}}, en Carlsbad, que desde Hobbs es un tramo de {{city:hobbs.drive_mi}} millas al oeste por la {{city:hobbs.route}}, alrededor de {{city:hobbs.drive_min}} minutos de puerta a puerta.",
+        "Es un estilo para quien necesita verse arreglado en la mañana. Si sobrevive a tu jornada es la pregunta honesta de abajo."
+      ],
+      "link": {
+        "label": "AGENDA UN PEINADO HACIA ATRÁS",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / EL TRABAJO",
+      "heading": "El casco lo aplasta. Planea con eso en mente.",
+      "paragraphs": [
+        "Cerca del {{city:hobbs.mining_ag_jobs_pct}} de los trabajadores de Hobbs están en minería, petróleo y gas o agricultura (Censo ACS 2023), más que el {{city:carlsbad.mining_ag_jobs_pct}} de Carlsbad. Si ese eres tú y el casco va puesto casi toda la jornada, un peinado hacia atrás sale de ahí aplastado y de lado. Aun así te lo corto, pero con eso en mente: suficiente largo para peinarlo hacia atrás en los días libres, y los lados con taper bien corto para que se vea terminado aunque lo de arriba esté aplastado.",
+        "Si en tu trabajo llevas la cabeza descubierta, nada de eso aplica. Péinalo hacia atrás, un poco de producto y listo."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / ENTRE VISITAS",
+      "heading": "Deja lo de arriba un poco largo.",
+      "paragraphs": [
+        "Los lados delatan el tiempo en un peinado hacia atrás, porque muestran el pelo que vuelve a crecer antes que la parte de arriba. Con {{city:hobbs.drive_min}} minutos entre tú y mi silla, lo de arriba un poco más largo se peina hacia atrás con más facilidad y sigue viéndose bien cuando el taper se suaviza. Cuando los lados empiecen a empujar hacia afuera, agenda."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "03 / CÓMO AGENDARLO",
+      "heading": "Con barba o sin ella.",
+      "lead": "Precios y tiempos de Booksy.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "Lados, parte de arriba y contorno de la nuca limpio con navaja, y luego lo peino hacia atrás para que salgas sabiendo cómo debe quedar.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "Suma la barba, con forma o con delineado (line-up), y toalla caliente: lo que va con la versión de barba larga de la página principal.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / PREGUNTAS",
+      "heading": "Peinado hacia atrás, preguntado desde Hobbs.",
+      "items": [
+        {
+          "q": "¿Un peinado hacia atrás funciona si traigo casco todo el día?",
+          "a": "Funciona en tus días libres, y puedo cortarlo para que la versión aplastada se siga viendo ordenada. Si prefieres no pelear con él, un crop o un buzz cut van más con el casco."
+        },
+        {
+          "q": "¿Taper o desvanecido para un peinado hacia atrás desde Hobbs?",
+          "a": "Un taper bajo crece con más suavidad, y eso va bien con más tiempo entre viajes. Un skin fade alto se ve más marcado y muestra antes el pelo que vuelve a crecer."
+        },
+        {
+          "q": "¿Hay fotos de las dos versiones?",
+          "a": "Las dos están en la <a href=\"/es/estilos/peinado-hacia-atras/\">página del peinado hacia atrás</a>: la larga y brillante y la corta con la línea marcada."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "SOLO CON CITA",
+      "heading": "Péinalo hacia atrás.<br>Apunta el coche al oeste.",
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
+    }
+  ]
+}

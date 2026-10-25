@@ -1,0 +1,127 @@
+{
+  "id": "artesia-services-braids",
+  "locale": "es",
+  "pageType": "cell",
+  "city": "artesia",
+  "base": "services-braids",
+  "slug": "/es/artesia/trenzas/",
+  "alt": "/artesia/braids/",
+  "nav_label": "Trenzas · Artesia",
+  "card_text": "Trenzas desde Artesia: manda el estilo por mensaje, libera un bloque largo y por qué las filas van con el calor seco.",
+  "breadcrumb": [
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Artesia",
+      "/es/artesia/"
+    ],
+    [
+      "Trenzas",
+      "/es/artesia/trenzas/"
+    ]
+  ],
+  "seo": {
+    "title": "Trenzas para hombre desde Artesia, NM | Divinely Faded",
+    "description": "Trenzas para hombre de Artesia, con Tim en Carlsbad, a unos 44 minutos por la US 285. Manda una foto primero, libera un bloque y planea el calor.",
+    "primary": "trenzas para hombre artesia nm",
+    "secondary": [
+      "trenzas pegadas artesia nm"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "ARTESIA / TRENZAS",
+      "h1": "Trenzas, desde Artesia.",
+      "paragraphs": [
+        "Hago trenzas en Carlsbad, a {{city:artesia.drive_mi}} millas al sur de Artesia por la {{city:artesia.route}}, alrededor de {{city:artesia.drive_min}} minutos por cada lado (rutas de OpenStreetMap). Un peinado de trenzas es una de las sesiones más largas de mi menú, y eso cambia cómo planeas el viaje.",
+        "Define el estilo por mensaje, elige un horario que puedas soltar por completo, y el camino se vuelve la parte fácil."
+      ],
+      "link": {
+        "label": "AGENDA TRENZAS",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / ANTES DEL VIAJE",
+      "heading": "Acuerda el peinado por mensaje.",
+      "paragraphs": [
+        "En Booksy aparece como Braids, con precio variable, porque el precio sigue al peinado: cuántas filas, si se juntan en la coronilla, si quieres anillos en las puntas. Manda una foto al {{phone}} y te digo cuánto sale ese estilo antes de que te comprometas con el camino.",
+        "Desde Artesia eso evita un viaje perdido: nadie quiere {{city:artesia.drive_min}} minutos de carretera para enterarse de que el estilo necesita más largo del que tiene."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "02 / LA CITA",
+      "heading": "Un servicio, un bloque largo.",
+      "lead": "Booksy separa el tiempo completo para un peinado.",
+      "items": [
+        {
+          "title": "Braids",
+          "meta": "{{price:braids}} · {{minutes:braids}}",
+          "body": "Un peinado de trenzas personalizado, sobre un desvanecido (fade) o taper si lo quieres. Booksy bloquea {{minutes:braids}}, así que elige un horario sin nada esperando después.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / EL CALOR",
+      "heading": "Las filas te quitan el pelo del cuello.",
+      "paragraphs": [
+        "Artesia tiene más o menos {{city:artesia.days_100f}} días al año de 100°F o más, con una humedad que promedia alrededor de {{city:artesia.humidity_pct}} (Open-Meteo, 2023–25). Las trenzas sujetan el pelo pegado al cuero cabelludo y un desvanecido abajo deja los lados al descubierto, así que hay menos sobre tu cuello en un verano así. Un aire tan seco también reseca el cuero cabelludo bajo las filas, así que ponle aceite entre lavados y el peinado dura más."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / CUENTAS DEL SÁBADO",
+      "heading": "Hazlo una mañana.",
+      "paragraphs": [
+        "Trenzas más el viaje redondo es la mayor parte de media jornada. El sábado abro a las 8:00 AM, así que el primer horario de la mañana te pone de regreso por la 285 hacia Artesia mucho antes de la tarde, con el resto del fin de semana intacto.",
+        "Un horario de trenzas perdido me cuesta volver a llenarlo, así que si cambian tus planes, cancela en Booksy lo antes que puedas. Por una cancelación de último momento o por no llegar a tu cita se puede cobrar un cargo."
+      ],
+      "photos": []
+    },
+    {
+      "type": "faq",
+      "eyebrow": "05 / PREGUNTAS",
+      "heading": "Trenzas desde Artesia, en respuestas.",
+      "items": [
+        {
+          "q": "¿Cuánto cuestan las trenzas?",
+          "a": "Lo mismo desde Artesia que desde la calle de enfrente: varía según el estilo. Mándame una foto primero y pregúntame."
+        },
+        {
+          "q": "¿Cuánto dura el viaje completo?",
+          "a": "Más o menos {{city:artesia.drive_min}} minutos de bajada, {{minutes:braids}} en la silla, {{city:artesia.drive_min}} minutos de regreso. Libera el bloque."
+        },
+        {
+          "q": "¿Se pueden desvanecer los lados en la misma visita?",
+          "a": "Sí. La mayoría de los peinados de la <a href=\"/es/servicios/trenzas/\">página de trenzas</a> van sobre un desvanecido o taper. El desvanecido crece antes que las trenzas, así que los lados pueden traerte de regreso antes que las filas."
+        },
+        {
+          "q": "¿Cómo pago?",
+          "a": "Al terminar el peinado: efectivo, tarjeta, Zelle o Cash App."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "TRENZAS",
+      "heading": "Manda la foto.<br>Y agenda la mañana.",
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
+    }
+  ]
+}

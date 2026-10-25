@@ -1,0 +1,126 @@
+{
+  "id": "hobbs-styles-modern-mullet",
+  "locale": "en",
+  "pageType": "cell",
+  "city": "hobbs",
+  "base": "styles-modern-mullet",
+  "slug": "/hobbs/modern-mullet/",
+  "alt": "/es/hobbs/mullet-moderno/",
+  "nav_label": "Modern mullet · Hobbs",
+  "card_text": "Growing a modern mullet from Hobbs: how to space the shaping trips, and when color makes the drive pay.",
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Hobbs",
+      "/hobbs/"
+    ],
+    [
+      "Modern Mullet",
+      "/hobbs/modern-mullet/"
+    ]
+  ],
+  "seo": {
+    "title": "Modern Mullet for Hobbs, NM | Divinely Faded, Carlsbad",
+    "description": "Modern mullet and burst fade mullet for Hobbs, cut in Carlsbad 70 miles west. A mullet is grown over several trips; how to plan them, plus platinum color.",
+    "primary": "modern mullet hobbs nm",
+    "secondary": [
+      "mullet haircut hobbs nm",
+      "burst fade mullet hobbs"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "HOBBS / MODERN MULLET",
+      "h1": "Modern mullet, from Hobbs.",
+      "paragraphs": [
+        "Tight faded sides, a textured top and honest length in back. I cut modern mullets in Carlsbad; from Hobbs it's {{city:hobbs.route}} the whole way, {{city:hobbs.drive_mi}} miles and about {{city:hobbs.drive_min}} minutes by OpenStreetMap routing.",
+        "A mullet is grown as much as it's cut, so from Lea County it's a project spread over several trips. This page is about spacing them."
+      ],
+      "link": {
+        "label": "BOOK A MULLET",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / THE GROW",
+      "heading": "Several trips, one tail.",
+      "paragraphs": [
+        "Starting from short hair, the back needs months to clear the collar while the sides stay tight. Each shaping visit is another {{city:hobbs.drive_min}} minutes each way, so I'd rather space them out than see you every time the fade softens: let the sides go a little looser and come in when the back needs its shape corrected.",
+        "Once the tail is where you want it, the sides set the pace again."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / COLOR DAY",
+      "heading": "Platinum turns the drive into a day.",
+      "paragraphs": [
+        "If you want the platinum version on the main mullet page, the Color Transformation runs {{minutes:color-transformation}}. Add the cut and you've filled most of an afternoon, the kind of appointment that justifies a {{city:hobbs.drive_mi}}-mile trip. Text {{phone}} before booking cut and color together so I can block the time in one piece."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "03 / BOOK IT AS",
+      "heading": "Cut, beard, bleach.",
+      "lead": "Prices and times come from my Booksy menu.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "Sides faded, back shaped, top textured, with a straight razor along the neck and a finished style. Also the booking for a burst fade mullet.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "The mullet plus your beard, trimmed or lined up, and a hot towel. A full beard balances the length in back.",
+          "book": true
+        },
+        {
+          "title": "Color Transformation",
+          "meta": "{{price:color-transformation}} · {{minutes:color-transformation}}",
+          "body": "Bleach and tone to platinum or the shade you have in mind. Its own service, its own block of time.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / QUESTIONS",
+      "heading": "Mullet questions from Hobbs.",
+      "items": [
+        {
+          "q": "How many trips from Hobbs does growing a mullet take?",
+          "a": "Depends on your starting length. From a short cut, expect a few shaping visits while the back catches up; we'll map them out at the first one."
+        },
+        {
+          "q": "Can I get the cut and the platinum color on one trip?",
+          "a": "Yes, if you text me first so I can book the two back to back. Plan on the better part of an afternoon."
+        },
+        {
+          "q": "Where can I see both versions?",
+          "a": "The <a href=\"/styles/modern-mullet/\">modern mullet page</a> has the platinum one and the dark, curly burst fade mullet."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "APPOINTMENTS ONLY",
+      "heading": "Grow the tail.<br>Plan the trips.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ]
+}

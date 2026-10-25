@@ -6,8 +6,8 @@
   "plan_rank": 19,
   "title": "Comb Over vs Side Part vs Hard Part",
   "eyebrow": "STYLES",
-  "hero": "cut-skin-fade-hard-part-beard",
-  "hero_alt": "Skin fade with a short top, sharp line-up, a thin razor line above the sideburn and a full beard",
+  "hero": "pexels-12706272-side-part-beard",
+  "hero_alt": "Side profile of a combed side part with a trimmed beard",
   "image_plan": null,
   "card_text": "Two parts you comb and one you cut in: how a side part, a comb over and a hard part differ, and which suits your mornings.",
   "lede": [
@@ -23,9 +23,18 @@
     ]
   },
   "breadcrumb": [
-    ["Home", "/"],
-    ["Blog", "/blog/"],
-    ["Comb Over vs Side Part", "/blog/comb-over-vs-side-part/"]
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Blog",
+      "/blog/"
+    ],
+    [
+      "Comb Over vs Side Part",
+      "/blog/comb-over-vs-side-part/"
+    ]
   ],
   "blocks": [
     {
@@ -33,12 +42,37 @@
       "eyebrow": "01 / SIDE BY SIDE",
       "heading": "Three ways to wear a part.",
       "lead": "Read down a column to see one style.",
-      "columns": ["", "Side part", "Comb over", "Hard part"],
+      "columns": [
+        "",
+        "Side part",
+        "Comb over",
+        "Hard part"
+      ],
       "rows": [
-        ["The part", "Combed in", "Soft, or none", "Shaved in"],
-        ["The sides", "Scissors or a fade", "Usually faded short", "Usually faded"],
-        ["Each morning", "Comb the line", "Sweep the top across", "The line holds itself"],
-        ["As it grows", "Softens slowly", "Sides go first", "Line fills in first"]
+        [
+          "The part",
+          "Combed in",
+          "Soft, or none",
+          "Shaved in"
+        ],
+        [
+          "The sides",
+          "Scissors or a fade",
+          "Usually faded short",
+          "Usually faded"
+        ],
+        [
+          "Each morning",
+          "Comb the line",
+          "Sweep the top across",
+          "The line holds itself"
+        ],
+        [
+          "As it grows",
+          "Softens slowly",
+          "Sides go first",
+          "Line fills in first"
+        ]
       ],
       "paragraphs": [
         "All three can sit on the same fade. What separates them is how the part is made and how much you do in the mirror each day."

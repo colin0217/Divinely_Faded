@@ -1,0 +1,120 @@
+{
+  "id": "hobbs-styles-low-taper-fade",
+  "locale": "en",
+  "pageType": "cell",
+  "city": "hobbs",
+  "base": "styles-low-taper-fade",
+  "slug": "/hobbs/low-taper-fade/",
+  "alt": "/es/hobbs/low-taper-fade/",
+  "nav_label": "Low taper fade · Hobbs",
+  "card_text": "The low taper from Hobbs: the fade that grows out most gently, so the 80-minute drive comes around less often.",
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Hobbs",
+      "/hobbs/"
+    ],
+    [
+      "Low Taper Fade",
+      "/hobbs/low-taper-fade/"
+    ]
+  ],
+  "seo": {
+    "title": "Low Taper Fade for Hobbs, NM | Divinely Faded, Carlsbad",
+    "description": "Low and mid taper fades for Hobbs, cut in Carlsbad about 80 minutes west. The fade that minds the distance least, and how to book it on Booksy.",
+    "primary": "low taper fade hobbs nm",
+    "secondary": [
+      "taper fade hobbs nm",
+      "mid taper hobbs"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "HOBBS / LOW TAPER FADE",
+      "h1": "Low taper fade, from Hobbs.",
+      "paragraphs": [
+        "A low taper tidies only the sideburns, the edge around the ear and the neckline, and leaves the rest of the head alone. I cut it in Carlsbad. Hobbs to my door is {{city:hobbs.drive_mi}} miles on {{city:hobbs.route}}, and the routing puts it near {{city:hobbs.drive_min}} minutes (OpenStreetMap routing).",
+        "Of every fade on my menu, this is the one that minds that distance least."
+      ],
+      "link": {
+        "label": "BOOK A LOW TAPER",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / THE GAP",
+      "heading": "Least skin, gentlest grow-out, fewest trips.",
+      "paragraphs": [
+        "A skin fade shows stubble against bare scalp within days. A low taper has very little skin to show, so the regrowth melts into the hair above it instead of standing out. At {{city:hobbs.drive_min}} minutes each way, that difference is the difference between a cut you maintain monthly and one you can let ride.",
+        "If you'd like to see me less often and still look tidy in between, ask for the taper low with some length on the sides; I'll set the neckline so it's the last thing to blur."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / LOW OR MID",
+      "heading": "Mid buys contrast. Low buys time.",
+      "paragraphs": [
+        "A mid taper starts around the temple and takes more of the side down, so it looks sharper on the day and shows growth sooner. From Hobbs I'd lean low unless you have a reason to want the contrast. The top is yours either way, from a short crop to the longer combed style on the main taper page."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "03 / BOOK IT AS",
+      "heading": "Both services cover a taper.",
+      "lead": "From my Booksy menu.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "The taper, the top and a straight razor pass at the neckline, then styled so you see how it sits before the drive back.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "Pick this if the beard is due as well: a trim or a line-up, closed with a hot towel.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / QUESTIONS",
+      "heading": "Taper questions, Hobbs answers.",
+      "items": [
+        {
+          "q": "Does a low taper really mean fewer drives from Hobbs?",
+          "a": "Usually. With so little skin showing it stays presentable longer than a skin fade; how long depends on your hair, and I'll estimate it in the chair."
+        },
+        {
+          "q": "Is a low taper too subtle for short hair?",
+          "a": "No. On a short top it keeps the outline neat without making the sides look shaved, so the cut stays balanced."
+        },
+        {
+          "q": "Where are the photos of a low and a mid taper?",
+          "a": "On the <a href=\"/styles/low-taper-fade/\">low taper fade page</a>, with a side view and a back view."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "APPOINTMENTS ONLY",
+      "heading": "Keep the length.<br>Skip a trip.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ]
+}

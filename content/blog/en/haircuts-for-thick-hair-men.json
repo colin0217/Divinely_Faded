@@ -1,0 +1,166 @@
+{
+  "id": "post-haircuts-for-thick-hair-men",
+  "locale": "en",
+  "slug": "/blog/haircuts-for-thick-hair-men/",
+  "date": "2026-12-17",
+  "plan_rank": 59,
+  "title": "Haircuts for Thick Hair: Taking Out Weight the Right Way",
+  "eyebrow": "STYLES",
+  "hero": "pexels-842569-thick-hair-leather-jacket",
+  "hero_alt": "Man in a leather jacket with thick, swept-up hair and a short beard",
+  "image_plan": null,
+  "card_text": "Thick hair puffs out at the sides and sits up on top. How tapered sides and a textured top get it to lie down.",
+  "lede": [
+    "The secret to a good haircut for thick hair is controlling where the bulk sits. Take the sides and back down with a taper or fade so the head doesn't look wide, then remove weight from inside the top with texture work so it lies down instead of puffing up. Thick hair is a gift in a barber chair. It just needs the weight taken out in the right places.",
+    "Here's where thick hair causes trouble, the cuts that handle it well, and what to tell me when you sit down."
+  ],
+  "seo": {
+    "title": "Haircuts for Thick Hair (Men) | Carlsbad, NM",
+    "description": "Haircuts for thick hair, from a Carlsbad, NM barber: tapering the sides and texturizing the top so heavy hair sits down instead of puffing out.",
+    "primary": "haircuts for thick hair men",
+    "secondary": []
+  },
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Blog",
+      "/blog/"
+    ],
+    [
+      "Haircuts for Thick Hair",
+      "/blog/haircuts-for-thick-hair-men/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / THE PROBLEM",
+      "heading": "Where thick hair fights back.",
+      "lead": "Three spots give it away.",
+      "subsections": [
+        {
+          "heading": "The sides",
+          "paragraphs": [
+            "Dense hair above the ears grows outward before it grows down. A few weeks after a cut, the head starts to look wider, sometimes with a shelf sticking out over the ear."
+          ]
+        },
+        {
+          "heading": "The crown",
+          "paragraphs": [
+            "Thick hair at the crown tends to stand up, especially where it grows in a swirl. Cut too short, it sticks straight out. Left too long and heavy, it bulges."
+          ]
+        },
+        {
+          "heading": "The top",
+          "paragraphs": [
+            "A heavy top lifts off the scalp and holds a helmet shape. Product struggles to hold it down, because the weight keeps pushing it up and out."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / THE FIX",
+      "heading": "Short sides, lighter top.",
+      "lead": "Two moves do most of the work.",
+      "paragraphs": [
+        "First, take the bulk off the sides and back. A taper or a fade removes the hair that pushes the silhouette outward, so the head reads slimmer and the top becomes the focus. The more stubborn the sides, the higher it can go.",
+        "Second, thin the top from the inside rather than just cutting it shorter. Texture work removes weight within the hair while leaving the length you see, so the top keeps its shape but collapses into place instead of standing up. Short, choppy layers also break up a solid block of hair so it moves.",
+        "Getting the balance right matters. Take too much out and thick hair turns frizzy and thin at the ends. Take too little and nothing changes. That's why it's worth telling me how your hair behaves a week after a cut, not just how it looks today."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / CUTS THAT WORK",
+      "heading": "Styles built for density.",
+      "lead": "Thick hair carries these well.",
+      "subsections": [
+        {
+          "heading": "Heavy textured fringe",
+          "paragraphs": [
+            "The cut at the top of this post: a long, textured top swept forward over a low taper around the ear. The fringe uses the weight on purpose, and the texture keeps it from looking like a bowl."
+          ]
+        },
+        {
+          "heading": "Textured crop",
+          "paragraphs": [
+            "A shorter top with plenty of texture and a fade underneath. Thick hair holds a crop's shape without much styling, which makes it a practical everyday cut."
+          ]
+        },
+        {
+          "heading": "Low taper with length",
+          "paragraphs": [
+            "For people who want to keep more hair, a low taper tidies the edges while texture work lightens the top. It's the subtle option."
+          ]
+        }
+      ],
+      "link": {
+        "label": "SEE THE TEXTURED FRINGE",
+        "href": "page:styles-textured-fringe"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / IN THE CHAIR",
+      "heading": "What to tell me.",
+      "lead": "How your hair acts, not only how it looks.",
+      "bullets": [
+        "Where it puffs out first as it grows: above the ears, the crown, the back.",
+        "Whether the top stands up or falls forward when you leave it alone.",
+        "How much time you give it in the morning, and whether you use product.",
+        "Whether you want the fade to show, or just want the sides slimmed down."
+      ],
+      "paragraphs": [
+        "Thick hair is booked like any other cut: the Essential Haircut is {{price:essential-haircut}} for {{minutes:essential-haircut}}, tailored to your style and head shape. To get the weight right, these four things help me most:"
+      ],
+      "link": {
+        "label": "COMPARE THE LOW TAPER",
+        "href": "page:styles-low-taper-fade"
+      }
+    },
+    {
+      "type": "faq",
+      "eyebrow": "05 / QUESTIONS",
+      "heading": "Thick hair, answered.",
+      "items": [
+        {
+          "q": "What's a good haircut for thick hair?",
+          "a": "One that slims the sides with a taper or fade and lightens the top with texture, like a textured fringe or a textured crop."
+        },
+        {
+          "q": "Should thick hair be cut short?",
+          "a": "Not necessarily. Removing weight matters more than removing length. A thick top can stay long if the bulk inside it is taken out."
+        },
+        {
+          "q": "Why does my hair puff out at the sides?",
+          "a": "Dense hair grows outward before it lies flat. A taper or fade keeps that area short so it can't build a shelf."
+        },
+        {
+          "q": "Can thick hair have a beard to match?",
+          "a": "Book the Signature Cut ({{price:signature-cut}}) and the beard is trimmed or lined up in the same visit."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "THICK HAIR",
+      "heading": "Less weight.<br>Same length.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "styles-textured-fringe",
+    "styles-low-taper-fade",
+    "styles-textured-crop"
+  ],
+  "tim_questions": [
+    "Which tools do you use to take weight out of thick hair (thinning shears, point cutting, a razor)? The post says 'texture work' without naming a technique.",
+    "Confirm the hero cut-taper-heavy-fringe is thick hair, as the post presents it."
+  ]
+}

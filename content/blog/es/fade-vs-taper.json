@@ -7,8 +7,8 @@
   "plan_rank": 22,
   "title": "Fade vs taper: la diferencia explicada desde la silla",
   "eyebrow": "ESTILOS",
-  "hero": "cut-taper-textured-top",
-  "hero_alt": "Crop texturizado corto con un delineado (line-up) nítido al frente y un taper llevado hasta la piel alrededor de la oreja",
+  "hero": "pexels-39559305-barber-neckline-taper",
+  "hero_alt": "La mano de un barbero sosteniendo la cabeza de un cliente desde atrás, con los lados desvanecidos y la nuca a la vista",
   "image_plan": null,
   "card_text": "Un taper arregla los bordes. Un desvanecido baja todo el lado. Cómo distinguirlos y cuál pedir.",
   "lede": [
@@ -22,9 +22,18 @@
     "secondary": []
   },
   "breadcrumb": [
-    ["Inicio", "/es/"],
-    ["Blog", "/es/blog/"],
-    ["Fade vs taper", "/es/blog/fade-vs-taper/"]
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Blog",
+      "/es/blog/"
+    ],
+    [
+      "Fade vs taper",
+      "/es/blog/fade-vs-taper/"
+    ]
   ],
   "blocks": [
     {

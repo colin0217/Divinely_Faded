@@ -1,0 +1,157 @@
+{
+  "id": "post-graduation-haircut",
+  "locale": "en",
+  "slug": "/blog/graduation-haircut/",
+  "date": "2026-11-09",
+  "plan_rank": 31,
+  "title": "Graduation Haircuts: Timing the Cut for the Ceremony and Photos",
+  "eyebrow": "SEASONAL",
+  "hero": "pexels-15093007-graduate-cap-gown",
+  "hero_alt": "A smiling graduate in cap and gown holding a diploma",
+  "image_plan": null,
+  "card_text": "Senior pictures and the ceremony are two dates, so plan two cuts. What shows under a cap, and which service to book.",
+  "lede": [
+    "Book your graduation haircut for a few days before the ceremony, not the morning of. By then the edges have lost that raw, just-cut look, and the fade still reads sharp in every photo. If senior pictures happen on a different date, give them their own cut, timed the same way.",
+    "Here's how to plan around both dates, what still shows once the cap goes on, and which service to pick."
+  ],
+  "seo": {
+    "title": "Graduation Haircuts: Timing the Cut | Carlsbad, NM",
+    "description": "Graduation haircuts in Carlsbad, NM: when to book before senior pictures and the ceremony, what shows under a cap, and which cut to book.",
+    "primary": "graduation haircut",
+    "secondary": [
+      "senior picture haircut"
+    ]
+  },
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Blog",
+      "/blog/"
+    ],
+    [
+      "Graduation Haircuts",
+      "/blog/graduation-haircut/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / TWO DATES",
+      "heading": "Pictures, then the ceremony.",
+      "lead": "Plan each one on its own.",
+      "paragraphs": [
+        "Senior pictures and graduation day rarely fall in the same week. One haircut can't carry both, because by the second date the fade has filled in and the line-up has gone soft.",
+        "So treat them as two appointments. Once the photographer gives you a date, book a cut a few days ahead of it. When the school announces the ceremony, do the same thing again.",
+        "If the two dates sit close together, one cut may cover the pair. Text me both dates and we can work out whether a single appointment stretches that far."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / UNDER THE CAP",
+      "heading": "What the camera sees.",
+      "lead": "The cap covers most of the top.",
+      "paragraphs": [
+        "A mortarboard sits flat on the crown, so whatever you do with the top mostly disappears in the ceremony shots. What shows is everything below it: the sides, the line-up at the forehead and temples, the neckline, and the beard if you have one.",
+        "That makes clean sides worth more than a tall top. A skin fade or a low taper reads clearly under a cap, and a crisp line-up frames the face in close-ups with family.",
+        "A hard part, a line shaved where your hair naturally parts, stays visible on the side even with the cap on. It's also a sharp detail for senior pictures, where you'll be capless.",
+        "Leave a lot of length up top and the cap can press it into a shape you didn't plan. If you love your volume, let it be the star of the photos without the cap."
+      ],
+      "link": {
+        "label": "SEE THE HARD PART",
+        "href": "page:styles-hard-part"
+      }
+    },
+    {
+      "type": "list",
+      "eyebrow": "03 / BOOK IT AS",
+      "heading": "Pick the service.",
+      "lead": "Every one starts with the same precision cut.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "The haircut, a straight razor cleanup at the neck and a finished style. Enough for a grad with a clean-shaven face.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "Adds a beard trim or line-up, a hot towel and razor detailing. Choose it when facial hair will be in the pictures.",
+          "book": true
+        },
+        {
+          "title": "Luxury Grooming Experience",
+          "meta": "{{price:luxury-grooming}} · {{minutes:luxury-grooming}}",
+          "body": "Consultation, cut, beard sculpt, wash, facial steam, two hot towels, waxing, a basic design and a fragrance finish. A full reset for the day you worked toward.",
+          "book": true
+        },
+        {
+          "title": "Younger grads",
+          "body": "Finishing elementary or middle school? Kids book from the same menu as everyone else, so the Essential Haircut covers a kid's graduation cut.",
+          "href": "page:services-kids",
+          "link_label": "KIDS' HAIRCUTS"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / BOOKING",
+      "heading": "Get on the calendar early.",
+      "lead": "One barber, one chair.",
+      "paragraphs": [
+        "I work solo, so every appointment comes out of one chair's week. When the ceremony date is announced, book right away instead of waiting for graduation week.",
+        "Saturdays run 8:00 AM to 2:00 PM, and the shop is closed Wednesday and Sunday. For a weekend ceremony, a Thursday or Friday appointment that same week keeps the cut close without doing it on the day.",
+        "You settle up after the cut by cash, card, Zelle or Cash App. If the plan changes, cancel in Booksy as soon as you know, since a no-show or late cancellation may be charged a fee."
+      ],
+      "link": {
+        "label": "SEE THE HAIRCUTS",
+        "href": "page:services-haircuts"
+      }
+    },
+    {
+      "type": "faq",
+      "eyebrow": "05 / QUESTIONS",
+      "heading": "Graduation-cut questions.",
+      "items": [
+        {
+          "q": "When should I get a haircut before graduation?",
+          "a": "A few days before the ceremony. The cut looks fresh in photos without the bare, just-cut edges of a same-day appointment."
+        },
+        {
+          "q": "Do I need a separate haircut for senior pictures?",
+          "a": "If the photo session and the ceremony are far apart, yes. Book each cut a few days before its own date."
+        },
+        {
+          "q": "What haircut looks good under a graduation cap?",
+          "a": "One with clean sides and a sharp line-up, since the cap hides most of the top. A low taper or a skin fade both read well."
+        },
+        {
+          "q": "How much is a graduation haircut?",
+          "a": "Graduation cuts are priced like any other visit. The Essential Haircut is {{price:essential-haircut}}, the Signature Cut {{price:signature-cut}} and the Luxury Grooming Experience {{price:luxury-grooming}}, paid after the service."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "GRADUATION DAY",
+      "heading": "Sharp under<br>the cap.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "services-haircuts",
+    "styles-hard-part",
+    "services-kids"
+  ],
+  "tim_questions": [
+    "Confirm the 'a few days before' timing for graduation and senior-picture cuts.",
+    "Does graduation season get busy enough to tell people to book weeks ahead? The post only says you work solo.",
+    "For grads under 18, does a parent need to book or come along? Not stated in the post."
+  ]
+}

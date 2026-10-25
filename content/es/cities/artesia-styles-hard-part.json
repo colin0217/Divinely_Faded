@@ -1,0 +1,128 @@
+{
+  "id": "artesia-styles-hard-part",
+  "locale": "es",
+  "pageType": "cell",
+  "city": "artesia",
+  "base": "styles-hard-part",
+  "slug": "/es/artesia/corte-con-raya/",
+  "alt": "/artesia/hard-part/",
+  "nav_label": "Corte con raya · Artesia",
+  "card_text": "Corte con raya para Artesia: una línea marcada que se llena rápido, así que calcula el viaje al día que la necesitas.",
+  "breadcrumb": [
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Artesia",
+      "/es/artesia/"
+    ],
+    [
+      "Corte con raya",
+      "/es/artesia/corte-con-raya/"
+    ]
+  ],
+  "seo": {
+    "title": "Corte con raya para Artesia, NM | Divinely Faded, Carlsbad",
+    "description": "Corte de pelo con raya (hard part) para Artesia, en mi barbería de Carlsbad, a {{city:artesia.drive_min}} minutos por la US 285. Cuándo agendar para que la línea esté nítida.",
+    "primary": "corte de pelo con raya artesia nm",
+    "secondary": [
+      "raya marcada artesia",
+      "hard part artesia nm"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "ARTESIA / CORTE CON RAYA",
+      "h1": "Corte con raya, desde Artesia.",
+      "paragraphs": [
+        "Una raya marcada (hard part) es una raya marcada en el corte, así que se queda exactamente donde la pongo, sin peine. La barbería está en Carlsbad, en {{address}}; desde Artesia son {{city:artesia.drive_mi}} millas por la {{city:artesia.route}}, unos {{city:artesia.drive_min}} minutos de ida (ruta de OpenStreetMap).",
+        "Es el único corte en el que calcular el viaje importa más que planear un ritmo."
+      ],
+      "link": {
+        "label": "AGENDA UN CORTE CON RAYA",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / CALCÚLALO A LA FECHA",
+      "heading": "Las líneas marcadas no esperan.",
+      "paragraphs": [
+        "Una línea marcada hasta la piel es lo primero de tu cabeza que se vuelve a llenar; no hay pelo encima que esconda lo que vuelve a crecer. Así que si la raya es para una boda, una quinceañera, las fotos de graduación o un primer día en algún lugar, agenda tu cita lo más cerca de esa fecha que te permita el calendario. Gasta los {{city:artesia.drive_min}} minutos en la 285 uno o dos días antes, no dos semanas antes."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / ROTACIONES",
+      "heading": "Marca la línea para los días libres.",
+      "paragraphs": [
+        "Con el {{city:artesia.mining_ag_jobs_pct}} de los empleos de Artesia en minería, petróleo y gas, o agricultura (Censo ACS 2023), muchas semanas funcionan por rotación. Si la tuya es así, la misma regla de tiempo aplica al revés: hazte la raya al inicio de tus días libres, cuando la gente de verdad la va a ver, y no el día antes de volver a salir bajo un casco. Para la siguiente rotación ya se habrá suavizado sola dentro del desvanecido (fade)."
+      ],
+      "photos": []
+    },
+    {
+      "type": "faq",
+      "eyebrow": "03 / PREGUNTAS",
+      "heading": "Corte con raya, desde allá por la carretera.",
+      "items": [
+        {
+          "q": "¿Con cuánta anticipación a un evento agendo una raya marcada desde Artesia?",
+          "a": "Lo más cerca que puedas: el día anterior, o la mañana del evento si hay horario. La línea está en su punto más nítido los primeros días."
+        },
+        {
+          "q": "¿La línea se va a ver rara mientras crece?",
+          "a": "Se suaviza sola dentro del desvanecido. Para cuando volverías a bajar ya casi no se nota, así que puedes decidir de nuevo en cada visita."
+        },
+        {
+          "q": "¿La raya marcada tiene un cargo extra?",
+          "a": "Mándame una foto por mensaje antes de agendar y te digo. Una línea sencilla puede ser parte del corte; un trabajo de líneas más elaborado es el extra de diseño en el pelo, a {{addon:hair-design}}."
+        },
+        {
+          "q": "¿Puedes poner una raya marcada en un peinado hacia atrás o en un crop?",
+          "a": "Sí, en cualquiera de los dos. La <a href=\"/es/estilos/corte-con-raya/\">página del corte con raya</a> muestra una línea que cruza directo un skin fade alto."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "04 / EN BOOKSY",
+      "heading": "El corte, más la línea.",
+      "lead": "Precios y tiempos directos de mi menú en Booksy.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "Desvanecido y parte de arriba con forma para tu cabeza, contorno de la nuca limpio con navaja. La raya se marca durante el corte.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "El mismo corte con tu barba recortada o con delineado (line-up), y toalla caliente para terminar.",
+          "book": true
+        },
+        {
+          "title": "Extra de diseño en el pelo",
+          "meta": "{{addon:hair-design}}",
+          "body": "Para una línea que se curva, se divide o se une con otras. Mándame la foto primero para agendar lo correcto."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "SOLO CON CITA",
+      "heading": "Agenda cerca de la fecha.<br>Sal nítido.",
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "id": "roswell-styles-buzz-cut",
+  "locale": "en",
+  "pageType": "cell",
+  "city": "roswell",
+  "base": "styles-buzz-cut",
+  "slug": "/roswell/buzz-cut/",
+  "alt": "/es/roswell/buzz-cut/",
+  "nav_label": "Buzz cut · Roswell",
+  "card_text": "A buzz cut from Roswell: why the trip makes more sense when you stack it with something else.",
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Roswell",
+      "/roswell/"
+    ],
+    [
+      "Buzz Cut",
+      "/roswell/buzz-cut/"
+    ]
+  ],
+  "seo": {
+    "title": "Buzz Cut for Roswell, NM | Divinely Faded, Carlsbad",
+    "description": "Buzz cuts, crew cuts and high and tights for Roswell, cut in Carlsbad south on US 285. Make the drive count, the summer case for short hair, booking.",
+    "primary": "buzz cut roswell nm",
+    "secondary": [
+      "crew cut roswell nm",
+      "barber shop roswell nm"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "ROSWELL / BUZZ CUT",
+      "h1": "Buzz cut, from Roswell.",
+      "paragraphs": [
+        "Let me be straight with you: nobody should drive {{city:roswell.drive_mi}} miles for a guard-length buzz and nothing else. I'm in Carlsbad, at {{address}}, which from Roswell is {{city:roswell.route}} through Artesia and about {{city:roswell.drive_min}} minutes each way (OpenStreetMap routing).",
+        "What makes the trip reasonable is what I do around the buzz: a squared line-up, a fade up the sides so it never looks like a home job, and a razor at the neck. And it pays off more if you stack the visit."
+      ],
+      "link": {
+        "label": "BOOK A BUZZ CUT",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / MAKE THE DRIVE COUNT",
+      "heading": "Stack it.",
+      "paragraphs": [
+        "Roswell is a city of {{city:roswell.population}} people (Census ACS 2023) with its own barbers, so if you're coming to me for a short cut, give the day a second reason. Book the Signature so the beard gets done under the same hot towel, or put a facial or a straight razor shave right after the cut.",
+        "Kids with buzz cuts fit the same plan. Each child gets their own appointment on Booksy, booked back to back with yours, and everyone rides home finished."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / THE SUMMER CASE",
+      "heading": "Short hair in a long hot stretch.",
+      "paragraphs": [
+        "A July afternoon in Roswell typically tops out at {{city:roswell.july_high_f}}, and the city sees roughly {{city:roswell.days_100f}} days a year at 100°F or more (Open-Meteo, 2023–25). A buzz is the cut that asks nothing of you on those days: no product melting, no shape to fix, a wet head dries in minutes.",
+        "The grow-out is kind too: only the fade and the line-up blur, so the gap between trips south can stretch."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "03 / BOOK IT AS",
+      "heading": "Three short bookings.",
+      "lead": "Buzz, crew and high and tight all live here.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "The buzz with its fade and front line-up, neck cleaned by straight razor. Kids book this one too.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "Buzz plus beard trim or line-up, hot towel and razor detailing. The better use of the drive if you wear a beard.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / QUESTIONS",
+      "heading": "Short cuts, long drive.",
+      "items": [
+        {
+          "q": "Which guard should I ask for on a buzz cut?",
+          "a": "Tell me how much scalp you're happy to show and whether you want it the same all over or faded on the sides. I'll pick the number from there. The <a href=\"/styles/buzz-cut/\">buzz cut page</a> explains the buzz, crew and high and tight family."
+        },
+        {
+          "q": "Can two of us from Roswell book back to back?",
+          "a": "Yes, as long as Booksy shows two open times in a row. Book them both before you leave; I don't hold unbooked gaps."
+        },
+        {
+          "q": "How long will a buzz with a fade look sharp?",
+          "a": "The edges decide that, not the top. Ask me in the chair and I'll give you my honest guess for your hair and the height of your fade."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "APPOINTMENTS ONLY",
+      "heading": "Book it short.<br>Drive it once.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ]
+}

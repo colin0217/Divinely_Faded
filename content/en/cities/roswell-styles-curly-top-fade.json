@@ -1,0 +1,121 @@
+{
+  "id": "roswell-styles-curly-top-fade",
+  "locale": "en",
+  "pageType": "cell",
+  "city": "roswell",
+  "base": "styles-curly-top-fade",
+  "slug": "/roswell/curly-top-fade/",
+  "alt": "/es/roswell/curly-top-fade/",
+  "nav_label": "Curly top fade · Roswell",
+  "card_text": "Curly top fades for Roswell, adults and kids: dry-air curls, faded sides and one trip for the whole household.",
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Roswell",
+      "/roswell/"
+    ],
+    [
+      "Curly Top Fade",
+      "/roswell/curly-top-fade/"
+    ]
+  ],
+  "seo": {
+    "title": "Curly Top Fade for Roswell, NM | Divinely Faded, Carlsbad",
+    "description": "Curly top fades for Roswell, cut in Carlsbad south on US 285. Curls in dry air, a fade that grows out slowly, and booking the kids after you.",
+    "primary": "curly top fade roswell nm",
+    "secondary": [
+      "curly hair fade roswell nm",
+      "haircut roswell nm"
+    ]
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "ROSWELL / CURLY TOP FADE",
+      "h1": "Curly top fade, from Roswell.",
+      "paragraphs": [
+        "Your curl pattern does the work on top; I take care of everything below it with a fade. That's the whole idea of a curly top fade, and I cut it in Carlsbad, {{city:roswell.drive_mi}} miles south of Roswell at {{address}}. Count on about {{city:roswell.drive_min}} minutes on {{city:roswell.route}} each way, through Artesia (OpenStreetMap routing).",
+        "Below: what dry air does to curls, how to pick a fade that survives the gap between trips, and how a family books it."
+      ],
+      "link": {
+        "label": "BOOK A CURLY TOP FADE",
+        "href": "booksy"
+      },
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / CURLS IN DRY AIR",
+      "heading": "Less frizz, more thirst.",
+      "paragraphs": [
+        "Roswell's air averages around {{city:roswell.humidity_pct}} humidity (Open-Meteo, 2023–25). For curly hair that cuts both ways: damp-climate frizz mostly isn't your problem, but dry curls lose their spring and look dull faster. When I shape the top I cut for how your curl behaves dry, not wet, and I'll tell you how much length your pattern needs to keep its bounce."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / A FADE THAT WAITS FOR YOU",
+      "heading": "Curls forgive. Skin doesn't.",
+      "paragraphs": [
+        "Growth on top just reads as more curl. Growth on faded sides is what gives the cut away, and from Roswell every touch-up is another {{city:roswell.drive_min}} minutes behind the wheel. If you can't come back often, say so: a low or mid fade keeps more hair on the sides and softens as it grows, where a skin-tight version looks due much sooner."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "03 / BOOK IT AS",
+      "heading": "Adults and kids book the same way.",
+      "lead": "One appointment per head.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "Curls shaped on top, the fade at whatever height we agree on, and a straight razor neckline. This is the booking for a kid's curly top too.",
+          "book": true
+        },
+        {
+          "title": "Kids' haircuts",
+          "meta": "Kids welcome",
+          "body": "{{city:roswell.under18_pct}} of Roswell is under 18 (Census ACS 2023). If that's your house, book each child their own slot right after yours so one drive covers everyone.",
+          "href": "page:services-kids",
+          "link_label": "KIDS' HAIRCUTS",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / QUESTIONS",
+      "heading": "Curly questions from up the road.",
+      "items": [
+        {
+          "q": "Should I wash my curls before the drive down from Roswell?",
+          "a": "Come with your hair the way you normally wear it, dry. I want to see the real curl before I cut, and {{city:roswell.drive_min}} minutes in the car is enough for it to settle."
+        },
+        {
+          "q": "Can a kid from Roswell get a curly top fade?",
+          "a": "Yes. Kids are welcome, and parents choose the Essential Haircut for them on Booksy. If a child is nervous about clippers, a low fade is a gentle place to start."
+        },
+        {
+          "q": "Which fade height holds up longest between visits?",
+          "a": "Low, then mid, then skin. The less bare scalp I expose, the slower the grow-out shows. The <a href=\"/styles/curly-top-fade/\">curly top fade page</a> shows the skin version so you can compare."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "APPOINTMENTS ONLY",
+      "heading": "Book the curls.<br>Bring the kids.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ]
+}
