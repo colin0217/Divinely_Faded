@@ -74,6 +74,9 @@ const NEVER = [
   [/\b\d+\s+años\s+de\s+experiencia\b/i, 'years of experience, ES'],
   [/\b(award(-winning)?|certified|licensed|premiad[oa]|certificad[oa]|licenciad[oa])\b/i, 'award, certification or license'],
   [/\b(parking|estacionamiento|aparcamiento)\b/i, 'parking details are unknown'],
+  // Tim via Colin 2026-10-24: leave these out (the new shop has a step up into the shampoo area).
+  [/\b(wheelchair|ada[\s-]accessible|accessible\s+(entrance|shop|parking)|silla\s+de\s+ruedas)\b/i, 'accessibility claim (Tim: leave out)'],
+  [/\b(lgbtq\+?|lgbt|latin[oa][\s-]owned|propiedad\s+latina)\b/i, 'identity attribute (Tim: leave out)'],
 ];
 // Competitor names seen in the Carlsbad Maps results (keyword research, 2026-10-24). Generic words excluded.
 const COMPETITORS = ["Los Chavos", "Barber Bus", "El Cholo", "Great Clips", "Great Cuts", "Victor's Styling", "Gentlemen's Parlor",
