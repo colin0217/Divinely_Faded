@@ -1,0 +1,151 @@
+{
+  "id": "post-braids-with-fade",
+  "locale": "en",
+  "slug": "/blog/braids-with-fade/",
+  "date": "2026-11-02",
+  "plan_rank": 16,
+  "title": "Braids with a Fade: How to Pair Them",
+  "eyebrow": "BRAIDS",
+  "hero": "braids-blonde-side",
+  "hero_alt": "Two cornrow braids ending in a gold cuff over a skin-faded side",
+  "image_plan": null,
+  "card_text": "How fade height decides where braids can go, which patterns suit which fade, and how to plan both for one visit.",
+  "lede": [
+    "Braids with a fade means braiding the hair on top and fading the back and sides short, so every row sits against a clean edge. The two have to be planned together, because the fade decides where the braids can go. At my shop, braids are a {{minutes:braids}} booking with a price that varies by style, so text me a photo first and ask how to fit the fade into the same visit.",
+    "Here's how fade height changes the braided area, which patterns suit which fade, and how to plan the appointment."
+  ],
+  "seo": {
+    "title": "Braids with a Fade: How to Pair Them | Carlsbad, NM",
+    "description": "How to pair braids with a fade at Divinely Faded in Carlsbad, NM: fade height, braid patterns, and planning both for one appointment.",
+    "primary": "braids with fade",
+    "secondary": [
+      "braids and fade"
+    ]
+  },
+  "breadcrumb": [
+    ["Home", "/"],
+    ["Blog", "/blog/"],
+    ["Braids with a Fade", "/blog/braids-with-fade/"]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / HOW THEY FIT",
+      "heading": "The fade sets the frame.",
+      "lead": "Rows on top, short on the sides.",
+      "paragraphs": [
+        "Braids need hair to grip. Wherever the fade takes the hair down short, there's nothing left to braid, so the fade line becomes the border of the braided area.",
+        "That's why the pairing works so well. The fade gives every row a clean edge, and the contrast between tight braids and bare skin is what makes the set stand out from across a room.",
+        "In the photo at the top, two cornrows run back along the side and finish in a gold cuff, with the hair under them faded all the way to skin."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / FADE HEIGHT",
+      "heading": "Low, mid or high.",
+      "lead": "Each one moves the edge.",
+      "subsections": [
+        {
+          "heading": "High fade",
+          "paragraphs": [
+            "The braids stay on the top of the head. Most of the side is skin, so the rows read bold and narrow, like a strip running front to back."
+          ]
+        },
+        {
+          "heading": "Mid fade",
+          "paragraphs": [
+            "The braided area reaches a little further down the sides. It sits between the two: some contrast, some coverage."
+          ]
+        },
+        {
+          "heading": "Low fade or taper",
+          "paragraphs": [
+            "Most of the side keeps its hair, so the rows can wrap further down toward the ear, and the fade turns into a thin, tidy edge at the very bottom."
+          ]
+        }
+      ],
+      "link": {
+        "label": "SKIN FADE STYLE",
+        "href": "page:styles-skin-fade"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / PATTERNS",
+      "heading": "Which braids, which fade.",
+      "lead": "Match the pattern to the edge.",
+      "paragraphs": [
+        "Rows running straight back are the easiest match for any fade height. They line up with the fade and finish neatly at the back of the head.",
+        "Curved rows, or rows that come together at the crown, need more hair on the sides to turn in. A lower fade gives them that room; a high fade can cut a curve off before it finishes.",
+        "Thick rows or thin ones? Fewer, thicker braids stay readable on a narrow strip above a high fade. More, thinner rows look their sharpest across a wider area, which a lower fade leaves you."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / PLANNING THE VISIT",
+      "heading": "Text first, then book.",
+      "lead": "Both done in one trip.",
+      "paragraphs": [
+        "Braids are listed on Booksy at {{minutes:braids}}, with the price showing as {{price:braids}} because it follows the style. Text a photo of the braids and the fade you want to {{phone}}, and ask how to book the fade alongside the braids so both get done in one visit.",
+        "In the same text, say how high you want the fade and whether the bottom goes to skin. That decides how much hair is left to braid, so we settle it before the parting starts.",
+        "Plan your day around the full appointment, so you aren't checking the time while the last rows go in. You pay once everything is finished, by cash, card, Zelle or Cash App."
+      ],
+      "link": {
+        "label": "BRAIDS SERVICE",
+        "href": "page:services-braids"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "05 / AS IT GROWS",
+      "heading": "They age differently.",
+      "lead": "The fade softens first.",
+      "paragraphs": [
+        "Short hair shows regrowth quickly, so the fade is the first part of the look to blur. The braids hold their shape longer, which means the edge under them goes soft while the rows still look neat.",
+        "Braiding for an event, a game or photos? Book close to the date, so the fade and the rows are both at their sharpest on the day that counts."
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / QUESTIONS",
+      "heading": "Braids and fades.",
+      "items": [
+        {
+          "q": "Can you get braids with a fade?",
+          "a": "Yes. Most of the sets on my braids page pair braids on top with faded or tapered sides."
+        },
+        {
+          "q": "Which fade works with braids?",
+          "a": "Any of them. A high fade keeps the braids on top of the head; a low fade or taper leaves room for the rows to run further down the sides."
+        },
+        {
+          "q": "How much do braids with a fade cost?",
+          "a": "Braids show as {{price:braids}} on Booksy because the price follows the style. Text me a photo of what you want and ask before you book."
+        },
+        {
+          "q": "How long does it take?",
+          "a": "The braids alone are booked for {{minutes:braids}}. When you text, ask how the fade fits into the visit."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "BRAIDS + FADE",
+      "heading": "Tight rows.<br>Clean sides.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "services-braids",
+    "styles-skin-fade"
+  ],
+  "tim_questions": [
+    "Is the fade included in the Braids booking, or booked separately (for example an Essential Haircut right before or after)? The post tells clients to text and ask.",
+    "Do you fade first and then braid, or braid first? Left out.",
+    "Do you supply cuffs like the gold one in the photo, or do clients bring their own? Left out.",
+    "Can the fade be refreshed while the braids are still in? Left out."
+  ]
+}

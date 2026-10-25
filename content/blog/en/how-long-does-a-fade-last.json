@@ -1,0 +1,174 @@
+{
+  "id": "post-how-long-does-a-fade-last",
+  "locale": "en",
+  "slug": "/blog/how-long-does-a-fade-last/",
+  "date": "2026-11-02",
+  "plan_rank": 20,
+  "title": "How Long Does a Fade Last? (And How to Keep It Sharp Longer)",
+  "eyebrow": "CARE",
+  "hero": "cut-back-taper",
+  "hero_alt": "Back view of a taper fading to skin at the nape under a short, textured top",
+  "image_plan": null,
+  "card_text": "Why the bottom of a fade blurs first, what makes yours hold longer, what to leave alone at home and what only a recut fixes.",
+  "lede": [
+    "A fade is at its sharpest right after the cut, and the shortest part blurs first. The band at the bottom has no length to hide regrowth, so even a little new growth turns clean skin fuzzy. How long yours holds its look depends on how fast your hair grows, how high the fade starts and how short the bottom goes.",
+    "Here's the order a fade softens in, what makes one last longer than another, what you can do at home, and what only a fresh cut can fix."
+  ],
+  "seo": {
+    "title": "How Long Does a Fade Last? (And How to Keep It Sharp Longer)",
+    "description": "How long a fade stays sharp, what blurs first, how to make it last longer, and when to book a recut at Divinely Faded in Carlsbad, NM.",
+    "primary": "how long does a fade last",
+    "secondary": [
+      "how to maintain a fade",
+      "how to make a fade last longer"
+    ]
+  },
+  "breadcrumb": [
+    ["Home", "/"],
+    ["Blog", "/blog/"],
+    ["How Long a Fade Lasts", "/blog/how-long-does-a-fade-last/"]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / WHAT GOES FIRST",
+      "heading": "The order it softens.",
+      "lead": "Bottom up, edges first.",
+      "subsections": [
+        {
+          "heading": "The bottom band",
+          "paragraphs": [
+            "On a fade cut to skin, the lowest section has nothing covering it. It's the first spot where crisp turns fuzzy."
+          ]
+        },
+        {
+          "heading": "The neckline",
+          "paragraphs": [
+            "The back edge loses its shape as hair grows in below it. In the photo at the top, the taper runs to skin at the nape, and that's exactly the line that softens early."
+          ]
+        },
+        {
+          "heading": "The line-up",
+          "paragraphs": [
+            "Corners at the temples and the forehead are cut right at the skin, so they blur on about the same timeline as the bottom of the fade."
+          ]
+        },
+        {
+          "heading": "The blend",
+          "paragraphs": [
+            "The gradual change from short to long holds up the longest. Once the bottom grows, though, the steps between lengths start to show."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / WHAT CHANGES IT",
+      "heading": "Why yours lasts longer, or doesn't.",
+      "lead": "Four things decide it.",
+      "bullets": [
+        "How short the bottom goes. A fade that keeps a little shadow at the bottom hides early growth better than one taken to bare skin.",
+        "How high it starts. A high fade puts more skin on show, so there's more area to grow back in.",
+        "Your hair color and texture. Dark, coarse hair against lighter skin shows every bit of regrowth; finer or lighter hair blends in longer.",
+        "How fast it grows. Hair grows roughly half an inch a month on average, and some people's grows faster."
+      ],
+      "link": {
+        "label": "SKIN FADE DETAILS",
+        "href": "page:styles-skin-fade"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / LONGER-LASTING",
+      "heading": "Built to hold.",
+      "lead": "Choices that buy you time.",
+      "paragraphs": [
+        "Want a fade that keeps its look longer? Ask for a lower starting point, or a little shadow left at the bottom instead of bare skin. A taper, which only shortens the edges, grows out the most gently of all.",
+        "Want maximum contrast instead? A high skin fade gives you the boldest look on day one. It just holds that look for a shorter stretch, and that's a fair trade if sharp is what you're after.",
+        "Either way, tell me how you like it to look as it grows, not only on the day. That changes where I'd start the fade."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / AT HOME",
+      "heading": "What you can do.",
+      "lead": "Mostly, leave it alone.",
+      "subsections": [
+        {
+          "heading": "Keep the clippers in the drawer",
+          "paragraphs": [
+            "Touching up your own neckline or temples is how the outline creeps higher and the blend picks up a step. Nobody can see the back of their own head well enough to fix it."
+          ]
+        },
+        {
+          "heading": "Photograph the fresh cut",
+          "paragraphs": [
+            "Take a picture of the back and sides on the day. Next visit, it shows exactly how high the fade sat and how short the bottom went."
+          ]
+        },
+        {
+          "heading": "Book the next one early",
+          "paragraphs": [
+            "Booksy shows open slots ahead of time, so you can grab your next appointment before the fade has fully grown out, instead of waiting on an opening once it has."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "05 / IN THE CHAIR",
+      "heading": "What only a recut fixes.",
+      "lead": "Regrowth can't be styled away.",
+      "paragraphs": [
+        "Once the bottom fills in, no comb or styling brings the blend back. Restoring a fade means cutting the short sections down again and reblending them into the top.",
+        "On Booksy, that's a regular haircut booking. The Essential Haircut ({{price:essential-haircut}}, {{minutes:essential-haircut}}) covers the fade with a straight razor cleanup at the neck. The Signature Cut ({{price:signature-cut}}, {{minutes:signature-cut}}) adds the line-up or a beard trim, a hot towel and razor detailing.",
+        "How often you come back is up to you and how sharp you like it. If you're unsure what suits your hair, text me at {{phone}} and ask."
+      ],
+      "link": {
+        "label": "HAIRCUT SERVICES",
+        "href": "page:services-haircuts"
+      }
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / QUESTIONS",
+      "heading": "Fade upkeep, answered.",
+      "items": [
+        {
+          "q": "How long does a fade last?",
+          "a": "It's sharpest right after the cut. The bottom and the edges soften first, and how soon depends on how fast your hair grows, how high the fade sits and how short the bottom goes."
+        },
+        {
+          "q": "How do I make a fade last longer?",
+          "a": "Ask for a lower fade or a little shadow at the bottom, keep home clippers off the edges, and book your next cut before it has fully grown out."
+        },
+        {
+          "q": "How do I maintain a fade at home?",
+          "a": "Mostly by leaving it alone. Skip trimming the neckline or temples yourself, and let the chair handle the touch-up."
+        },
+        {
+          "q": "Does a taper last longer than a fade?",
+          "a": "It usually grows out more gently, because less of the head is cut short, so there's less bare skin to fill back in."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "KEEP IT SHARP",
+      "heading": "Fresh fade.<br>Next one booked.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "styles-skin-fade",
+    "services-haircuts"
+  ],
+  "tim_questions": [
+    "How many weeks do you suggest between fade cuts? No interval given in the post.",
+    "Do you offer a shorter or cheaper fade touch-up (or a line-up only) between full haircuts? The post sends readers to a regular haircut booking.",
+    "Any at-home routine you want to recommend (washing, sleeping, hats)? Product and routine advice were left out."
+  ]
+}

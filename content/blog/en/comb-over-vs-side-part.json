@@ -1,0 +1,152 @@
+{
+  "id": "post-comb-over-vs-side-part",
+  "locale": "en",
+  "slug": "/blog/comb-over-vs-side-part/",
+  "date": "2026-11-02",
+  "plan_rank": 19,
+  "title": "Comb Over vs Side Part vs Hard Part",
+  "eyebrow": "STYLES",
+  "hero": "cut-skin-fade-hard-part-beard",
+  "hero_alt": "Skin fade with a short top, sharp line-up, a thin razor line above the sideburn and a full beard",
+  "image_plan": null,
+  "card_text": "Two parts you comb and one you cut in: how a side part, a comb over and a hard part differ, and which suits your mornings.",
+  "lede": [
+    "A side part is hair combed away from a part line on one side of the head. A comb over sweeps the whole top across to one side, usually over short faded sides, with a soft part or none at all. A hard part is a line shaved in with a trimmer and razor, so the part stays put. You style the first two every morning; the hard part is cut in and grows out.",
+    "Here's how to tell them apart, which one fits your hair and your routine, and how to book each one at my shop in Carlsbad."
+  ],
+  "seo": {
+    "title": "Comb Over vs Side Part vs Hard Part | Carlsbad, NM",
+    "description": "Comb over vs side part vs hard part: how each is cut and styled, which suits your hair, and how to book at Divinely Faded in Carlsbad, NM.",
+    "primary": "comb over vs side part",
+    "secondary": [
+      "side part haircut"
+    ]
+  },
+  "breadcrumb": [
+    ["Home", "/"],
+    ["Blog", "/blog/"],
+    ["Comb Over vs Side Part", "/blog/comb-over-vs-side-part/"]
+  ],
+  "blocks": [
+    {
+      "type": "table",
+      "eyebrow": "01 / SIDE BY SIDE",
+      "heading": "Three ways to wear a part.",
+      "lead": "Read down a column to see one style.",
+      "columns": ["", "Side part", "Comb over", "Hard part"],
+      "rows": [
+        ["The part", "Combed in", "Soft, or none", "Shaved in"],
+        ["The sides", "Scissors or a fade", "Usually faded short", "Usually faded"],
+        ["Each morning", "Comb the line", "Sweep the top across", "The line holds itself"],
+        ["As it grows", "Softens slowly", "Sides go first", "Line fills in first"]
+      ],
+      "paragraphs": [
+        "All three can sit on the same fade. What separates them is how the part is made and how much you do in the mirror each day."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / THE SIDE PART",
+      "heading": "The classic.",
+      "lead": "A part you comb in.",
+      "paragraphs": [
+        "A side part splits the top along a line on one side. The larger section is combed over the top of the head, and the smaller one is combed down toward the ear. It works with scissor-cut sides as well as a fade, which is why it reads traditional.",
+        "Put the line where your hair already wants to split. After a towel dry, let it fall on its own and you'll see where it opens up. Fight that and you'll be re-combing it all day."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / THE COMB OVER",
+      "heading": "Swept across.",
+      "lead": "More movement, softer line.",
+      "paragraphs": [
+        "A comb over takes the whole top in one direction, sweeping it from the part side across toward the other. It's usually worn with the sides faded short, so the length on top has a clean edge to land on.",
+        "The part can be a slight gap rather than a line, or barely visible. Keep enough length at the front, since that's the hair doing most of the sweeping.",
+        "Want the top going straight back instead of across? That's a slick back, and its style page shows two from my chair."
+      ],
+      "link": {
+        "label": "SEE THE SLICK BACK",
+        "href": "page:styles-slick-back"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / THE HARD PART",
+      "heading": "Cut in, not combed.",
+      "lead": "A line that holds all day.",
+      "paragraphs": [
+        "A hard part is a shaved line, drawn with a trimmer and cleaned with a razor, so it stays visible no matter how the top moves. In the photo at the top, a thin razor line sits just above the sideburn on a skin fade, with a short top and a full beard.",
+        "It's the sharpest of the three, and the first to change. The line is cut right to the skin, so regrowth fills it in before the rest of the haircut looks grown out. For an event, book the cut close to the date."
+      ],
+      "link": {
+        "label": "SEE THE HARD PART",
+        "href": "page:styles-hard-part"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "05 / CHOOSING",
+      "heading": "Which one is yours?",
+      "lead": "Start with your mornings.",
+      "subsections": [
+        {
+          "heading": "You don't mind a minute with a comb",
+          "paragraphs": [
+            "A side part or a comb over. Both look their sharpest when you style them, and both soften gradually as the hair grows rather than all at once."
+          ]
+        },
+        {
+          "heading": "You want the part there without styling",
+          "paragraphs": [
+            "A hard part. The line does the work for you, with the trade-off that it fills in as the hair returns."
+          ]
+        },
+        {
+          "heading": "Your hair is curly or very dense",
+          "paragraphs": [
+            "A comb over with a shorter top works with the curl instead of against it. A shaved line stands out most on straight or wavy hair; in tight curls it gets swallowed sooner."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / QUESTIONS",
+      "heading": "Part questions.",
+      "items": [
+        {
+          "q": "Is a comb over the same as a side part?",
+          "a": "Not quite. A side part combs hair both ways from a line. A comb over sweeps the whole top across in one direction, often over faded sides."
+        },
+        {
+          "q": "How do I book a side part haircut?",
+          "a": "Book the Essential Haircut at {{price:essential-haircut}}, or the Signature Cut at {{price:signature-cut}} if your beard needs work too. Bring a photo of the part you want."
+        },
+        {
+          "q": "Does a hard part cost extra?",
+          "a": "Hair design is a {{addon:hair-design}} add-on on my menu. If you're not sure whether your part line counts as one, text me a photo before you book."
+        },
+        {
+          "q": "Can I go from a hard part back to a side part?",
+          "a": "Yes. The shaved line grows back like the rest of the cut, and once it fills in you can comb a regular part along the same spot."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "PICK A PART",
+      "heading": "Comb it.<br>Or cut it in.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "styles-hard-part",
+    "styles-slick-back"
+  ],
+  "tim_questions": [
+    "Is a shaved hard part billed as the hair design add-on, or included in the haircut? The post repeats the hard-part page: text a photo and ask."
+  ]
+}
