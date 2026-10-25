@@ -150,6 +150,12 @@ function blockHTML(b, p, t, first) {
       }).filter(Boolean);
       return `<section class="services df-section" data-df-reveal-group><div class="section-heading"><span class="eyebrow" data-df-reveal>${esc(b.eyebrow)}</span><${H} data-df-reveal>${html(b.heading)}</${H}>${b.lead ? `<p data-df-reveal>${html(fill(b.lead, t))}</p>` : ""}</div><div class="df-cards">${items.map(({ q, text }) => { const ph = q.card_photo || q.seo?.og_photo || q.hero; return `<a class="df-card" data-df-reveal href="${q.slug}">${ph ? img(ph, altOf(q, ph) || q.nav_label || "", { sizes: "(min-width:701px) 33vw, 100vw" }) : ""}<h3>${esc(q.nav_label || q.title)}</h3><p>${esc(text || q.card_text || q.seo?.description || "")}</p></a>`; }).join("")}</div></section>`;
     }
+    case "posts": {
+      // Live posts in this locale, newest first (the date gate already dropped future posts from `all`).
+      const list = all.filter((q) => q._post && q.locale === L).sort((a, z) => (z.date > a.date ? 1 : z.date < a.date ? -1 : 0)).slice(0, b.limit || Infinity);
+      const fmt = (d) => new Date(d + "T12:00:00Z").toLocaleDateString(L === "es" ? "es-US" : "en-US", { year: "numeric", month: "long", day: "numeric", timeZone: "UTC" });
+      return `<section class="services df-section" data-df-reveal-group><div class="section-heading"><span class="eyebrow" data-df-reveal>${esc(b.eyebrow)}</span><${H} data-df-reveal>${html(b.heading)}</${H}>${b.lead ? `<p data-df-reveal>${html(fill(b.lead, t))}</p>` : ""}</div>${list.length ? `<div class="df-cards">${list.map((q) => `<a class="df-card" data-df-reveal href="${q.slug}">${q.hero ? img(q.hero, q.hero_alt || "", { sizes: "(min-width:701px) 33vw, 100vw" }) : ""}<span class="df-card-date">${fmt(q.date)}</span><h3>${esc(q.title)}</h3><p>${esc(q.card_text || q.seo?.description || "")}</p></a>`).join("")}</div>` : `<div class="df-prose"><p data-df-reveal>${esc(b.empty || "")}</p></div>`}</section>`;
+    }
     default:
       throw new Error(`${p._file}: unknown block type ${b.type}`);
   }
@@ -252,7 +258,8 @@ function renderPost(p, t) {
   const hero = p.hero ? `<div class="photo-pair df-post-hero">${img(p.hero, p.hero_alt || "", { eager: true, sizes: "100vw" })}</div>` : "";
   const blocks = (p.blocks || []).map((b, i) => blockHTML(b, p, t, false)).join("");
   const date = new Date(p.date + "T12:00:00Z").toLocaleDateString(p.locale === "es" ? "es-US" : "en-US", { year: "numeric", month: "long", day: "numeric", timeZone: "UTC" });
-  return `<section class="experience df-no-photos" data-df-reveal-group><div class="intro"><span class="eyebrow" data-df-reveal>${esc(p.eyebrow || "BLOG")} · ${date}</span><h1 data-df-reveal>${html(p.title)}</h1><div class="intro-copy" data-df-reveal-group>${(p.lede || []).map((x) => `<p data-df-reveal>${html(fill(x, t))}</p>`).join("")}</div></div></section>${hero}${blocks}`;
+  const by = p.locale === "es" ? "Por Tim Murillo" : "By Tim Murillo";
+  return `<article class="df-post"><section class="experience df-no-photos" data-df-reveal-group><div class="intro"><span class="eyebrow" data-df-reveal>${esc(p.eyebrow || "BLOG")} · <time datetime="${p.date}">${date}</time></span><h1 data-df-reveal>${html(p.title)}</h1><div class="intro-copy" data-df-reveal-group>${(p.lede || []).map((x) => `<p data-df-reveal>${html(fill(x, t))}</p>`).join("")}<p class="df-byline" data-df-reveal>${by}</p></div></div></section>${hero}${blocks}</article>`;
 }
 
 // ---------- write ----------

@@ -67,3 +67,10 @@ footer#location.df-new-footer .df-footer-bottom-links a,footer#location.df-new-f
 .df-page h1,.df-page h2,.df-page h3,summary span:first-child{overflow-wrap:anywhere;hyphens:auto}
 .df-feature-text{min-height:0;padding:90px 8vw}.df-feature-text:after{display:none}
 @media(max-width:700px){.df-feature-text{padding:60px 25px}}
+
+/* Blog: post hero, byline and card dates reuse Colin's eyebrow scale and greys. */
+.df-post-hero{padding:0 6vw;margin:0 0 10px}
+.df-post-hero > img{width:100%;height:auto;aspect-ratio:16/9;object-fit:cover}
+@media(max-width:700px){.df-post-hero{padding:0 20px}.df-post-hero > img{aspect-ratio:4/3}}
+.df-byline,.df-card-date{font-size:11px!important;letter-spacing:2px;text-transform:uppercase;color:#aaa!important}
+.df-card-date{display:block;margin:14px 0 -8px}
