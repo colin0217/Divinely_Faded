@@ -5,15 +5,29 @@
   "alt": "/about/",
   "nav_label": "Sobre mí",
   "card_text": "El barbero de la silla: corta pelo desde 2023, trabaja solo, con un solo estándar.",
-  "breadcrumb": [["Inicio", "/es/"], ["Sobre mí", "/es/sobre-mi/"]],
+  "breadcrumb": [
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Sobre mí",
+      "/es/sobre-mi/"
+    ]
+  ],
   "seo": {
     "title": "Sobre Tim Murillo, barbero en Carlsbad, NM | Divinely Faded",
-    "description": "Conoce a Timothy Murillo, barbero en Carlsbad, NM y dueño de Divinely Faded. Corta pelo desde 2023, trabaja solo y atiende con cita. Elevate Your Standard.",
+    "description": "Conoce a Timothy Murillo, barbero en Carlsbad, NM y dueño de Divinely Faded. Corta pelo desde 2023, por su cuenta y solo con cita. Elevate Your Standard.",
     "primary": "barbero en carlsbad nm",
-    "secondary": ["barbero", "barberos"],
+    "secondary": [
+      "barbero",
+      "barberos"
+    ],
     "og_photo": "team-tim-portrait"
   },
-  "schema": { "type": "AboutPage" },
+  "schema": {
+    "type": "AboutPage"
+  },
   "blocks": [
     {
       "type": "intro",
@@ -23,8 +37,13 @@
         "Soy Timothy Murillo. La mayoría me dice Tim. Divinely Faded es mi barbería en Carlsbad, Nuevo México.",
         "Corto pelo desde 2023 y trabajo solo. Cada cita en la agenda es conmigo, desde el primer vistazo a tu pelo hasta la última pasada de la navaja."
       ],
-      "link": { "label": "AGENDA CON TIM", "href": "booksy" },
-      "photos": ["team-tim-portrait"],
+      "link": {
+        "label": "AGENDA CON TIM",
+        "href": "booksy"
+      },
+      "photos": [
+        "team-tim-portrait"
+      ],
       "alt": {
         "team-tim-portrait": "Tim Murillo, dueño y barbero de Divinely Faded, sentado en su silla de barbero"
       }
@@ -55,10 +74,17 @@
       "type": "feature",
       "eyebrow": "NOS VEMOS EN LA SILLA",
       "heading": "Un barbero.<br>Cada detalle.",
-      "button": { "label": "AGENDA AHORA", "href": "booksy" }
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
     }
   ],
-  "related": ["services", "visit", "faq"],
+  "related": [
+    "services",
+    "visit",
+    "faq"
+  ],
   "tim_questions": [
     "Faith: the page has one light line in section 02 ('whatever I do, I try to do it with all my heart'). Do you want a verse cited with it, such as Colossians 3:23? Not on the page until you say.",
     "Opening month in 2023 (the page says only 'since 2023')."

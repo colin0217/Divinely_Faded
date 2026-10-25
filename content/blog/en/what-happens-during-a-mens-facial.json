@@ -1,0 +1,187 @@
+{
+  "id": "post-what-happens-during-a-mens-facial",
+  "locale": "en",
+  "slug": "/blog/what-happens-during-a-mens-facial/",
+  "date": "2026-11-02",
+  "plan_rank": 21,
+  "title": "What Happens During a Men's Facial (and How Often to Get One)",
+  "eyebrow": "FACIALS",
+  "hero": "steam-facial",
+  "hero_alt": "Warm steam drifting over a reclined client's face during a men's facial at Divinely Faded",
+  "image_plan": null,
+  "card_text": "Massage, steam, exfoliation and moisturizer, all in the barber chair: what each facial includes and how often to book one.",
+  "lede": [
+    "A men's facial at my shop happens right in the barber chair, tipped back, and takes {{minutes:express-facial}} or {{minutes:deluxe-facial}} depending on which one you book. Either way you get a facial massage, warm steam, gentle exfoliation and a hydrating moisturizer.",
+    "On top of that shared base, the Express Facial ({{price:express-facial}}) includes a deep cleanse, and the Deluxe Facial ({{price:deluxe-facial}}) brings in advanced skin treatments plus an anti-aging serum. Below is each step, what separates the two, and how to think about how often to come in for one."
+  ],
+  "seo": {
+    "title": "What Happens During a Men's Facial? | Carlsbad, NM",
+    "description": "What happens during a men's facial in Carlsbad, NM: massage, steam, exfoliation, moisturizer. Express or Deluxe, in the chair at Divinely Faded.",
+    "primary": "what happens during a facial",
+    "secondary": [
+      "how often should men get a facial",
+      "men's facial benefits"
+    ]
+  },
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Blog",
+      "/blog/"
+    ],
+    [
+      "Men's Facial",
+      "/blog/what-happens-during-a-mens-facial/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / STEP BY STEP",
+      "heading": "From steam to moisturizer.",
+      "lead": "What happens, in the order you feel it.",
+      "subsections": [
+        {
+          "heading": "Recline",
+          "paragraphs": [
+            "You lean back in the chair and settle in. There's nothing to prepare and nothing to change into. If your skin has been irritated or touchy lately, tell me before we start."
+          ]
+        },
+        {
+          "heading": "Facial massage",
+          "paragraphs": [
+            "Both facials include a massage across the face. It's slow, steady pressure, and it's usually where the day's tension starts to let go."
+          ]
+        },
+        {
+          "heading": "Warm steam",
+          "paragraphs": [
+            "Warm steam is aimed at your face while you lie back. The photo at the top of this post catches that moment: a client reclined, steam drifting across his face."
+          ]
+        },
+        {
+          "heading": "Cleanse and exfoliate",
+          "paragraphs": [
+            "On the Express, this is where the deep cleanse comes in. Both facials include gentle exfoliation. Gentle is the word that matters: this is a reset, not a scrub-down."
+          ]
+        },
+        {
+          "heading": "Treatments and serum",
+          "paragraphs": [
+            "The Deluxe adds advanced skin treatments and an anti-aging serum. That extra layer is most of what the additional minutes on the Deluxe are for."
+          ]
+        },
+        {
+          "heading": "Moisturize",
+          "paragraphs": [
+            "Every facial closes with a hydrating moisturizer, so you sit up with skin that feels comfortable rather than stripped. In a climate as dry as ours, that last step earns its place."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "02 / EXPRESS OR DELUXE",
+      "heading": "Two facials, side by side.",
+      "lead": "Same foundation, different finish.",
+      "items": [
+        {
+          "title": "Express Facial",
+          "meta": "{{price:express-facial}} · {{minutes:express-facial}}",
+          "body": "Facial massage, warm steam, a deep cleanse, gentle exfoliation and a hydrating moisturizer. Pick it when you want a clean reset that fits into a short window, like a lunch break.",
+          "book": true
+        },
+        {
+          "title": "Deluxe Facial",
+          "meta": "{{price:deluxe-facial}} · {{minutes:deluxe-facial}}",
+          "body": "Facial massage, warm steam, gentle exfoliation and a hydrating moisturizer, plus advanced skin treatments and an anti-aging serum. Pick it when you have a few more minutes and want more than a refresh.",
+          "book": true
+        },
+        {
+          "title": "Luxury Grooming Experience",
+          "meta": "{{price:luxury-grooming}} · {{minutes:luxury-grooming}}",
+          "body": "Not a facial on its own, but facial steam and dual hot towels are built in, along with the haircut, beard sculpt, wash and the rest. Pick it when you want steam and a cut in a single booking.",
+          "href": "page:services-haircuts",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / HOW OFTEN",
+      "heading": "How often to book one.",
+      "lead": "There's no clock running on it.",
+      "paragraphs": [
+        "A haircut tells you when it's time: the edges blur and the shape goes soft. A facial doesn't send that kind of signal, so how often you book one is your call, not a schedule I'm going to hand you from a blog post.",
+        "Two simple ways to think about it. Book one ahead of something that matters, like a wedding, an interview, a holiday photo or a night out. Or fold it into a visit you're already making, so your skin gets attention on the same trip your hair does.",
+        "If you want my honest read on what your skin could use, ask me while you're in the chair, or text me at {{phone}}. I'd rather look and talk it through than guess from here."
+      ],
+      "link": {
+        "label": "SEE THE FACIALS PAGE",
+        "href": "page:services-facials"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / BEFORE YOU BOOK",
+      "heading": "A few things to know.",
+      "lead": "Booked like any other appointment.",
+      "paragraphs": [
+        "Both facials book on Booksy. Choose the facial, choose the time, and the slot is held for you. Payment happens once it's done: cash, card, Zelle or Cash App.",
+        "Want a haircut and a facial on the same trip? Text me first and I'll tell you how to set the two up so they fit together.",
+        "Plans change. If yours do, cancel through Booksy as early as you can, because a missed appointment or a late cancellation may be charged a fee.",
+        "Curious about steam but more interested in a fresh cut? The Luxury Grooming Experience on the haircuts page wraps facial steam and two hot towels around a full haircut."
+      ],
+      "link": {
+        "label": "SEE THE HAIRCUTS",
+        "href": "page:services-haircuts"
+      }
+    },
+    {
+      "type": "faq",
+      "eyebrow": "05 / QUESTIONS",
+      "heading": "Facial questions.",
+      "items": [
+        {
+          "q": "What happens during a men's facial?",
+          "a": "At Divinely Faded you recline in the barber chair for a facial massage, warm steam, gentle exfoliation and a hydrating moisturizer. On top of that, the Express includes a deep cleanse, while the Deluxe brings in advanced skin treatments plus an anti-aging serum."
+        },
+        {
+          "q": "How long does a men's facial take?",
+          "a": "The Express Facial takes {{minutes:express-facial}} and the Deluxe Facial takes {{minutes:deluxe-facial}}."
+        },
+        {
+          "q": "How much is a men's facial?",
+          "a": "{{price:express-facial}} for the Express and {{price:deluxe-facial}} for the Deluxe, paid after the service."
+        },
+        {
+          "q": "How often should men get a facial?",
+          "a": "There's no fixed rule. Book one before an occasion or pair it with a regular visit, and ask me in the chair if you want a suggestion for your skin."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "FACIALS",
+      "heading": "Recline.<br>Reset.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "services-facials",
+    "services-haircuts"
+  ],
+  "tim_questions": [
+    "Confirm the order of the facial steps as written (massage, steam, cleanse/exfoliate, Deluxe treatments and serum, moisturizer).",
+    "Booksy lists a deep cleanse only on the Express, not the Deluxe. Is that right, or does the Deluxe include it too?",
+    "How often do you recommend a facial? The post leaves it as the client's call and says to ask you.",
+    "Can a facial be booked on the same visit as a haircut (back to back on Booksy)? The post says to text you first.",
+    "What are the Deluxe's 'advanced skin treatments'? The post only uses the Booksy wording."
+  ]
+}
