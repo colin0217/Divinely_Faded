@@ -223,5 +223,21 @@
   "w": 1280,
   "h": 720,
   "source": "https://divinely-faded.vercel.app/gbp-media/tim-outdoor-kids-cut.jpg"
+ },
+ "pexels-7697674-father-son-barbershop": {
+  "w": 2400,
+  "h": 1600,
+  "source": "https://www.pexels.com/photo/a-barber-looking-at-a-young-boy-s-hair-7697326/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "RDNE Stock project",
+  "treatment": "grayscale"
+ },
+ "pexels-32786444-man-curly-hair": {
+  "w": 2400,
+  "h": 1600,
+  "source": "https://www.pexels.com/photo/portrait-of-a-young-man-in-black-shirt-32786444/",
+  "license": "Pexels License (free to use, no attribution required)",
+  "credit": "Ey\u00fcpcan Timur",
+  "treatment": "grayscale"
  }
 }
