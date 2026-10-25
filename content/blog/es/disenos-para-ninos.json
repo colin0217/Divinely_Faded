@@ -1,0 +1,164 @@
+{
+  "id": "post-kids-hair-designs",
+  "locale": "es",
+  "slug": "/es/blog/disenos-para-ninos/",
+  "alt": "/blog/kids-hair-designs/",
+  "date": "2026-11-02",
+  "plan_rank": 2,
+  "title": "Diseños en el pelo para niños: lo que los papás deben saber",
+  "eyebrow": "NIÑOS",
+  "hero": "design-kids-fade-lines",
+  "hero_alt": "Desvanecido de un niño con líneas rectas cortadas arriba de la oreja, bajo una parte de arriba texturizada",
+  "image_plan": null,
+  "card_text": "Líneas o diseño libre, cómo agendar el extra de diseño, por qué se va borrando y qué revisar antes con la escuela.",
+  "lede": [
+    "Un diseño en el pelo es una línea o una forma cortada en la parte más corta de un desvanecido (fade). En los niños va encima de un corte normal, como un extra de {{addon:hair-design}} en Booksy, y convierte un desvanecido sencillo en uno que es solo suyo.",
+    "Antes de agendar uno, esto es lo que debes saber: los dos tipos de diseño, cómo agregarlo en Booksy, por qué se va borrando y si a la escuela le va a importar."
+  ],
+  "seo": {
+    "title": "Diseños en el pelo para niños: lo que los papás deben saber",
+    "description": "Diseños en el pelo para niños en Carlsbad, NM: líneas y diseño libre en un desvanecido, el precio del extra, cómo se borran y consejos para papás.",
+    "primary": "diseños en el pelo",
+    "secondary": []
+  },
+  "breadcrumb": [
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Blog",
+      "/es/blog/"
+    ],
+    [
+      "Diseños para niños",
+      "/es/blog/disenos-para-ninos/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / LAS OPCIONES",
+      "heading": "Líneas o diseño libre.",
+      "lead": "Dos tipos de diseño.",
+      "paragraphs": [
+        "Las líneas son cortes rectos, uno al lado del otro, como el grupo arriba de la oreja en la foto al principio de esta entrada. El diseño libre (freestyle) sigue la curva de la cabeza, como podría ir una curva desde la sien hasta atrás de la oreja.",
+        "Los dos van donde el desvanecido es más corto, así que la forma se ve limpia contra la piel. Por eso un diseño se ve más nítido en un desvanecido corto, donde hay suficiente contraste para que las líneas resalten.",
+        "Si tu hijo tiene una foto de un diseño que le gusta, tráela. Si no, pregúntale dónde lo quiere y qué tan llamativo, y los detalles los definimos en la silla."
+      ],
+      "link": {
+        "label": "VER MÁS TRABAJOS DE DISEÑO",
+        "href": "page:services-designs"
+      }
+    },
+    {
+      "type": "list",
+      "eyebrow": "02 / CÓMO AGENDARLO",
+      "heading": "Corte más diseño.",
+      "lead": "Agenda el corte y luego agrega el diseño.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "Una opción sencilla para el desvanecido de un niño: el corte, limpieza de la nuca con navaja y un peinado final.",
+          "book": true
+        },
+        {
+          "title": "Extra de diseño en el pelo",
+          "meta": "{{addon:hair-design}}",
+          "body": "Se agrega al corte cuando agendas. Líneas o diseño libre, en la parte más corta del desvanecido."
+        },
+        {
+          "title": "Cortes para niños",
+          "meta": "Niños bienvenidos",
+          "body": "En Booksy no hay un servicio separado para niños, así que los clientes pequeños eligen del mismo menú que los adultos. La página de niños muestra cortes reales de mi silla.",
+          "href": "page:services-kids",
+          "link_label": "CORTES PARA NIÑOS"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / CUÁNTO DURA",
+      "heading": "El diseño crece.",
+      "lead": "Planea la fecha con eso en mente.",
+      "paragraphs": [
+        "Un diseño se corta en pelo que ya está muy corto, así que es la primera parte del corte que se suaviza cuando el pelo vuelve a crecer. Qué tan rápido pasa depende de qué tan rápido le crece el pelo a tu hijo.",
+        "Por eso importa la fecha. Si el diseño es para un cumpleaños, un partido importante o el día de la foto escolar, agenda el corte cerca de esa fecha y no con semanas de anticipación.",
+        "¿Lo quieres otra vez cuando se borre? Agenda el corte de nuevo y vuelve a agregar el diseño. Cada visita es su propia cita."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / LA ESCUELA",
+      "heading": "Revisa las reglas primero.",
+      "lead": "Cada escuela pone las suyas.",
+      "paragraphs": [
+        "Algunas escuelas y equipos deportivos tienen reglas sobre los diseños cortados en el pelo. Yo no conozco el código de vestimenta de tu escuela, así que revísalo antes de agendar, sobre todo si es un diseño libre llamativo.",
+        "El día de la foto escolar es la otra fecha que los papás toman en cuenta. Un diseño recién hecho sale nítido en la foto, así que la semana de la foto es un buen momento para agendarlo."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "05 / UBICACIÓN",
+      "heading": "Dónde va.",
+      "lead": "Casi siempre, en el lado de la cabeza.",
+      "subsections": [
+        {
+          "heading": "Arriba o atrás de la oreja",
+          "paragraphs": [
+            "Los diseños suelen ir en el lado de la cabeza, arriba o atrás de la oreja, porque ahí es donde el desvanecido queda más corto. Los dos diseños en niños de mi página de diseños en el pelo van ahí: uno que corre hacia atrás pasando la oreja y otro justo arriba de ella.",
+            "Sencillo o llamativo es la otra decisión. Unas cuantas líneas rectas son la opción más discreta para un niño que quiere algo pequeño. Una curva de diseño libre resalta más. Deja que tu hijo elija, y luego compáralo con las reglas de la escuela."
+          ]
+        },
+        {
+          "heading": "Cómo preparar a tu hijo",
+          "paragraphs": [
+            "Enséñale a tu hijo una foto del diseño antes de la visita, para que sepa lo que le van a hacer y pueda cambiar de opinión en la casa, no en la silla.",
+            "Recuérdale que las líneas rectas dependen de que la cabeza esté quieta. Quedarse quieto mientras hago las líneas es lo que hace que se vean limpias."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / LOS PAPÁS PREGUNTAN",
+      "heading": "Antes de agendar.",
+      "items": [
+        {
+          "q": "¿Cuánto cuesta un diseño en el pelo para niños?",
+          "a": "El diseño es un extra de {{addon:hair-design}} encima del corte que agendes. El Essential Haircut (corte esencial) cuesta {{price:essential-haircut}}."
+        },
+        {
+          "q": "¿Mi hijo puede elegir cualquier diseño?",
+          "a": "Trae una foto o descríbelo, y lo platicamos antes de que empiece a cortar. Mi página de diseños en el pelo muestra dos diseños que he hecho en niños: una curva de diseño libre y un grupo de líneas."
+        },
+        {
+          "q": "¿Algún servicio incluye un diseño?",
+          "a": "La Luxury Grooming Experience (experiencia de arreglo de lujo) incluye un diseño básico en el pelo. Con el Essential Haircut o el Signature Cut (corte distintivo), es el extra de {{addon:hair-design}}."
+        },
+        {
+          "q": "¿Cuándo puedo traer a mi hijo para uno?",
+          "a": "Cuando haya un horario disponible en Booksy. El sábado trabajo de 8:00 AM a 2:00 PM, y la barbería está cerrada miércoles y domingo."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "SU CORTE",
+      "heading": "Su desvanecido.<br>Sus líneas.",
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "services-kids",
+    "services-designs"
+  ],
+  "tim_questions": [
+    "Is there a minimum age for kids' haircuts or designs?",
+    "How long does a kids' design usually stay crisp? (left out; the post only says it softens as the hair grows)"
+  ]
+}

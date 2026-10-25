@@ -1,0 +1,173 @@
+{
+  "id": "post-prom-haircuts",
+  "locale": "es",
+  "slug": "/es/blog/cortes-para-el-prom/",
+  "alt": "/blog/prom-haircuts/",
+  "date": "2026-11-02",
+  "plan_rank": 28,
+  "title": "Cortes para el prom: cuándo agendar y qué pedir",
+  "eyebrow": "DE TEMPORADA",
+  "hero": "cut-taper-textured-top",
+  "hero_alt": "Crop texturizado peinado hacia adelante, con un delineado (line-up) nítido y un taper hasta la piel en la oreja",
+  "image_plan": null,
+  "card_text": "Dos a cuatro días antes, trae una foto y decide qué hacer con la barba. Un plan para un corte de prom que se vea bien en cada foto.",
+  "lede": [
+    "Agenda tu corte para el prom de dos a cuatro días antes del baile. Es lo bastante cerca para verte fresco en cada foto, con uno o dos días para que un desvanecido (fade) y un delineado (line-up) nítidos se suavicen y se vean naturales en lugar de recién cortados. Asegura el horario en cuanto sepas la fecha, porque trabajo solo y una semana tiene un número limitado de horarios.",
+    "Aquí te digo cómo calcular el tiempo, qué cortes aguantan en las fotos y qué decirme cuando te sientes."
+  ],
+  "seo": {
+    "title": "Cortes de pelo para el prom | Carlsbad, NM",
+    "description": "Cortes para el prom en Carlsbad, NM: agenda de dos a cuatro días antes, elige un corte que salga limpio en fotos y decide sobre la barba. Divinely Faded.",
+    "primary": "cortes para el prom",
+    "secondary": []
+  },
+  "breadcrumb": [
+    ["Inicio", "/es/"],
+    ["Blog", "/es/blog/"],
+    ["Cortes para el prom", "/es/blog/cortes-para-el-prom/"]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / CUÁNDO",
+      "heading": "De dos a cuatro días antes.",
+      "lead": "Fresco, pero no recién cortado.",
+      "paragraphs": [
+        "Un corte hecho la mañana del prom puede verse demasiado marcado: el delineado está recién hecho, la piel en el desvanecido se ve pálida y descubierta, y todo se nota recién cortado. Dale uno o dos días y se asienta hasta verse como tu pelo.",
+        "Si te pasas para el otro lado y esperas demasiado, los bordes nítidos ya se fueron, sobre todo en un skin fade, donde la parte más corta es la primera que muestra el crecimiento.",
+        "Si el prom cae en sábado, acuérdate de que la barbería cierra el miércoles. El martes o el jueves de esa semana te dejan dentro del rango."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / ESTILOS",
+      "heading": "Cortes que salen bien en fotos.",
+      "lead": "Las líneas limpias se notan en cámara.",
+      "subsections": [
+        {
+          "heading": "Taper bajo",
+          "paragraphs": [
+            "Bordes ordenados, con largo en los lados. Se ve bien desde todos los ángulos, incluso en las fotos de lado que no puedes escoger."
+          ]
+        },
+        {
+          "heading": "Skin fade con delineado",
+          "paragraphs": [
+            "La opción de alto contraste. Un nacimiento del pelo nítido enmarca la cara en los acercamientos, y los lados al ras se ven limpios sobre el cuello de la camisa y la corbata."
+          ]
+        },
+        {
+          "heading": "Crop texturizado",
+          "paragraphs": [
+            "Un fleco hacia adelante con textura, como el corte de la foto de arriba. Casi no hay que hacerle nada ese día, lo que ayuda cuando también andas arreglando el traje y las flores."
+          ]
+        },
+        {
+          "heading": "Peinado hacia atrás (slick back)",
+          "paragraphs": [
+            "Todo hacia atrás sobre un taper bajo. Clásico con esmoquin, pero tiene que aguantar toda la noche, así que practica cómo peinarlo en casa antes del día."
+          ]
+        }
+      ],
+      "link": {
+        "label": "VER TODOS LOS ESTILOS",
+        "href": "page:styles"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / QUÉ PEDIR",
+      "heading": "Dilo claro.",
+      "lead": "Una foto hace casi todo el trabajo.",
+      "paragraphs": [
+        "Trae una foto del corte que quieres, de preferencia desde más de un ángulo. Luego dime tres cosas: qué tan cortos van los lados, cuánto se queda arriba y si la barba se queda, se delinea o se quita.",
+        "El prom no es el día para probar algo drástico por primera vez. Si quieres un cambio grande, háztelo unas semanas antes, acostúmbrate a traerlo y regresa antes del baile para afinarlo.",
+        "¿Quieres líneas marcadas? El diseño en el pelo es un extra de {{addon:hair-design}} sobre el corte.",
+        "¿Vas a usar esmoquin o traje? El cuello de la camisa se junta con el corte en la nuca. Todo corte que agendo termina con trabajo de navaja en el contorno de la nuca, así que esa línea queda resuelta."
+      ],
+      "link": {
+        "label": "VER LOS CORTES",
+        "href": "page:services-haircuts"
+      }
+    },
+    {
+      "type": "list",
+      "eyebrow": "04 / CÓMO AGENDARLO",
+      "heading": "Elige el servicio.",
+      "lead": "Empieza por la barba.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "El corte, limpieza de la nuca con navaja y peinado final. El indicado para una cara afeitada o si todavía no tienes barba.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "El corte más corte de barba o delineado, toalla caliente y detalles con navaja. El que debes agendar cuando el vello facial es parte del look.",
+          "book": true
+        },
+        {
+          "title": "Straight Razor Beard Shave",
+          "meta": "{{price:straight-razor-beard-shave}} · {{minutes:straight-razor-beard-shave}}",
+          "body": "¿Quieres la cara completamente lisa para las fotos? Un afeitado tradicional con toallas calientes, crema de afeitar y aftershave, agendado como su propia cita.",
+          "href": "page:services-beard-shaves",
+          "book": true
+        },
+        {
+          "title": "Luxury Grooming Experience",
+          "meta": "{{price:luxury-grooming}} · {{minutes:luxury-grooming}}",
+          "body": "El tratamiento completo: consulta, corte, modelado de barba, lavado, vapor, toallas calientes, depilación con cera, un diseño básico, peinado y fragancia. Hecho para una noche con tantas cámaras.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "05 / PREGUNTAS",
+      "heading": "Preguntas sobre el corte del prom.",
+      "items": [
+        {
+          "q": "¿Cuándo debo cortarme el pelo antes del prom?",
+          "a": "De dos a cuatro días antes. Se ve fresco para las fotos y tiene uno o dos días para asentarse."
+        },
+        {
+          "q": "¿Qué es un buen corte de prom para hombre?",
+          "a": "Algo con líneas limpias: un taper bajo, un skin fade con delineado, un crop texturizado o un peinado hacia atrás. Trae una foto del que te guste."
+        },
+        {
+          "q": "¿Puedo traer una foto que encontré en internet?",
+          "a": "Por favor, tráela. Cualquier foto clara del corte sirve, y una vista de frente con una de lado es todavía más útil."
+        },
+        {
+          "q": "¿Me debo afeitar para el prom?",
+          "a": "Eso depende de ti. Para la cara lisa, agenda el Straight Razor Beard Shave (afeitado de barba con navaja). Para quedarte con la barba, el Signature Cut (corte distintivo) la recorta o la delinea junto con el corte."
+        },
+        {
+          "q": "¿Cuánto cuesta un corte para el prom?",
+          "a": "Lo mismo que cualquier otro corte: {{price:essential-haircut}} el Essential, {{price:signature-cut}} el Signature, {{price:luxury-grooming}} la Luxury. Pagas después del servicio."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "NOCHE DE PROM",
+      "heading": "Impecable en<br>cada foto.",
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "styles",
+    "services-haircuts",
+    "services-beard-shaves"
+  ],
+  "tim_questions": [
+    "Confirm the two-to-four-days-before advice and the reasoning that a fresh fade and line-up need a day or two to settle.",
+    "Does prom season get busy enough to tell people to book early? The post only says you work solo.",
+    "Can the Straight Razor Beard Shave be booked back to back with a haircut? The post calls it its own appointment."
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "id": "post-beard-fade",
+  "locale": "en",
+  "slug": "/blog/beard-fade/",
+  "date": "2026-11-02",
+  "plan_rank": 15,
+  "title": "Beard Fade: Blending Your Beard into Your Fade",
+  "eyebrow": "BEARDS",
+  "hero": "cut-high-skin-fade-full-beard",
+  "hero_alt": "High skin fade under a short buzzed top, a razor line above the ear and a full, squared beard",
+  "image_plan": null,
+  "card_text": "How the sideburn connects your fade to your beard, how fade height and beard length change it, and which service to book.",
+  "lede": [
+    "A beard fade takes the sideburn down gradually so the fade on the side of your head runs straight into your beard, with no hard break where hair stops and beard starts. At my shop it's booked as the Signature Cut, {{price:signature-cut}} for {{minutes:signature-cut}}, which puts the haircut and the beard in one appointment.",
+    "Here's where the blend happens, how it changes with your fade and your beard, and what to tell me so it comes out the way you picture it."
+  ],
+  "seo": {
+    "title": "Beard Fade: Blending Your Beard into Your Fade",
+    "description": "What a beard fade is, how the sideburn joins your fade to your beard, and how to book one at Divinely Faded in Carlsbad, NM.",
+    "primary": "beard fade",
+    "secondary": []
+  },
+  "breadcrumb": [
+    ["Home", "/"],
+    ["Blog", "/blog/"],
+    ["Beard Fade", "/blog/beard-fade/"]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / THE BLEND",
+      "heading": "Where hair meets beard.",
+      "lead": "It all happens at the sideburn.",
+      "paragraphs": [
+        "Your fade gets shorter as it goes down the side of the head. Your beard gets longer as it goes down the jaw. The sideburn is where those two meet, and if nobody blends it, you get a ledge: short hair ending abruptly and thick beard starting right under it.",
+        "A beard fade removes that ledge. The sideburn is shortened in steps, from the length of the fade into the length of the beard, so the eye moves from scalp to cheek without a jump.",
+        "In the photo at the top, the side is faded high to skin, a razor line sits above the ear, and the full beard below is squared off at the jaw. The connection runs through the sideburn in between."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / HOW IT CHANGES",
+      "heading": "Two choices set the look.",
+      "lead": "Fade height and beard length.",
+      "subsections": [
+        {
+          "heading": "High fade or low fade",
+          "paragraphs": [
+            "A high fade leaves more bare skin above the ear, so the sideburn has to carry a bigger change, from nothing to full beard. A low fade keeps more hair on the side of the head, and the connection is shorter and softer."
+          ]
+        },
+        {
+          "heading": "Short beard or full beard",
+          "paragraphs": [
+            "A short, even beard joins the fade with the least fuss. A full beard, like the one in the photo, makes the transition a feature of the cut, so the sideburn needs more careful steps."
+          ]
+        },
+        {
+          "heading": "Fading the beard too",
+          "paragraphs": [
+            "Some people want the beard itself to fade: shorter on the cheek, fuller at the chin. If that's the look, bring a photo, so we agree on where the length should start to build."
+          ]
+        }
+      ],
+      "link": {
+        "label": "SEE THE SKIN FADE",
+        "href": "page:styles-skin-fade"
+      }
+    },
+    {
+      "type": "list",
+      "eyebrow": "03 / BOOK IT AS",
+      "heading": "Which booking.",
+      "lead": "The beard has to be on the appointment.",
+      "items": [
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "The haircut plus a beard trim or line-up, so the fade and the beard are cut in the same sitting. It finishes with a hot towel and straight razor detailing along the edges.",
+          "book": true
+        },
+        {
+          "title": "Luxury Grooming Experience",
+          "meta": "{{price:luxury-grooming}} · {{minutes:luxury-grooming}}",
+          "body": "For a big beard that needs real shaping: a beard sculpt, two hot towels, facial steam and a wash, wrapped around the cut.",
+          "book": true
+        },
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "The cut and a razor-clean neck, with no beard work in it. Only pick this one if you keep the beard yourself, because a blend needs both sides of the line.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / IN THE CHAIR",
+      "heading": "Tell me three things.",
+      "lead": "Before the clippers come out.",
+      "paragraphs": [
+        "How high the fade goes, how much length the beard keeps, and whether the cheek line stays natural or gets a crisp edge. A clean cheek line and a sharp neckline are what make the connection look intentional.",
+        "Growing the beard out? Say so. A beard that's still filling in may not have the length yet for a long blend, and keeping the fade a little lower buys it time to catch up.",
+        "Choose the Signature from the start rather than adding the beard on the day. The beard needs its share of the {{minutes:signature-cut}}, and that time is only there if it's booked."
+      ],
+      "link": {
+        "label": "ALL BEARD SERVICES",
+        "href": "page:services-beard-shaves"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "05 / AS IT GROWS",
+      "heading": "When they drift apart.",
+      "lead": "The sideburn goes first.",
+      "paragraphs": [
+        "As the fade grows in, the sideburn fills and the connection softens. The beard keeps growing too, so the two slowly start to look like separate pieces again.",
+        "Trimming the beard at home is up to you, but leave the sideburn alone. Clippers on the blend are how a smooth connection turns into a step. When the side and the beard stop reading as one line, that's the cue to book."
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / QUESTIONS",
+      "heading": "Beard fade, answered.",
+      "items": [
+        {
+          "q": "What is a beard fade?",
+          "a": "A haircut where the sideburn is taken down gradually so the fade on your head blends into your beard without a hard line."
+        },
+        {
+          "q": "Can I get a beard fade without a haircut?",
+          "a": "On Booksy, beard trims and line-ups come with the Signature Cut, which includes the haircut. If you only want beard work, text me at {{phone}} and ask."
+        },
+        {
+          "q": "Does a beard fade work with a short beard?",
+          "a": "Yes. A short beard connects with a shorter, softer blend. The longer the beard, the more the sideburn has to bridge."
+        },
+        {
+          "q": "How long is the appointment?",
+          "a": "Booksy holds {{minutes:signature-cut}} for the Signature Cut, covering the fade and the beard together."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "CONNECTED",
+      "heading": "Fade to beard.<br>No ledge.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "services-beard-shaves",
+    "styles-skin-fade"
+  ],
+  "tim_questions": [
+    "Can a client book a beard-only fade or trim without a haircut? The post says to text and ask.",
+    "How often do you suggest coming back to keep the fade and beard connected? No interval given in the post."
+  ]
+}

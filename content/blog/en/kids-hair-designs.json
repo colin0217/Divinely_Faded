@@ -1,0 +1,165 @@
+{
+  "id": "post-kids-hair-designs",
+  "locale": "en",
+  "slug": "/blog/kids-hair-designs/",
+  "date": "2026-11-02",
+  "plan_rank": 2,
+  "title": "Hair Designs for Kids: What Parents Should Know",
+  "eyebrow": "KIDS",
+  "hero": "design-kids-fade-lines",
+  "hero_alt": "A boy's fade with straight lines cut above the ear under a textured top",
+  "image_plan": null,
+  "card_text": "Lines or freestyle, how to book the design add-on, why it fades, and what to check with school first.",
+  "lede": [
+    "A hair design is a line or shape cut into the short part of a fade. For kids, it goes on top of a regular haircut as a {{addon:hair-design}} add-on on Booksy, and it turns a plain fade into one that is theirs.",
+    "Before you book one, here is what to know: the two kinds of design, how to add one on Booksy, why it fades, and whether school will mind."
+  ],
+  "seo": {
+    "title": "Hair Designs for Kids: What Parents Should Know",
+    "description": "Kids' hair designs in Carlsbad, NM: lines and freestyle cut into a fade, the add-on price, how designs grow out and booking tips for parents.",
+    "primary": "kids haircut designs",
+    "secondary": [
+      "boys haircut designs"
+    ]
+  },
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Blog",
+      "/blog/"
+    ],
+    [
+      "Kids' Hair Designs",
+      "/blog/kids-hair-designs/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / THE OPTIONS",
+      "heading": "Lines or freestyle.",
+      "lead": "Two kinds of design.",
+      "paragraphs": [
+        "Lines are straight cuts set side by side, like the set above the ear in the photo at the top of this post. Freestyle follows the curve of the head, the way a sweep might run from the temple around to the back of the ear.",
+        "Both sit where the fade is shortest, so the shape reads clean against the skin. That is also why a design shows up sharpest on a short fade, where there is enough contrast for the lines to stand out.",
+        "If your kid has a picture of a design they like, bring it. If not, ask them where they want it and how bold, and we will settle the details in the chair."
+      ],
+      "link": {
+        "label": "SEE MORE DESIGN WORK",
+        "href": "page:services-designs"
+      }
+    },
+    {
+      "type": "list",
+      "eyebrow": "02 / HOW TO BOOK IT",
+      "heading": "Cut plus design.",
+      "lead": "Book the haircut, then add the design.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "A straightforward fit for a kid's fade: the haircut, a straight razor cleanup along the neck and a finished style.",
+          "book": true
+        },
+        {
+          "title": "Hair design add-on",
+          "meta": "{{addon:hair-design}}",
+          "body": "Added to the haircut when you book. Lines or freestyle, placed in the shortest part of the fade."
+        },
+        {
+          "title": "Kids' haircuts",
+          "meta": "Kids welcome",
+          "body": "There is no separate kids' service on Booksy, so young clients pick from the same menu as adults. The kids' page shows real cuts from my chair.",
+          "href": "page:services-kids",
+          "link_label": "KIDS' HAIRCUTS"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / HOW LONG IT LASTS",
+      "heading": "Designs grow out.",
+      "lead": "Plan the date around that.",
+      "paragraphs": [
+        "A design is cut into hair that is already very short, so it is the first part of the cut to soften as the hair comes back. How quickly depends on how fast your kid's hair grows.",
+        "That makes timing matter. If the design is for a birthday, a big game or picture day, book the cut close to that date rather than weeks ahead.",
+        "Want it back once it fades? Book the haircut again and add the design again. Each visit is its own appointment."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / SCHOOL",
+      "heading": "Check the rules first.",
+      "lead": "Every school sets its own.",
+      "paragraphs": [
+        "Some schools and sports teams have rules about designs cut into hair. I don't know your school's dress code, so look it up before you book, especially for a bold freestyle piece.",
+        "Picture day is the other date parents plan around. A fresh design photographs crisp, so the week of the photo is a good time to book it."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "05 / PLACEMENT",
+      "heading": "Where it goes.",
+      "lead": "The side of the head, mostly.",
+      "subsections": [
+        {
+          "heading": "Above or behind the ear",
+          "paragraphs": [
+            "Designs tend to go on the side of the head, above or behind the ear, because that is where a fade runs shortest. Both kids' designs on my hair designs page sit there, one sweeping back past the ear and one set just over it.",
+            "Simple or bold is the other choice. A few straight lines is the quieter option for a kid who wants something small. A freestyle curve stands out more. Let your kid pick, then check it against the school rules."
+          ]
+        },
+        {
+          "heading": "Getting your kid ready",
+          "paragraphs": [
+            "Show your kid a photo of the design before the visit so they know what they are getting and can change their mind at home, not in the chair.",
+            "Remind them that straight lines depend on a still head. Sitting still while the lines go in is the part that makes them look clean."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / PARENTS ASK",
+      "heading": "Before you book.",
+      "items": [
+        {
+          "q": "How much does a kids' hair design cost?",
+          "a": "The design is a {{addon:hair-design}} add-on on top of whichever haircut you book. The Essential Haircut is {{price:essential-haircut}}."
+        },
+        {
+          "q": "Can my kid pick any design?",
+          "a": "Bring a photo or describe it, and we will talk it through before I start cutting. My hair designs page shows two designs I have cut on kids: a freestyle curve and a set of lines."
+        },
+        {
+          "q": "Is a design included in any service?",
+          "a": "The Luxury Grooming Experience includes a basic hair design. With the Essential Haircut or the Signature Cut, it is the {{addon:hair-design}} add-on."
+        },
+        {
+          "q": "When can I bring my kid in for one?",
+          "a": "Any open slot on Booksy. Saturday runs 8:00 AM to 2:00 PM, and the shop is closed Wednesday and Sunday."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "THEIR CUT",
+      "heading": "Their fade.<br>Their lines.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "services-kids",
+    "services-designs"
+  ],
+  "tim_questions": [
+    "Is there a minimum age for kids' haircuts or designs?",
+    "How long does a kids' design usually stay crisp? (left out; the post only says it softens as the hair grows)"
+  ]
+}

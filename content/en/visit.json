@@ -1,0 +1,207 @@
+{
+  "id": "visit",
+  "locale": "en",
+  "slug": "/visit/",
+  "alt": "/es/visitanos/",
+  "nav_label": "Visit",
+  "card_text": "Address, hours, directions and how to reach me.",
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Visit",
+      "/visit/"
+    ]
+  ],
+  "seo": {
+    "title": "Barber Open Saturday in Carlsbad, NM | Hours & Directions",
+    "description": "Divinely Faded, 303 S Halagueno St, Carlsbad, NM. Open Saturday 8 AM to 2 PM, closed Wednesday and Sunday. Book on Booksy or text Tim.",
+    "primary": "barber shop open saturday carlsbad nm",
+    "secondary": [
+      "barbers near me open today",
+      "barbers near me open now",
+      "barber near me",
+      "barber shops in carlsbad nm",
+      "carlsbad nm barber shop"
+    ],
+    "og_photo": "shop-chair"
+  },
+  "schema": {
+    "type": "ContactPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "VISIT",
+      "h1": "Visit the shop.",
+      "paragraphs": [
+        "{{address}}. Open Monday, Tuesday, Thursday and Friday from 9 to noon and 12:30 to 5, Saturday from 8 to 2. Closed Wednesday and Sunday.",
+        "Appointments only, booked on Booksy. If you need me before then, text. It's the fastest way to reach me."
+      ],
+      "link": {
+        "label": "GET DIRECTIONS",
+        "href": "directions"
+      },
+      "photos": [
+        "shop-chair"
+      ],
+      "alt": {
+        "shop-chair": "Black tufted barber chair inside Divinely Faded in Carlsbad, NM"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "MAP",
+      "heading": "Find the shop.",
+      "lead": "{{address}}. Tap the map to open it in Google Maps.",
+      "title": "Map to Divinely Faded, 303 S Halagueno St, Carlsbad, NM",
+      "link_label": "GET DIRECTIONS"
+    },
+    {
+      "type": "list",
+      "eyebrow": "02 / STORE INFO",
+      "heading": "Find me. Book me.",
+      "lead": "Tap to open.",
+      "items": [
+        {
+          "title": "Address",
+          "meta": "Carlsbad, NM",
+          "body": "{{address}}. Opens the route in Google Maps.",
+          "href": "directions",
+          "book": false,
+          "link_label": "GET DIRECTIONS"
+        },
+        {
+          "title": "Text",
+          "meta": "{{phone}}",
+          "body": "My preferred way to hear from you.",
+          "href": "sms",
+          "book": false,
+          "link_label": "TEXT TIM"
+        },
+        {
+          "title": "Call",
+          "meta": "{{phone}}",
+          "body": "If you'd rather talk, call the same number.",
+          "href": "tel",
+          "book": false,
+          "link_label": "CALL"
+        },
+        {
+          "title": "Book",
+          "meta": "Booksy",
+          "body": "Every appointment is booked through Booksy, where you can see open times.",
+          "book": true,
+          "book_label": "BOOK ON BOOKSY"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "eyebrow": "03 / HOURS",
+      "heading": "Hours.",
+      "lead": "Closed Wednesday and Sunday.",
+      "columns": [
+        "Day",
+        "Hours"
+      ],
+      "rows": [
+        [
+          "Monday",
+          "9:00 AM–12:00 PM, 12:30–5:00 PM"
+        ],
+        [
+          "Tuesday",
+          "9:00 AM–12:00 PM, 12:30–5:00 PM"
+        ],
+        [
+          "Wednesday",
+          "Closed"
+        ],
+        [
+          "Thursday",
+          "9:00 AM–12:00 PM, 12:30–5:00 PM"
+        ],
+        [
+          "Friday",
+          "9:00 AM–12:00 PM, 12:30–5:00 PM"
+        ],
+        [
+          "Saturday",
+          "8:00 AM–2:00 PM"
+        ],
+        [
+          "Sunday",
+          "Closed"
+        ]
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / GOOD TO KNOW",
+      "heading": "Holidays, payment, policy.",
+      "lead": "The fine print, kept short.",
+      "paragraphs": [
+        "Holidays: open at my regular hours. Appointments on the holiday itself carry a {{holiday_fee}} holiday fee.",
+        "Payment: cash, card, Zelle or Cash App, paid in full once the service is done.",
+        "Policy: Booksy may charge a cancellation fee for a no-show or a late cancellation."
+      ],
+      "photos": []
+    },
+    {
+      "type": "table",
+      "eyebrow": "05 / COMING FROM NEARBY",
+      "heading": "Coming from nearby.",
+      "lead": "Driving from Loving, Artesia or anywhere else in Eddy County? Here's roughly how far the shop is.",
+      "columns": [
+        "Town",
+        "Miles",
+        "Drive"
+      ],
+      "rows": "nearby"
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / QUESTIONS",
+      "heading": "Good to know.",
+      "items": [
+        {
+          "q": "What do I need to know before my visit?",
+          "a": "Book your time on Booksy first, because I only take appointments. Payment comes after the service: cash, card, Zelle or Cash App."
+        },
+        {
+          "q": "Where is the shop?",
+          "a": "{{address}}. Tap Get Directions on this page and Google Maps takes you there."
+        },
+        {
+          "q": "Which days can I book?",
+          "a": "Monday, Tuesday, Thursday, Friday and Saturday. Wednesdays and Sundays I'm closed."
+        },
+        {
+          "q": "Can I text instead of calling?",
+          "a": "Yes, a text to {{phone}} is how I like to hear from you."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "APPOINTMENTS ONLY",
+      "heading": "Book first.<br>Then pull up.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "services",
+    "about",
+    "faq"
+  ],
+  "tim_questions": [
+    "[TIM?] Confirm weekday hours: Booksy shows Mon/Tue/Thu/Fri 9:00 AM–12:00 PM and 12:30–5:00 PM.",
+    "Parking: where should clients park? (Not on the page; parking is unknown and on never_claim.)"
+  ]
+}

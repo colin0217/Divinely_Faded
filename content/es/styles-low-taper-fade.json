@@ -1,0 +1,92 @@
+{
+  "id": "styles-low-taper-fade",
+  "locale": "es",
+  "slug": "/es/estilos/low-taper-fade/",
+  "alt": "/styles/low-taper-fade/",
+  "nav_label": "Low Taper Fade",
+  "card_text": "Bordes limpios en la oreja y la nuca, con el largo en todo lo demás.",
+  "breadcrumb": [["Inicio", "/es/"], ["Estilos", "/es/estilos/"], ["Low Taper Fade", "/es/estilos/low-taper-fade/"]],
+  "seo": {
+    "title": "Taper bajo (low taper fade) en Carlsbad, NM | Divinely Faded",
+    "description": "Low taper fade (taper bajo) y taper medio en Carlsbad, NM. Patillas y nuca limpias, con el largo arriba. Fotos reales y citas en Booksy.",
+    "primary": "taper bajo",
+    "secondary": ["corte taper fade", "corte low taper", "taper fade bajo"],
+    "og_photo": "cut-low-taper-textured-top"
+  },
+  "schema": { "type": "Service", "service_ids": ["essential-haircut", "signature-cut"] },
+  "photo_alt": {
+    "cut-low-taper-textured-top": "Low taper fade desde atrás, con la parte de arriba más larga peinada con producto y el taper llegando a la piel detrás de la oreja",
+    "cut-back-taper": "Vista de atrás de un taper que baja hasta la piel en la nuca, con la parte de arriba corta y texturizada",
+    "cut-teen-taper-textured-top": "Taper medio en un adolescente, con piel en la patilla que sube hacia la sien y un fleco texturizado largo arriba"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "ESTILOS / LOW TAPER FADE",
+      "h1": "Low taper fade.",
+      "paragraphs": [
+        "¿Quieres los bordes limpios sin que todo el lado quede a piel? Eso hace un low taper fade (taper bajo). Solo acorta las patillas, el pelo alrededor de la oreja y la nuca, y deja el resto de la cabeza con su largo.",
+        "Como se quita tan poco, el corte se ve limpio de frente y crece sin una línea brusca. Arriba puede ir casi cualquier cosa, desde un crop corto hasta el estilo más largo y peinado de la primera foto."
+      ],
+      "link": { "label": "AGENDA ESTE CORTE", "href": "booksy" },
+      "photos": ["cut-low-taper-textured-top", "cut-back-taper"]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / BAJO O MEDIO",
+      "heading": "Taper bajo vs. taper medio.",
+      "lead": "La diferencia está en dónde empieza.",
+      "paragraphs": [
+        "Un taper bajo empieza cerca de abajo: en la oreja y a lo largo de la nuca. Un taper medio empieza más arriba, más o menos a la altura de la sien, así que se baja más parte del lado antes de la transición hacia arriba. El medio da más contraste. El bajo se queda más cerca de un corte clásico.",
+        "La vista lateral de aquí está más del lado del medio, con piel en la patilla que sube hacia la sien y un fleco texturizado largo. La vista de atrás muestra dónde termina todo taper: el pelo que baja hasta la piel en el contorno de la nuca."
+      ],
+      "photos": ["cut-teen-taper-textured-top"]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / A QUIÉN LE QUEDA",
+      "heading": "Un primer desvanecido fácil.",
+      "lead": "Poco contraste, mucha versatilidad.",
+      "paragraphs": [
+        "Un taper quita tan poco que le queda al pelo lacio, ondulado y chino, y va bien en lugares donde un desvanecido (fade) marcado podría llamar la atención, como la escuela o un trabajo conservador. Si solo te has hecho cortes a tijera, un taper bajo es una forma suave de probar la máquina en los lados."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "04 / CÓMO AGENDARLO",
+      "heading": "Qué servicio.",
+      "lead": "Los dos cubren el taper bajo y el medio.",
+      "items": [
+        { "title": "Essential Haircut", "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}", "body": "Cubre el taper y la parte de arriba por sí solo, adaptado a la forma de tu cabeza, con limpieza de la nuca con navaja.", "href": "page:services-haircuts", "book": true },
+        { "title": "Signature Cut", "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}", "body": "Agenda este cuando la barba también necesita atención: recorte o delineado (line-up), terminado con toalla caliente.", "href": "page:services-haircuts", "book": true }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "05 / MANTENIMIENTO",
+      "heading": "Crece con suavidad.",
+      "lead": "Fíjate en la nuca.",
+      "paragraphs": [
+        "Como se ve menos piel, un taper bajo crece con más suavidad que un desvanecido completo. Un taper medio muestra el pelo que vuelve a crecer un poco antes. El contorno de la nuca suele ser lo primero que pierde definición, así que cuando la parte de atrás empieza a verse borrosa, es hora de agendar."
+      ],
+      "photos": []
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / PREGUNTAS",
+      "heading": "Preguntas sobre el taper.",
+      "items": [
+        { "q": "¿Qué es exactamente un low taper fade?", "a": "Un corte en el que solo los bordes de más abajo, las patillas y la nuca, se llevan cortas con desvanecido. Los lados de arriba conservan su largo." },
+        { "q": "¿Cuál es la diferencia entre un desvanecido y un taper?", "a": "Un desvanecido rodea toda la cabeza y muchas veces sube más por los lados. Un taper se limita a los bordes. Puedes llevar un taper que llegue a la piel, y por eso los nombres se confunden." },
+        { "q": "¿Un taper bajo funciona en pelo corto?", "a": "Sí. Con la parte de arriba corta mantiene el contorno limpio sin que los lados se vean rapados, así que todo el corte queda equilibrado." },
+        { "q": "¿Cómo pido un mid taper fade?", "a": "Di taper medio y señala dónde quieres que empiece, normalmente a la altura de la sien. Menciona qué tan largo quieres arriba y si quieres piel abajo. Una foto te ahorra muchas explicaciones." }
+      ]
+    }
+  ],
+  "related": ["styles-skin-fade", "styles-textured-fringe", "styles-slick-back", "services-haircuts"],
+  "tim_questions": [
+    "Photo fit: cut-low-taper-textured-top and cut-teen-taper-textured-top read closer to a mid taper/low fade than a strict low taper (skin reaches above the ear). The page describes them that way. OK, or would you call them low tapers?",
+    "How long do you tell people a low taper lasts between cuts? The upkeep section gives no interval until you say."
+  ]
+}

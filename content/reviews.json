@@ -1,0 +1,84 @@
+{
+ "as_of": "2026-10-25",
+ "note": "Snapshot of Tim's public reviews. Google: Business Profile API v4 via GBPOS (rating + count + text). Booksy: rating + count from the public profile's structured data (its recent reviews are star-only). Quotes are verbatim; trimmed only with … or a bracketed [word]. Excluded on purpose: family/related reviewers (Murillo Family, Debbie Murillo), our partner (Colin), and any review naming a competitor or a product brand. No rating schema is emitted (self-serving LocalBusiness ratings are ineligible for Google review snippets). Refresh with tools/reviews-refresh.mjs.",
+ "sources": {
+  "google": {
+   "label": "Google",
+   "rating": 5.0,
+   "count": 19,
+   "url": "https://www.google.com/maps?cid=15257330546621568190"
+  },
+  "booksy": {
+   "label": "Booksy",
+   "rating": 5.0,
+   "count": 222,
+   "url": "https://booksy.com/en-us/1113769_divinely-faded-timothy-murillo_barber-shop_28967_carlsbad#business-reviews"
+  }
+ },
+ "quotes": [
+  {
+   "source": "booksy",
+   "author": "Matt",
+   "service": "Signature Cut",
+   "date": "",
+   "text": "Always a great cut & beard line up!",
+   "full": true
+  },
+  {
+   "source": "google",
+   "author": "William M.",
+   "date": "2026-10-25",
+   "text": "Excellent barber, with professional and precision cuts, which is complimented by great pricing and an environment that makes you feel like you're not in a small town.",
+   "full": true
+  },
+  {
+   "source": "google",
+   "author": "Trey K.",
+   "date": "2026-10-24",
+   "text": "Tim takes the time to understand what you’re wanting and then skillfully executes that exact cut with precision and professionalism. I can’t recommend him highly enough.",
+   "full": true
+  },
+  {
+   "source": "google",
+   "author": "Jamie D.",
+   "date": "2026-10-24",
+   "text": "Tim has been my barber for years, he always cuts my hair exactly how I ask and does a phenomenal job each time. Tim takes his time and pays attention to detail, always consistent with his appointments and I always recommend people to go to him for their haircuts!",
+   "full": true
+  },
+  {
+   "source": "google",
+   "author": "Bethany A.",
+   "date": "2026-10-23",
+   "text": "He takes his time and talks [my kids] through the process to make sure they get what they want. He tries to get to know each client and helps them feel comfortable.",
+   "full": false
+  },
+  {
+   "source": "google",
+   "author": "Steven C.",
+   "date": "2026-10-24",
+   "text": "He makes you feel right at home, takes his time, and pays close attention to every detail to make sure you leave with the quality cut and style you’re looking for.",
+   "full": false
+  },
+  {
+   "source": "google",
+   "author": "Google reviewer",
+   "date": "2026-10-24",
+   "text": "I get a taper fade down to no guard with a hard part and like most I’m particular about my haircuts. The cuts have always turned out just how I wanted them.",
+   "full": false
+  },
+  {
+   "source": "google",
+   "author": "Serg R.",
+   "date": "2026-10-24",
+   "text": "Great cut and man of God. Strongly recommended. I wont go anywhere else.",
+   "full": true
+  },
+  {
+   "source": "google",
+   "author": "David T.",
+   "date": "2026-07-03",
+   "text": "Finding a barber who truly listens and nails the details is a rare find, but Tim Murillo at Divinely Faded is exactly that.",
+   "full": false
+  }
+ ]
+}

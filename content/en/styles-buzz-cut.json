@@ -1,0 +1,81 @@
+{
+  "id": "styles-buzz-cut",
+  "locale": "en",
+  "slug": "/styles/buzz-cut/",
+  "alt": "/es/estilos/buzz-cut/",
+  "nav_label": "Buzz Cut",
+  "card_text": "Buzz, crew and high and tight, with a sharp outline.",
+  "breadcrumb": [["Home", "/"], ["Styles", "/styles/"], ["Buzz Cut", "/styles/buzz-cut/"]],
+  "seo": {
+    "title": "Buzz Cut in Carlsbad, NM | Divinely Faded",
+    "description": "Buzz cut, crew cut and high and tight haircuts in Carlsbad, NM, with a fade and a sharp line-up. See the cut and book your appointment on Booksy.",
+    "primary": "buzz cut carlsbad nm",
+    "secondary": ["buzz cut", "crew cut", "high and tight", "crew cut vs buzz cut", "buzz cut fade"],
+    "og_photo": "cut-high-fade-short-crop"
+  },
+  "schema": { "type": "Service", "service_ids": ["essential-haircut", "signature-cut", "head-beard-shave"] },
+  "photo_alt": {
+    "cut-high-fade-short-crop": "High and tight style buzz cut, short even top, sharp front line-up and a fade climbing high above the ear"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "STYLES / BUZZ CUT",
+      "h1": "Buzz cut.",
+      "paragraphs": [
+        "One short clipper length over the head, or close to it. A buzz cut is about as low-maintenance as hair gets: nothing to style in the morning and nothing to fight.",
+        "What makes one look finished is the outline. The cut on this page has a short, even top, a line-up that squares off the front, and a fade that climbs well above the ear."
+      ],
+      "link": { "label": "BOOK THIS CUT", "href": "booksy" },
+      "photos": ["cut-high-fade-short-crop"]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / THE FAMILY",
+      "heading": "Buzz, crew, high and tight.",
+      "lead": "Three short cuts people mix up.",
+      "paragraphs": [
+        "Buzz cut: the same short length all over, often with a fade added on the sides so it doesn't look grown in.",
+        "Crew cut: a little more length on top, graduated so the front is longest, with shorter sides. It can be combed or left natural.",
+        "High and tight: very short on top with the sides faded high, often to skin. The photo here sits close to that end of the family."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "03 / BOOK IT AS",
+      "heading": "Short cuts, three ways.",
+      "lead": "From a fade to a full shave.",
+      "items": [
+        { "title": "Essential Haircut", "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}", "body": "Buzz, crew or high and tight, with the outline cleaned up by straight razor at the neck.", "href": "page:services-haircuts", "book": true },
+        { "title": "Signature Cut", "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}", "body": "The short cut plus beard work and a hot towel. Worth it when the beard is doing half the talking.", "href": "page:services-haircuts", "book": true },
+        { "title": "Head & Beard Shave", "meta": "{{price:head-beard-shave}} · {{minutes:head-beard-shave}}", "body": "Going past a buzz to fully bare? This is a precision head shave and beard shave with hot towels and an aftershave balm.", "href": "page:services-beard-shaves", "book": true }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / UPKEEP",
+      "heading": "Short hair shows everything.",
+      "lead": "The edges go first.",
+      "paragraphs": [
+        "On a buzz cut the top length barely changes your look as it grows, but the fade and the line-up do. They are the first things to blur, so they decide when the cut still looks finished. If you want a schedule for yours, ask me while you're in the chair."
+      ],
+      "photos": []
+    },
+    {
+      "type": "faq",
+      "eyebrow": "05 / QUESTIONS",
+      "heading": "Buzz and crew cut FAQ.",
+      "items": [
+        { "q": "What do I tell my barber for a crew cut?", "a": "Ask for short sides, a bit more length on top that is slightly longer at the front, and say whether you want a fade or just a short, even side. Mention if you plan to comb it." },
+        { "q": "Crew cut or buzz cut: how are they different?", "a": "A buzz is close to one length everywhere. A crew cut keeps more length on top than on the sides, so it has some shape and can be styled a little." },
+        { "q": "What does high and tight mean in a haircut?", "a": "High refers to how far up the sides the fade climbs; tight means it is very short, often down to skin. The top stays short too." },
+        { "q": "Who should avoid a buzz cut?", "a": "If there are scars or bumps on your scalp you would rather not show, or you're unsure about your head shape, try a crew cut first. It keeps a bit more cover on top." }
+      ]
+    }
+  ],
+  "related": ["styles-skin-fade", "styles-hard-part", "styles-textured-crop", "services-beard-shaves"],
+  "tim_questions": [
+    "How often do you suggest rebooking a buzz cut to keep the fade and line-up sharp? The upkeep section gives no interval until you say."
+  ]
+}

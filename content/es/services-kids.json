@@ -1,0 +1,84 @@
+{
+  "id": "services-kids",
+  "locale": "es",
+  "slug": "/es/servicios/cortes-para-ninos/",
+  "alt": "/services/kids-haircuts/",
+  "nav_label": "Cortes para niños",
+  "card_text": "Desvanecidos y tapers para clientes pequeños, agendados por sus papás.",
+  "breadcrumb": [["Inicio", "/es/"], ["Servicios", "/es/servicios/"], ["Cortes para niños", "/es/servicios/cortes-para-ninos/"]],
+  "seo": {
+    "title": "Corte de pelo para niños en Carlsbad, NM | Divinely Faded",
+    "description": "Corte de pelo para niños en Carlsbad, NM en Divinely Faded: desvanecidos, tapers y arriba texturizado, con cita en Booksy. Abro los sábados.",
+    "primary": "corte de pelo para niños",
+    "secondary": ["cortes para niños", "corte de cabello para niños"],
+    "og_photo": "cut-kids-curly-top-skin-fade"
+  },
+  "schema": { "type": "Service", "name": "Cortes para niños", "service_ids": [] },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "SERVICIOS / NIÑOS",
+      "h1": "Cortes para niños.",
+      "paragraphs": [
+        "Los niños son bienvenidos en mi silla.",
+        "Los cortes de esta página son los mismos desvanecidos (fade) y tapers que hago a los adultos, en cabezas más pequeñas: pelo chino arriba sobre un skin fade (desvanecido hasta la piel), un desvanecido bajo con un delineado (line-up) bien definido, un taper bajo una parte de arriba larga y texturizada. Los clientes pequeños reciben el mismo detalle que todos."
+      ],
+      "link": { "label": "AGENDA PARA TU HIJO", "href": "booksy" },
+      "photos": ["cut-kids-curly-top-skin-fade", "cut-kids-low-fade"],
+      "alt": {
+        "cut-kids-curly-top-skin-fade": "Pelo chino arriba sobre un skin fade en un niño, vista de lado",
+        "cut-kids-low-fade": "Desvanecido bajo en un niño, con la parte de arriba corta y delineado cuadrado"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / CITAS",
+      "heading": "Cómo agendan los papás.",
+      "lead": "La misma app, la misma silla.",
+      "paragraphs": [
+        "Booksy no tiene un servicio aparte para niños, así que agenda el corte que vaya con lo que quiere tu hijo. El Essential Haircut (corte esencial) cuesta {{price:essential-haircut}} y Booksy aparta {{minutes:essential-haircut}} para él.",
+        "Trabajo solo, así que tu hijo ve al mismo barbero en cada visita. Eso ayuda cuando todavía se está acostumbrando a la máquina.",
+        "Si tu hijo tiene una foto del corte que quiere, tráela. Así nadie tiene que adivinar, de ningún lado de la capa."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / LOS CORTES",
+      "heading": "Lo que ves en las fotos.",
+      "lead": "Cortes reales de mi silla.",
+      "paragraphs": [
+        "Un taper con la parte de arriba larga y texturizada deja largo al frente y en la coronilla, mientras atrás y los lados quedan pegados. Un desvanecido bajo con delineado deja todo corto y cuadrado. El pelo chino arriba sobre un skin fade deja que el chino natural quede arriba de un lado limpio.",
+        "Los niños que quieran líneas pueden ver la página de diseños en el pelo, que tiene dos diseños en niños. El extra de diseño cuesta {{addon:hair-design}}."
+      ],
+      "photos": ["cut-kids-taper-textured-top"],
+      "alt": {
+        "cut-kids-taper-textured-top": "Taper en un niño con la parte de arriba larga y texturizada, vista trasera de tres cuartos"
+      }
+    },
+    {
+      "type": "faq",
+      "eyebrow": "04 / LOS PAPÁS PREGUNTAN",
+      "heading": "Lo que debes saber.",
+      "items": [
+        { "q": "¿Qué servicio agendo para mi hijo?", "a": "Booksy muestra mis servicios de corte con sus precios. Agenda el que vaya con lo que quiere tu hijo, y mándame un mensaje si antes tienes alguna pregunta." },
+        { "q": "¿Cuándo puedo traer a mi hijo?", "a": "En cualquier horario disponible en Booksy. Los sábados abro de 8:00 AM a 2:00 PM, lo que ayuda con la semana de escuela. Cierro el miércoles y el domingo." }
+      ]
+    },
+    {
+      "type": "feature",
+      "photo": "tim-outdoor-kids-cut",
+      "alt": { "tim-outdoor-kids-cut": "Tim cortándole el pelo a un niño en una silla de barbero bajo un toldo al aire libre" },
+      "eyebrow": "CLIENTES PEQUEÑOS",
+      "heading": "Pequeños clientes.<br>Mismo detalle.",
+      "button": { "label": "AGENDA AHORA", "href": "booksy" }
+    }
+  ],
+  "related": ["services-haircuts", "services-designs", "faq"],
+  "tim_questions": [
+    "[TIM?] Which Booksy service should parents book for a child's cut, and is there any kids' rate? The page says only that Booksy lists the haircut services and parents book the one that fits.",
+    "Can the hair design add-on be added to a kid's cut on Booksy? The page only says it is listed as an add-on.",
+    "Youngest age you cut? Do you do first haircuts? (Not on the page.)",
+    "Can a parent stay with the child during the cut? (Not on the page.)"
+  ]
+}

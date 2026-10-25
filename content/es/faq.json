@@ -1,0 +1,142 @@
+{
+  "id": "faq",
+  "locale": "es",
+  "slug": "/es/preguntas-frecuentes/",
+  "alt": "/faq/",
+  "nav_label": "Preguntas",
+  "card_text": "Precios, horario, días festivos, pago y niños, con respuestas cortas.",
+  "breadcrumb": [
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Preguntas frecuentes",
+      "/es/preguntas-frecuentes/"
+    ]
+  ],
+  "seo": {
+    "title": "¿Cuánto cuesta un corte de pelo? Preguntas · Carlsbad, NM",
+    "description": "Respuestas directas de Tim en Divinely Faded, Carlsbad, NM: cuánto cuesta un corte de pelo, horario, sábados, días festivos, pago, niños y duraciones.",
+    "primary": "cuánto cuesta un corte de pelo",
+    "secondary": [
+      "cuánto cuesta un corte de pelo hombre",
+      "preguntas frecuentes barbería"
+    ],
+    "og_photo": "team-tim-portrait"
+  },
+  "schema": {
+    "type": "FAQPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "PREGUNTAS",
+      "h1": "Preguntas.",
+      "paragraphs": [
+        "Los cortes cuestan {{price:essential-haircut}}, {{price:signature-cut}} o {{price:luxury-grooming}}, y cada cita se agenda en Booksy. Respuestas directas sobre citas, horario, precios y lo que pasa en la silla. Si tu pregunta no está aquí, mándame un mensaje."
+      ],
+      "link": {
+        "label": "MÁNDAME UN MENSAJE",
+        "href": "sms"
+      },
+      "photos": []
+    },
+    {
+      "type": "faq",
+      "eyebrow": "01 / CITAS Y HORARIO",
+      "heading": "Cuándo y cómo.",
+      "items": [
+        {
+          "q": "¿Necesito cita?",
+          "a": "Sí. Divinely Faded es solo con cita, y todas las citas se agendan por Booksy. Elige tu servicio, elige tu horario y listo."
+        },
+        {
+          "q": "¿Cuál es tu horario?",
+          "a": "Lunes, martes, jueves y viernes de 9:00 AM a mediodía y otra vez de 12:30 a 5:00 PM. Sábado de 8:00 AM a 2:00 PM."
+        },
+        {
+          "q": "¿Abres el sábado?",
+          "a": "Sí, de 8:00 AM a 2:00 PM. Es el único día del fin de semana que corto."
+        },
+        {
+          "q": "¿Abres el domingo o el miércoles?",
+          "a": "No. La barbería cierra todos los miércoles y todos los domingos."
+        },
+        {
+          "q": "¿Abres en días festivos?",
+          "a": "Sí, en mi horario normal para ese día de la semana. Si agendas el mismo día festivo, hay un cargo por día festivo de {{holiday_fee}} además del servicio."
+        },
+        {
+          "q": "¿Cómo te contacto?",
+          "a": "Mándame un mensaje de texto al {{phone}}. Prefiero un mensaje a una llamada, pero las llamadas también funcionan."
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "02 / PRECIOS Y PAGO",
+      "heading": "Cuánto cuesta.",
+      "items": [
+        {
+          "q": "¿Cuánto cuesta un corte de pelo?",
+          "a": "El Essential Haircut (corte esencial) cuesta {{price:essential-haircut}}. El Signature Cut (corte distintivo), que incluye corte de barba o delineado (line-up) y toque final con toalla caliente, cuesta {{price:signature-cut}}. La Luxury Grooming Experience (experiencia de arreglo de lujo) cuesta {{price:luxury-grooming}}. Todos los servicios y extras están en la página de servicios."
+        },
+        {
+          "q": "¿Qué formas de pago aceptas?",
+          "a": "Acepto efectivo, tarjeta, Zelle y Cash App. Pagas el total después de tu servicio, no antes."
+        },
+        {
+          "q": "¿Qué pasa si no llego a mi cita o cancelo tarde?",
+          "a": "Si no llegas a tu cita o cancelas de último momento, se puede cobrar un cargo por cancelación a través de Booksy. Si te surge algo, cancela en Booksy lo antes que puedas."
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "03 / EN LA SILLA",
+      "heading": "Qué esperar.",
+      "items": [
+        {
+          "q": "¿Les cortas el pelo a niños?",
+          "a": "Sí, los niños son bienvenidos. Agéndalos en Booksy igual que te agendarías tú."
+        },
+        {
+          "q": "¿Cuánto dura cada servicio?",
+          "a": "Essential Haircut {{minutes:essential-haircut}}. Signature Cut {{minutes:signature-cut}}. Luxury Grooming Experience {{minutes:luxury-grooming}}. Straight Razor Beard Shave {{minutes:straight-razor-beard-shave}}. Head & Beard Shave {{minutes:head-beard-shave}}. Express Facial {{minutes:express-facial}}. Deluxe Facial {{minutes:deluxe-facial}}. Trenzas {{minutes:braids}}. Permanente {{minutes:perm}}. Color Transformation {{minutes:color-transformation}}."
+        },
+        {
+          "q": "¿Qué debo pedir?",
+          "a": "Una foto del corte que quieres dice casi todo. Dime qué tan cortos quieres los lados, cuánto dejar arriba y si la barba necesita trabajo, porque en Booksy el corte de barba o el delineado vienen con el Signature Cut."
+        },
+        {
+          "q": "¿Cuánto tardan las trenzas?",
+          "a": "Booksy aparta {{minutes:braids}} para las trenzas, y el precio varía según el estilo que elijas."
+        },
+        {
+          "q": "¿Tiñes barbas?",
+          "a": "No. El teñido de barba y los tratamientos capilares no están en mi menú. Los servicios de peluquín llegan próximamente."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "TODO LISTO",
+      "heading": "¿Ya tienes tu respuesta?<br>Agenda un horario.",
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "services",
+    "visit",
+    "services-haircuts"
+  ],
+  "tim_questions": [
+    "[TIM?] Confirm weekday hours (Mon/Tue/Thu/Fri 9:00 AM–12:00 PM and 12:30–5:00 PM per Booksy).",
+    "Parking (left off the page; unknown).",
+    "Does a beard trim or line-up always mean the Signature Cut, or can it be added another way? (The 'What should I ask for' answer says to book the Signature Cut for beard work, which matches the Booksy menu.)"
+  ]
+}

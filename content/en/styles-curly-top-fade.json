@@ -1,0 +1,90 @@
+{
+  "id": "styles-curly-top-fade",
+  "locale": "en",
+  "slug": "/styles/curly-top-fade/",
+  "alt": "/es/estilos/curly-top-fade/",
+  "nav_label": "Curly Top Fade",
+  "card_text": "Natural curls on top, sides faded to skin.",
+  "breadcrumb": [["Home", "/"], ["Styles", "/styles/"], ["Curly Top Fade", "/styles/curly-top-fade/"]],
+  "seo": {
+    "title": "Curly Top Fade in Carlsbad, NM | Divinely Faded",
+    "description": "Curly top fade haircuts in Carlsbad, NM: natural curls on top, sides faded short to skin. For adults and kids. See the cut and book on Booksy.",
+    "primary": "curly top fade carlsbad nm",
+    "secondary": ["curly top fade", "haircuts for curly hair men", "low curly top fade", "curly hair skin fade"],
+    "og_photo": "cut-curly-top-skin-fade"
+  },
+  "schema": { "type": "Service", "service_ids": ["essential-haircut", "perm"] },
+  "photo_alt": {
+    "cut-curly-top-skin-fade": "Curly top fade on a young client, loose curls on top over a skin fade wrapping around the ear and the back"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "STYLES / CURLY TOP FADE",
+      "h1": "Curly top fade.",
+      "paragraphs": [
+        "Curls on top, skin on the sides. A curly top fade lets your natural curl or wave do the work up top while everything below is faded short.",
+        "The photo shows it on a younger client: loose curls left with movement on top, and a skin fade that wraps around the ear and across the back. The bare sides make the texture above look even fuller."
+      ],
+      "link": { "label": "BOOK THIS CUT", "href": "booksy" },
+      "photos": ["cut-curly-top-skin-fade"]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / WHO IT SUITS",
+      "heading": "Made for texture.",
+      "lead": "Curly, coily or wavy.",
+      "paragraphs": [
+        "This is a cut built around hair that already curls. The fade removes bulk from the sides, which is where curly hair tends to puff out, and leaves the top to show its natural pattern.",
+        "Straight hair but want more going on up top? The Perm on Booksy is built to add movement and texture to hair that lies flat."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / HOW HIGH",
+      "heading": "Pick the fade height.",
+      "lead": "It changes the silhouette.",
+      "paragraphs": [
+        "A low fade keeps more hair on the sides and gives a rounder overall shape. Taking it higher, up to skin like the one pictured, puts the curls on a pedestal. A burst fade, curving behind the ear, saves weight for the back, which some people prefer as the curls grow."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "04 / BOOK IT AS",
+      "heading": "What to book.",
+      "lead": "Cut, or cut plus texture.",
+      "items": [
+        { "title": "Essential Haircut", "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}", "body": "Curls shaped up top, sides faded, and the neckline finished with a straight razor. Kids can get this cut too.", "href": "page:services-haircuts", "book": true },
+        { "title": "Perm", "meta": "{{price:perm}} · {{minutes:perm}}", "body": "For straight or flat hair that needs texture before a curly-top look can happen.", "href": "page:services-color", "book": true }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "05 / UPKEEP",
+      "heading": "Curls hide growth. Fades don't.",
+      "lead": "The sides show it first.",
+      "paragraphs": [
+        "On top, a little growth just adds volume. The faded sides tell the real story, since that is where regrowth shows against the skin. Ask me what timing I'd suggest for the sides, and I'll give you my take for your hair."
+      ],
+      "photos": []
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / QUESTIONS",
+      "heading": "Curly hair questions.",
+      "items": [
+        { "q": "What fade should I get if I have curly hair?", "a": "Any height works. Go low for a softer, rounder look, mid or high for more contrast, or a burst if you want to keep length at the back." },
+        { "q": "Curly top fade or burst fade: what's the difference?", "a": "The one pictured is a skin fade that wraps around the ear and across the back. A burst curves behind the ear and saves more length at the nape." },
+        { "q": "Can kids get a curly top fade?", "a": "Yes. Kids are welcome. Parents pick the haircut on Booksy that fits what their child wants, and the kids' haircuts page has more on booking." },
+        { "q": "What is a low curly top fade?", "a": "The same curly top with a fade that starts just above the ear, so more hair stays on the sides. It is a gentler version for school or work." }
+      ]
+    }
+  ],
+  "related": ["styles-burst-fade", "styles-modern-mullet", "services-kids", "styles-skin-fade"],
+  "tim_questions": [
+    "How often do you suggest coming back to keep the faded sides on a curly top clean? The upkeep section gives no interval until you say.",
+    "Any curl-care advice you want on this page? Product tips were removed because they weren't yours."
+  ]
+}

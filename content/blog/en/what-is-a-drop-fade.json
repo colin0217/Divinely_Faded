@@ -1,0 +1,185 @@
+{
+  "id": "post-what-is-a-drop-fade",
+  "locale": "en",
+  "slug": "/blog/what-is-a-drop-fade/",
+  "date": "2026-11-02",
+  "plan_rank": 29,
+  "title": "What Is a Drop Fade? And How It Differs from a Burst",
+  "eyebrow": "STYLES",
+  "hero": "cut-side-ear-fade",
+  "hero_alt": "Skin fade seen from behind, taken to bare skin where it wraps around the ear",
+  "image_plan": null,
+  "card_text": "The fade line curves down behind the ear instead of running level. How a drop differs from a straight fade and a burst.",
+  "lede": [
+    "A drop fade is a fade whose line dips as it travels around the head. It sits at one height over the sides, then curves down behind the ear and finishes lower at the nape, so from the side the fade line looks like an arc dropping toward the neck.",
+    "That curve is the whole difference. Here's how it compares with a regular straight-line fade and with a burst fade, and how to book one with me."
+  ],
+  "seo": {
+    "title": "What Is a Drop Fade? | Carlsbad, NM",
+    "description": "What is a drop fade? A fade that curves down behind the ear toward the nape. How it compares with a straight fade and a burst, from a Carlsbad, NM barber.",
+    "primary": "what is a drop fade",
+    "secondary": [
+      "drop fade",
+      "drop fade vs burst fade"
+    ]
+  },
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Blog",
+      "/blog/"
+    ],
+    [
+      "Drop Fade",
+      "/blog/what-is-a-drop-fade/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / THE SHAPE",
+      "heading": "Follow the line.",
+      "lead": "Level at the sides, lower in back.",
+      "paragraphs": [
+        "Trace where the short hair meets the longer hair on a regular fade and the line travels around the head at one height, like a band. On a drop fade that same line starts at the temple, holds level over the ear, then bends down behind it and keeps descending toward the nape.",
+        "The bend follows the natural curve of the skull behind the ear. Because of it, the fade frames the ear instead of slicing straight across behind it, and the shape reads rounder from the side.",
+        "The photo above shows the spot where that turn happens: a fade wrapping behind the ear and on down the back of the head."
+      ]
+    },
+    {
+      "type": "table",
+      "eyebrow": "02 / THREE FADES",
+      "heading": "Straight, drop and burst.",
+      "lead": "Where the line goes decides the name.",
+      "columns": [
+        "",
+        "Straight fade",
+        "Drop fade",
+        "Burst fade"
+      ],
+      "rows": [
+        [
+          "Fade line",
+          "Level all the way around",
+          "Level at the sides, dips behind the ear",
+          "A half-circle around the ear"
+        ],
+        [
+          "Back of the head",
+          "Faded at the same height",
+          "Faded lower, toward the nape",
+          "Left longer"
+        ],
+        [
+          "Often paired with",
+          "Almost any top",
+          "Fuller tops, curls, waves",
+          "Curly tops, faux hawks, mullets"
+        ],
+        [
+          "Overall look",
+          "Even and classic",
+          "Rounded, follows the head",
+          "Bold around the ear"
+        ]
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / DROP VS BURST",
+      "heading": "Drop or burst.",
+      "lead": "Both curve. Differently.",
+      "paragraphs": [
+        "A burst fade curves around the ear in a semicircle and then fades back out, so the hair behind it stays long. A drop fade keeps going: it curves behind the ear and carries on down across the back, so the nape is faded too.",
+        "A quick mirror test: check the back of the neck. Longer hair back there points to a burst. Short, faded hair there, with a line that dipped down to meet it, points to a drop."
+      ],
+      "link": {
+        "label": "SEE THE BURST FADE",
+        "href": "page:styles-burst-fade"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / HEIGHT AND FINISH",
+      "heading": "Low, mid or high drop.",
+      "lead": "Where the curve starts.",
+      "paragraphs": [
+        "A low drop starts just above the ear and keeps the most hair on the sides. A mid drop starts around the temple. A high drop begins up near the top of the head and makes the curve dramatic.",
+        "Take it to bare skin and you have a drop skin fade, the highest-contrast version. Leave a little length at the bottom and it reads softer.",
+        "Ask for it by name and point at the back. 'Drop fade, mid, down to skin' tells me most of what I need, and a photo covers the rest.",
+        "Not sure which height suits you? Show me a photo and we'll settle it in the chair before the clippers start."
+      ],
+      "link": {
+        "label": "SEE THE SKIN FADE",
+        "href": "page:styles-skin-fade"
+      }
+    },
+    {
+      "type": "list",
+      "eyebrow": "05 / BOOK IT AS",
+      "heading": "Two ways to book it.",
+      "lead": "The beard decides.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "The drop fade and the top, finished with a straight razor at the neck and styled. For a clean-shaven face or a beard you keep up yourself.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "The drop fade plus a beard trim or line-up, a hot towel and razor detailing. Pick it when the beard should follow the curve of the fade.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / QUESTIONS",
+      "heading": "Drop fade, answered.",
+      "items": [
+        {
+          "q": "What is a drop fade?",
+          "a": "A fade whose line curves down behind the ear and finishes lower at the nape, instead of running level around the head."
+        },
+        {
+          "q": "Drop fade vs burst fade: what's the difference?",
+          "a": "A burst curves around the ear and leaves the back long. A drop curves behind the ear and keeps fading down the back."
+        },
+        {
+          "q": "Is a drop fade the same as a taper?",
+          "a": "No. A taper only touches the sideburns and neckline. A drop fade covers the whole side and back, with a line that dips behind the ear."
+        },
+        {
+          "q": "Does a drop fade work on straight hair?",
+          "a": "Yes. The curve behind the ear shows up on straight hair, waves and curls alike."
+        },
+        {
+          "q": "Can I add a design to a drop fade?",
+          "a": "Yes. Lines cut into the faded side are a hair design, a {{addon:hair-design}} add-on to the haircut."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "DROP FADE",
+      "heading": "Follow the curve.<br>Book the cut.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "styles-skin-fade",
+    "styles-burst-fade"
+  ],
+  "tim_questions": [
+    "Confirm the drop fade description and the straight vs drop vs burst table.",
+    "The hero (cut-side-ear-fade) is a mid skin fade from behind; the copy doesn't call it a drop fade. OK, or do you have a drop fade photo?"
+  ]
+}

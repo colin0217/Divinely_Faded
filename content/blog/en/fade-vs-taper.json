@@ -1,0 +1,202 @@
+{
+  "id": "post-fade-vs-taper",
+  "locale": "en",
+  "slug": "/blog/fade-vs-taper/",
+  "date": "2026-11-02",
+  "plan_rank": 22,
+  "title": "Fade vs Taper: The Difference, Explained in the Chair",
+  "eyebrow": "STYLES",
+  "hero": "cut-taper-textured-top",
+  "hero_alt": "Short textured crop with a sharp front line-up and a taper taken to skin around the ear",
+  "image_plan": null,
+  "card_text": "A taper tidies the edges. A fade takes the whole side down. How to tell them apart and which one to ask for.",
+  "lede": [
+    "A taper shortens only the edges of a haircut: the sideburns, the hair around the ear and the neckline. A fade takes the whole side and back down, blending from short at the bottom into the length on top, often all the way to skin. Both are cut with clippers and both blend, which is why the two names get mixed up.",
+    "Here's how to tell them apart in the mirror, how a low taper compares with a low fade, and how to book either one with me."
+  ],
+  "seo": {
+    "title": "Fade vs Taper: The Difference | Carlsbad, NM",
+    "description": "Fade vs taper, from a Carlsbad, NM barber: a taper cleans up the edges, a fade blends the whole side down. See which one to book at Divinely Faded.",
+    "primary": "fade vs taper",
+    "secondary": [
+      "difference between fade and taper",
+      "low taper vs low fade",
+      "low fade vs low taper"
+    ]
+  },
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Blog",
+      "/blog/"
+    ],
+    [
+      "Fade vs Taper",
+      "/blog/fade-vs-taper/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / THE DIFFERENCE",
+      "heading": "Edges or the whole side.",
+      "lead": "It comes down to how much hair comes off.",
+      "paragraphs": [
+        "Picture the side of your head as a wall. A taper only works on the trim along the bottom of that wall. Above the ear and across most of the side, the hair keeps its length, so from the front the cut still looks full.",
+        "A fade works on the whole wall. The clippers start low and climb, and every step up is a little longer until it meets the top. Look at a fade from the side and you see a gradient across the entire panel, not just at the edge.",
+        "Skin can show up in both. A taper can finish at bare skin right at the sideburn and the nape, like the cut in the photo above. What keeps it a taper is that the skin stays in that small zone instead of wrapping around the head."
+      ],
+      "link": {
+        "label": "SEE THE LOW TAPER FADE",
+        "href": "page:styles-low-taper-fade"
+      }
+    },
+    {
+      "type": "table",
+      "eyebrow": "02 / SIDE BY SIDE",
+      "heading": "Taper and fade, compared.",
+      "lead": "Read across a row.",
+      "columns": [
+        "",
+        "Taper",
+        "Fade"
+      ],
+      "rows": [
+        [
+          "Where it works",
+          "Sideburns, around the ear, neckline",
+          "The full sides and back"
+        ],
+        [
+          "How much comes off",
+          "Very little",
+          "A lot, climbing up the head"
+        ],
+        [
+          "Skin",
+          "Only at the very edges, if at all",
+          "Often, especially in a skin fade"
+        ],
+        [
+          "From the front",
+          "Looks like a classic cut",
+          "Sides read short and clean"
+        ],
+        [
+          "As it grows",
+          "Softens gently",
+          "Shows regrowth sooner"
+        ]
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / LOW VS LOW",
+      "heading": "Low taper or low fade.",
+      "lead": "The pair people confuse most.",
+      "paragraphs": [
+        "A low taper and a low fade both start near the bottom, just above the ear, so on paper they sound identical. The difference is reach. A low taper stays down at the sideburn and the nape. A low fade starts at that same low point and carries the blend around the whole back of the head in one band.",
+        "In the mirror, the low taper leaves more hair on the sides and behind the ear. The low fade gives you a cleaner, continuous line from one ear around to the other.",
+        "If you're torn, start with the taper. It's the smaller change, and taking more off next time is easy. Putting hair back isn't."
+      ],
+      "link": {
+        "label": "SEE EVERY STYLE",
+        "href": "page:styles"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / WHICH ONE",
+      "heading": "How to choose.",
+      "lead": "Three questions settle it.",
+      "subsections": [
+        {
+          "heading": "How much contrast do you want?",
+          "paragraphs": [
+            "If you want people to notice the cut, go fade. If you want it neat without looking freshly buzzed, go taper."
+          ]
+        },
+        {
+          "heading": "Where are you wearing it?",
+          "paragraphs": [
+            "A strict dress code or a buttoned-up office suits a taper. A fade, and a skin fade above all, is the louder look."
+          ]
+        },
+        {
+          "heading": "How long is the top?",
+          "paragraphs": [
+            "A longer top or a heavy fringe often sits in balance over a taper, because the sides keep some weight. Short crops and buzzes pair naturally with a fade, which makes the whole head look intentional."
+          ]
+        }
+      ],
+      "link": {
+        "label": "SEE THE SKIN FADE",
+        "href": "page:styles-skin-fade"
+      }
+    },
+    {
+      "type": "list",
+      "eyebrow": "05 / BOOK IT AS",
+      "heading": "Two services cover both.",
+      "lead": "Fade or taper, you book the same way.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "The taper or fade plus the top, a straight razor cleanup at the neck and a finished style. Choose it when you're clean-shaven or trim the beard yourself.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "Same cut, plus a beard trim or line-up, a hot towel and razor detailing. Choose it when the beard should blend into the sides.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / QUESTIONS",
+      "heading": "Fade vs taper, answered.",
+      "items": [
+        {
+          "q": "Is a taper a type of fade?",
+          "a": "People use the words that way, and you'll hear 'taper fade' all the time. The useful difference is coverage: a taper stays at the edges, a fade covers the full sides and back."
+        },
+        {
+          "q": "Which grows out more gently?",
+          "a": "The taper. With less hair taken short, there's less contrast to lose as it grows."
+        },
+        {
+          "q": "Can I get a taper with a beard?",
+          "a": "Yes. Book the Signature Cut so the beard is trimmed or lined up in the same appointment."
+        },
+        {
+          "q": "How do I describe what I want?",
+          "a": "Say taper or fade, say low, mid or high, and show me a photo. Point to where you want it to start and I'll take it from there."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "FADE OR TAPER",
+      "heading": "Pick the edge.<br>I'll cut it.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "styles-low-taper-fade",
+    "styles-skin-fade",
+    "styles"
+  ],
+  "tim_questions": [
+    "Confirm you'd call a taper that reaches skin at the sideburn and nape a taper (not a fade), as written.",
+    "OK to advise 'start with the taper if you're torn'? Written as general advice."
+  ]
+}

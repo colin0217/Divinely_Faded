@@ -1,0 +1,177 @@
+{
+  "id": "post-nose-and-ear-waxing-men",
+  "locale": "es",
+  "slug": "/es/blog/depilacion-de-nariz-y-orejas/",
+  "alt": "/blog/nose-and-ear-waxing-men/",
+  "date": "2026-11-02",
+  "plan_rank": 24,
+  "title": "Depilación de nariz y orejas para hombres: qué esperar",
+  "eyebrow": "ARREGLO PERSONAL",
+  "hero": "pexels-8468129-tools-tray",
+  "hero_alt": "Brochas, peines y tijeras de arreglo personal sobre una superficie blanca",
+  "image_plan": "pexels: barber grooming tools tray → stock photo (Pexels), not Divinely Faded work",
+  "card_text": "Un extra de {{addon:nose-ear-wax}}, o incluido en la Luxury Grooming. Qué pasa en la silla, cómo se siente y cómo agendarlo.",
+  "lede": [
+    "La depilación con cera de nariz y orejas en mi barbería es un extra, {{addon:nose-ear-wax}} además del servicio que agendes, y ya viene incluida en la Luxury Grooming Experience (experiencia de arreglo de lujo). La cera se pone, se asienta un momento y se quita con los pelos sueltos, así que la nariz y las orejas se ven limpias y no recortadas.",
+    "Aquí te digo qué esperar en la silla, cómo se compara la cera con el recorte y cómo agregarla a tu próxima cita."
+  ],
+  "seo": {
+    "title": "Depilación de nariz y orejas para hombres | Carlsbad, NM",
+    "description": "Depilación de nariz y orejas para hombres en Carlsbad, NM: qué pasa, cómo se siente y cómo agregarla por {{addon:nose-ear-wax}} o tenerla en la Luxury Grooming.",
+    "primary": "depilacion de nariz",
+    "secondary": []
+  },
+  "breadcrumb": [
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Blog",
+      "/es/blog/"
+    ],
+    [
+      "Depilación de nariz y orejas",
+      "/es/blog/depilacion-de-nariz-y-orejas/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / EN LA SILLA",
+      "heading": "Cómo es.",
+      "lead": "Cuatro pasos rápidos.",
+      "subsections": [
+        {
+          "heading": "La cera",
+          "paragraphs": [
+            "La cera tibia se pone en un aplicador pequeño y en la entrada de la fosa nasal, o en la parte de afuera de la oreja donde crece pelo. Solo se busca el pelo que se ve en la orilla."
+          ]
+        },
+        {
+          "heading": "El reposo",
+          "paragraphs": [
+            "La cera se queda un momento y se endurece alrededor del pelo. No tienes que hacer nada más que quedarte quieto."
+          ]
+        },
+        {
+          "heading": "El jalón",
+          "paragraphs": [
+            "Un jalón rápido y sale, con todo y pelo. Espera un ardor fuerte y ojos llorosos por un segundo, y luego ya pasó."
+          ]
+        },
+        {
+          "heading": "La revisión",
+          "paragraphs": [
+            "Reviso los dos lados, quito cualquier pelo suelto que haya quedado y seguimos con el resto de tu cita."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / CERA O RECORTE",
+      "heading": "Por qué cera y no recorte.",
+      "lead": "Raíz contra superficie.",
+      "paragraphs": [
+        "Una recortadora corta el pelo en la superficie, así que el pelo cortito sigue ahí y se vuelve a notar pronto. La cera saca el pelo desde la raíz, lo que quiere decir que la zona se queda limpia por más tiempo antes de que algo vuelva a crecer.",
+        "El pelo de las orejas por sí solo justifica la cera. Crece en la parte de afuera de la oreja y a lo largo del borde, donde una recortadora puede saltarse pelitos finos, y la cera los atrapa todos de una pasada.",
+        "Si prefieres seguir recortándote en casa, tú decides. El extra está ahí para cuando prefieras dejármelo a mí."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / QUIÉN LO AGENDA",
+      "heading": "El detalle que los demás ven primero.",
+      "lead": "Tú casi nunca lo ves. Todos los demás sí.",
+      "paragraphs": [
+        "El pelo de la nariz y de las orejas es fácil de pasar por alto en tu propio espejo, porque te ves de frente. Los demás te ven de lado, del otro lado de una mesa o en una foto, donde un pelo suelto en la oreja o en la nariz resalta.",
+        "Por eso el extra combina tan natural con un corte fresco. Un desvanecido (fade) nítido y un delineado (line-up) limpio llaman la atención hacia la cara y las orejas, así que arreglar nariz y orejas termina lo que el corte empezó.",
+        "Tiene sentido antes de cualquier cosa con una cámara o un apretón de manos de por medio: una entrevista, una boda, una foto familiar. También tiene sentido en una visita normal, simplemente porque ya estás en la silla."
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "04 / CÓMO PEDIRLO",
+      "heading": "Dos formas de agendarlo.",
+      "lead": "Como extra, o ya incluido.",
+      "items": [
+        {
+          "title": "Extra: depilación con cera de nariz y orejas",
+          "meta": "{{addon:nose-ear-wax}}",
+          "body": "Agrégalo cuando agendes tu cita. Va junto con el servicio por el que ya estás en la silla. En Booksy aparece como Nose / ear wax."
+        },
+        {
+          "title": "Luxury Grooming Experience",
+          "meta": "{{price:luxury-grooming}} · {{minutes:luxury-grooming}}",
+          "body": "La depilación con cera de nariz y orejas ya está en la lista, junto con el corte, el modelado de barba, el lavado y masaje en el cuero cabelludo, el vapor facial, las dos toallas calientes y el peinado. No necesitas ningún extra.",
+          "href": "page:services-haircuts",
+          "book": true
+        },
+        {
+          "title": "Cejas",
+          "meta": "{{addon:eyebrows}}",
+          "body": "Otro extra pequeño. Combínalo con la depilación cuando quieras arreglar toda la cara en una sola visita. En Booksy aparece como Eyebrows."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "05 / LO QUE DEBES SABER",
+      "heading": "Antes de agregarlo.",
+      "lead": "Algunas notas honestas.",
+      "paragraphs": [
+        "Si la piel dentro o alrededor de tu nariz está irritada, quemada por el sol o lastimada, dímelo antes de empezar, para decidir juntos si lo dejamos para otra visita.",
+        "Es rápido, pero sí se siente. La primera vez suele arder más, simplemente porque hay más pelo que sacar.",
+        "Combínalo con un facial para una visita de cara completa. La página de faciales explica el Express Facial (facial exprés), de {{minutes:express-facial}}, y el Deluxe Facial (facial deluxe), de {{minutes:deluxe-facial}}.",
+        "El extra va en la misma cuenta que el resto de tu servicio, y se paga al final en efectivo, tarjeta, Zelle o Cash App."
+      ],
+      "link": {
+        "label": "VER LOS FACIALES",
+        "href": "page:services-facials"
+      }
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / PREGUNTAS",
+      "heading": "Preguntas sobre la cera.",
+      "items": [
+        {
+          "q": "¿Duele la depilación de nariz?",
+          "a": "Arde un segundo cuando se quita la cera, y puede que te lloren los ojos. Y ya quedó."
+        },
+        {
+          "q": "¿Cuánto cuesta la depilación de nariz y orejas?",
+          "a": "{{addon:nose-ear-wax}} como extra. Viene incluida en la Luxury Grooming Experience, de {{price:luxury-grooming}}."
+        },
+        {
+          "q": "¿La depilación viene incluida con el corte?",
+          "a": "Solo en la Luxury Grooming Experience. Con el Essential Haircut (corte esencial) o el Signature Cut (corte distintivo), agrégala cuando agendes."
+        },
+        {
+          "q": "¿La cera es mejor que recortar el pelo de la nariz?",
+          "a": "Dura más, porque la cera saca el pelo desde la raíz y una recortadora solo lo acorta. Recortarlo tú mismo en casa es más rápido."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "LOS DETALLES",
+      "heading": "Extra pequeño.<br>Líneas limpias.",
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "services-facials",
+    "services-haircuts"
+  ],
+  "tim_questions": [
+    "Confirm how you wax (warm wax on an applicator, outer nostril and outer ear only).",
+    "Does the nose/ear wax add-on add time to the Booksy slot?",
+    "Can the add-on go on any service (shave, facial), and can it be booked by itself?",
+    "Is the $10 add-on for nose and ears together? Written that way."
+  ]
+}

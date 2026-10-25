@@ -1,0 +1,176 @@
+{
+  "id": "post-christmas-on-the-pecos-haircut",
+  "locale": "en",
+  "slug": "/blog/christmas-on-the-pecos-haircut/",
+  "date": "2026-11-02",
+  "plan_rank": 30,
+  "title": "A Fresh Cut Before Christmas on the Pecos",
+  "eyebrow": "LOCAL",
+  "hero": "hero-tim-at-work",
+  "hero_alt": "Tim working on a client's haircut in the barber chair",
+  "image_plan": null,
+  "card_text": "Christmas on the Pecos runs Nov 27 to Dec 31. How to time a fresh cut before the family photos and the holiday plans.",
+  "lede": [
+    "Christmas on the Pecos runs from November 27 through December 31, 2026, and it's closed on December 24. If a night out there, family photos or a holiday dinner is on your calendar, book your cut a few days before so it looks fresh and settled. Book early, too: I work solo, and the season only has so many open slots.",
+    "Here's how my calendar lines up with the season, including the Saturdays and the {{holiday_fee}} holiday fee."
+  ],
+  "seo": {
+    "title": "A Fresh Cut Before Christmas on the Pecos | Carlsbad, NM",
+    "description": "Christmas on the Pecos runs Nov 27 to Dec 31, 2026. Book a fresh cut at Divinely Faded in Carlsbad, NM before the family photos and holiday plans.",
+    "primary": "christmas on the pecos",
+    "secondary": [
+      "christmas haircut"
+    ]
+  },
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Blog",
+      "/blog/"
+    ],
+    [
+      "Christmas on the Pecos",
+      "/blog/christmas-on-the-pecos-haircut/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / THE DATES",
+      "heading": "Season and shop, side by side.",
+      "lead": "Know both calendars.",
+      "paragraphs": [
+        "The event's season: November 27 to December 31, 2026, closed December 24. Times and tickets are on the event's own site, christmasonthepecos.com, so check there before you plan the night.",
+        "My schedule doesn't change for the season. I cut Monday, Tuesday, Thursday and Friday, plus Saturday from 8:00 AM to 2:00 PM. Wednesday and Sunday are closed, December included.",
+        "Opening night is Friday, November 27. Thanksgiving lands the day before, Thursday, November 26, and I'm open at weekday hours that day with the holiday fee added."
+      ]
+    },
+    {
+      "type": "table",
+      "eyebrow": "02 / SATURDAYS",
+      "heading": "Saturdays this season.",
+      "lead": "Each one runs 8:00 AM to 2:00 PM.",
+      "columns": [
+        "Saturday",
+        "Around it"
+      ],
+      "rows": [
+        [
+          "Nov 28, 2026",
+          "The day after the season opens"
+        ],
+        [
+          "Dec 5, 2026",
+          "First Saturday of December"
+        ],
+        [
+          "Dec 12, 2026",
+          "Mid-December"
+        ],
+        [
+          "Dec 19, 2026",
+          "Last Saturday before Christmas"
+        ],
+        [
+          "Dec 26, 2026",
+          "The day after Christmas"
+        ]
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / TIMING THE CUT",
+      "heading": "A few days before the photos.",
+      "lead": "Fresh, not just-cut.",
+      "paragraphs": [
+        "For family photos, aim for a cut a few days ahead of the shoot. The edges have time to relax, and it still looks crisp in the pictures.",
+        "Heading out to Christmas on the Pecos with family, with dinner after? Any cut works; what matters is the slot. Pick the date of the outing, then work back to the nearest open day on Booksy.",
+        "Beard in the photos? The Signature Cut ({{price:signature-cut}}, {{minutes:signature-cut}}) adds a beard trim or line-up and a hot towel finish. For the full treatment before a big night, the Luxury Grooming Experience runs {{minutes:luxury-grooming}}."
+      ],
+      "link": {
+        "label": "SEE THE HAIRCUTS",
+        "href": "page:services-haircuts"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / CHRISTMAS WEEK",
+      "heading": "Christmas week, plainly.",
+      "lead": "One fee, on the day itself.",
+      "paragraphs": [
+        "Christmas Day is a Friday this year. I'm open at weekday hours, and appointments that day carry the {{holiday_fee}} holiday fee. The days around it are regular days at regular prices.",
+        "December 24 is a Thursday, and the event is closed that night. If you're hoping for a cut that day, text me first at {{phone}}.",
+        "December 31 is a Thursday as well, the season's last night. New Year's Day is Friday, January 1, 2027, with the holiday fee on that day.",
+        "Driving in from Whites City, Otis or Happy Valley? The visit page has the drive times, directions and the full hours."
+      ],
+      "link": {
+        "label": "PLAN YOUR VISIT",
+        "href": "page:visit"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "05 / THE WHOLE FAMILY",
+      "heading": "Everyone in the picture.",
+      "lead": "One trip, several cuts.",
+      "paragraphs": [
+        "Kids are welcome, and they book from the same menu as everyone else, starting with the Essential Haircut at {{price:essential-haircut}}. If the whole family is going in the photo, book each person as a separate appointment on Booksy, one after another, so it's a single trip to the shop.",
+        "Beards show up in family pictures more than people expect. The Signature Cut keeps the beard in line with the haircut, so nobody looks half finished next to the tree.",
+        "Plan the cuts first and the outing second. The event runs about five weeks, but each of those weeks has only so many open times in my chair.",
+        "Payment is the same as any visit: cash, card, Zelle or Cash App, after the service. Holiday plans move around; when yours do, cancel through Booksy early, since Booksy can charge a fee for no-shows and late cancellations."
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / QUESTIONS",
+      "heading": "Season questions.",
+      "items": [
+        {
+          "q": "When is Christmas on the Pecos in 2026?",
+          "a": "November 27 through December 31, 2026, closed December 24. Check christmasonthepecos.com for times and tickets."
+        },
+        {
+          "q": "When should I get a haircut before Christmas photos?",
+          "a": "A few days before the photos. Book early in the season, since I'm the only barber in the shop."
+        },
+        {
+          "q": "Is there an extra charge for a haircut on Christmas Day?",
+          "a": "Yes, the {{holiday_fee}} holiday fee, on the holiday itself only.",
+          "href": "page:faq",
+          "link_label": "MORE ANSWERS"
+        },
+        {
+          "q": "Are you open the Saturday before Christmas?",
+          "a": "Yes. Saturday, December 19, from 8:00 AM to 2:00 PM."
+        },
+        {
+          "q": "Can I book cuts for the whole family before the photos?",
+          "a": "Yes. Book each person as their own appointment on Booksy, back to back. Kids are welcome."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "HOLIDAY SEASON",
+      "heading": "Book the cut.<br>Then the photos.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "services-haircuts",
+    "visit",
+    "faq"
+  ],
+  "tim_questions": [
+    "Is Christmas Eve (Thu, Dec 24) a holiday-fee day? The post tells people to text first.",
+    "Is New Year's Eve (Thu, Dec 31) a holiday-fee day? The post doesn't say either way.",
+    "Confirm the 'a few days before the photos' timing advice.",
+    "OK to name christmasonthepecos.com (as text, no link) as where to check times and tickets?"
+  ]
+}

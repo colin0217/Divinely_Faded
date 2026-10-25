@@ -1,0 +1,171 @@
+{
+  "id": "post-how-long-to-braid-hair",
+  "locale": "en",
+  "slug": "/blog/how-long-to-braid-hair/",
+  "date": "2026-11-02",
+  "plan_rank": 7,
+  "title": "How Long Does It Take to Braid Hair? What Two Hours Covers",
+  "eyebrow": "BRAIDS",
+  "hero": "braids-top",
+  "hero_alt": "Cornrow braids running straight back over faded sides, seen from above",
+  "image_plan": null,
+  "card_text": "Booksy holds braids for two hours. Here is what changes the time, why the price varies, and how to plan.",
+  "lede": [
+    "Braids at my shop are booked as a {{minutes:braids}} appointment on Booksy, and the price varies with the style. That is the time I set aside for a personalized set.",
+    "How long braiding takes anywhere comes down to how many braids, how long and thick the hair is, and how detailed the pattern gets. Here is what fills that time and how to plan around it."
+  ],
+  "seo": {
+    "title": "How Long Does It Take to Braid Hair? What Two Hours Covers",
+    "description": "How long does it take to braid hair? At Divinely Faded in Carlsbad, NM, braids are a 2-hour appointment. What changes the time and the price.",
+    "primary": "how long does it take to braid hair",
+    "secondary": []
+  },
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Blog",
+      "/blog/"
+    ],
+    [
+      "How Long Braids Take",
+      "/blog/how-long-to-braid-hair/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / WHAT CHANGES THE TIME",
+      "heading": "Rows, length, pattern.",
+      "lead": "What sets the pace.",
+      "subsections": [
+        {
+          "heading": "Number of braids",
+          "paragraphs": [
+            "More braids means more parting and more braiding. A few thick rows go quicker than many thin ones."
+          ]
+        },
+        {
+          "heading": "Length and thickness",
+          "paragraphs": [
+            "Longer, thicker hair takes longer to section, and every braid has further to go before it reaches the end."
+          ]
+        },
+        {
+          "heading": "Old braids coming out",
+          "paragraphs": [
+            "Coming in with braids still in? Say so when you text, because taking them out takes time too."
+          ]
+        },
+        {
+          "heading": "The pattern",
+          "paragraphs": [
+            "Rows running straight back are the simplest to part. Curves, pairs that meet at the crown and finishing details on the ends ask for more planning."
+          ]
+        }
+      ],
+      "paragraphs": [
+        "Every set is personalized, so there isn't one number that fits every style. Booksy holds {{minutes:braids}} for the booking either way."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / PRICE",
+      "heading": "Why it says varies.",
+      "lead": "The style sets the price.",
+      "paragraphs": [
+        "On Booksy the braids price reads “{{price:braids}}” because it follows the style. A simple set and a detailed one don't cost the same.",
+        "The quickest way to a real number is a text. Send a photo of the braids you want to {{phone}} and ask me before you book.",
+        "Every set I braid is personalized, so that text is where we work out exactly what you're getting. Once we've agreed on the style, book the braids slot on Booksy and you're set."
+      ],
+      "link": {
+        "label": "SEE THE BRAIDS PAGE",
+        "href": "page:services-braids"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / PLANNING",
+      "heading": "Clear the time.",
+      "lead": "Sit once, sit long.",
+      "paragraphs": [
+        "Choose a morning or an afternoon where you can sit for {{minutes:braids}} without checking your watch. Booksy shows the open slots, and Saturday runs 8:00 AM to 2:00 PM, so a Saturday set starting at 8 leaves your afternoon free.",
+        "Not sure how your hair should look when you arrive, washed or not? Ask in the same text as your photo.",
+        "You pay after the braids are done, and the set is booked like any other appointment. Cancel early if you have to: two hours left empty are hard to give away, and Booksy may charge a fee for a no-show or a late cancellation."
+      ],
+      "link": {
+        "label": "MORE ANSWERS IN THE FAQ",
+        "href": "page:faq"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / INSIDE THE APPOINTMENT",
+      "heading": "Where two hours go.",
+      "lead": "Plan, part, braid, finish.",
+      "paragraphs": [
+        "A braid set generally runs in the same order. We look at your photo and settle on the pattern. The hair is parted into rows, then each row is braided down to the end, and the set is checked and finished. Take a look in the mirror, front and back, before you go.",
+        "Parting is where much of the time goes. Clean, even parts are what make rows look sharp, and they are not something to hurry.",
+        "Many of the sets on my braids page pair rows on top with a faded or tapered side. If you want that look, mention the fade when you text, so we can plan the time around it."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "05 / SITTING FOR IT",
+      "heading": "Settle in.",
+      "lead": "Make the two hours easy.",
+      "paragraphs": [
+        "Eat before you come, charge your phone, and wear something comfortable around the neck and shoulders. Two hours in one chair goes by easier when you aren't hungry or fidgeting.",
+        "Plan your ride and anything after it around the full booking, so you aren't watching the door near the end. A fresh set looks sharpest right away, so if the braids are for an event, book close to the date."
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / QUESTIONS",
+      "heading": "Braid questions.",
+      "items": [
+        {
+          "q": "How long does it take to braid hair?",
+          "a": "It depends on the number of braids, the length of the hair and the pattern. At Divinely Faded, braids are booked as a {{minutes:braids}} appointment."
+        },
+        {
+          "q": "How much do braids cost?",
+          "a": "It varies with the style. Text me a photo of what you want and ask before you book."
+        },
+        {
+          "q": "Do braids take longer than a haircut?",
+          "a": "Yes. Braids are booked for {{minutes:braids}}, while an Essential Haircut takes {{minutes:essential-haircut}}."
+        },
+        {
+          "q": "Should I send a photo of the braids I want?",
+          "a": "Please do. Text it before you book, so we can talk through the style and the price."
+        },
+        {
+          "q": "When can I book braids?",
+          "a": "Any open time on Booksy long enough for the full {{minutes:braids}}. Saturday runs 8:00 AM to 2:00 PM, and I'm closed Wednesday and Sunday."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "BRAIDS",
+      "heading": "Two hours.<br>Clean rows.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "services-braids",
+    "faq"
+  ],
+  "tim_questions": [
+    "Does any braid style run past the 2-hour Booksy block?",
+    "Should clients come with washed and detangled hair? (the post tells them to ask)",
+    "Is a fade under the braids included in the braids booking, or booked separately?",
+    "Do you braid kids' hair? Do you supply cuffs or extensions?"
+  ]
+}

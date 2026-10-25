@@ -1,0 +1,103 @@
+{
+  "id": "styles-modern-mullet",
+  "locale": "es",
+  "slug": "/es/estilos/mullet-moderno/",
+  "alt": "/styles/modern-mullet/",
+  "nav_label": "Mullet moderno",
+  "card_text": "Lados con desvanecido, largo atrás y platinado opcional.",
+  "breadcrumb": [["Inicio", "/es/"], ["Estilos", "/es/estilos/"], ["Mullet moderno", "/es/estilos/mullet-moderno/"]],
+  "seo": {
+    "title": "Mullet moderno en Carlsbad, NM | Divinely Faded",
+    "description": "Mullet moderno y burst fade mullet en Carlsbad, NM: lados con desvanecido, largo de verdad atrás y color opcional. Mira cortes reales y agenda en Booksy.",
+    "primary": "mullet moderno",
+    "secondary": ["corte mullet", "corte de pelo mullet", "mullet hombre"],
+    "og_photo": "color-platinum-mullet-fade"
+  },
+  "schema": { "type": "Service", "service_ids": ["essential-haircut", "signature-cut", "color-transformation"] },
+  "photo_alt": {
+    "color-platinum-mullet-fade": "Mullet moderno platinado con los lados en desvanecido alto hasta la piel, largo ondulado arriba y atrás, y barba completa oscura",
+    "cut-curly-top-taper-neckline": "Burst fade mullet desde atrás, con pelo chino oscuro arriba y largo que cae hasta la nuca sobre un desvanecido alrededor de la oreja"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "ESTILOS / MULLET MODERNO",
+      "h1": "Mullet moderno.",
+      "paragraphs": [
+        "Lados cortos, largo de verdad atrás. No es la versión de los años 80.",
+        "Un mullet moderno deja el frente y la parte de arriba texturizados, baja los lados bien cortos con un desvanecido (fade) y deja largo atrás. Ese contraste entre los lados cortos y la cola larga es lo que hace que se vea como un corte y no como un disfraz."
+      ],
+      "link": { "label": "AGENDA ESTE CORTE", "href": "booksy" },
+      "photos": ["color-platinum-mullet-fade", "cut-curly-top-taper-neckline"]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / DOS VERSIONES",
+      "heading": "Platinado y chino.",
+      "lead": "La misma idea, otra textura.",
+      "paragraphs": [
+        "El de la primera foto va platinado, con largo ondulado arriba y atrás y los lados en desvanecido alto hasta la piel. Una barba completa equilibra todo ese largo.",
+        "El segundo es oscuro y chino. El desvanecido hace un arco por la oreja y el pelo chino se deja caer hasta la nuca, y eso lo vuelve un burst fade mullet."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / BURST FADE MULLET",
+      "heading": "Curva más largo.",
+      "lead": "El corte chino de la segunda foto.",
+      "paragraphs": [
+        "Un burst fade mullet combina un desvanecido curvo alrededor de la oreja con el largo del mullet atrás. El burst deja peso en la nuca, así que la cola se ve como parte del corte y no como algo que sobró."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / A QUIÉN LE QUEDA",
+      "heading": "La textura ayuda.",
+      "lead": "Dejarlo crecer pide paciencia.",
+      "paragraphs": [
+        "El pelo ondulado y el chino llevan un mullet con facilidad porque la parte de atrás mantiene su forma. El pelo lacio funciona cuando ya tiene suficiente largo para pasar del cuello de la camisa. Si empiezas con el pelo corto, cuenta con algunas visitas en las que los lados se mantienen cortos mientras la parte de atrás alcanza el largo."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "05 / CÓMO AGENDARLO",
+      "heading": "Corte, barba, color.",
+      "lead": "Elige lo que necesitas.",
+      "items": [
+        { "title": "Essential Haircut", "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}", "body": "Lados con desvanecido, la parte de atrás con forma y arriba texturizado, con trabajo de navaja en la nuca antes del peinado.", "href": "page:services-haircuts", "book": true },
+        { "title": "Signature Cut", "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}", "body": "El mullet, más recorte o delineado (line-up) de barba y toalla caliente para cerrar.", "href": "page:services-haircuts", "book": true },
+        { "title": "Color Transformation", "meta": "{{price:color-transformation}} · {{minutes:color-transformation}}", "body": "Un platinado como el de la primera foto es trabajo de decoloración y matizado, y se agenda como servicio aparte. Mándame un mensaje antes de agendar corte y color juntos.", "href": "page:services-color", "book": true }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "06 / MANTENIMIENTO",
+      "heading": "Lados cortos, atrás largo.",
+      "lead": "Dos partes, dos ritmos.",
+      "paragraphs": [
+        "Los lados con desvanecido muestran el pelo que vuelve a crecer mucho antes que la parte de atrás, porque el pelo corto es el que más cambia al crecer. La parte de atrás solo necesita forma de vez en cuando mientras se alarga. Si dejas la cola sin tocar demasiado tiempo, empieza a verse descuidada en lugar de intencional. Pregúntame en la silla cuándo volver por el tuyo."
+      ],
+      "photos": []
+    },
+    {
+      "type": "faq",
+      "eyebrow": "07 / PREGUNTAS",
+      "heading": "Preguntas sobre el mullet.",
+      "items": [
+        { "q": "¿Qué es un mullet moderno?", "a": "Lados cortos con desvanecido, la parte de arriba texturizada y un largo que se nota atrás. El desvanecido es lo que lo separa del mullet de antes, más recto y parejo." },
+        { "q": "¿Todo mullet moderno es un burst fade mullet?", "a": "No. Un mullet moderno puede ir sobre cualquier desvanecido; el de la primera foto sube alto hasta la piel. Un burst fade mullet usa el burst curvo alrededor de la oreja, como el de la segunda." },
+        { "q": "¿Un mullet puede verse profesional?", "a": "Una parte de atrás más corta con un desvanecido bajo se ve mucho más conservadora que una cola larga con los lados a piel bien arriba. Puedes subirle o bajarle." },
+        { "q": "¿También puedo hacerme el color platinado?", "a": "Sí. La decoloración y el matizado son la Color Transformation (transformación de color) en Booksy, y es una cita larga, así que organiza tu día alrededor de ella." }
+      ]
+    }
+  ],
+  "related": ["styles-burst-fade", "styles-curly-top-fade", "services-color", "styles-textured-fringe"],
+  "tim_questions": [
+    "Modern mullet page: can the mullet cut and a Color Transformation be done in the same visit, or should clients book them as two separate appointments? The page currently says 'Text me before you book a cut and color together.'",
+    "Was the platinum color in color-platinum-mullet-fade done by you? The page only says platinum like this is bleach and tone work booked as the Color Transformation.",
+    "How often do you suggest coming back to keep a mullet's faded sides sharp? The upkeep section gives no interval until you say."
+  ]
+}

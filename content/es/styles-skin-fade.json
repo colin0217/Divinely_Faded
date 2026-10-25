@@ -1,0 +1,92 @@
+{
+  "id": "styles-skin-fade",
+  "locale": "es",
+  "slug": "/es/estilos/skin-fade/",
+  "alt": "/styles/skin-fade/",
+  "nav_label": "Skin Fade",
+  "card_text": "Lados difuminados hasta la piel: bajo, medio o alto.",
+  "breadcrumb": [["Inicio", "/es/"], ["Estilos", "/es/estilos/"], ["Skin Fade", "/es/estilos/skin-fade/"]],
+  "seo": {
+    "title": "Corte skin fade en Carlsbad, NM | Divinely Faded",
+    "description": "Corte skin fade en Carlsbad, NM: bajo, medio o alto, difuminado hasta la piel, con o sin barba. Mira cortes reales y agenda en Booksy.",
+    "primary": "corte skin fade",
+    "secondary": ["skin fade", "corte desvanecido", "degradado"],
+    "og_photo": "cut-skin-fade-hard-part-beard"
+  },
+  "schema": { "type": "Service", "service_ids": ["essential-haircut", "signature-cut"] },
+  "photo_alt": {
+    "cut-skin-fade-hard-part-beard": "Skin fade con la parte de arriba corta, delineado marcado, una línea delgada con navaja arriba de la patilla y barba completa",
+    "cut-side-ear-fade": "Skin fade medio visto desde atrás, llevado hasta la piel alrededor de la oreja, con la parte de arriba corta",
+    "cut-side-fade": "Skin fade desde atrás, con la parte de arriba corta y texturizada que baja hasta la piel en la nuca y detrás de la oreja"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "ESTILOS / SKIN FADE",
+      "h1": "Skin fade.",
+      "paragraphs": [
+        "Un skin fade (desvanecido hasta la piel) baja los lados y la parte de atrás hasta la piel, y luego se difumina hacia arriba hasta el largo que dejas arriba. No hay un escalón marcado donde termina el pelo corto, solo un cambio suave de la piel al pelo.",
+        "Estos son skin fades de mi silla en Carlsbad. Uno combina la parte de arriba corta y un delineado (line-up) nítido con una barba tupida y completa. Los otros dos muestran el desvanecido (fade) desde atrás, donde la piel rodea la oreja antes de que el pelo se oscurezca otra vez."
+      ],
+      "link": { "label": "AGENDA ESTE CORTE", "href": "booksy" },
+      "photos": ["cut-skin-fade-hard-part-beard", "cut-side-ear-fade"]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / EL CORTE",
+      "heading": "Hasta la piel.",
+      "lead": "La altura es la decisión que tomas tú.",
+      "paragraphs": [
+        "Todo skin fade tiene un punto de inicio. Uno bajo empieza justo arriba de la oreja y deja más peso en los lados. Un skin fade medio empieza a la altura de la sien. Un skin fade alto sube hacia la coronilla y da el contraste más marcado."
+      ],
+      "photos": ["cut-side-fade"]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / A QUIÉN LE QUEDA",
+      "heading": "Lados limpios, cualquier textura.",
+      "lead": "Lacio, ondulado, chino o duro.",
+      "paragraphs": [
+        "Como los lados bajan hasta la piel, un skin fade funciona igual en pelo lacio, ondulado o muy chino. Le queda a cualquiera que no tenga problema con que se le vea un poco el cuero cabelludo. ¿Quieres dejar un poco de sombra en los lados? Un taper deja más cobertura.",
+        "Las sienes a piel junto a una barba completa son el contraste de la primera foto."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "04 / CÓMO AGENDARLO",
+      "heading": "En Booksy.",
+      "lead": "Dos formas de agendar un skin fade.",
+      "items": [
+        { "title": "Essential Haircut", "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}", "body": "Desvanecido y parte de arriba, con la nuca limpia con navaja y el corte peinado para terminar. Elígelo si andas bien afeitado o te arreglas la barba tú mismo.", "href": "page:services-haircuts", "book": true },
+        { "title": "Signature Cut", "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}", "body": "Todo lo del Essential más trabajo de barba, desde un recorte limpio hasta un delineado marcado, y luego toalla caliente y detalles con navaja. La cita indicada para un skin fade con barba.", "href": "page:services-haircuts", "book": true }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "05 / MANTENIMIENTO",
+      "heading": "La piel lo muestra primero.",
+      "lead": "La etapa más nítida es la primera.",
+      "paragraphs": [
+        "La piel al descubierto es la primera parte de cualquier corte en cambiar, porque hasta un poco de pelo que vuelve a crecer le hace sombra a la sección más baja y suaviza la transición. Cada cuánto vuelvas depende de qué tan nítido te guste, y dejarlo crecer más está bien si te gusta cómo se ve ya crecido. Pregúntame qué opino."
+      ],
+      "photos": []
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / PREGUNTAS",
+      "heading": "Skin fade: respuestas.",
+      "items": [
+        { "q": "¿Qué es un skin fade en la barbería?", "a": "Un desvanecido que termina en la piel. Los lados y la parte de atrás se bajan hasta que no queda pelo abajo, y luego se difuminan hacia el pelo de arriba." },
+        { "q": "¿Un skin fade es lo mismo que un taper?", "a": "No. Un taper solo toca las patillas y la nuca, y deja casi todo el lado como está. Un skin fade rodea toda la cabeza y llega hasta la piel." },
+        { "q": "¿Puedo hacerme un skin fade con barba completa?", "a": "Sí. Agenda el Signature Cut (corte distintivo) para que tu barba se atienda en la misma cita que el desvanecido." },
+        { "q": "Skin fade bajo, medio o alto: ¿cuál pido?", "a": "Decide cuánto contraste quieres. El bajo es sutil, el medio queda en medio y el alto da más contraste. ¿Sigues con dudas? Las vistas laterales de esta página son una buena referencia." }
+      ]
+    }
+  ],
+  "related": ["styles-low-taper-fade", "styles-burst-fade", "styles-buzz-cut", "services-beard-shaves"],
+  "tim_questions": [
+    "Photo cut-skin-fade-hard-part-beard: is the thin pale line above the sideburn a razor line you cut in (described that way in the alt text), or something else?",
+    "How often do you suggest rebooking a skin fade? The upkeep section gives no interval until you say."
+  ]
+}

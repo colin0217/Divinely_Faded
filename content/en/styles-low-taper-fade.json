@@ -1,0 +1,92 @@
+{
+  "id": "styles-low-taper-fade",
+  "locale": "en",
+  "slug": "/styles/low-taper-fade/",
+  "alt": "/es/estilos/low-taper-fade/",
+  "nav_label": "Low Taper Fade",
+  "card_text": "Clean edges at the ear and neckline, length kept elsewhere.",
+  "breadcrumb": [["Home", "/"], ["Styles", "/styles/"], ["Low Taper Fade", "/styles/low-taper-fade/"]],
+  "seo": {
+    "title": "Low Taper Fade in Carlsbad, NM | Divinely Faded",
+    "description": "Low taper fade and mid taper haircuts in Carlsbad, NM. Clean sideburns and neckline, length kept on top. Real photos, booked on Booksy.",
+    "primary": "low taper fade carlsbad nm",
+    "secondary": ["low taper fade", "taper fade", "mid taper fade", "low taper vs mid taper", "low fade"],
+    "og_photo": "cut-low-taper-textured-top"
+  },
+  "schema": { "type": "Service", "service_ids": ["essential-haircut", "signature-cut"] },
+  "photo_alt": {
+    "cut-low-taper-textured-top": "Low taper fade from behind, longer top combed with product and the taper reaching skin behind the ear",
+    "cut-back-taper": "Back view of a taper fading to skin at the nape under a short, textured top",
+    "cut-teen-taper-textured-top": "Mid taper on a teen, skin at the sideburn rising toward the temple, textured fringe left long on top"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "STYLES / LOW TAPER FADE",
+      "h1": "Low taper fade.",
+      "paragraphs": [
+        "Want the edges tidy without the whole side going bare? That is what a low taper fade does. It shortens only the sideburns, the hair around the ear and the neckline, and leaves the rest of the head its length.",
+        "Because so little comes off, the cut reads clean from the front and grows out without a harsh line. The top can be almost anything, from a short crop to the longer, combed style in the first photo."
+      ],
+      "link": { "label": "BOOK THIS CUT", "href": "booksy" },
+      "photos": ["cut-low-taper-textured-top", "cut-back-taper"]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / LOW OR MID",
+      "heading": "Low taper vs. mid taper.",
+      "lead": "The difference is where it starts.",
+      "paragraphs": [
+        "A low taper begins near the bottom: at the ear and along the nape. A mid taper starts higher, roughly level with the temple, so more of the side comes down before it blends into the top. Mid gives more contrast. Low stays closer to a classic cut.",
+        "The side view here sits at the mid end, with skin at the sideburn climbing toward the temple and a textured fringe left long. The back view shows where every taper ends up: hair fading to skin at the neckline."
+      ],
+      "photos": ["cut-teen-taper-textured-top"]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / WHO IT SUITS",
+      "heading": "An easy first fade.",
+      "lead": "Low contrast, wide range.",
+      "paragraphs": [
+        "A taper removes so little that it suits straight hair, waves and curls, and it fits places where a sharp fade might stand out, like school or a conservative job. If you have only ever had scissor cuts, a low taper is a gentle way to try clippers on the sides."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "04 / BOOK IT AS",
+      "heading": "Which service.",
+      "lead": "Both cover low and mid tapers.",
+      "items": [
+        { "title": "Essential Haircut", "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}", "body": "Covers the taper and the top on its own, tailored to your head shape, with a straight razor cleanup at the neck.", "href": "page:services-haircuts", "book": true },
+        { "title": "Signature Cut", "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}", "body": "Book this one when the beard needs attention too: trim or line-up, finished under a hot towel.", "href": "page:services-haircuts", "book": true }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "05 / UPKEEP",
+      "heading": "It grows out gently.",
+      "lead": "Watch the neckline.",
+      "paragraphs": [
+        "With less skin on show, a low taper grows out more gently than a full fade. A mid taper shows regrowth a bit sooner. The neckline is usually the first spot to blur, so when the back starts to look fuzzy, it is time to book."
+      ],
+      "photos": []
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / QUESTIONS",
+      "heading": "Taper questions.",
+      "items": [
+        { "q": "What exactly is a low taper fade?", "a": "A haircut where only the very bottom edges, the sideburns and the nape, are faded short. The sides above them keep their length." },
+        { "q": "What is the difference between a fade and a taper?", "a": "A fade wraps around the whole head and often goes higher up the sides. A taper is limited to the edges. You can wear a taper that reaches skin, which is why the names blur together." },
+        { "q": "Is a low taper good for short hair?", "a": "Yes. On a short top it keeps the outline neat without making the sides look shaved, so the whole cut stays balanced." },
+        { "q": "How do I ask for a mid taper fade?", "a": "Say mid taper and point to where you want it to begin, usually around the temple. Mention how long the top should be and whether you want skin at the bottom. A photo saves a lot of explaining." }
+      ]
+    }
+  ],
+  "related": ["styles-skin-fade", "styles-textured-fringe", "styles-slick-back", "services-haircuts"],
+  "tim_questions": [
+    "Photo fit: cut-low-taper-textured-top and cut-teen-taper-textured-top read closer to a mid taper/low fade than a strict low taper (skin reaches above the ear). The page describes them that way. OK, or would you call them low tapers?",
+    "How long do you tell people a low taper lasts between cuts? The upkeep section gives no interval until you say."
+  ]
+}

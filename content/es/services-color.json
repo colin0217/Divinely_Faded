@@ -1,0 +1,111 @@
+{
+  "id": "services-color",
+  "locale": "es",
+  "slug": "/es/servicios/color-y-permanente/",
+  "alt": "/services/color-and-perm/",
+  "nav_label": "Color y permanente",
+  "card_text": "Decoloración y matizado, o una permanente para textura y movimiento.",
+  "breadcrumb": [["Inicio", "/es/"], ["Servicios", "/es/servicios/"], ["Color y permanente", "/es/servicios/color-y-permanente/"]],
+  "seo": {
+    "title": "Tinte de pelo para hombre y permanente | Carlsbad, NM",
+    "description": "Tinte de pelo para hombre en Carlsbad, NM: decoloración y matizado con la Color Transformation, o volumen y textura con una permanente. Agenda en Booksy.",
+    "primary": "tinte de pelo para hombre",
+    "secondary": ["permanente para hombre", "pelo platinado hombre", "tinte para hombre"],
+    "og_photo": "blonde-crop-side"
+  },
+  "schema": { "type": "Service", "service_ids": ["color-transformation", "perm"] },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "SERVICIOS / COLOR Y PERMANENTE",
+      "h1": "Color y permanente.",
+      "paragraphs": [
+        "Cambia algo más que el largo.",
+        "Dos servicios para cuando un corte nuevo no basta: la Color Transformation (transformación de color) para decolorar y matizar tu pelo a un tono nuevo, y la permanente (en Booksy aparece como Perm) para darle el volumen, la textura y el movimiento que no tiene por sí solo."
+      ],
+      "link": { "label": "AGENDA COLOR O PERMANENTE", "href": "booksy" },
+      "photos": ["blonde-crop-side", "cut-blonde-top-mid-fade"],
+      "alt": {
+        "blonde-crop-side": "Crop texturizado rubio platinado sobre lados desvanecidos, vista de lado",
+        "cut-blonde-top-mid-fade": "Parte de arriba texturizada y rubia sobre un desvanecido medio con raya marcada"
+      }
+    },
+    {
+      "type": "list",
+      "eyebrow": "02 / EL MENÚ",
+      "heading": "Dos formas de cambiar.",
+      "lead": "Las dos son citas largas.",
+      "items": [
+        { "title": "Color Transformation", "meta": "{{price:color-transformation}} · {{minutes:color-transformation}}", "body": "Coloración profesional, con decoloración y matizado, para llegar al tono que quieres. La cita más larga de mi menú.", "book": true },
+        { "title": "Perm", "meta": "{{price:perm}} · {{minutes:perm}}", "body": "Una permanente a la medida para volumen, textura y movimiento, ajustada al look que buscas.", "book": true }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / COLOR",
+      "heading": "Decolorar y matizar.",
+      "lead": "Aclarar lleva tiempo.",
+      "paragraphs": [
+        "Ir a rubio empieza con la decoloración, y el matizado es lo que lo lleva de amarillento al tono que de verdad querías. Las fotos muestran dónde puede terminar: un crop platinado casi blanco sobre lados desvanecidos, y un rubio más claro en la parte de arriba de un desvanecido (fade) medio.",
+        "Booksy aparta {{minutes:color-transformation}} para una Color Transformation, así que planea todo ese tiempo y no agendes nada apretado después.",
+        "El color es para el pelo de tu cabeza. El teñido de barba no es un servicio que ofrezca."
+      ],
+      "photos": ["color-kids-blonde-top-fade"],
+      "alt": {
+        "color-kids-blonde-top-fade": "Cliente joven con la parte de arriba rubia sobre un desvanecido, perfil de lado"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / PERMANENTE",
+      "heading": "Textura a propósito.",
+      "lead": "Volumen, textura, movimiento.",
+      "paragraphs": [
+        "La permanente se hace a tu medida. Más volumen arriba, más textura en un crop, movimiento en pelo que se queda plano: dime cuál buscas y la permanente se prepara para ese resultado.",
+        "Dura {{minutes:perm}}. Trae una foto de la onda o el chino que tienes en mente para que apuntemos a lo mismo."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "05 / ELEGIR",
+      "heading": "Tono o forma.",
+      "lead": "Empieza por la meta.",
+      "paragraphs": [
+        "Agenda la Color Transformation cuando la meta es un tono nuevo, y la permanente cuando la meta es forma y movimiento. ¿No sabes cuál te lleva ahí? Mándame por mensaje una foto de lo que tienes en mente.",
+        "La cuenta se paga después del servicio, como en cualquier visita. Los dos ocupan un buen rato de mi día, así que si cambian tus planes, cancela con tiempo en Booksy, porque si no llegas a tu cita o cancelas de último momento se puede cobrar un cargo."
+      ],
+      "photos": []
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / PREGUNTAS",
+      "heading": "Lo que debes saber.",
+      "items": [
+        {
+          "q": "¿Qué es una permanente para hombre?",
+          "a": "En mi menú es una permanente a la medida, pensada para dar volumen, textura y movimiento. Cuesta {{price:perm}} y dura {{minutes:perm}}."
+        },
+        {
+          "q": "¿Cuánto cuesta el color de pelo para hombre?",
+          "a": "La Color Transformation cuesta {{price:color-transformation}}. Eso cubre la coloración profesional, con la decoloración y el matizado incluidos."
+        },
+        {
+          "q": "¿Cuánto dura una Color Transformation?",
+          "a": "Booksy separa {{minutes:color-transformation}} para ella, más tiempo que cualquier otra cosa de mi menú. Deja libre el resto de ese día."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "COLOR Y TEXTURA",
+      "heading": "Tono nuevo.<br>El mismo estándar.",
+      "button": { "label": "AGENDA AHORA", "href": "booksy" }
+    }
+  ],
+  "related": ["services-haircuts", "services-braids", "faq"],
+  "tim_questions": [
+    "Do you color kids' hair, and is there an age minimum or parent sign-off? (The photo color-kids-blonde-top-fade is on this page; no policy is stated.)",
+    "Do you do a consult before Color Transformation or a Perm? Any hair you won't perm or bleach? (Not on the page.)"
+  ]
+}

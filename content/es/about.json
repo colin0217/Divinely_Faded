@@ -1,0 +1,92 @@
+{
+  "id": "about",
+  "locale": "es",
+  "slug": "/es/sobre-mi/",
+  "alt": "/about/",
+  "nav_label": "Sobre mí",
+  "card_text": "El barbero de la silla: corta pelo desde 2023, trabaja solo, con un solo estándar.",
+  "breadcrumb": [
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Sobre mí",
+      "/es/sobre-mi/"
+    ]
+  ],
+  "seo": {
+    "title": "Sobre Tim Murillo, barbero en Carlsbad, NM | Divinely Faded",
+    "description": "Conoce a Timothy Murillo, barbero en Carlsbad, NM y dueño de Divinely Faded. Corta pelo desde 2023, por su cuenta y solo con cita. Elevate Your Standard.",
+    "primary": "barbero en carlsbad nm",
+    "secondary": [
+      "barbero",
+      "barberos"
+    ],
+    "og_photo": "team-tim-portrait"
+  },
+  "schema": {
+    "type": "AboutPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "SOBRE MÍ",
+      "h1": "Tim Murillo.",
+      "paragraphs": [
+        "Soy Timothy Murillo. La mayoría me dice Tim. Divinely Faded es mi barbería en Carlsbad, Nuevo México.",
+        "Corto pelo desde 2023 y trabajo solo. Cada cita en la agenda es conmigo, desde el primer vistazo a tu pelo hasta la última pasada de la navaja."
+      ],
+      "link": {
+        "label": "AGENDA CON TIM",
+        "href": "booksy"
+      },
+      "photos": [
+        "team-tim-portrait"
+      ],
+      "alt": {
+        "team-tim-portrait": "Tim Murillo, dueño y barbero de Divinely Faded, sentado en su silla de barbero"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / EL ESTÁNDAR",
+      "heading": "El estándar.",
+      "lead": "Elevate Your Standard.",
+      "paragraphs": [
+        "Ese es mi lema, y así pienso en cada corte. Primero la precisión. Luego los detalles que lo hacen sentir terminado: el trabajo con navaja de barbero, la toalla caliente, el borde limpio donde el desvanecido (fade) se junta con la piel.",
+        "Trabajar solo significa que una sola persona responde por toda la visita. Si algo no está bien, sabes exactamente a quién decirle. Mi fe también es parte de eso: todo lo que hago, trato de hacerlo de todo corazón."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / EN MI SILLA",
+      "heading": "Lo que hago.",
+      "lead": "Cortes, barbas y más.",
+      "paragraphs": [
+        "Cortes para hombres y niños, cortes de barba y afeitado con navaja, faciales, trenzas, diseños en el pelo, color y permanentes. Los servicios de peluquín llegan próximamente.",
+        "La barbería está en {{address}}. Atiendo solo con cita, y todas las citas se agendan por Booksy."
+      ],
+      "photos": []
+    },
+    {
+      "type": "feature",
+      "eyebrow": "NOS VEMOS EN LA SILLA",
+      "heading": "Un barbero.<br>Cada detalle.",
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "services",
+    "visit",
+    "faq"
+  ],
+  "tim_questions": [
+    "Faith: the page has one light line in section 02 ('whatever I do, I try to do it with all my heart'). Do you want a verse cited with it, such as Colossians 3:23? Not on the page until you say.",
+    "Opening month in 2023 (the page says only 'since 2023')."
+  ]
+}

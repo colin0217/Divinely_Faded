@@ -1,0 +1,150 @@
+{
+  "id": "post-how-long-to-bleach-hair",
+  "locale": "en",
+  "slug": "/blog/how-long-to-bleach-hair/",
+  "date": "2026-11-02",
+  "plan_rank": 10,
+  "title": "How Long Does It Take to Bleach Hair? Why a Color Transformation Takes Four Hours",
+  "eyebrow": "COLOR & TEXTURE",
+  "hero": "cut-blonde-top-mid-fade",
+  "hero_alt": "Bleached blonde textured top over a mid fade, with a shaved part line",
+  "image_plan": null,
+  "card_text": "Lift, rinse, tone: why a Color Transformation is booked for four hours, and how to plan the day.",
+  "lede": [
+    "How long bleaching takes depends on how dark your hair starts and how light you want it to end up. At my shop, a Color Transformation is a {{minutes:color-transformation}} booking on Booksy at {{price:color-transformation}}, and that time covers the lift, the rinse and the tone.",
+    "Here is why it takes that long, step by step, and how to plan around the longest appointment on my menu."
+  ],
+  "seo": {
+    "title": "How Long Does It Take to Bleach Hair? | Carlsbad, NM",
+    "description": "How long does it take to bleach hair? In Carlsbad, NM, a Color Transformation at Divinely Faded is a 4-hour booking: lift, rinse, then tone.",
+    "primary": "how long does it take to bleach hair",
+    "secondary": []
+  },
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Blog",
+      "/blog/"
+    ],
+    [
+      "How Long Bleaching Takes",
+      "/blog/how-long-to-bleach-hair/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / STEP BY STEP",
+      "heading": "Lift, rinse, tone.",
+      "lead": "Three stages, in order.",
+      "subsections": [
+        {
+          "heading": "Lift",
+          "paragraphs": [
+            "Bleach breaks down the pigment in your hair, and it does that in stages. Dark hair passes through red, orange and yellow on the way to pale blonde. The darker you start, the more lifting it takes. Fine hair tends to lift faster than coarse hair."
+          ]
+        },
+        {
+          "heading": "Rinse",
+          "paragraphs": [
+            "When the hair reaches the level we're after, the bleach comes out. It has to be fully rinsed before anything else goes on."
+          ]
+        },
+        {
+          "heading": "Tone",
+          "paragraphs": [
+            "Freshly bleached hair is rarely the final shade. It tends to land warm or yellow, and toner corrects that warmth and settles it on the blonde you came in for, from soft gold to near-white platinum."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / WHY FOUR HOURS",
+      "heading": "Why it can't be rushed.",
+      "lead": "Bleach keeps its own clock.",
+      "paragraphs": [
+        "Pushing bleach faster with a stronger mix risks damage, so the slower route is the one that looks after your hair.",
+        "Hair that has been colored before can lift unevenly, because the old color and your natural color react differently. That's one more reason to leave the whole block free. Toning has its own processing time once the bleach is out, so even the last step isn't instant.",
+        "The {{minutes:color-transformation}} window also covers the parts people forget: sectioning, checking the lift as it develops, rinsing, toning and styling at the end.",
+        "If your hair is already light, the lift may go quicker. Booksy still holds the whole block, so plan the full stretch."
+      ],
+      "link": {
+        "label": "SEE COLOR AND PERM",
+        "href": "page:services-color"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / BEFORE YOU BOOK",
+      "heading": "Plan the day.",
+      "lead": "Nothing tight after it.",
+      "paragraphs": [
+        "Book a time with nothing scheduled close behind it. Bring a photo of the shade you want, whether that's a lighter blonde through the top of a fade like the one above or something closer to platinum.",
+        "This is for the hair on your head only; beards aren't dyed here. When you text, tell me if your hair has been colored, permed or bleached before.",
+        "Saturday runs 8:00 AM to 2:00 PM, so a {{minutes:color-transformation}} booking that day needs an early start.",
+        "You pay after the service, by cash, card, Zelle or Cash App. Because this booking holds a big part of my day, cancel early on Booksy if you need to, since no-shows and late cancellations may be charged a fee."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / HOW LIGHT",
+      "heading": "Soft blonde to platinum.",
+      "lead": "The target sets the clock.",
+      "paragraphs": [
+        "The lighter the target, the longer the lift. A soft blonde through the top of a fade, like the photo above, asks less of the bleach than near-white platinum, which has to clear almost all the warmth out of the hair. Going from dark brown to platinum asks the most of the bleach and the most of the clock.",
+        "Your roots grow in your natural color, so the blonde moves away from the scalp as your hair grows. That is worth knowing before you choose a shade a long way from your own. Bring your reference photo in good light, since the same blonde can look very different indoors and out.",
+        "Want texture rather than a new shade? That is the Perm, {{price:perm}} for {{minutes:perm}}, and the color page covers both."
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "05 / QUESTIONS",
+      "heading": "Bleach questions.",
+      "items": [
+        {
+          "q": "How long does it take to bleach hair?",
+          "a": "It depends on your starting color and the shade you want. At Divinely Faded, a Color Transformation is a {{minutes:color-transformation}} booking, toning included."
+        },
+        {
+          "q": "How much does it cost to bleach men's hair?",
+          "a": "The Color Transformation is {{price:color-transformation}}, paid after the service."
+        },
+        {
+          "q": "Can you bleach my beard?",
+          "a": "No. Beards aren't part of the Color Transformation, or of anything else on my menu that involves color."
+        },
+        {
+          "q": "Does bleach damage hair?",
+          "a": "Bleach is a chemical process and it does change the hair. That is why it isn't rushed, and why the rinse and the tone are done properly."
+        },
+        {
+          "q": "Why does bleached hair turn orange?",
+          "a": "On the way up, dark hair passes through orange and yellow. Toning after the rinse is the step that takes that brassiness out."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "COLOR TRANSFORMATION",
+      "heading": "Go lighter.<br>Plan the day.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "services-color",
+    "faq"
+  ],
+  "tim_questions": [
+    "Can very dark hair reach platinum in one Color Transformation, or does it sometimes take two visits?",
+    "Can a haircut be booked the same day as a Color Transformation?",
+    "Do you do a strand or patch test before bleaching?",
+    "Confirm the described steps (sectioning, checking the lift, rinse, tone, style) match how you do it."
+  ]
+}

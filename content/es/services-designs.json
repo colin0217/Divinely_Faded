@@ -1,0 +1,146 @@
+{
+  "id": "services-designs",
+  "locale": "es",
+  "slug": "/es/servicios/disenos-de-cabello/",
+  "alt": "/services/hair-designs/",
+  "nav_label": "Diseños en el pelo",
+  "card_text": "Líneas y curvas de diseño libre cortadas en el desvanecido.",
+  "breadcrumb": [
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Servicios",
+      "/es/servicios/"
+    ],
+    [
+      "Diseños en el pelo",
+      "/es/servicios/disenos-de-cabello/"
+    ]
+  ],
+  "seo": {
+    "title": "Corte de pelo con diseño en Carlsbad, NM | Divinely Faded",
+    "description": "Corte de pelo con diseño para hombres y niños en Carlsbad, NM: líneas y curvas libres en el desvanecido, en Divinely Faded. Es un extra en Booksy.",
+    "primary": "corte de pelo con diseño",
+    "secondary": [
+      "diseños de corte de pelo",
+      "diseño de pelo hombre",
+      "corte con diseño"
+    ],
+    "og_photo": "design-skin-fade-freestyle"
+  },
+  "schema": {
+    "type": "Service",
+    "name": "Diseño en el pelo",
+    "service_ids": [],
+    "addons": [
+      "Hair design"
+    ]
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "SERVICIOS / DISEÑOS",
+      "h1": "Diseños en el pelo.",
+      "paragraphs": [
+        "Líneas con intención.",
+        "Un diseño en el pelo es una forma cortada en la parte corta de un desvanecido (fade): una curva que sale hacia atrás desde la sien, unas líneas que rodean por detrás de la oreja. En mi menú aparece como un extra de {{addon:hair-design}}."
+      ],
+      "link": {
+        "label": "AGENDA UN CORTE CON DISEÑO",
+        "href": "booksy"
+      },
+      "photos": [
+        "design-skin-fade-freestyle",
+        "design-side"
+      ],
+      "alt": {
+        "design-skin-fade-freestyle": "Diseño de líneas libres arriba de la oreja en un skin fade con la parte de arriba corta",
+        "design-side": "Diseño libre curvo detrás de la oreja en un desvanecido bajo con la parte de arriba texturizada"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / EL TRABAJO",
+      "heading": "Diseño libre.",
+      "lead": "Donde el desvanecido es más corto.",
+      "paragraphs": [
+        "Los diseños de esta página son líneas y curvas de diseño libre (freestyle). Fíjate dónde están: justo donde el desvanecido se hace corto, arriba y detrás de la oreja, para que la forma se vea limpia contra la piel.",
+        "El primero sale arriba de la oreja en un skin fade, bajo una parte de arriba corta. El segundo hace una curva detrás de la oreja en un desvanecido bajo, con textura arriba.",
+        "Ninguno de los cuatro de esta página es igual. Puedes traer una foto de un diseño que te guste, o decirme más o menos dónde lo quieres y qué tan llamativo, y de ahí partimos."
+      ],
+      "photos": [],
+      "link": {
+        "label": "VER LOS ESTILOS",
+        "href": "page:styles"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / CLIENTES PEQUEÑOS",
+      "heading": "También niños.",
+      "lead": "Dos de estos son en niños.",
+      "paragraphs": [
+        "Un diseño es una forma fácil de que un niño haga suyo un desvanecido simple. Los dos de abajo están en desvanecidos cortos con un poco de largo arriba. Uno es una curva libre que va de la sien a detrás de la oreja. El otro es un juego de líneas cortadas arriba de la oreja."
+      ],
+      "photos": [
+        "design-kids-fade-freestyle",
+        "design-kids-fade-lines"
+      ],
+      "alt": {
+        "design-kids-fade-freestyle": "Desvanecido en un niño con un diseño curvo libre de la sien a detrás de la oreja",
+        "design-kids-fade-lines": "Desvanecido en un niño con líneas cortadas arriba de la oreja y la parte de arriba texturizada"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / CÓMO AGENDAR",
+      "heading": "Cómo pedir uno.",
+      "lead": "Dos caminos.",
+      "paragraphs": [
+        "El diseño en el pelo está en mi lista de extras en Booksy. Si no estás seguro de cómo combinarlo con el corte que quieres, mándame un mensaje y pregúntame antes de agendar. El mensaje de texto es la forma más rápida de contactarme.",
+        "¿Quieres todo? La Luxury Grooming Experience (experiencia de arreglo de lujo) ya incluye un diseño en el pelo básico, junto con el modelado de barba, el vapor, las toallas calientes y lo demás.",
+        "Como un diseño queda en la parte más corta del desvanecido, se suaviza a medida que ese pelo vuelve a crecer. Cada visita es con cita, y pagas cuando está terminado. Puedes pagar en efectivo o con tarjeta, y también con Zelle o Cash App."
+      ],
+      "photos": []
+    },
+    {
+      "type": "faq",
+      "eyebrow": "05 / PREGUNTAS",
+      "heading": "Lo que debes saber.",
+      "items": [
+        {
+          "q": "¿Cuánto cuesta un diseño en el pelo?",
+          "a": "El extra de diseño en el pelo cuesta {{addon:hair-design}} en Booksy."
+        },
+        {
+          "q": "¿Los niños pueden llevar un diseño?",
+          "a": "Sí, los niños son bienvenidos. Dos de los diseños de esta página se hicieron en clientes pequeños."
+        },
+        {
+          "q": "¿Algún servicio incluye un diseño?",
+          "a": "Sí. La Luxury Grooming Experience, de {{price:luxury-grooming}}, trae un diseño en el pelo básico junto con el resto del servicio."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "EN EL PELO",
+      "heading": "Tus líneas.<br>Tú decides.",
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "services-haircuts",
+    "services-kids",
+    "faq"
+  ],
+  "tim_questions": [
+    "[TIM?] Can the hair design add-on be booked with the Essential Haircut, the Signature Cut and kids' cuts on Booksy? The page only says it is listed as an add-on and asks people to text if unsure.",
+    "Does a bigger or more detailed design cost more than the listed add-on price? (Not on the page.)"
+  ]
+}

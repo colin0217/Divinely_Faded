@@ -1,0 +1,176 @@
+{
+  "id": "post-what-happens-during-a-mens-facial",
+  "locale": "es",
+  "slug": "/es/blog/que-pasa-en-un-facial-para-hombres/",
+  "alt": "/blog/what-happens-during-a-mens-facial/",
+  "date": "2026-11-02",
+  "plan_rank": 21,
+  "title": "Qué pasa durante un facial para hombres (y cada cuánto hacerlo)",
+  "eyebrow": "FACIALES",
+  "hero": "steam-facial",
+  "hero_alt": "Vapor tibio flotando sobre la cara de un cliente reclinado durante un facial para hombres en Divinely Faded",
+  "image_plan": null,
+  "card_text": "Masaje, vapor, exfoliación y crema hidratante, todo en la silla de barbero: qué incluye cada facial y cada cuánto agendar uno.",
+  "lede": [
+    "Un facial para hombres en mi barbería se hace aquí mismo en la silla de barbero, reclinada hacia atrás, y dura {{minutes:express-facial}} o {{minutes:deluxe-facial}} según cuál agendes. De cualquier forma recibes un masaje facial, vapor tibio, exfoliación suave y crema hidratante.",
+    "Además de esa base compartida, el Express Facial (facial exprés), de {{price:express-facial}}, incluye limpieza profunda, y el Deluxe Facial (facial deluxe), de {{price:deluxe-facial}}, suma tratamientos avanzados para la piel y un sérum antiedad. Abajo está cada paso, qué separa a los dos y cómo pensar cada cuánto venir por uno."
+  ],
+  "seo": {
+    "title": "¿Qué pasa durante un facial para hombres? | Carlsbad, NM",
+    "description": "Qué pasa durante un facial para hombres en Carlsbad, NM: masaje, vapor, exfoliación y crema hidratante. Express o Deluxe, en la silla de Divinely Faded.",
+    "primary": "qué pasa durante un facial para hombres",
+    "secondary": []
+  },
+  "breadcrumb": [
+    ["Inicio", "/es/"],
+    ["Blog", "/es/blog/"],
+    ["Facial para hombres", "/es/blog/que-pasa-en-un-facial-para-hombres/"]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / PASO A PASO",
+      "heading": "Del vapor a la crema.",
+      "lead": "Lo que pasa, en el orden en que lo sientes.",
+      "subsections": [
+        {
+          "heading": "Recuéstate",
+          "paragraphs": [
+            "Te recuestas en la silla y te acomodas. No hay nada que preparar ni ropa que cambiarte. Si tu piel ha estado irritada o sensible últimamente, dímelo antes de empezar."
+          ]
+        },
+        {
+          "heading": "Masaje facial",
+          "paragraphs": [
+            "Los dos faciales incluyen un masaje en toda la cara. Es una presión lenta y constante, y casi siempre es ahí donde la tensión del día empieza a soltarse."
+          ]
+        },
+        {
+          "heading": "Vapor tibio",
+          "paragraphs": [
+            "El vapor tibio se dirige a tu cara mientras estás recostado. La foto al principio de este artículo capta ese momento: un cliente reclinado, con el vapor flotando sobre su cara."
+          ]
+        },
+        {
+          "heading": "Limpieza y exfoliación",
+          "paragraphs": [
+            "En el Express, aquí es donde entra la limpieza profunda. Los dos faciales incluyen exfoliación suave. Suave es la palabra que importa: esto es una renovación, no una tallada a fondo."
+          ]
+        },
+        {
+          "heading": "Tratamientos y sérum",
+          "paragraphs": [
+            "El Deluxe agrega tratamientos avanzados para la piel y un sérum antiedad. En esa capa extra se van casi todos los minutos adicionales del Deluxe."
+          ]
+        },
+        {
+          "heading": "Crema hidratante",
+          "paragraphs": [
+            "Cada facial termina con una crema hidratante, para que te levantes con la piel cómoda y no reseca. En un clima tan seco como el nuestro, ese último paso se gana su lugar."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "02 / EXPRESS O DELUXE",
+      "heading": "Dos faciales, lado a lado.",
+      "lead": "La misma base, distinto final.",
+      "items": [
+        {
+          "title": "Express Facial",
+          "meta": "{{price:express-facial}} · {{minutes:express-facial}}",
+          "body": "Masaje facial, vapor tibio, limpieza profunda, exfoliación suave y crema hidratante. Elígelo cuando quieras una renovación limpia que quepa en poco tiempo, como la hora de la comida.",
+          "book": true
+        },
+        {
+          "title": "Deluxe Facial",
+          "meta": "{{price:deluxe-facial}} · {{minutes:deluxe-facial}}",
+          "body": "Masaje facial, vapor tibio, exfoliación suave y crema hidratante, más tratamientos avanzados para la piel y un sérum antiedad. Elígelo cuando tengas unos minutos más y quieras algo más que refrescarte.",
+          "book": true
+        },
+        {
+          "title": "Luxury Grooming Experience",
+          "meta": "{{price:luxury-grooming}} · {{minutes:luxury-grooming}}",
+          "body": "No es un facial por sí sola, pero el vapor facial y las dos toallas calientes vienen incluidos, junto con el corte, el modelado de barba, el lavado y lo demás. Elígela cuando quieras vapor y corte en una sola cita.",
+          "href": "page:services-haircuts",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / CADA CUÁNTO",
+      "heading": "Cada cuánto agendar uno.",
+      "lead": "No hay un reloj corriendo.",
+      "paragraphs": [
+        "Un corte de pelo te avisa cuando ya toca: los bordes se borran y la forma se suaviza. Un facial no manda ese tipo de señal, así que cada cuánto agendas uno lo decides tú, no es un calendario que te voy a dar desde un artículo del blog.",
+        "Hay dos formas sencillas de pensarlo. Agenda uno antes de algo importante, como una boda, una entrevista, una foto de las fiestas o una salida de noche. O inclúyelo en una visita que ya vas a hacer, para que tu piel reciba atención en la misma vuelta que tu pelo.",
+        "Si quieres mi opinión honesta sobre lo que tu piel podría necesitar, pregúntame cuando estés en la silla, o mándame un mensaje al {{phone}}. Prefiero verla y platicarlo que adivinar desde aquí."
+      ],
+      "link": {
+        "label": "VER LA PÁGINA DE FACIALES",
+        "href": "page:services-facials"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / ANTES DE AGENDAR",
+      "heading": "Algunas cosas que saber.",
+      "lead": "Se agenda como cualquier otra cita.",
+      "paragraphs": [
+        "Los dos faciales se agendan en Booksy. Elige el facial, elige la hora y el horario queda guardado para ti. El pago es cuando termina: efectivo, tarjeta, Zelle o Cash App.",
+        "¿Quieres un corte y un facial en la misma visita? Mándame un mensaje primero y te digo cómo agendar los dos para que encajen.",
+        "Los planes cambian. Si los tuyos cambian, cancela por Booksy lo antes que puedas, porque si no llegas a tu cita o cancelas de último momento se puede cobrar un cargo.",
+        "¿Te llama la atención el vapor, pero te interesa más un corte fresco? La Luxury Grooming Experience (experiencia de arreglo de lujo), en la página de cortes, envuelve un corte completo con vapor facial y dos toallas calientes."
+      ],
+      "link": {
+        "label": "VER LOS CORTES",
+        "href": "page:services-haircuts"
+      }
+    },
+    {
+      "type": "faq",
+      "eyebrow": "05 / PREGUNTAS",
+      "heading": "Preguntas sobre faciales.",
+      "items": [
+        {
+          "q": "¿Qué pasa durante un facial para hombres?",
+          "a": "En Divinely Faded te recuestas en la silla de barbero para un masaje facial, vapor tibio, exfoliación suave y crema hidratante. Además, el Express incluye limpieza profunda, mientras que el Deluxe suma tratamientos avanzados para la piel y un sérum antiedad."
+        },
+        {
+          "q": "¿Cuánto dura un facial para hombres?",
+          "a": "El Express Facial dura {{minutes:express-facial}} y el Deluxe Facial dura {{minutes:deluxe-facial}}."
+        },
+        {
+          "q": "¿Cuánto cuesta un facial para hombres?",
+          "a": "{{price:express-facial}} el Express y {{price:deluxe-facial}} el Deluxe, y se paga después del servicio."
+        },
+        {
+          "q": "¿Cada cuánto debe hacerse un facial un hombre?",
+          "a": "No hay una regla fija. Agenda uno antes de una ocasión o combínalo con una visita normal, y pregúntame en la silla si quieres una sugerencia para tu piel."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "FACIALES",
+      "heading": "Recuéstate.<br>Renuévate.",
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "services-facials",
+    "services-haircuts"
+  ],
+  "tim_questions": [
+    "Confirm the order of the facial steps as written (massage, steam, cleanse/exfoliate, Deluxe treatments and serum, moisturizer).",
+    "Booksy lists a deep cleanse only on the Express, not the Deluxe. Is that right, or does the Deluxe include it too?",
+    "How often do you recommend a facial? The post leaves it as the client's call and says to ask you.",
+    "Can a facial be booked on the same visit as a haircut (back to back on Booksy)? The post says to text you first.",
+    "What are the Deluxe's 'advanced skin treatments'? The post only uses the Booksy wording."
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "id": "post-nose-and-ear-waxing-men",
+  "locale": "en",
+  "slug": "/blog/nose-and-ear-waxing-men/",
+  "date": "2026-11-02",
+  "plan_rank": 24,
+  "title": "Nose and Ear Waxing for Men: What to Expect",
+  "eyebrow": "GROOMING",
+  "hero": "pexels-8468129-tools-tray",
+  "hero_alt": "Grooming brushes, combs and scissors laid out on a white surface",
+  "image_plan": "pexels: barber grooming tools tray → stock photo (Pexels), not Divinely Faded work",
+  "card_text": "A {{addon:nose-ear-wax}} add-on, or built into Luxury Grooming. What happens in the chair, how it feels and how to book it.",
+  "lede": [
+    "Nose and ear waxing at my shop is an add-on, {{addon:nose-ear-wax}} on top of the service you book, and it already comes with the Luxury Grooming Experience. Wax goes on, sets for a moment and comes off with the stray hair, so the nostrils and ears look clean rather than clipped.",
+    "Here's what to expect in the chair, how waxing compares with trimming, and how to add it to your next appointment."
+  ],
+  "seo": {
+    "title": "Nose and Ear Waxing for Men | Carlsbad, NM",
+    "description": "Nose and ear waxing for men in Carlsbad, NM: what happens, how it feels, and how to add it for {{addon:nose-ear-wax}} at Divinely Faded or get it in Luxury Grooming.",
+    "primary": "nose waxing men",
+    "secondary": [
+      "ear waxing men"
+    ]
+  },
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Blog",
+      "/blog/"
+    ],
+    [
+      "Nose and Ear Waxing",
+      "/blog/nose-and-ear-waxing-men/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / IN THE CHAIR",
+      "heading": "How it goes.",
+      "lead": "Four quick steps.",
+      "subsections": [
+        {
+          "heading": "The wax",
+          "paragraphs": [
+            "Warm wax goes onto a small applicator and into the opening of the nostril, or onto the outer ear where hair grows. Only the hair you can see at the edge is the target."
+          ]
+        },
+        {
+          "heading": "The set",
+          "paragraphs": [
+            "The wax sits for a moment and firms up around the hair. Nothing to do but hold still."
+          ]
+        },
+        {
+          "heading": "The pull",
+          "paragraphs": [
+            "One quick pull and it's out, hair and all. Expect a sharp sting and watery eyes for a second, and then it's over."
+          ]
+        },
+        {
+          "heading": "The check",
+          "paragraphs": [
+            "I look over both sides, catch any strays left behind, and we carry on with the rest of your appointment."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / WAX OR TRIM",
+      "heading": "Why wax instead of trim.",
+      "lead": "Root versus surface.",
+      "paragraphs": [
+        "A trimmer cuts hair at the surface, so the stubble is still there and shows again soon. Wax lifts the hair out from the root, which means the area stays clean longer before anything grows back in.",
+        "Ear hair makes the case for wax on its own. It grows on the outer ear and along the rim, where a trimmer can skip fine hairs, and the wax catches all of it in one pass.",
+        "If you'd rather keep trimming at home, that's your call. The add-on is there for when you'd rather hand it off."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / WHO BOOKS IT",
+      "heading": "The detail others spot first.",
+      "lead": "You rarely see it. Everyone else does.",
+      "paragraphs": [
+        "Nose and ear hair is easy to miss in your own mirror, because you look at yourself straight on. Other people see you from the side, across a table or in a photo, where a stray hair at the ear or the nostril stands out.",
+        "That's why the add-on pairs so naturally with a fresh cut. A sharp fade and a clean line-up draw attention to the face and the ears, so tidying both finishes what the cut started.",
+        "It makes sense before anything with a camera or a handshake in it: an interview, a wedding, a family photo. It also makes sense on a regular visit, simply because you're already in the chair."
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "04 / HOW TO GET IT",
+      "heading": "Two ways to book it.",
+      "lead": "Add it on, or get it built in.",
+      "items": [
+        {
+          "title": "Nose / ear wax add-on",
+          "meta": "{{addon:nose-ear-wax}}",
+          "body": "Add it when you book your appointment. It rides along with the service you're already in the chair for."
+        },
+        {
+          "title": "Luxury Grooming Experience",
+          "meta": "{{price:luxury-grooming}} · {{minutes:luxury-grooming}}",
+          "body": "Ear and nose waxing is already on the list, along with the haircut, beard sculpt, wash and scalp massage, facial steam, dual hot towels and styling. No add-on needed.",
+          "href": "page:services-haircuts",
+          "book": true
+        },
+        {
+          "title": "Eyebrows",
+          "meta": "{{addon:eyebrows}}",
+          "body": "Another small add-on. Pair it with waxing when you want the whole face tidied in one visit."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "05 / GOOD TO KNOW",
+      "heading": "Before you add it.",
+      "lead": "A few honest notes.",
+      "paragraphs": [
+        "If the skin in or around your nose is irritated, sunburned or broken, tell me before we start, so we can decide together whether to leave it for another visit.",
+        "It's quick, but it isn't nothing. The first time tends to sting more, simply because there's more hair to lift.",
+        "Pair it with a facial for a full face visit. The facials page covers the Express ({{minutes:express-facial}}) and the Deluxe ({{minutes:deluxe-facial}}).",
+        "The add-on goes on the same bill as the rest of your service, paid at the end by cash, card, Zelle or Cash App."
+      ],
+      "link": {
+        "label": "SEE THE FACIALS",
+        "href": "page:services-facials"
+      }
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / QUESTIONS",
+      "heading": "Waxing questions.",
+      "items": [
+        {
+          "q": "Does nose waxing hurt?",
+          "a": "It stings for a second when the wax comes off, and your eyes may water. Then it's done."
+        },
+        {
+          "q": "How much is nose and ear waxing?",
+          "a": "{{addon:nose-ear-wax}} as an add-on. It's included in the Luxury Grooming Experience at {{price:luxury-grooming}}."
+        },
+        {
+          "q": "Is waxing included with a haircut?",
+          "a": "Only in the Luxury Grooming Experience. With the Essential Haircut or the Signature Cut, add it on when you book."
+        },
+        {
+          "q": "Is waxing better than trimming nose hair?",
+          "a": "It lasts longer, because wax takes the hair from the root while a trimmer only shortens it. Trimming is quicker to do yourself at home."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "THE DETAILS",
+      "heading": "Small add-on.<br>Clean lines.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "services-facials",
+    "services-haircuts"
+  ],
+  "tim_questions": [
+    "Confirm how you wax (warm wax on an applicator, outer nostril and outer ear only).",
+    "Does the nose/ear wax add-on add time to the Booksy slot?",
+    "Can the add-on go on any service (shave, facial), and can it be booked by itself?",
+    "Is the $10 add-on for nose and ears together? Written that way."
+  ]
+}

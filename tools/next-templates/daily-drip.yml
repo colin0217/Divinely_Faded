@@ -1,0 +1,84 @@
+name: Daily blog drip (M-F, ~6 AM MT)
+
+# ScheduleOS job type `content-drip` (item home = this file). Next.js version: the site is built on Vercel, and the
+# prebuild renders only posts dated today or earlier (America/Denver). This workflow stamps a one-line pulse on main
+# each weekday so Vercel rebuilds and the day's post goes live; a missed day self-heals on the next build.
+# Two crons cover both DST offsets; the date-stamp guard makes the second a no-op. Manual: gh workflow run daily-drip.yml
+
+on:
+  schedule:
+    - cron: '17 12 * * 1-5'   # ~06:17 MDT (Mar-Nov)
+    - cron: '23 13 * * 1-5'   # ~06:23 MST (Nov-Mar)
+  workflow_dispatch: {}
+
+concurrency:
+  group: daily-drip
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  pulse:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 1
+      - name: Pulse a production rebuild (once per Mountain-time day)
+        run: |
+          set -euo pipefail
+          TODAY="$(TZ=America/Denver date +%F)"
+          PULSE=".github/drip-pulse.txt"
+          if [ "${{ github.event_name }}" = "schedule" ] && [ -f "$PULSE" ] && grep -q "Last drip pulse: ${TODAY} " "$PULSE"; then
+            echo "Already pulsed for ${TODAY}."; exit 0
+          fi
+          echo "Last drip pulse: $(TZ=America/Denver date '+%F %H:%M %Z') (event: ${{ github.event_name }})" > "$PULSE"
+          git config user.name "Divinely Faded drip bot"
+          git config user.email "peytonwoodscampbell97@gmail.com"   # the Vercel-verified author, or the deploy is skipped
+          git add "$PULSE"
+          git diff --cached --quiet && exit 0
+          git commit -m "chore(drip): publish pulse ${TODAY}"
+          for attempt in 1 2 3; do
+            git fetch origin main
+            git rebase origin/main || { git rebase --abort || true; }
+            git push origin HEAD:main && exit 0
+            echo "Push attempt ${attempt} failed - retrying."
+          done
+          exit 1
+
+  verify:
+    needs: pulse
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 1
+      - name: Verify today's posts are live, else alert Telegram
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          set -uo pipefail
+          TODAY="$(TZ=America/Denver date +%F)"
+          SITE="$(node -e 'console.log(require("./content/facts.json").site_url.replace(/\/$/, ""))')"
+          mapfile -t SLUGS < <(node -e '
+            const fs = require("fs"), path = require("path"), today = process.argv[1];
+            for (const loc of ["en", "es"]) { const d = path.join("content/blog", loc); if (!fs.existsSync(d)) continue;
+              for (const f of fs.readdirSync(d)) { if (!f.endsWith(".json")) continue; const p = JSON.parse(fs.readFileSync(path.join(d, f), "utf8")); if (p.date === today) console.log(p.slug); } }' "$TODAY")
+          [ "${#SLUGS[@]}" -eq 0 ] && { echo "No post dated ${TODAY}."; exit 0; }
+          for slug in "${SLUGS[@]}"; do
+            url="${SITE}${slug}"; ok=0
+            for i in $(seq 1 15); do
+              code="$(curl -s -m 30 -o /dev/null -w '%{http_code}' -L "$url" || echo 000)"
+              [ "$code" = "200" ] && { ok=1; break; }
+              echo "  ${slug}: not live yet (try ${i}/15: status=${code})"; sleep 60
+            done
+            if [ "$ok" -eq 1 ]; then echo "OK: ${url}"; elif [ -n "${TELEGRAM_BOT_TOKEN:-}" ] && [ -n "${TELEGRAM_CHAT_ID:-}" ]; then
+              curl -s -m 20 -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" --data-urlencode "chat_id=${TELEGRAM_CHAT_ID}" \
+                --data-urlencode "text=Divinely Faded drip ${TODAY}: ${url} not live (status=${code}). Fix: gh workflow run daily-drip.yml --repo colin0217/Divinely_Faded" >/dev/null || true
+            else echo "ALERT (Telegram secrets unset): ${url} not live"; fi
+          done
+          exit 0

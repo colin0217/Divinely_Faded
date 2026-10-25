@@ -1,0 +1,108 @@
+{
+  "id": "services-braids",
+  "locale": "en",
+  "slug": "/services/braids/",
+  "alt": "/es/servicios/trenzas/",
+  "nav_label": "Braids",
+  "card_text": "Cornrows and personalized braid styles over a fade.",
+  "breadcrumb": [["Home", "/"], ["Services", "/services/"], ["Braids", "/services/braids/"]],
+  "seo": {
+    "title": "Braids for Men in Carlsbad, NM | Divinely Faded",
+    "description": "Braids for men in Carlsbad, NM at Divinely Faded: cornrows and personalized braid styles over a clean fade. Booked by appointment on Booksy.",
+    "primary": "braids for men carlsbad nm",
+    "secondary": ["braids for men", "cornrows for men", "men's braids", "hair braiding near me"],
+    "og_photo": "braids-side"
+  },
+  "schema": { "type": "Service", "service_ids": ["braids"] },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "SERVICES / BRAIDS",
+      "h1": "Braids.",
+      "paragraphs": [
+        "Clean parts. Tight rows. A fade underneath.",
+        "Braiding is on my menu, and every set is personalized to the person in the chair. The photos on this page are braids I've done: rows running straight back, pairs that meet at the crown, some finished with gold cuffs on the ends."
+      ],
+      "link": { "label": "BOOK BRAIDS", "href": "booksy" },
+      "photos": ["braids-top", "braids-side"],
+      "alt": {
+        "braids-top": "Several cornrow braids running straight back over faded sides, seen from above",
+        "braids-side": "Two cornrow braids with gold cuffs on the ends over a faded side and full beard"
+      }
+    },
+    {
+      "type": "list",
+      "eyebrow": "02 / PRICE & TIME",
+      "heading": "Plan for it.",
+      "lead": "One of the longer appointments on my menu.",
+      "items": [
+        { "title": "Braids", "meta": "{{price:braids}} · {{minutes:braids}}", "body": "Personalized braiding styles. The price changes with the style, so Booksy shows it as varies. Booksy blocks {{minutes:braids}} for the appointment, so clear your afternoon or your morning.", "book": true }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / THE LOOK",
+      "heading": "Braids with a fade.",
+      "lead": "The contrast is the point.",
+      "paragraphs": [
+        "Most of the sets here pair braids on top with a faded or tapered back and sides, so every row stands out against clean skin.",
+        "Some keep the hair's natural dark color. Others show blonde running through the braids, which reads even sharper next to the fade.",
+        "The last photo on the page has two rows ending in a gold cuff, with the side under them faded all the way to skin. Rows, color and cuffs are all part of what makes a set personal."
+      ],
+      "photos": ["braids-back", "braids-crown"],
+      "alt": {
+        "braids-back": "Blonde-toned braids hanging past a low taper on the back of the neck",
+        "braids-crown": "Two blonde-toned cornrows meeting at the crown with a center part, seen from above"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / BEFORE YOU BOOK",
+      "heading": "Show me the style.",
+      "lead": "A photo helps.",
+      "paragraphs": [
+        "Booksy lists braids as varies, so text me a photo of the style you want and ask about it before you book. Texting is the easiest way to reach me, and a picture saves us both a lot of back and forth.",
+        "Pick a slot where you can sit for the full {{minutes:braids}} without watching the clock. Braids are booked like everything else here: appointment only, through Booksy.",
+        "You settle up once the braids are finished, the same as any other appointment. On a booking this long, a missed slot is hard to fill, so cancel early if plans change: Booksy may charge a fee for no-shows and late cancellations."
+      ],
+      "photos": []
+    },
+    {
+      "type": "faq",
+      "eyebrow": "05 / QUESTIONS",
+      "heading": "Good to know.",
+      "items": [
+        {
+          "q": "How much do braids cost?",
+          "a": "It depends on the style, so Booksy shows the price as varies. Send me a picture of the set you're after at {{phone}} and ask first."
+        },
+        {
+          "q": "How long should I plan to sit for braids?",
+          "a": "Booksy reserves {{minutes:braids}} for a set. Book a time when nothing else is waiting on you."
+        },
+        {
+          "q": "Can I get braids with a fade?",
+          "a": "Yes. Most sets in these photos sit over a fade or taper on the sides and back."
+        },
+        {
+          "q": "When do I pay for braids?",
+          "a": "After the braids are done, in cash, by card, or through Zelle or Cash App."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "photo": "braids-blonde-side",
+      "alt": { "braids-blonde-side": "Two cornrow braids ending in a gold cuff over a skin-faded side" },
+      "eyebrow": "BRAIDS",
+      "heading": "Straight rows.<br>Sharp fade.",
+      "button": { "label": "BOOK NOW", "href": "booksy" }
+    }
+  ],
+  "related": ["services-designs", "services-color", "faq"],
+  "tim_questions": [
+    "[TIM?] How do you quote braids? The page asks people to text a photo of the style and ask before booking (texts are your preferred contact).",
+    "Do you do box braids? Do you add extension hair? (Not on the page; 'box braids men' was dropped from the keyword targets until you confirm.)",
+    "How long does hair need to be for braids? How long do your braids usually last? (Not on the page; 'how long do braids last men' is a search people make.)"
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": "styles-curly-top-fade",
+  "locale": "es",
+  "slug": "/es/estilos/curly-top-fade/",
+  "alt": "/styles/curly-top-fade/",
+  "nav_label": "Curly Top Fade",
+  "card_text": "Pelo chino natural arriba, lados con desvanecido hasta la piel.",
+  "breadcrumb": [["Inicio", "/es/"], ["Estilos", "/es/estilos/"], ["Curly Top Fade", "/es/estilos/curly-top-fade/"]],
+  "seo": {
+    "title": "Curly top fade en Carlsbad, NM | Divinely Faded",
+    "description": "Curly top fade, un corte para pelo chino en Carlsbad, NM: chino natural arriba y lados a piel. Para adultos y niños. Mira el corte y agenda en Booksy.",
+    "primary": "cortes para pelo chino hombre",
+    "secondary": ["pelo chino hombre", "curly top", "corte de pelo rizado hombre"],
+    "og_photo": "cut-curly-top-skin-fade"
+  },
+  "schema": { "type": "Service", "service_ids": ["essential-haircut", "perm"] },
+  "photo_alt": {
+    "cut-curly-top-skin-fade": "Curly top fade en un cliente joven, con pelo chino suelto arriba sobre un skin fade que rodea la oreja y la parte de atrás"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "ESTILOS / CURLY TOP FADE",
+      "h1": "Curly top fade.",
+      "paragraphs": [
+        "Chino arriba, piel en los lados. Un curly top fade deja que tu pelo chino u ondulado natural haga el trabajo arriba, mientras todo lo de abajo va con desvanecido (fade) corto.",
+        "La foto lo muestra en un cliente más joven: pelo chino suelto con movimiento arriba y un skin fade que rodea la oreja y cruza la parte de atrás. Los lados a piel hacen que la textura de arriba se vea todavía más llena."
+      ],
+      "link": { "label": "AGENDA ESTE CORTE", "href": "booksy" },
+      "photos": ["cut-curly-top-skin-fade"]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / A QUIÉN LE QUEDA",
+      "heading": "Hecho para la textura.",
+      "lead": "Chino, muy chino u ondulado.",
+      "paragraphs": [
+        "Es un corte pensado para pelo que ya es chino. El desvanecido quita volumen de los lados, que es donde el pelo chino tiende a esponjarse, y deja que arriba se vea su forma natural.",
+        "¿Tienes el pelo lacio pero quieres más movimiento arriba? La permanente (en Booksy aparece como Perm) está pensada para darle movimiento y textura al pelo que se queda plano."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / QUÉ TAN ALTO",
+      "heading": "Elige la altura del desvanecido.",
+      "lead": "Cambia la silueta.",
+      "paragraphs": [
+        "Un desvanecido bajo deja más pelo en los lados y da una forma general más redonda. Subirlo más, hasta la piel como el de la foto, pone el pelo chino en un pedestal. Un burst fade, que se curva detrás de la oreja, guarda peso para la parte de atrás, y algunos lo prefieren conforme crece el pelo chino."
+      ],
+      "photos": []
+    },
+    {
+      "type": "list",
+      "eyebrow": "04 / CÓMO AGENDARLO",
+      "heading": "Qué agendar.",
+      "lead": "Corte, o corte más textura.",
+      "items": [
+        { "title": "Essential Haircut", "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}", "body": "Pelo chino con forma arriba, lados con desvanecido y el contorno de la nuca terminado con navaja. Los niños también pueden hacerse este corte.", "href": "page:services-haircuts", "book": true },
+        { "title": "Perm", "meta": "{{price:perm}} · {{minutes:perm}}", "body": "Para pelo lacio o plano que necesita textura antes de poder llevar un look curly top.", "href": "page:services-color", "book": true }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "05 / MANTENIMIENTO",
+      "heading": "El chino esconde lo que crece. El desvanecido, no.",
+      "lead": "Los lados lo muestran primero.",
+      "paragraphs": [
+        "Arriba, un poco de crecimiento solo agrega volumen. Los lados con desvanecido cuentan la verdad, porque ahí es donde se nota contra la piel el pelo que vuelve a crecer. Pregúntame cada cuánto te sugeriría arreglar los lados y te digo qué opino para tu pelo."
+      ],
+      "photos": []
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / PREGUNTAS",
+      "heading": "Preguntas sobre el pelo chino.",
+      "items": [
+        { "q": "¿Qué desvanecido me conviene si tengo el pelo chino?", "a": "Cualquier altura funciona. Bajo para un look más suave y redondo, medio o alto para más contraste, o un burst si quieres conservar largo atrás." },
+        { "q": "Curly top fade o burst fade: ¿cuál es la diferencia?", "a": "El de la foto es un skin fade que rodea la oreja y cruza la parte de atrás. Un burst se curva detrás de la oreja y guarda más largo en la nuca." },
+        { "q": "¿Los niños se pueden hacer un curly top fade?", "a": "Sí. Los niños son bienvenidos. Los papás eligen en Booksy el corte que va con lo que quiere su niño, y la página de cortes para niños tiene más información sobre cómo agendar." },
+        { "q": "¿Qué es un curly top fade bajo?", "a": "El mismo curly top con un desvanecido que empieza justo arriba de la oreja, así que se queda más pelo en los lados. Es una versión más suave para la escuela o el trabajo." }
+      ]
+    }
+  ],
+  "related": ["styles-burst-fade", "styles-modern-mullet", "services-kids", "styles-skin-fade"],
+  "tim_questions": [
+    "How often do you suggest coming back to keep the faded sides on a curly top clean? The upkeep section gives no interval until you say.",
+    "Any curl-care advice you want on this page? Product tips were removed because they weren't yours."
+  ]
+}

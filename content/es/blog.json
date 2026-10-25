@@ -1,0 +1,59 @@
+{
+  "id": "blog",
+  "locale": "es",
+  "slug": "/es/blog/",
+  "alt": "/blog/",
+  "nav_label": "Blog",
+  "breadcrumb": [
+    ["Inicio", "/es/"],
+    ["Blog", "/es/blog/"]
+  ],
+  "seo": {
+    "title": "Blog de barbería: cortes, cuidado y citas | Carlsbad, NM",
+    "description": "Guías de cortes, cuidado y consejos para agendar de Tim Murillo, el barbero de Divinely Faded en 303 S Halagueno St, Carlsbad, NM.",
+    "primary": "blog de barbería en carlsbad nm",
+    "secondary": [],
+    "og_photo": null
+  },
+  "schema": {
+    "type": "CollectionPage"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "BLOG",
+      "h1": "Desde la silla.",
+      "paragraphs": [
+        "Guías de los cortes que hago cada semana, cómo mantenerlos nítidos entre visitas y cómo funcionan las citas en mi barbería de la calle Halagueno, en Carlsbad.",
+        "Todo aquí sale de mi propia silla: el Essential Haircut (corte esencial), el Signature Cut (corte distintivo) y la Luxury Grooming Experience (experiencia de arreglo de lujo), afeitado con navaja de barbero, faciales, trenzas, diseños en el pelo, color y permanentes. Si una entrada habla de precio o tiempo, es el mismo precio y tiempo que verás en Booksy.",
+        "¿Tienes una pregunta que quieres que conteste aquí? Mándame un mensaje al {{phone}}."
+      ],
+      "link": {
+        "label": "VER LOS ESTILOS",
+        "href": "page:styles"
+      }
+    },
+    {
+      "type": "posts",
+      "eyebrow": "02 / LO MÁS NUEVO",
+      "heading": "A leer.",
+      "empty": "Las primeras entradas salen pronto. Mientras tanto, la biblioteca de estilos tiene una página para cada corte que hago, con fotos reales de la barbería, y las preguntas frecuentes cubren horario, pago, días festivos y cuánto dura cada servicio.",
+      "lead": "Guías de estilos, cuidado entre cortes y los detalles para agendar, de lo más nuevo a lo más antiguo."
+    },
+    {
+      "type": "feature",
+      "eyebrow": "LISTO PARA UN CORTE",
+      "heading": "Agenda primero.<br>Luego toma asiento.",
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "styles",
+    "services",
+    "faq"
+  ],
+  "tim_questions": []
+}

@@ -1,0 +1,157 @@
+{
+  "id": "post-braids-for-short-hair-men",
+  "locale": "es",
+  "slug": "/es/blog/trenzas-para-pelo-corto/",
+  "alt": "/blog/braids-for-short-hair-men/",
+  "date": "2026-11-02",
+  "plan_rank": 23,
+  "title": "Trenzas para pelo corto: qué largo necesita tu cabello",
+  "eyebrow": "TRENZAS",
+  "hero": "braids-crown",
+  "hero_alt": "Dos trenzas en tono rubio con raya al centro que se juntan en la coronilla",
+  "image_plan": null,
+  "card_text": "Una trenza necesita largo para agarrar. Cómo saber si ya lo tienes, qué estilos le quedan al pelo corto y qué mandar primero.",
+  "lede": [
+    "El pelo corto se puede trenzar cuando cada sección tiene el largo suficiente para que los mechones se crucen varias veces y se sostengan. Una regla general que vas a oír mucho es de unas dos pulgadas, pero la textura importa tanto como el largo, así que la respuesta más segura es una foto. Mándame una al {{phone}} y te digo si tu pelo ya está listo.",
+    "Aquí está lo que lo decide, qué estilos de trenzas le quedan al pelo más corto y cómo funciona la cita de trenzas de {{minutes:braids}} una vez que llegas."
+  ],
+  "seo": {
+    "title": "Trenzas para hombre con pelo corto | Carlsbad, NM",
+    "description": "Trenzas para hombre con pelo corto en Carlsbad, NM: el largo para que una trenza se sostenga, estilos para pelo corto y cómo agendar en Divinely Faded.",
+    "primary": "trenzas para hombre pelo corto",
+    "secondary": []
+  },
+  "breadcrumb": [
+    ["Inicio", "/es/"],
+    ["Blog", "/es/blog/"],
+    ["Trenzas para pelo corto", "/es/blog/trenzas-para-pelo-corto/"]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / EL LARGO",
+      "heading": "Qué sostiene una trenza.",
+      "lead": "Agarre, no solo pulgadas.",
+      "paragraphs": [
+        "Una trenza son tres mechones que se cruzan una y otra vez, y cada cruce asegura el anterior. Si una sección está tan corta que solo puede cruzarse una o dos veces antes de acabarse, la trenza no tiene de dónde agarrarse y se suelta.",
+        "La textura cambia las cuentas. El pelo muy chino y el chino se agarran solos y sostienen una trenza con menos largo. El pelo lacio, fino o muy suave se resbala más y casi siempre necesita más largo antes de que una trenza se quede en su lugar.",
+        "El largo tampoco es parejo en toda la cabeza. Arriba muchas veces hay más con qué trabajar que en la nuca, así que un peinado de trenzas puede salir fácil al frente y quedar justo de largo hacia atrás. Esa es una de las cosas que busco en tu foto."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / ESTILOS",
+      "heading": "Trenzas que le quedan al pelo corto.",
+      "lead": "Más pequeñas y pegadas al cuero cabelludo.",
+      "paragraphs": [
+        "Las trenzas más grandes y sueltas necesitan más largo que las filas apretadas, porque cada una cuelga libre en lugar de anclarse al cuero cabelludo. En pelo corto, el plan más seguro es más pequeñas y más planas."
+      ],
+      "subsections": [
+        {
+          "heading": "Trenzas pegadas hacia atrás",
+          "paragraphs": [
+            "Filas trenzadas planas contra el cuero cabelludo, que van del frente hacia atrás. Cada fila se trabaja cerca de la cabeza y va tomando pelo en el camino, lo que ayuda a que los largos más cortos se queden en su lugar."
+          ]
+        },
+        {
+          "heading": "Dos filas a la coronilla",
+          "paragraphs": [
+            "Dos trenzas con raya al centro que se juntan arriba, como el peinado de la foto de arriba. Un acomodo sencillo que aun así se ve diseñado."
+          ]
+        },
+        {
+          "heading": "Trenzas con lados cortos",
+          "paragraphs": [
+            "Deja el largo de arriba para las trenzas y los lados bájalos cortos. En pelo más corto, esto pone todo el largo donde las trenzas lo necesitan y deja todo lo demás limpio."
+          ]
+        }
+      ],
+      "link": {
+        "label": "VER MIS TRENZAS",
+        "href": "page:services-braids"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / TODAVÍA NO",
+      "heading": "Si hoy está muy corto.",
+      "lead": "Deja crecer arriba y mantén limpios los bordes.",
+      "paragraphs": [
+        "Si la foto muestra que tu pelo todavía no tiene el largo suficiente, el plan es paciencia arriba y mantenimiento en todo lo demás. Agenda un corte que no toque la parte de arriba y solo limpie los bordes, para que te veas bien arreglado mientras crece el largo.",
+        "En ese corte, dime que el objetivo son las trenzas. Así sé que no debo quitar nada de arriba, y podemos revisar juntos qué tan cerca vas.",
+        "La página de cortes muestra el Essential Haircut (corte esencial), de {{price:essential-haircut}} y {{minutes:essential-haircut}}, y los demás servicios de corte."
+      ],
+      "link": {
+        "label": "VER LOS CORTES",
+        "href": "page:services-haircuts"
+      }
+    },
+    {
+      "type": "list",
+      "eyebrow": "04 / LA CITA",
+      "heading": "Cómo funciona la cita de trenzas.",
+      "lead": "Primero un mensaje, luego agendas.",
+      "items": [
+        {
+          "title": "Manda una foto",
+          "body": "Mándame una foto de tu pelo como está ahora, más el estilo de trenzas que quieres. Ese solo mensaje responde las dos preguntas: si tiene el largo suficiente y qué va a requerir el estilo."
+        },
+        {
+          "title": "Braids",
+          "meta": "{{price:braids}} · {{minutes:braids}}",
+          "body": "Cada peinado de trenzas es personalizado, así que Booksy lo muestra con precio variable. Cuando ya acordamos el estilo por mensaje, agenda el horario y planea quedarte todo el tiempo.",
+          "book": true
+        },
+        {
+          "title": "Paga al terminar",
+          "body": "Pagas cuando las trenzas quedan terminadas, en efectivo, tarjeta, Zelle o Cash App. Si tus planes cambian, cancela en Booksy con tiempo, porque si no llegas a tu cita o cancelas de último momento se puede cobrar un cargo."
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "05 / PREGUNTAS",
+      "heading": "Trenzas y pelo corto: preguntas.",
+      "items": [
+        {
+          "q": "¿Qué tan largo debe estar el pelo para hacer trenzas?",
+          "a": "Lo suficiente para que cada sección se cruce varias veces y se sostenga. Unas dos pulgadas es una regla general común, pero la textura lo cambia. Mándame una foto y te doy una respuesta directa sobre tu pelo."
+        },
+        {
+          "q": "¿Los hombres con pelo corto pueden hacerse trenzas?",
+          "a": "Muchas veces, sí. Las trenzas pegadas, hechas cerca del cuero cabelludo, se sostienen con menos largo que las trenzas sueltas."
+        },
+        {
+          "q": "¿Cuánto dura una cita de trenzas?",
+          "a": "Booksy separa {{minutes:braids}} para las trenzas en Divinely Faded."
+        },
+        {
+          "q": "¿Por qué Booksy dice “Varía” en las trenzas?",
+          "a": "Porque el precio depende del estilo que elijas. Un peinado sencillo y uno elaborado no cuestan lo mismo, así que manda primero el estilo y lo arreglamos por mensaje."
+        },
+        {
+          "q": "¿Se puede trenzar el pelo lacio cuando está corto?",
+          "a": "Sí se puede, con el largo suficiente. El pelo lacio se resbala más que el pelo chino, así que casi siempre necesita estar un poco más largo antes de que las filas queden ordenadas. Manda una foto y te digo."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "TRENZAS PARA PELO CORTO",
+      "heading": "Manda la foto.<br>Luego agenda.",
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "services-braids",
+    "services-haircuts"
+  ],
+  "tim_questions": [
+    "What minimum length do you need for braids? The post says 'about two inches is a common rule of thumb' and asks for a photo; confirm or give your own number.",
+    "Which braid styles do you do on short hair? Post names cornrows straight back, two rows to the crown, and braids over short sides.",
+    "Are short sides under the braids part of the braids booking, or a separate haircut booking?"
+  ]
+}

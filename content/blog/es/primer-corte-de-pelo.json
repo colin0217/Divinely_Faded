@@ -1,0 +1,168 @@
+{
+  "id": "post-first-haircut",
+  "locale": "es",
+  "slug": "/es/blog/primer-corte-de-pelo/",
+  "alt": "/blog/first-haircut/",
+  "date": "2026-11-02",
+  "plan_rank": 12,
+  "title": "El primer corte de pelo de tu hijo: qué esperar en la barbería",
+  "eyebrow": "NIÑOS",
+  "hero": "cut-kids-low-fade",
+  "hero_alt": "Desvanecido bajo de un niño, con la parte de arriba corta y un delineado cuadrado",
+  "image_plan": null,
+  "card_text": "Sin edad fija, un poco de preparación en casa y papá o mamá cerca: así funciona el primer corte de un niño en mi silla.",
+  "lede": [
+    "No hay una edad fija para el primer corte de pelo de un niño. Agéndalo cuando el pelo le empiece a caer en los ojos, a enroscarse sobre las orejas o a enredarse cada mañana, o cuando quieras que se vea arreglado para una foto. En mi barbería en Carlsbad, un primer corte se agenda en Booksy como cualquier otra cita, y el Essential Haircut (corte esencial), de {{price:essential-haircut}} y {{minutes:essential-haircut}}, cubre el corte de un niño.",
+    "Aquí te digo cómo preparar a tu hijo, qué llevar y qué pasa una vez que está arriba en la silla."
+  ],
+  "seo": {
+    "title": "Primer corte de pelo de tu hijo: qué esperar | Carlsbad, NM",
+    "description": "El primer corte de pelo de un niño en Divinely Faded en Carlsbad, NM: cuándo agendarlo, cómo preparar a tu hijo, qué llevar y qué pasa en la silla.",
+    "primary": "primer corte de pelo bebe",
+    "secondary": []
+  },
+  "breadcrumb": [
+    ["Inicio", "/es/"],
+    ["Blog", "/es/blog/"],
+    ["Primer corte", "/es/blog/primer-corte-de-pelo/"]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / CUÁNDO",
+      "heading": "Cuándo es el momento.",
+      "lead": "Fíjate en el pelo, no en el calendario.",
+      "paragraphs": [
+        "El pelo sale a su propio ritmo en cada niño. Un niño chiquito tiene la cabeza llena de pelo desde temprano; otro casi no necesita un recorte por mucho tiempo. Las señales son prácticas: el fleco picándole los ojos, el pelo encima del cuello de la camisa, nudos que convierten el cepillado en pleito.",
+        "Algunas familias planean el primer corte para un cumpleaños o para las fotos de un día festivo. Eso también funciona. Nada más agéndalo unos días antes de la foto y no esa misma mañana, para que nadie ande con prisas.",
+        "Si tu hijo está muy chiquito, mándame un mensaje al {{phone}} antes de agendar. Podemos platicar de lo que esperas y de si ya tiene sentido un primer corte."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / PREPARACIÓN",
+      "heading": "Prepáralo en casa.",
+      "lead": "Un adelanto hace más fácil lo de verdad.",
+      "subsections": [
+        {
+          "heading": "Cuéntale lo que viene",
+          "paragraphs": [
+            "Descríbelo con sus palabras: una capa sobre los hombros, una máquina que zumba, un espejo al final para ver cómo quedó. Nada en la silla debería ser una sorpresa."
+          ]
+        },
+        {
+          "heading": "Escoge una buena hora",
+          "paragraphs": [
+            "Elige un horario en el que tu hijo suela estar descansado y comido. Una mañana después del desayuno suele ir más fácil que el final de un día largo. El sábado es de 8:00 AM a 2:00 PM si entre semana no se puede."
+          ]
+        },
+        {
+          "heading": "Lleva algo que pueda agarrar",
+          "paragraphs": [
+            "Un juguete favorito, o un programa en tu teléfono con el volumen bajo, mantiene ocupadas las manitas y la mirada al frente."
+          ]
+        },
+        {
+          "heading": "Decide cuánto se corta",
+          "paragraphs": [
+            "Un primer corte no tiene que ser drástico. Quitar el pelo de los ojos, las orejas y el cuello también cuenta. Si quieres algo con forma, como un desvanecido (fade) corto, guarda una foto para enseñármela."
+          ]
+        },
+        {
+          "heading": "Vístelo pensando en los pelitos",
+          "paragraphs": [
+            "Ponle a tu hijo una camisa fácil de cambiar, o lleva una de repuesto. Los pelitos cortados se meten debajo del cuello, y una camisa limpia a la salida deja la comezón fuera del carro."
+          ]
+        }
+      ],
+      "link": {
+        "label": "PREGUNTAS SOBRE CITAS Y HORARIO",
+        "href": "page:faq"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / EN LA SILLA",
+      "heading": "Lo que pasa.",
+      "lead": "La misma silla, un cliente más pequeño.",
+      "paragraphs": [
+        "Tu hijo se sienta en la misma silla que cualquier adulto. Trabajo solo, así que la persona que lo saluda es la persona que le corta el pelo de principio a fin, y el mismo barbero que verá la próxima vez.",
+        "Los niños chiquitos se mueven. Es normal, y un primer corte inquieto sigue siendo un buen primer corte. Las orejas y el contorno de la nuca son donde más importa que esté quieto, así que ese es el momento en que una palabra tranquila tuya ayuda.",
+        "Quédate donde tu hijo te pueda ver. Cuando termine, toma la foto. Un primer corte solo pasa una vez.",
+        "No hace falta decidir la siguiente visita ahí mismo. Mira cómo crece este primer corte y vuelve a agendar en Booksy cuando el pelo empiece a estorbar."
+      ],
+      "link": {
+        "label": "CORTES PARA NIÑOS",
+        "href": "page:services-kids"
+      }
+    },
+    {
+      "type": "list",
+      "eyebrow": "04 / QUÉ AGENDAR",
+      "heading": "Cómo agendar un primer corte.",
+      "lead": "Los niños agendan del menú normal.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "El corte con la forma de la cabeza de tu hijo, limpieza de la nuca con navaja y un peinado final. Es la cita que cubre el corte de un niño.",
+          "book": true
+        },
+        {
+          "title": "Cortes para niños",
+          "meta": "Niños bienvenidos",
+          "body": "Cortes reales a clientes pequeños en mi silla, como el desvanecido bajo con delineado (line-up) cuadrado al principio de este artículo, y cómo los agendan los papás.",
+          "href": "page:services-kids",
+          "link_label": "VER CORTES PARA NIÑOS"
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "05 / LOS PAPÁS PREGUNTAN",
+      "heading": "Preguntas del primer corte.",
+      "items": [
+        {
+          "q": "¿Cuándo debe tener un bebé su primer corte de pelo?",
+          "a": "No hay una edad correcta. Agéndalo cuando el pelo estorbe o le moleste a tu hijo, o cuando quieras que se vea más arreglado para las fotos. Si es muy chiquito, mándame un mensaje antes de agendar."
+        },
+        {
+          "q": "¿Cuánto dura un primer corte de pelo?",
+          "a": "Booksy separa {{minutes:essential-haircut}} para el Essential Haircut. Eso le da a un niño nervioso tiempo para acomodarse sin que nadie esté viendo el reloj."
+        },
+        {
+          "q": "¿Me puedo quedar con mi hijo?",
+          "a": "Sí. Entra con él y quédate cerca, donde te pueda ver todo el tiempo."
+        },
+        {
+          "q": "¿Y si mi hijo llora?",
+          "a": "Pasa, y no hay problema. Papá o mamá cerca, un juguete favorito y una pausa corta casi siempre calman las cosas."
+        },
+        {
+          "q": "¿Cuándo pago?",
+          "a": "Después del corte, el total, en efectivo, tarjeta, Zelle o Cash App."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "PRIMER CORTE",
+      "heading": "Cliente pequeño.<br>Gran momento.",
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "services-kids",
+    "faq"
+  ],
+  "tim_questions": [
+    "What is the youngest age you cut? The post tells parents of very young children to text first.",
+    "Can a small child sit on a parent's lap, or do you use a booster seat?",
+    "On a toddler's first cut, do you still use the straight razor at the neck, or skip it?",
+    "Can parents keep a lock of hair from the first cut? Left out of the copy.",
+    "Do you talk kids through the cut in any particular way you'd like described? (the post only says a parent's calm word helps)"
+  ]
+}

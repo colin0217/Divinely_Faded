@@ -1,0 +1,112 @@
+/* df-extras.css: the only additions to Colin's design (Divinely Faded full build, 2026-10-24).
+   Uses only his tokens: #080808 / #fff / his greys, Barlow Condensed + DM Sans, his spacing. No new colors. */
+
+/* Footer: Colin's rule says all footer text and agency logos are pure #FFFFFF.
+   footer#location raises specificity above his inline !important greys (#b8b8b8 / #d5d5d5 / #f5f5f5),
+   which load AFTER this file on the homepage. */
+footer#location.df-new-footer,footer#location.df-new-footer h2,footer#location.df-new-footer .df-footer-links a,footer#location.df-new-footer .df-footer-social a,
+footer#location.df-new-footer .df-footer-address,footer#location.df-new-footer .df-footer-address a,footer#location.df-new-footer .df-footer-hours,footer#location.df-new-footer .df-footer-copyright,
+footer#location.df-new-footer .df-footer-bottom-links a,footer#location.df-new-footer .df-footer-credits,footer#location.df-new-footer .df-footer-credits a{color:#fff!important}
+.df-new-footer .df-footer-address a{text-decoration:underline;text-underline-offset:3px}
+.df-new-footer .df-footer-hours{display:block;margin-top:6px}
+.df-footer-credits{display:flex;flex-direction:column;gap:6px;font:400 11px/1.5 'DM Sans',Arial,sans-serif;margin:0 0 21px}
+.df-footer-credits>span{display:inline-flex;align-items:center;gap:7px}
+.df-footer-credits a{display:inline-flex;align-items:center;gap:7px}
+.df-footer-credits img{height:18px;width:auto;filter:brightness(0) invert(1)}
+@media(max-width:700px){
+  .df-new-footer .df-footer-credits{grid-column:2!important;grid-row:5!important;align-self:end!important;align-items:flex-end;text-align:right;margin:0!important}
+}
+
+/* Language toggle: a text link beside Colin's booking pill, same type system. */
+.df-lang{font:600 12px/1 'DM Sans',Arial,sans-serif;letter-spacing:1.5px;color:#fff;padding:10px 12px;margin-right:6px;border-bottom:1px solid transparent}
+.df-lang:hover,.df-lang:focus-visible{border-bottom-color:#fff}
+@media(min-width:701px){header .df-lang{font-size:16px;margin-right:14px}}
+@media(max-width:370px){.df-lang{padding:8px 6px;margin-right:2px;font-size:11px}}
+
+/* Inner pages: the one h1 per page looks exactly like Colin's section h2 (his global h1 is the hero wordmark). */
+.df-page h1{font:700 clamp(52px,7vw,110px)/.98 'Barlow Condensed',sans-serif;margin:20px 0 30px;letter-spacing:-1px;text-align:left;transform:none}
+@media(max-width:700px){.df-page h1{letter-spacing:-1px}}
+.df-page .intro-copy p{color:#b8b8b6}
+.df-page .experience.df-no-photos .intro{padding-top:0}
+.df-crumbs{font-size:10px;letter-spacing:2px;color:#aaa;padding:0 6vw;margin:10px 0 0;text-transform:uppercase}
+.df-crumbs a{color:#aaa}.df-crumbs a:hover{color:#fff}
+/* Each crumb stays whole; long Spanish trails wrap between crumbs, never inside one (fit gate 2026-10-24, 280–320px). */
+.df-crumbs{line-height:2}.df-crumbs > a,.df-crumbs > span{white-space:nowrap}
+@media(max-width:700px){.df-crumbs{padding:0 20px}}
+
+/* Prose under a section heading: Colin's intro-copy rhythm. */
+.df-prose{max-width:760px}
+.df-prose p{color:#b8b8b6;margin:0 0 18px}
+@media(min-width:701px){.df-prose p,.df-prose li{font-size:17px;line-height:1.65}}
+.df-prose h3{margin:34px 0 10px;color:#f1f0ec}
+.df-prose ul{color:#b8b8b6;padding-left:18px}
+.df-prose a{color:#fff;text-decoration:underline;text-underline-offset:3px}
+.df-section .photo-pair{margin-top:40px}
+
+/* Nearby-towns table: black and white, Colin's hairlines. */
+.df-table{width:100%;max-width:760px;border-collapse:collapse;border-top:1px solid #666}
+.df-table th,.df-table td{text-align:left;padding:16px 0;border-bottom:1px solid #444;font-size:15px}
+.df-table th{font-size:10px;letter-spacing:2px;color:#aaa;font-weight:500}
+.df-table td:not(:first-child),.df-table th:not(:first-child){text-align:right}
+
+/* Closing call-to-action row: Colin's .review band with his pills. */
+.df-cta .df-cta-actions{display:flex;flex-wrap:wrap;gap:12px;justify-content:center;margin-top:26px}
+.df-cta h2{margin:12px 0 0}
+
+/* Style/blog cards: Colin's hairline list language, no new decoration. */
+.df-cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:34px 3vw;border-top:1px solid #666;padding-top:34px}
+.df-card{display:block;color:inherit}
+.df-card img{width:100%;height:auto;aspect-ratio:4/5;object-fit:cover;object-position:50% 30%;filter:grayscale(1);transition:opacity .2s}
+/* A one-photo pair spans Colin's two-column grid at his pair height instead of leaving the right column empty. */
+.df-page .photo-pair:has(> img:only-child){grid-template-columns:1fr!important}
+.df-page .photo-pair > img:only-child{width:100%!important;height:min(525px,41vw)!important;object-fit:cover;object-position:50% 30%}
+@media(max-width:700px){.df-page .photo-pair > img:only-child{height:min(420px,100vw)!important}}
+.df-card:hover img{opacity:.6}
+.df-card h3{margin:14px 0 4px}
+.df-card p{color:#aaa;margin:0;font-size:14px}
+
+/* Long words (Spanish) never overflow. */
+.df-page h1,.df-page h2,.df-page h3,summary span:first-child{overflow-wrap:anywhere;hyphens:auto}
+.df-feature-text{min-height:0;padding:90px 8vw}.df-feature-text:after{display:none}
+@media(max-width:700px){.df-feature-text{padding:60px 25px}}
+
+/* Blog: post hero, byline and card dates reuse Colin's eyebrow scale and greys. */
+.df-post-hero{padding:0 6vw;margin:0 0 10px}
+.df-post-hero > img{width:100%;height:auto;aspect-ratio:16/9;object-fit:cover}
+@media(max-width:700px){.df-post-hero{padding:0 20px}.df-post-hero > img{aspect-ratio:4/3}}
+.df-byline,.df-card-date{font-size:11px!important;letter-spacing:2px;text-transform:uppercase;color:#aaa!important}
+.df-card-date{display:block;margin:14px 0 -8px}
+
+/* In-site TikTok playback (df-video.js): the card becomes the player; one small way out to TikTok. Black and white only. */
+.df-tiktok-card.is-playing{position:relative;cursor:default}
+.df-tiktok-card.is-playing > img,.df-tiktok-card.is-playing > .df-tiktok-play{visibility:hidden}
+.df-tiktok-card .df-video-frame{position:absolute;inset:0;width:100%;height:100%;border:0;background:#080808;z-index:2}
+.df-tiktok-card .df-video-source{position:absolute;top:10px;right:10px;z-index:3;font:600 11px/1 'DM Sans',Arial,sans-serif;letter-spacing:1.5px;text-transform:uppercase;color:#fff;background:#080808;border:1px solid #fff;border-radius:999px;padding:8px 12px}
+.df-tiktok-card .df-video-source:hover,.df-tiktok-card .df-video-source:focus-visible{background:#fff;color:#080808}
+
+/* Reviews carousel (df-reviews.js) inside Colin's .review component: his eyebrow, stars, quote type; ratings as small links. */
+.df-reviews .df-ratings{display:flex;flex-wrap:wrap;justify-content:center;gap:6px 18px;margin:14px 0 4px;font:500 13px/1.4 'DM Sans',Arial,sans-serif}
+.df-reviews .df-ratings a{color:#fff;text-decoration:underline;text-underline-offset:3px}
+.df-reviews .df-ratings small{flex-basis:100%;text-align:center;color:#aaa;font-size:11px;letter-spacing:1px}
+/* All slides share one grid cell, so the box is always as tall as the longest quote: no layout shift when it advances. */
+.df-reviews .df-review-slides{display:grid;align-items:center}
+.df-reviews .df-review-slide{grid-area:1/1;margin:0;visibility:hidden;opacity:0;transition:opacity .45s cubic-bezier(.22,1,.36,1),visibility 0s .45s}
+.df-reviews .df-review-slide.is-active{visibility:visible;opacity:1;transition:opacity .45s cubic-bezier(.22,1,.36,1)}
+@media(prefers-reduced-motion:reduce){.df-reviews .df-review-slide,.df-reviews .df-review-slide.is-active{transition:none}}
+.df-reviews .df-review-slide figcaption{margin-top:14px;font-size:11px;letter-spacing:2px;color:#ddd}
+.df-reviews .df-review-nav{display:flex;align-items:center;justify-content:center;gap:14px;margin:10px 0 18px}
+.df-reviews .df-review-nav[hidden]{display:none}
+.df-reviews .df-review-nav button{width:40px;height:40px;border-radius:50%;border:1px solid #fff;background:transparent;color:#fff;font-size:20px;line-height:1;cursor:pointer}
+.df-reviews .df-review-nav button:hover,.df-reviews .df-review-nav button:focus-visible{background:#fff;color:#080808}
+.df-reviews .df-review-pos{font-size:12px;letter-spacing:2px;color:#ddd;min-width:4em;text-align:center}
+
+/* Map on /visit/: Google embed shown in grayscale to stay inside Colin's black-and-white system. */
+.df-map{position:relative;width:100%;aspect-ratio:16/9;max-height:520px;margin:28px 0 22px;border:1px solid #333;background:#111}
+.df-map iframe{position:absolute;inset:0;width:100%;height:100%;border:0;filter:grayscale(1) contrast(1.05)}
+@media(max-width:700px){.df-map{aspect-ratio:4/5}}
+/* Homepage accordion: a quiet link to the service page, beside Colin's Book pill. */
+.service-detail .df-learn{display:inline-block;margin:0 18px 0 0;vertical-align:middle}
+/* Accessibility (Lighthouse target-size): rating links and the pause control get 24px+ hit areas. */
+.df-reviews .df-ratings a{display:inline-block;padding:6px 4px;min-height:24px}
+.df-reviews .df-review-pause{height:40px;padding:0 14px;border-radius:999px;border:1px solid #fff;background:transparent;color:#fff;font:600 11px/1 'DM Sans',Arial,sans-serif;letter-spacing:1.5px;cursor:pointer}
+.df-reviews .df-review-pause:hover,.df-reviews .df-review-pause:focus-visible{background:#fff;color:#080808}

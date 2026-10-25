@@ -1,0 +1,113 @@
+{
+  "id": "styles",
+  "locale": "es",
+  "slug": "/es/estilos/",
+  "alt": "/styles/",
+  "nav_label": "Estilos",
+  "card_text": "Cada estilo que corto, con fotos reales y qué agendar.",
+  "breadcrumb": [
+    ["Inicio", "/es/"],
+    ["Estilos", "/es/estilos/"]
+  ],
+  "seo": {
+    "title": "Estilos de corte de cabello en Carlsbad, NM | Divinely Faded",
+    "description": "Estilos de corte de cabello para hombre en Carlsbad, NM: desvanecidos, tapers, mullets, crops y más. Fotos reales, qué pedir y qué agendar en Booksy.",
+    "primary": "estilos de corte de cabello para hombre",
+    "secondary": [
+      "tipos de cortes de cabello para hombres",
+      "cortes de pelo para hombres modernos",
+      "desvanecido"
+    ],
+    "og_photo": "cut-high-skin-fade-full-beard"
+  },
+  "schema": {
+    "type": "CollectionPage"
+  },
+  "photo_alt": {
+    "cut-high-skin-fade-full-beard": "Skin fade alto con la parte de arriba rapada corta, una línea con navaja arriba de la oreja y una barba completa y cuadrada"
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "ESTILOS",
+      "h1": "Estilos.",
+      "paragraphs": [
+        "Cada corte de este catálogo aparece con fotos reales de Divinely Faded en Carlsbad. Abre un estilo para ver qué es, a quién le queda, cómo mantenerlo nítido y qué servicio elegir en Booksy.",
+        "¿No sabes cómo se llama tu corte? Trae una foto. Cada Essential Haircut (corte esencial) se adapta a ti, así que una foto del estilo que quieres es la forma más rápida de empezar."
+      ],
+      "link": {
+        "label": "AGENDA UN CORTE",
+        "href": "booksy"
+      },
+      "photos": [
+        "cut-high-skin-fade-full-beard"
+      ]
+    },
+    {
+      "type": "cards",
+      "eyebrow": "02 / EL CATÁLOGO",
+      "heading": "Encuentra tu corte.",
+      "lead": "Diez estilos, una silla.",
+      "items": [
+        {
+          "id": "styles-skin-fade",
+          "text": "Lados y parte de atrás hasta la piel, con una transición hacia el largo que dejes arriba."
+        },
+        {
+          "id": "styles-low-taper-fade",
+          "text": "Solo se bajan las patillas y la nuca. Aquí también está el taper medio."
+        },
+        {
+          "id": "styles-burst-fade",
+          "text": "Un semicírculo de piel alrededor de la oreja, con volumen atrás."
+        },
+        {
+          "id": "styles-modern-mullet",
+          "text": "Lados con desvanecido (fade) bien corto y largo de verdad atrás, burst fade mullet incluido."
+        },
+        {
+          "id": "styles-textured-fringe",
+          "text": "Hacia adelante sobre la frente, con puntas desfiladas y lados con taper."
+        },
+        {
+          "id": "styles-buzz-cut",
+          "text": "Un solo largo corto en toda la cabeza. También el crew cut y el high and tight."
+        },
+        {
+          "id": "styles-slick-back",
+          "text": "Largo arriba peinado hacia atrás, lejos de la cara, sobre un taper o un desvanecido."
+        },
+        {
+          "id": "styles-curly-top-fade",
+          "text": "Pelo chino natural arriba y lados con desvanecido para que resalte la textura."
+        },
+        {
+          "id": "styles-hard-part",
+          "text": "Una raya marcada con navaja que mantiene su línea sin peine."
+        },
+        {
+          "id": "styles-textured-crop",
+          "text": "Arriba corto y desfilado, llevado hacia adelante en un fleco sobre lados bien cortos."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / ALTURA DEL DESVANECIDO",
+      "heading": "Bajo, medio, alto.",
+      "lead": "La decisión que comparten todos los desvanecidos.",
+      "paragraphs": [
+        "La mayoría de estos estilos empieza con un desvanecido, y la altura es el punto del lado de tu cabeza donde empieza. El bajo empieza cerca de la oreja, el medio a la altura de la sien y el alto cerca de la coronilla. Un drop fade baja por detrás de la oreja hacia la nuca. Dime la altura cuando te sientes y lo demás sale solo."
+      ],
+      "photos": []
+    }
+  ],
+  "related": [
+    "services-haircuts",
+    "services-beard-shaves",
+    "faq"
+  ],
+  "tim_questions": [
+    "Photo allocation: cut-high-skin-fade-full-beard was assigned to the textured crop page, but it shows a buzzed top with a high skin fade, not a crop, so it is used on the styles hub instead."
+  ]
+}

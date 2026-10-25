@@ -1,0 +1,8 @@
+# Only the built site is served. Source content, research, tooling and translation notes stay in the repo, never on the web.
+content
+tools
+seo
+i18n
+.github
+README.md
+SOURCE-CHECKSUMS.json

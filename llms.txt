@@ -1,0 +1,79 @@
+# Divinely Faded
+
+> Divinely Faded is a one-barber shop in Carlsbad, New Mexico, run by owner and barber Timothy "Tim" Murillo, cutting since 2023. Appointments only, booked on Booksy. Tagline: "Elevate Your Standard."
+
+Last updated: 2026-10-25. Canonical site: https://divinely-faded-two.vercel.app/ (English) and https://divinely-faded-two.vercel.app/es/ (Spanish).
+
+## Visit and book
+
+- Address: 303 S Halagueno St, Carlsbad, NM 88220
+- Phone: (575) 706-3095 (texting preferred)
+- Booking (appointments only): https://booksy.com/en-us/1113769_divinely-faded-timothy-murillo_barber-shop_28967_carlsbad
+- Directions: https://www.google.com/maps/search/?api=1&query=303+S+Halagueno+St+Carlsbad+NM+88220
+- Google Business Profile: https://www.google.com/maps?cid=15257330546621568190
+- Hours: Mon, Tue, Thu, Fri 09:00–12:00; Mon, Tue, Thu, Fri 12:30–17:00; Sat 08:00–14:00. Closed Wed and Sun.
+- Holidays: Open on holidays at regular hours; $20 holiday fee on the holiday itself.
+- Payment: Cash, Card, Zelle, Cash App
+
+## Services (price, appointment length)
+
+- Essential Haircut: $50, 40 min. Precision haircut tailored to your style and head shape, straight razor neck cleanup, finished style.
+- Signature Cut: $65, 45 min. Precision haircut, beard trim or line-up, hot towel finish and straight razor detailing. The most popular service.
+- Luxury Grooming Experience: $80, 50 min. Consultation, haircut, beard sculpt, wash and scalp massage, facial steam, dual hot towels, straight razor detailing, basic hair design, ear and nose waxing, styling and a luxury fragrance finish.
+- Straight Razor Beard Shave: $40, 40 min. Traditional wet shave with hot towels, premium shaving cream and a soothing aftershave.
+- Head & Beard Shave: $80, 1 hr. Precision head shave and beard shave with hot towels and a soothing aftershave balm.
+- Express Facial: $30, 30 min. Facial massage, warm steam, deep cleanse, gentle exfoliation and hydrating moisturizer.
+- Deluxe Facial: $40, 40 min. Facial massage, warm steam, gentle exfoliation, hydrating moisturizer, advanced skin treatments and an anti-aging serum.
+- Braids: Varies, 2 hr. Personalized braiding styles.
+- Color Transformation: $120, 4 hr. Professional coloring including bleaching and toning to reach the shade you want.
+- Perm: $95, 90 min. Customized perm for volume, texture and movement.
+- Add-ons: hair design $10, wash & scalp massage $10, luxury fragrance $5, eyebrows $5, nose / ear wax $10
+
+## Pages
+
+- [Services](https://divinely-faded-two.vercel.app/services/)
+- [Haircuts](https://divinely-faded-two.vercel.app/services/haircuts/)
+- [Kids' Haircuts](https://divinely-faded-two.vercel.app/services/kids-haircuts/)
+- [Beard & Shaves](https://divinely-faded-two.vercel.app/services/beard-and-shaves/)
+- [Men's Facials](https://divinely-faded-two.vercel.app/services/mens-facials/)
+- [Braids](https://divinely-faded-two.vercel.app/services/braids/)
+- [Hair Designs](https://divinely-faded-two.vercel.app/services/hair-designs/)
+- [Color & Perm](https://divinely-faded-two.vercel.app/services/color-and-perm/)
+- [Styles](https://divinely-faded-two.vercel.app/styles/)
+- [About](https://divinely-faded-two.vercel.app/about/)
+- [Visit](https://divinely-faded-two.vercel.app/visit/)
+- [FAQ](https://divinely-faded-two.vercel.app/faq/)
+- [Blog](https://divinely-faded-two.vercel.app/blog/)
+
+## Haircut style guides
+
+- [Burst Fade](https://divinely-faded-two.vercel.app/styles/burst-fade/)
+- [Buzz Cut](https://divinely-faded-two.vercel.app/styles/buzz-cut/)
+- [Curly Top Fade](https://divinely-faded-two.vercel.app/styles/curly-top-fade/)
+- [Hard Part](https://divinely-faded-two.vercel.app/styles/hard-part/)
+- [Low Taper Fade](https://divinely-faded-two.vercel.app/styles/low-taper-fade/)
+- [Modern Mullet](https://divinely-faded-two.vercel.app/styles/modern-mullet/)
+- [Skin Fade](https://divinely-faded-two.vercel.app/styles/skin-fade/)
+- [Slick Back](https://divinely-faded-two.vercel.app/styles/slick-back/)
+- [Textured Crop](https://divinely-faded-two.vercel.app/styles/textured-crop/)
+- [Textured Fringe](https://divinely-faded-two.vercel.app/styles/textured-fringe/)
+
+## En español
+
+- [Inicio](https://divinely-faded-two.vercel.app/es/)
+- [Servicios](https://divinely-faded-two.vercel.app/es/servicios/)
+- [Estilos](https://divinely-faded-two.vercel.app/es/estilos/)
+- [Sobre mí](https://divinely-faded-two.vercel.app/es/sobre-mi/)
+- [Visítanos](https://divinely-faded-two.vercel.app/es/visitanos/)
+- [Preguntas](https://divinely-faded-two.vercel.app/es/preguntas-frecuentes/)
+- [Blog](https://divinely-faded-two.vercel.app/es/blog/)
+
+## Nearby towns (driving distance from the shop)
+
+- La Huerta: 2 mi, about 4 min
+- Happy Valley: 4 mi, about 6 min
+- Otis: 6 mi, about 8 min
+- Loving: 13 mi, about 16 min
+- Malaga: 17 mi, about 21 min
+- Whites City: 20 mi, about 24 min
+- Artesia: 36 mi, about 44 min

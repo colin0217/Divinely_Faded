@@ -1,0 +1,177 @@
+{
+  "id": "post-barbershop-etiquette",
+  "locale": "es",
+  "slug": "/es/blog/etiqueta-en-la-barberia/",
+  "alt": "/blog/barbershop-etiquette/",
+  "date": "2026-11-02",
+  "plan_rank": 5,
+  "title": "Etiqueta en la barbería: llegada, teléfono, pago y cancelaciones",
+  "eyebrow": "CITAS",
+  "hero": "shop-chair",
+  "hero_alt": "Silla de barbero negra capitonada dentro de Divinely Faded, lista para la siguiente cita",
+  "image_plan": null,
+  "card_text": "Agenda antes, llega a tiempo, cuida el teléfono, paga al final, cancela con tiempo: así funciona una visita a mi silla.",
+  "lede": [
+    "La buena etiqueta en la barbería se reduce a cuatro cosas: agendar antes, llegar a tiempo, mantener el teléfono lejos de tus orejas mientras trabajo ahí y cancelar con tiempo si no puedes llegar. En mi barbería, cada visita es una cita por Booksy, y pagas después del corte.",
+    "Nada de esto es complicado. Así funciona cada parte en Divinely Faded."
+  ],
+  "seo": {
+    "title": "Etiqueta en la barbería: llegada, pago y cancelaciones",
+    "description": "Etiqueta en la barbería en Divinely Faded, en Carlsbad, NM: agendar antes, llegar a tiempo, el teléfono en la silla, pagar al final y cancelar con tiempo.",
+    "primary": "etiqueta en la barbería",
+    "secondary": []
+  },
+  "breadcrumb": [
+    [
+      "Inicio",
+      "/es/"
+    ],
+    [
+      "Blog",
+      "/es/blog/"
+    ],
+    [
+      "Etiqueta en la barbería",
+      "/es/blog/etiqueta-en-la-barberia/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / ANTES",
+      "heading": "Agenda y luego llega.",
+      "lead": "La visita empieza en Booksy.",
+      "subsections": [
+        {
+          "heading": "Agenda primero",
+          "paragraphs": [
+            "Atiendo solo con cita. Booksy muestra cada horario disponible y ahí eliges tu servicio. Si nada te queda, mándame un mensaje en vez de llegar a ver si se puede."
+          ]
+        },
+        {
+          "heading": "Llega a tiempo",
+          "paragraphs": [
+            "Trabajo solo, así que tu cita es una parte fija de mi día. Calcula el tráfico, para que el corte empiece cuando debe y nadie quede apretado."
+          ]
+        },
+        {
+          "heading": "Elige el servicio correcto",
+          "paragraphs": [
+            "El Essential Haircut (corte esencial) es solo el corte. Si tu barba necesita un corte o un delineado (line-up), el Signature Cut (corte distintivo) es la cita que tiene espacio para eso, así que elígelo desde el principio."
+          ]
+        },
+        {
+          "heading": "Si agendas para un niño",
+          "paragraphs": [
+            "Los niños se agendan en Booksy igual que tú, del mismo menú. Pon la cita con el servicio que necesitan, y ven con ellos."
+          ]
+        },
+        {
+          "heading": "Trae una foto",
+          "paragraphs": [
+            "Una captura de pantalla del corte que quieres, guardada antes de llegar, explica casi todo por ti. Tenla lista cuando te sientes."
+          ]
+        }
+      ],
+      "link": {
+        "label": "HORARIO Y CÓMO LLEGAR",
+        "href": "page:visit"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / EN LA SILLA",
+      "heading": "Teléfono y quietud.",
+      "lead": "Detalles que ayudan al corte.",
+      "paragraphs": [
+        "Un teléfono pegado a la oreja queda justo donde la máquina tiene que pasar alrededor de la oreja y el contorno de la nuca. Si una llamada no puede esperar, avísame primero, para que el trabajo pare en un momento seguro y no a mitad de una línea.",
+        "Mantén la cabeza donde te la pongo, sobre todo cuando sale la navaja. Los lentes se quitan para los lados y atrás, así que tenlos cerca para revisar el corte terminado. Si algo se siente mal, como una toalla demasiado caliente, dímelo de inmediato.",
+        "Los audífonos están bien para la música, pero quedan justo donde se limpian los bordes alrededor de la oreja, así que cuenta con quitártelos para esa parte."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / EL PAGO",
+      "heading": "Paga al final, como quieras.",
+      "lead": "Cuatro formas de pagar.",
+      "paragraphs": [
+        "Pagas el total al terminar el servicio, no antes. Acepto efectivo, tarjeta, Zelle y Cash App.",
+        "¿Agendas en un día festivo? Las citas del mismo día festivo llevan un cargo por día festivo de {{holiday_fee}} además del servicio, así que cuenta con verlo en la cuenta. Los días alrededor del festivo tienen precio normal.",
+        "¿Quieres un extra, como un lavado y masaje en el cuero cabelludo por {{addon:wash-scalp-massage}}? Elígelo en Booksy al agendar."
+      ],
+      "link": {
+        "label": "LEE LAS PREGUNTAS FRECUENTES",
+        "href": "page:faq"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / CANCELAR",
+      "heading": "Si cambian tus planes.",
+      "lead": "Avísale a Booksy con tiempo.",
+      "paragraphs": [
+        "En cuanto sepas que no puedes llegar, cancela o cambia la cita en la app. No llegar a tu cita, o cancelar de último momento, puede costarte un cargo.",
+        "Cancelar con tiempo también libera el horario para alguien más. Con un solo barbero, un horario que se queda vacío es un corte que no se hace. Cambiar la cita funciona igual: muévela en Booksy en vez de faltar. Sentirte enfermo cuenta como un cambio de planes, así que mueve la visita en vez de venir.",
+        "¿Vas tarde? Mándame un mensaje al {{phone}} para que sepa que vas en camino."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "05 / HABLA",
+      "heading": "Dilo temprano.",
+      "lead": "Antes de la máquina, no después.",
+      "paragraphs": [
+        "Dime desde el principio cuánto se quita de los lados, qué tan largo se queda arriba y si la barba entra. Si la barba necesita trabajo, agenda el Signature Cut en vez del Essential, para que el tiempo ya esté en el calendario.",
+        "Si algo se ve distinto a lo que imaginabas, dilo mientras el corte sigue. Un cambio es fácil a mitad del corte y mucho más difícil cuando los lados ya están cortos.",
+        "Un mensaje de texto es la forma más rápida de contactarme, antes o después de la visita. Guarda el {{phone}} en tu teléfono para que lo tengas cuando lo necesites."
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / RESPUESTAS RÁPIDAS",
+      "heading": "Preguntas de etiqueta.",
+      "items": [
+        {
+          "q": "¿Necesito agendar antes para un corte?",
+          "a": "Sí. Cada visita en Divinely Faded se agenda con anticipación en Booksy."
+        },
+        {
+          "q": "¿Y si voy tarde?",
+          "a": "Mándame un mensaje en cuanto lo sepas, para que no me quede adivinando si vas a llegar."
+        },
+        {
+          "q": "¿Puedo mandar mensaje en vez de llamar?",
+          "a": "Sí. Prefiero un mensaje de texto a una llamada, y el mensaje es la forma más rápida de contactarme."
+        },
+        {
+          "q": "¿Cuándo pago?",
+          "a": "Después del servicio. Puedes pagar en efectivo, con tarjeta, por Zelle o por Cash App."
+        },
+        {
+          "q": "¿Hay cargo por cancelar?",
+          "a": "Si no llegas a tu cita o cancelas de último momento, se puede cobrar un cargo a través de Booksy. Cancela con buen tiempo y eso queda descartado."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "NOS VEMOS EN LA SILLA",
+      "heading": "Agenda antes.<br>Llega impecable.",
+      "button": {
+        "label": "AGENDA AHORA",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "faq",
+    "visit"
+  ],
+  "tim_questions": [
+    "Tipping: do you want a line on it (e.g. 'appreciated, not expected', or a percentage), and can clients tip by card on Booksy? Left out.",
+    "Is there a grace period for late arrivals before an appointment is shortened or cancelled?",
+    "Any preference on phone calls in the chair? (the post only gives the practical reason)",
+    "Should clients arrive with clean, dry hair?",
+    "Can a friend or family member wait in the shop?"
+  ]
+}
