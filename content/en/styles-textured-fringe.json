@@ -4,6 +4,7 @@
   "slug": "/styles/textured-fringe/",
   "alt": "/es/estilos/fleco-texturizado/",
   "nav_label": "Textured Fringe",
+  "card_text": "Hair worn forward with the ends broken up.",
   "breadcrumb": [["Home", "/"], ["Styles", "/styles/"], ["Textured Fringe", "/styles/textured-fringe/"]],
   "seo": {
     "title": "Textured Fringe in Carlsbad, NM | Divinely Faded",
@@ -57,7 +58,7 @@
       "heading": "The fringe is the clock.",
       "lead": "When it hits your eyes, rebook.",
       "paragraphs": [
-        "Most people get three to five weeks out of a textured fringe before the front starts covering their eyes. The taper on the sides usually wants attention a little earlier than that. Day to day, it is a low-effort style: no part to set and no comb required."
+        "A textured fringe tells you when it's due: once the front starts covering your eyes, the shape is gone. The taper on the sides usually wants attention a little earlier than that. Day to day, it is a low-effort style: no part to set and no comb required."
       ],
       "photos": []
     },
@@ -67,14 +68,15 @@
       "heading": "Fringe questions.",
       "items": [
         { "q": "What does textured fringe mean?", "a": "Fringe is the hair that falls over the forehead; textured means the ends are cut uneven on purpose so they separate. Together: a forward-worn front that looks loose instead of blunt." },
-        { "q": "How do you get a messy textured fringe?", "a": "The cut does most of it, since the ends need to be broken up. After that, work a small amount of matte product through dry hair with your fingers and push it forward. Skip the comb." },
-        { "q": "Is a textured fringe the same as an edgar haircut?", "a": "People search edgar haircut for a related look. An edgar usually has a blunt, straight line across the forehead and a sharp fade. A textured fringe is softer and choppier at the ends. Whichever you want, bring a photo so we picture the same cut." },
+        { "q": "How do you get a messy textured fringe?", "a": "The cut does most of it, since the ends need to be broken up. After that, push it forward by hand and skip the comb. Ask me at the end of your cut how to keep it looking that way." },
+        { "q": "Is a textured fringe the same as an edgar haircut?", "a": "They are related looks. An edgar usually has a blunt, straight line across the forehead and a sharp fade. A textured fringe is softer and choppier at the ends. Whichever you want, bring a photo so we picture the same cut." },
         { "q": "Who should not get a fringe?", "a": "Anyone who hates hair touching their eyebrows, or someone with a strong cowlick right at the front hairline that pushes the hair up instead of forward." }
       ]
     }
   ],
   "related": ["styles-textured-crop", "styles-low-taper-fade", "styles-modern-mullet", "services-haircuts"],
   "tim_questions": [
-    "Do you cut the blunt-line edgar as well? The textured fringe page only mentions that people search 'edgar haircut' for a related look and never calls your cut an edgar. If you do cut it, the page can say so."
+    "Do you cut the blunt-line edgar as well? The textured fringe page only calls the edgar a related look and never calls your cut an edgar. If you do cut it, the page can say so.",
+    "How long do you tell people a textured fringe lasts between cuts, and any styling advice (no brand names)? Intervals and product tips were removed because they weren't yours."
   ]
 }

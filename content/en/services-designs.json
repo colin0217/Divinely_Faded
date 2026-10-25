@@ -4,10 +4,11 @@
   "slug": "/services/hair-designs/",
   "alt": "/es/servicios/disenos-de-cabello/",
   "nav_label": "Hair Designs",
+  "card_text": "Freestyle lines and curves cut into the fade.",
   "breadcrumb": [["Home", "/"], ["Services", "/services/"], ["Hair Designs", "/services/hair-designs/"]],
   "seo": {
     "title": "Hair Designs for Men in Carlsbad, NM | Divinely Faded",
-    "description": "Hair designs for men and kids in Carlsbad, NM: freestyle lines cut into the fade at Divinely Faded. Add a design to your haircut on Booksy.",
+    "description": "Hair designs for men and kids in Carlsbad, NM: freestyle lines and curves cut into the fade at Divinely Faded. Listed as an add-on on Booksy.",
     "primary": "hair designs for men carlsbad nm",
     "secondary": ["hair designs for men", "fade with design", "hair design", "haircut design", "hair design for men"],
     "og_photo": "design-skin-fade-freestyle"
@@ -20,7 +21,7 @@
       "h1": "Hair designs.",
       "paragraphs": [
         "Lines with intent.",
-        "A hair design is shape cut into the short part of a fade: a curve that sweeps back from the temple, a few lines that wrap behind the ear. It's a {{addon:hair-design}} add-on, so it rides on top of your haircut booking."
+        "A hair design is shape cut into the short part of a fade: a curve that sweeps back from the temple, a few lines that wrap behind the ear. On my menu it's listed as an add-on at {{addon:hair-design}}."
       ],
       "link": { "label": "BOOK A CUT WITH A DESIGN", "href": "booksy" },
       "photos": ["design-skin-fade-freestyle", "design-side"],
@@ -36,6 +37,7 @@
       "lead": "Placed where the fade is shortest.",
       "paragraphs": [
         "The designs on this page are freestyle lines and curves. Look at where they sit: right where the fade goes short, above and behind the ear, so the shape shows up clean against the skin.",
+        "The first one sweeps above the ear on a skin fade under a short top. The second curves behind the ear on a low fade, with texture left on top.",
         "None of the four on this page are the same. You can bring a picture of a design you like, or tell me roughly where you want it and how bold, and we'll go from there."
       ],
       "photos": [],
@@ -47,7 +49,7 @@
       "heading": "Kids too.",
       "lead": "Two of these are on kids.",
       "paragraphs": [
-        "A design is a simple way for a kid to make a plain fade their own. The two below sit on short fades with a little length left on top."
+        "A design is a simple way for a kid to make a plain fade their own. The two below sit on short fades with a little length left on top. One is a freestyle curve running from the temple to behind the ear. The other is a set of lines cut above the ear."
       ],
       "photos": ["design-kids-fade-freestyle", "design-kids-fade-lines"],
       "alt": {
@@ -58,11 +60,12 @@
     {
       "type": "section",
       "eyebrow": "04 / HOW TO BOOK",
-      "heading": "Add it on.",
-      "lead": "Two ways to get one.",
+      "heading": "Getting one.",
+      "lead": "Two routes.",
       "paragraphs": [
-        "Book your haircut on Booksy and add the hair design to it.",
-        "Going all in? The Luxury Grooming Experience already includes a basic hair design, along with the beard sculpt, steam, hot towels and the rest."
+        "Hair design sits on my add-on list on Booksy. If you're not sure how to pair it with the cut you want, text me and ask before booking. Texting is the quickest way to reach me.",
+        "Going all in? The Luxury Grooming Experience already includes a basic hair design, along with the beard sculpt, steam, hot towels and the rest.",
+        "Because a design sits in the shortest part of the fade, it softens as that hair grows back in. Every visit is by appointment, and you pay once it's done. Cash and card both work, and so do Zelle and Cash App."
       ],
       "photos": []
     },
@@ -75,6 +78,7 @@
   ],
   "related": ["services-haircuts", "services-kids", "faq"],
   "tim_questions": [
-    "[TIM?] Can the hair design add-on be added to the Essential Haircut and Signature Cut on Booksy (and to kids' cuts)?"
+    "[TIM?] Can the hair design add-on be booked with the Essential Haircut, the Signature Cut and kids' cuts on Booksy? The page only says it is listed as an add-on and asks people to text if unsure.",
+    "Does a bigger or more detailed design cost more than the listed add-on price? (Not on the page.)"
   ]
 }

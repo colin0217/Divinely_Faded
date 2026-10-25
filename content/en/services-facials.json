@@ -4,6 +4,7 @@
   "slug": "/services/mens-facials/",
   "alt": "/es/servicios/faciales-para-hombres/",
   "nav_label": "Men's Facials",
+  "card_text": "Express or Deluxe, done in the barber chair.",
   "breadcrumb": [["Home", "/"], ["Services", "/services/"], ["Men's Facials", "/services/mens-facials/"]],
   "seo": {
     "title": "Men's Facials in Carlsbad, NM | Divinely Faded",
@@ -46,7 +47,8 @@
       "lead": "Nothing to do but sit back.",
       "paragraphs": [
         "You lean back for this one. Both facials include a massage across the face and temples, like the one in the photo above, warm steam aimed at the face, gentle exfoliation and a hydrating moisturizer.",
-        "The Express adds a deep cleanse. The Deluxe adds advanced skin treatments and an anti-aging serum."
+        "The Express adds a deep cleanse. The Deluxe adds advanced skin treatments and an anti-aging serum.",
+        "The two photos at the top show both halves of it: warm steam aimed at a reclined client's face, and a massage worked in at the temples."
       ],
       "photos": []
     },
@@ -57,7 +59,8 @@
       "lead": "Go Express.",
       "paragraphs": [
         "The Express Facial takes {{minutes:express-facial}}. The Deluxe takes {{minutes:deluxe-facial}} and costs {{price:deluxe-facial}}, and that's where the advanced treatments and the serum come in.",
-        "If you mostly want the steam and the hot towels with your haircut, look at the Luxury Grooming Experience on the haircuts page. Facial steam and dual hot towels are already built into it."
+        "If you mostly want the steam and the hot towels with your haircut, look at the Luxury Grooming Experience on the haircuts page. Facial steam and dual hot towels are already built into it.",
+        "Either facial books on Booksy like any other appointment. Payment comes after the facial, and skipping the appointment without notice may carry a cancellation fee."
       ],
       "photos": []
     },

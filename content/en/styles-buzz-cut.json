@@ -4,6 +4,7 @@
   "slug": "/styles/buzz-cut/",
   "alt": "/es/estilos/buzz-cut/",
   "nav_label": "Buzz Cut",
+  "card_text": "Buzz, crew and high and tight, with a sharp outline.",
   "breadcrumb": [["Home", "/"], ["Styles", "/styles/"], ["Buzz Cut", "/styles/buzz-cut/"]],
   "seo": {
     "title": "Buzz Cut in Carlsbad, NM | Divinely Faded",
@@ -57,7 +58,7 @@
       "heading": "Short hair shows everything.",
       "lead": "The edges go first.",
       "paragraphs": [
-        "On a buzz cut the top length barely changes your look week to week, but the fade and the line-up do. They blur within one to two weeks. A cut roughly twice a month keeps the outline sharp."
+        "On a buzz cut the top length barely changes your look as it grows, but the fade and the line-up do. They are the first things to blur, so they decide when the cut still looks finished. If you want a schedule for yours, ask me while you're in the chair."
       ],
       "photos": []
     },
@@ -74,5 +75,7 @@
     }
   ],
   "related": ["styles-skin-fade", "styles-hard-part", "styles-textured-crop", "services-beard-shaves"],
-  "tim_questions": []
+  "tim_questions": [
+    "How often do you suggest rebooking a buzz cut to keep the fade and line-up sharp? The upkeep section gives no interval until you say."
+  ]
 }

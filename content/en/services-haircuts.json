@@ -4,6 +4,7 @@
   "slug": "/services/haircuts/",
   "alt": "/es/servicios/cortes-de-cabello/",
   "nav_label": "Haircuts",
+  "card_text": "Essential, Signature or Luxury: three ways to book a cut.",
   "breadcrumb": [["Home", "/"], ["Services", "/services/"], ["Haircuts", "/services/haircuts/"]],
   "seo": {
     "title": "Men's Haircuts in Carlsbad, NM | Divinely Faded",
@@ -58,7 +59,7 @@
       "lead": "A screenshot beats a description.",
       "paragraphs": [
         "Low taper, burst fade, skin fade, textured crop, slick back. If you know the name, the style pages show what each one looks like. If you don't, bring a picture and we'll work out the length together before the clippers come out.",
-        "Want lines cut in? Add a hair design for {{addon:hair-design}}."
+        "Want lines cut in? The hair designs page shows that work, listed on my menu as a {{addon:hair-design}} add-on."
       ],
       "link": { "label": "BROWSE THE STYLES", "href": "page:styles" },
       "photos": []

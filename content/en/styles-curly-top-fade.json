@@ -4,6 +4,7 @@
   "slug": "/styles/curly-top-fade/",
   "alt": "/es/estilos/fade-con-rizos/",
   "nav_label": "Curly Top Fade",
+  "card_text": "Natural curls on top, sides faded to skin.",
   "breadcrumb": [["Home", "/"], ["Styles", "/styles/"], ["Curly Top Fade", "/styles/curly-top-fade/"]],
   "seo": {
     "title": "Curly Top Fade in Carlsbad, NM | Divinely Faded",
@@ -55,7 +56,7 @@
       "heading": "What to book.",
       "lead": "Cut, or cut plus texture.",
       "items": [
-        { "title": "Essential Haircut", "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}", "body": "Curls shaped up top, sides faded, and the neckline finished with a straight razor. Kids book this the same way.", "href": "page:services-haircuts", "book": true },
+        { "title": "Essential Haircut", "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}", "body": "Curls shaped up top, sides faded, and the neckline finished with a straight razor. Kids can get this cut too.", "href": "page:services-haircuts", "book": true },
         { "title": "Perm", "meta": "{{price:perm}} · {{minutes:perm}}", "body": "For straight or flat hair that needs texture before a curly-top look can happen.", "href": "page:services-color", "book": true }
       ]
     },
@@ -63,9 +64,9 @@
       "type": "section",
       "eyebrow": "05 / UPKEEP",
       "heading": "Curls hide growth. Fades don't.",
-      "lead": "Sides every few weeks.",
+      "lead": "The sides show it first.",
       "paragraphs": [
-        "On top, a few weeks of growth just adds volume. The faded sides tell the real story and usually want a cleanup within three weeks. Between visits, curls stay more defined when you pat them dry instead of rubbing with a towel."
+        "On top, a little growth just adds volume. The faded sides tell the real story, since that is where regrowth shows against the skin. Ask me what timing I'd suggest for the sides, and I'll give you my take for your hair."
       ],
       "photos": []
     },
@@ -75,12 +76,15 @@
       "heading": "Curly hair questions.",
       "items": [
         { "q": "What fade should I get if I have curly hair?", "a": "Any height works. Go low for a softer, rounder look, mid or high for more contrast, or a burst if you want to keep length at the back." },
-        { "q": "How do I deal with frizzy curls?", "a": "Frizz mostly comes from dryness and friction. Rinse with cool water, pat dry, use a leave-in conditioner or curl cream, and try not to touch it once it sets." },
-        { "q": "Can kids get a curly top fade?", "a": "Yes. Kids are welcome, and they book the Essential Haircut on Booksy like anyone else. The kids' haircuts page has more for parents." },
+        { "q": "Curly top fade or burst fade: what's the difference?", "a": "The one pictured is a skin fade that wraps around the ear and across the back. A burst curves behind the ear and saves more length at the nape." },
+        { "q": "Can kids get a curly top fade?", "a": "Yes. Kids are welcome. Parents pick the haircut on Booksy that fits what their child wants, and the kids' haircuts page has more on booking." },
         { "q": "What is a low curly top fade?", "a": "The same curly top with a fade that starts just above the ear, so more hair stays on the sides. It is a gentler version for school or work." }
       ]
     }
   ],
   "related": ["styles-burst-fade", "styles-modern-mullet", "services-kids", "styles-skin-fade"],
-  "tim_questions": []
+  "tim_questions": [
+    "How often do you suggest coming back to keep the faded sides on a curly top clean? The upkeep section gives no interval until you say.",
+    "Any curl-care advice you want on this page? Product tips were removed because they weren't yours."
+  ]
 }

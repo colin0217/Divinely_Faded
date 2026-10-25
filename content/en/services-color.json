@@ -4,6 +4,7 @@
   "slug": "/services/color-and-perm/",
   "alt": "/es/servicios/color-y-permanente/",
   "nav_label": "Color & Perm",
+  "card_text": "Bleach and tone, or a perm for texture and movement.",
   "breadcrumb": [["Home", "/"], ["Services", "/services/"], ["Color & Perm", "/services/color-and-perm/"]],
   "seo": {
     "title": "Men's Hair Color & Perms in Carlsbad, NM | Divinely Faded",
@@ -60,8 +61,19 @@
       "heading": "Texture on purpose.",
       "lead": "Volume, texture, movement.",
       "paragraphs": [
-        "A Perm is customized to you. Whether you want more volume on top, more texture through a crop, or movement in hair that lies flat, the perm is set for that result.",
+        "A Perm is customized to you. More volume on top, more texture through a crop, movement in hair that lies flat: tell me which one you're after and the perm is set for that result.",
         "It runs {{minutes:perm}}. Bring a photo of the wave or curl you have in mind so we're aiming at the same thing."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "05 / CHOOSING",
+      "heading": "Shade or shape.",
+      "lead": "Start from the goal.",
+      "paragraphs": [
+        "Book the Color Transformation when the goal is a new shade, and the Perm when the goal is shape and movement. Not sure which one gets you there? Send me a picture of what you have in mind by text.",
+        "The bill is settled after the service, like any visit. Both of these hold a long stretch of my day, so if plans change, cancel early on Booksy, since a missed or last-minute cancellation may cost a fee."
       ],
       "photos": []
     },

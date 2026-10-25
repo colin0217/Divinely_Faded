@@ -4,6 +4,7 @@
   "slug": "/styles/textured-crop/",
   "alt": "/es/estilos/crop-texturizado/",
   "nav_label": "Textured Crop",
+  "card_text": "A short, choppy top worn forward over tight sides.",
   "breadcrumb": [["Home", "/"], ["Styles", "/styles/"], ["Textured Crop", "/styles/textured-crop/"]],
   "seo": {
     "title": "Textured Crop in Carlsbad, NM | Divinely Faded",
@@ -45,7 +46,7 @@
       "heading": "Thick hair loves it.",
       "lead": "Finer hair can work too.",
       "paragraphs": [
-        "Thick, straight or wavy hair that naturally wants to sit forward is the easiest fit. Because the crop brings hair over the front, it can also soften a higher hairline or a larger forehead, which is why it turns up so often in searches about thin hair and receding hairlines."
+        "Thick, straight or wavy hair that naturally wants to sit forward is the easiest fit. Because the crop brings hair over the front, it can also soften a higher hairline or a larger forehead."
       ],
       "photos": []
     },
@@ -55,17 +56,17 @@
       "heading": "The right appointment.",
       "lead": "Usually the first one.",
       "items": [
-        { "title": "Essential Haircut", "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}", "body": "A crop is a precision cut, finished with the straight razor on the neckline and styled before you leave.", "href": "page:services-haircuts", "book": true },
+        { "title": "Essential Haircut", "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}", "body": "A crop is a precision cut. I clean up the neckline with the straight razor, then style it to show you how it sits forward.", "href": "page:services-haircuts", "book": true },
         { "title": "Signature Cut", "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}", "body": "Same crop, plus beard work and the hot towel.", "href": "page:services-haircuts", "book": true }
       ]
     },
     {
       "type": "section",
       "eyebrow": "05 / UPKEEP",
-      "heading": "Low effort, short cycle.",
-      "lead": "Fingers and a little product.",
+      "heading": "Low effort day to day.",
+      "lead": "The fringe tells you when.",
       "paragraphs": [
-        "Styling is quick: a pea-sized amount of matte paste or clay, rubbed through dry hair and pushed forward. The fade needs a refresh every two to four weeks, and once the fringe starts landing on your eyebrows, the shape is gone."
+        "There isn't much to it between visits: push the top forward with your fingers and let the pieces fall where they want. The fade shows regrowth first, and once the fringe starts landing on your eyebrows, the shape is gone. That's when I'd like to see you back."
       ],
       "photos": []
     },
@@ -82,5 +83,8 @@
     }
   ],
   "related": ["styles-textured-fringe", "styles-low-taper-fade", "styles-buzz-cut", "services-haircuts"],
-  "tim_questions": []
+  "tim_questions": [
+    "How often do you suggest rebooking a textured crop? The upkeep section gives no interval until you say.",
+    "Any styling product advice you want on this page (no brand names)? Product tips were removed because they weren't yours."
+  ]
 }

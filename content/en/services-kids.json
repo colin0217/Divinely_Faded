@@ -4,6 +4,7 @@
   "slug": "/services/kids-haircuts/",
   "alt": "/es/servicios/cortes-para-ninos/",
   "nav_label": "Kids' Haircuts",
+  "card_text": "Fades and tapers for young clients, booked by parents.",
   "breadcrumb": [["Home", "/"], ["Services", "/services/"], ["Kids' Haircuts", "/services/kids-haircuts/"]],
   "seo": {
     "title": "Kids' Haircuts in Carlsbad, NM | Divinely Faded",
@@ -48,7 +49,7 @@
       "lead": "Real cuts from my chair.",
       "paragraphs": [
         "A taper with a long, textured top keeps length up front and on the crown while the back and sides stay tight. A low fade with a line-up keeps everything short and squared off. A curly top over a skin fade lets natural curl sit on top of a clean side.",
-        "Kids who want lines cut in can add a hair design for {{addon:hair-design}}."
+        "Kids who want lines cut in should see the hair designs page, which has two kids' designs. The design add-on is {{addon:hair-design}}."
       ],
       "photos": ["cut-kids-taper-textured-top"],
       "alt": {
@@ -60,7 +61,7 @@
       "eyebrow": "04 / PARENTS ASK",
       "heading": "Good to know.",
       "items": [
-        { "q": "Is there a kids' price?", "a": "Booksy shows one price per service, with no separate rate for kids." },
+        { "q": "Which service do I book for my kid?", "a": "Booksy lists my haircut services with their prices. Book the one that fits what your child wants, and text me if you have a question first." },
         { "q": "When can I bring my kid in?", "a": "Any open slot on Booksy. Saturdays run 8:00 AM to 2:00 PM, which helps around the school week. I'm closed Wednesday and Sunday." }
       ]
     },
@@ -75,7 +76,8 @@
   ],
   "related": ["services-haircuts", "services-designs", "faq"],
   "tim_questions": [
-    "[TIM?] Which Booksy service should parents book for a child's cut (Essential Haircut, or whatever fits)? Is there any kids' rate?",
+    "[TIM?] Which Booksy service should parents book for a child's cut, and is there any kids' rate? The page says only that Booksy lists the haircut services and parents book the one that fits.",
+    "Can the hair design add-on be added to a kid's cut on Booksy? The page only says it is listed as an add-on.",
     "Youngest age you cut? Do you do first haircuts? (Not on the page.)",
     "Can a parent stay with the child during the cut? (Not on the page.)"
   ]

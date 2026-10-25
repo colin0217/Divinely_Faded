@@ -4,6 +4,7 @@
   "slug": "/about/",
   "alt": "/es/sobre-mi/",
   "nav_label": "About",
+  "card_text": "The barber behind the chair: cutting since 2023, solo, one standard.",
   "breadcrumb": [["Home", "/"], ["About", "/about/"]],
   "seo": {
     "title": "About Tim Murillo, Barber in Carlsbad, NM | Divinely Faded",
@@ -35,23 +36,13 @@
       "lead": "Elevate Your Standard.",
       "paragraphs": [
         "That's my tagline, and it's how I think about a cut. Precision first. Then the details that make it feel finished: the straight razor work, the hot towel, the clean edge where the fade meets the skin.",
-        "Working alone means one person answers for the whole visit. If something isn't right, you know exactly who to tell."
+        "Working alone means one person answers for the whole visit. If something isn't right, you know exactly who to tell. My faith is part of that too: whatever I do, I try to do it with all my heart."
       ],
       "photos": []
     },
     {
       "type": "section",
-      "eyebrow": "03 / FAITH",
-      "heading": "Whole heart.",
-      "lead": "Colossians 3:23.",
-      "paragraphs": [
-        "My faith is part of how I work: whatever I do, I try to do it with all my heart."
-      ],
-      "photos": []
-    },
-    {
-      "type": "section",
-      "eyebrow": "04 / IN MY CHAIR",
+      "eyebrow": "03 / IN MY CHAIR",
       "heading": "What I do.",
       "lead": "Cuts, beards and more.",
       "paragraphs": [
@@ -69,7 +60,7 @@
   ],
   "related": ["services", "visit", "faq"],
   "tim_questions": [
-    "Faith line: OK to cite Colossians 3:23 on the About page? (Source: your own posts, per the approved GBP voice file.)",
+    "Faith: the page has one light line in section 02 ('whatever I do, I try to do it with all my heart'). Do you want a verse cited with it, such as Colossians 3:23? Not on the page until you say.",
     "Opening month in 2023 (the page says only 'since 2023')."
   ]
 }

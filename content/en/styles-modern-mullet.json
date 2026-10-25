@@ -4,6 +4,7 @@
   "slug": "/styles/modern-mullet/",
   "alt": "/es/estilos/mullet-moderno/",
   "nav_label": "Modern Mullet",
+  "card_text": "Faded sides, length in back, platinum optional.",
   "breadcrumb": [["Home", "/"], ["Styles", "/styles/"], ["Modern Mullet", "/styles/modern-mullet/"]],
   "seo": {
     "title": "Modern Mullet in Carlsbad, NM | Divinely Faded",
@@ -23,8 +24,8 @@
       "eyebrow": "STYLES / MODERN MULLET",
       "h1": "Modern mullet.",
       "paragraphs": [
-        "Around 450,000 searches a month across the US go to one phrase: modern mullet. This is not the 1980s version.",
-        "Today's mullet keeps the front and top textured, takes the sides down tight with a fade, and leaves real length in back. That contrast between short sides and a long tail is what makes it look current instead of like a costume."
+        "Short sides, real length in back. This is not the 1980s version.",
+        "A modern mullet keeps the front and top textured, takes the sides down tight with a fade, and leaves the back long. That contrast between short sides and a long tail is what makes it read as a haircut instead of a costume."
       ],
       "link": { "label": "BOOK THIS CUT", "href": "booksy" },
       "photos": ["color-platinum-mullet-fade", "cut-curly-top-taper-neckline"]
@@ -43,8 +44,8 @@
     {
       "type": "section",
       "eyebrow": "03 / BURST FADE MULLET",
-      "heading": "The version people search for now.",
-      "lead": "About 60,500 US searches a month.",
+      "heading": "Curve plus length.",
+      "lead": "The curly cut in the second photo.",
       "paragraphs": [
         "A burst fade mullet combines a curved fade around the ear with the mullet's length in back. The burst keeps weight at the nape, so the tail looks like it belongs to the cut instead of being left over."
       ],
@@ -75,9 +76,9 @@
       "type": "section",
       "eyebrow": "06 / UPKEEP",
       "heading": "Sides short, back long.",
-      "lead": "Two different schedules.",
+      "lead": "Two parts, two paces.",
       "paragraphs": [
-        "Those faded sides need a refresh every few weeks to keep the contrast. The back only needs shaping now and then while it grows. Leave the tail alone too long and it starts to look shaggy instead of deliberate."
+        "The faded sides show regrowth long before the back does, because short hair changes the most as it grows. The back only needs shaping now and then while it gets longer. Leave the tail alone too long and it starts to look shaggy instead of deliberate. Ask me in the chair when to come back for yours."
       ],
       "photos": []
     },
@@ -87,7 +88,7 @@
       "heading": "Mullet questions.",
       "items": [
         { "q": "What are modern mullets?", "a": "Short, faded sides with a textured top and noticeable length at the back. The fade is what separates them from the older, blunter mullet." },
-        { "q": "Are mullets still in style in 2026?", "a": "Search interest says yes. Modern mullet still draws about 450,000 US searches a month, and the burst fade mullet adds around 60,500 more." },
+        { "q": "Is every modern mullet a burst fade mullet?", "a": "No. A modern mullet can sit on any fade; the first photo goes high to skin. A burst fade mullet uses the curved burst around the ear, like the second." },
         { "q": "Can a mullet look professional?", "a": "A shorter back with a low fade reads much more conservative than a long tail with skin faded high up the sides. You can dial it up or down." },
         { "q": "Can I get the platinum color too?", "a": "Yes. Bleach and tone is the Color Transformation on Booksy, and it is a long appointment, so plan the day around it." }
       ]
@@ -95,7 +96,8 @@
   ],
   "related": ["styles-burst-fade", "styles-curly-top-fade", "services-color", "styles-textured-fringe"],
   "tim_questions": [
-    "Modern mullet page: can the mullet cut and a Color Transformation be done in the same visit, or should clients book them as two separate appointments? The page currently says 'Book it alongside your cut [TIM?]'.",
-    "Was the platinum color in color-platinum-mullet-fade done by you? The page only says platinum like this is bleach and tone work booked as the Color Transformation."
+    "Modern mullet page: can the mullet cut and a Color Transformation be done in the same visit, or should clients book them as two separate appointments? The page currently says 'Text me before you book a cut and color together.'",
+    "Was the platinum color in color-platinum-mullet-fade done by you? The page only says platinum like this is bleach and tone work booked as the Color Transformation.",
+    "How often do you suggest coming back to keep a mullet's faded sides sharp? The upkeep section gives no interval until you say."
   ]
 }

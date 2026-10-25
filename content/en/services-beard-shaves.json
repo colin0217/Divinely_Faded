@@ -4,6 +4,7 @@
   "slug": "/services/beard-and-shaves/",
   "alt": "/es/servicios/barba-y-afeitado/",
   "nav_label": "Beard & Shaves",
+  "card_text": "Trims, line-ups and hot towel straight razor shaves.",
   "breadcrumb": [["Home", "/"], ["Services", "/services/"], ["Beard & Shaves", "/services/beard-and-shaves/"]],
   "seo": {
     "title": "Beard Trim & Razor Shave in Carlsbad, NM | Divinely Faded",
@@ -69,7 +70,7 @@
       "eyebrow": "05 / QUESTIONS",
       "heading": "Good to know.",
       "items": [
-        { "q": "Can I get a beard trim without a haircut?", "a": "On Booksy the beard trim comes with the Signature Cut. For a beard-only visit, text me first." },
+        { "q": "Can I get a beard trim without a haircut?", "a": "On Booksy, a beard trim or line-up is part of the Signature Cut, and the Straight Razor Beard Shave is its own service. For anything else, text me and ask." },
         { "q": "Do you dye beards?", "a": "No. Beard dyeing isn't something I offer." },
         { "q": "How long is a straight razor shave?", "a": "Booksy sets aside {{minutes:straight-razor-beard-shave}}, towels included." }
       ]
@@ -83,6 +84,6 @@
   ],
   "related": ["services-haircuts", "services-facials", "faq"],
   "tim_questions": [
-    "[TIM?] Do you do a beard trim or line-up on its own, without a haircut? If yes, how should people book it on Booksy?"
+    "[TIM?] Do you do a beard trim or line-up on its own, without a haircut? If yes, how should people book it on Booksy? (The page points to the Signature Cut and the Straight Razor Beard Shave and says to text for anything else.)"
   ]
 }

@@ -4,6 +4,7 @@
   "slug": "/styles/hard-part/",
   "alt": "/es/estilos/raya-marcada/",
   "nav_label": "Hard Part",
+  "card_text": "A part line shaved in so it stays put.",
   "breadcrumb": [["Home", "/"], ["Styles", "/styles/"], ["Hard Part", "/styles/hard-part/"]],
   "seo": {
     "title": "Hard Part Haircut in Carlsbad, NM | Divinely Faded",
@@ -56,7 +57,7 @@
       "items": [
         { "title": "Essential Haircut", "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}", "body": "Your fade and top, shaped for your head, and a razor-clean neckline.", "href": "page:services-haircuts", "book": true },
         { "title": "Signature Cut", "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}", "body": "Brings your beard into the same visit, finished with a hot towel.", "href": "page:services-haircuts", "book": true },
-        { "title": "Hair design add-on", "meta": "{{addon:hair-design}}", "body": "Shaved lines are design work. Not sure if your part line needs the add-on? Text me a photo before you book.", "href": "page:services-designs", "book": false }
+        { "title": "Hair design add-on", "meta": "{{addon:hair-design}}", "body": "Hair design is one of my add-ons. Not sure whether your part line counts as one? Text me a photo and ask before you book.", "href": "page:services-designs", "book": false }
       ]
     },
     {
@@ -65,7 +66,7 @@
       "heading": "The line goes first.",
       "lead": "It fills in fast.",
       "paragraphs": [
-        "A line shaved to skin starts filling in within a week or so and is soft by the second. If you want the part sharp for an event, book the cut a day or two before. Otherwise, let it fade into the rest of the cut until your next visit."
+        "A line shaved to skin is the first thing to fill in, because there is nothing left to hide the regrowth. If you want the part sharp for an event, book the cut close to the date. Otherwise, let it soften into the rest of the cut until your next visit."
       ],
       "photos": []
     },
@@ -83,7 +84,7 @@
   ],
   "related": ["styles-slick-back", "styles-skin-fade", "styles-buzz-cut", "services-designs"],
   "tim_questions": [
-    "Is a hard part (shaved part line) booked as the hair design add-on on Booksy, or is it included in the haircut? The page says add the hair design add-on for the part line [TIM?].",
+    "Is a hard part (shaved part line) booked as the hair design add-on on Booksy, or is it included in the haircut? The page now says only that hair design is on your add-on list and asks people to text a photo if they're unsure.",
     "Photo fit: cut-high-fade-part-line shows a shaved line through a high fade on a buzzed top, not a classic side-part comb-over. The page describes it that way. If you have a photo of a hard part on a longer comb-over, it would fit this page better."
   ]
 }

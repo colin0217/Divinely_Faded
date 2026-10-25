@@ -4,12 +4,13 @@
   "slug": "/services/braids/",
   "alt": "/es/servicios/trenzas/",
   "nav_label": "Braids",
+  "card_text": "Cornrows and personalized braid styles over a fade.",
   "breadcrumb": [["Home", "/"], ["Services", "/services/"], ["Braids", "/services/braids/"]],
   "seo": {
     "title": "Braids for Men in Carlsbad, NM | Divinely Faded",
     "description": "Braids for men in Carlsbad, NM at Divinely Faded: cornrows and personalized braid styles over a clean fade. Booked by appointment on Booksy.",
     "primary": "braids for men carlsbad nm",
-    "secondary": ["braids for men", "cornrows for men", "men's braids", "box braids men", "hair braiding near me"],
+    "secondary": ["braids for men", "cornrows for men", "men's braids", "hair braiding near me"],
     "og_photo": "braids-side"
   },
   "schema": { "type": "Service", "service_ids": ["braids"] },
@@ -45,7 +46,8 @@
       "lead": "The contrast is the point.",
       "paragraphs": [
         "Most of the sets here pair braids on top with a faded or tapered back and sides, so every row stands out against clean skin.",
-        "Some keep the hair's natural dark color. Others show blonde running through the braids, which reads even sharper next to the fade."
+        "Some keep the hair's natural dark color. Others show blonde running through the braids, which reads even sharper next to the fade.",
+        "The last photo on the page has two rows ending in a gold cuff, with the side under them faded all the way to skin. Rows, color and cuffs are all part of what makes a set personal."
       ],
       "photos": ["braids-back", "braids-crown"],
       "alt": {
@@ -57,10 +59,11 @@
       "type": "section",
       "eyebrow": "04 / BEFORE YOU BOOK",
       "heading": "Show me the style.",
-      "lead": "A photo settles the price.",
+      "lead": "A photo helps.",
       "paragraphs": [
-        "Because braid pricing depends on the style, text me a photo of what you want before you book. That includes box braids, which are a different style from the rows on this page.",
-        "Pick a slot where you can sit for the full {{minutes:braids}} without watching the clock. Braids are booked like everything else here: appointment only, through Booksy."
+        "Booksy lists braids as varies, so text me a photo of the style you want and ask about it before you book. Texting is the easiest way to reach me, and a picture saves us both a lot of back and forth.",
+        "Pick a slot where you can sit for the full {{minutes:braids}} without watching the clock. Braids are booked like everything else here: appointment only, through Booksy.",
+        "You settle up once the braids are finished, the same as any other appointment. On a booking this long, a missed slot is hard to fill, so cancel early if plans change: Booksy may charge a fee for no-shows and late cancellations."
       ],
       "photos": []
     },
@@ -75,8 +78,8 @@
   ],
   "related": ["services-designs", "services-color", "faq"],
   "tim_questions": [
-    "[TIM?] Should people text you a photo for a braid price before booking? How do you quote braids?",
-    "Do you do box braids? Do you add extension hair? (Not claimed on the page.)",
+    "[TIM?] How do you quote braids? The page asks people to text a photo of the style and ask before booking (texts are your preferred contact).",
+    "Do you do box braids? Do you add extension hair? (Not on the page; 'box braids men' was dropped from the keyword targets until you confirm.)",
     "How long does hair need to be for braids? How long do your braids usually last? (Not on the page; 'how long do braids last men' is a search people make.)"
   ]
 }
