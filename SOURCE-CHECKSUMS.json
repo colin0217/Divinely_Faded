@@ -1,0 +1,13 @@
+{
+  "deployment": "dpl_7CttrzsYGiFqM54qAN7oPfRLAAGW",
+  "sha1": {
+    "index.html": "06aefa493c06260f460706dfeb3e719d3d7a6816",
+    "style.css": "2e728c4aeec088181b2fb57c8983c3233f7a10b2",
+    "script.js": "fc8ed8d0570948930fb2fd10fa6860b2ad9df3f5",
+    "hero-desktop.mp4": "5588bf7c713612a1ded654830a4ebd14db0c987e",
+    "tiktok-7686856917431405855.jpg": "7687f520f3b279fc83ff8aebf2964b532d73deeb",
+    "tiktok-7689583931280117022.jpg": "b3068f6b23c28fb097158120f2915c1b8ea39996",
+    "tiktok-7695895191827287327.jpg": "dd0ca22fcdf885bdec4597473123d6f050289675",
+    "vercel.json": "8b1e555fd6b8e6f5e009d27c29a1e4565de9f011"
+  }
+}

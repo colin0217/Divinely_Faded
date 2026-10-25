@@ -1,0 +1,199 @@
+*{box-sizing:border-box}html{scroll-behavior:smooth;scroll-padding-top:35px}body{margin:0;background:#080808;color:#f1f0ec;font:15px/1.6 'DM Sans',Arial,sans-serif}a{color:inherit;text-decoration:none}button{font:inherit;color:inherit;cursor:pointer}a,button,summary{-webkit-tap-highlight-color:transparent}a:focus-visible,button:focus-visible,summary:focus-visible{outline:2px solid white;outline-offset:6px}img{display:block;width:100%;object-fit:cover;filter:grayscale(1)}header{height:130px;display:flex;align-items:center;justify-content:space-between;padding:0 4vw;position:relative;z-index:11;background:#080808}.logo{font:800 28px/.95 'Barlow Condensed','Arial Narrow',sans-serif;letter-spacing:.3px}.logo small{display:block;font:600 8px/2.2 'DM Sans',sans-serif;letter-spacing:2.1px;text-align:center}.header-links{display:flex;gap:15px;align-items:center}.pill{display:inline-flex;border:1px solid #ddd;border-radius:100px;padding:9px 19px;font-size:11px;line-height:1.3;align-items:center;justify-content:center;transition:background .2s,color .2s}.pill:hover{background:#f1f0ec;color:#080808}#menu-toggle{width:48px;height:40px;border:0;background:none;margin-left:20px;padding:10px}#menu-toggle span{display:block;height:1px;background:#fff;margin:7px 0;transition:transform .2s}#menu-toggle[aria-expanded=true] span:first-child{transform:translateY(4px) rotate(45deg)}#menu-toggle[aria-expanded=true] span:last-child{transform:translateY(-4px) rotate(-45deg)}#menu{position:fixed;inset:0;background:#080808;z-index:10;padding:150px 8vw 30px;overflow:auto}#menu:not([hidden]){display:flex;flex-direction:column;gap:8px}#menu a{font:700 clamp(30px,6vw,65px)/1.15 'Barlow Condensed',sans-serif}#menu p{font-size:11px;letter-spacing:2px}.hero{padding:15px 3vw 35px}h1{margin:0;font-family:'Barlow Condensed',Impact,'Arial Narrow',sans-serif;font-weight:900;font-size:clamp(105px,24.6vw,440px);line-height:.78;letter-spacing:-.045em;text-align:center}h1 span{display:block;color:#c5c5c5;background:linear-gradient(0deg,#ffffff18,#ffffff38),url(https://d2zdpiztbgorvt.cloudfront.net/region1/us/1113769/inspiration/650b2a62d4bb4b5c87ba1e404b327f-divinely-faded-timothy-murillo-inspiration-a116952e597c449d991fd25be3d7f2-booksy.jpeg?size=360x360) center 38%/cover;background-color:#bbb;-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent;filter:grayscale(1);padding-bottom:.08em}h1 span:last-child{font-size:1.36em;line-height:.78;letter-spacing:-.025em;background-position:center 65%}.hero-bottom{display:flex;align-items:center;justify-content:space-between;margin-top:35px;font-size:10px;letter-spacing:1.3px}.ticker{overflow:hidden;border-top:1px solid #333;border-bottom:1px solid #333;padding:16px 0;font-size:12px;letter-spacing:2px}.ticker div{white-space:nowrap;animation:marquee 35s linear infinite;width:max-content}.ticker b{margin:0 45px;font-size:20px}@keyframes marquee{to{transform:translateX(-50%)}}.experience{padding:110px 6vw}.photo-pair{display:grid;grid-template-columns:1fr 1.28fr;gap:3vw;align-items:start}.photo-pair img{height:520px}.photo-pair img:first-child{margin-top:85px;height:440px}.intro{display:grid;grid-template-columns:1fr 1fr;padding-top:100px;gap:20px 7vw}.eyebrow{font-size:10px;letter-spacing:2px;display:block}.intro>.eyebrow{grid-column:1/-1}h2{font:700 clamp(52px,7vw,110px)/.98 'Barlow Condensed',sans-serif;margin:20px 0 30px;letter-spacing:-2px}.intro-copy{padding:15px 0;max-width:440px}.intro-copy p:first-child{font-size:23px;line-height:1.4}.intro-copy p{color:#b8b8b6}.text-link{display:inline-block;font-size:10px;letter-spacing:1.3px;padding:10px 0;border-bottom:1px solid #777}.feature{position:relative;min-height:620px;display:flex;align-items:center;padding:70px 8vw}.feature>img{position:absolute;inset:0;height:100%;opacity:.45}.feature:after{content:'';position:absolute;inset:0;background:linear-gradient(90deg,#000a,transparent)}.feature>div{z-index:1;position:relative}.feature h2{font-size:clamp(70px,10vw,150px)}.services,.work{padding:110px 6vw}.section-heading{display:grid;grid-template-columns:1fr 1fr;gap:0 6vw;align-items:end;margin-bottom:40px}.section-heading .eyebrow{grid-column:1/-1}.section-heading p{color:#aaa;margin:0 0 33px}.service-list{border-top:1px solid #666}details{border-bottom:1px solid #444}summary{display:flex;align-items:center;gap:22px;list-style:none;cursor:pointer;padding:25px 0;font-size:clamp(20px,3vw,36px);line-height:1.2}summary::-webkit-details-marker{display:none}.price{margin-left:auto;white-space:nowrap;font-size:20px}.price small{font-size:10px;color:#999;margin-left:20px}.plus{font-size:28px;font-weight:400;margin-left:25px}details[open] .plus{transform:rotate(45deg)}.service-detail{display:flex;justify-content:space-between;align-items:center;gap:30px;padding-bottom:30px}.service-detail p{max-width:600px;color:#b6b6b6;margin-top:0}.service-detail a{flex-shrink:0}.addons{padding-top:35px;max-width:780px}h3{font:600 27px/1.2 'Barlow Condensed',sans-serif}.addons b{font-weight:500;color:#fff}.muted{font-size:12px;color:#999}.gallery{display:grid;grid-template-columns:repeat(3,1fr);gap:30px}.work-image{display:block;text-align:left;background:none;border:0;padding:0;align-self:start}.work-image img{height:390px;transition:filter .3s,transform .3s}.work-image:hover img{filter:grayscale(0)}.work-image:nth-child(3n+2){margin-top:70px}.work-image span{display:block;font-size:9px;letter-spacing:1.4px;padding-top:14px}.review{padding:80px 8vw 120px;text-align:center;border-bottom:1px solid #333}.stars{font-size:20px;letter-spacing:7px;margin:30px 0 0}blockquote{font:600 clamp(32px,5vw,65px)/1.1 'Barlow Condensed',sans-serif;max-width:850px;margin:25px auto}.review>p:not(.stars){font-size:10px;letter-spacing:2px}.location{padding:110px 8vw}.location h2{font-size:clamp(75px,11vw,165px)}.visit-grid{display:grid;grid-template-columns:1fr 1fr;gap:8vw}.booking{display:flex;width:max-content;margin-top:35px}dl>div{display:flex;justify-content:space-between;gap:15px;border-bottom:1px solid #444;padding:12px 0;font-size:12px}dd{margin:0;text-align:right;color:#bbb}.closing{display:flex;align-items:center;justify-content:space-between;background:#ecebe7;color:#080808;padding:60px 6vw;font:800 clamp(70px,13vw,190px)/.85 'Barlow Condensed',sans-serif;letter-spacing:-3px}.closing .arrow{font:400 1em Arial;transition:transform .3s}.closing:hover .arrow{transform:translate(8px,-8px)}footer{display:grid;grid-template-columns:1fr 1fr;gap:50px;padding:60px 6vw}footer>div{display:flex;justify-content:flex-end;gap:25px;font-size:12px}footer p,footer>a:last-child{font-size:9px;color:#aaa;margin:0}footer>a:last-child{text-align:right}dialog{border:1px solid #555;background:#111;color:white;padding:15px;max-width:94vw;max-height:94vh}dialog::backdrop{background:#000e}dialog img{max-width:80vw;max-height:80vh;width:auto;height:auto}#close-photo{display:block;margin:0 0 12px auto;background:none;border:0;font-size:11px}.skip{position:absolute;left:20px;top:-100px;z-index:20;background:white;color:black;padding:10px}.skip:focus{top:10px}@media(min-width:1500px){.hero{max-width:1700px;margin:auto}}@media(max-width:700px){header{height:100px;padding:0 20px}.logo{font-size:23px}.logo small{font-size:6px;letter-spacing:1.7px}.header-links{gap:0}.header-links .pill{font-size:9px;padding:9px 12px}.secondary{display:none!important}#menu-toggle{margin-left:8px;width:37px}.hero{padding:35px 15px 25px}h1{font-size:25vw}.hero-bottom{font-size:8px;gap:20px;margin-top:30px}.hero-bottom p{max-width:160px}.ticker{padding:10px 0;font-size:10px}.experience{padding:60px 20px}.photo-pair{gap:15px;grid-template-columns:1fr 1.15fr}.photo-pair img{height:300px}.photo-pair img:first-child{height:245px;margin-top:50px}.intro{padding-top:65px;grid-template-columns:1fr;gap:0}h2{letter-spacing:-1px}.intro-copy{padding-top:0}.intro-copy p:first-child{font-size:21px}.feature{min-height:450px;padding:50px 25px}.services,.work{padding:65px 20px}.section-heading{grid-template-columns:1fr;gap:0}.section-heading p{margin:0 0 15px}.section-heading{margin-bottom:25px}summary{font-size:22px;gap:10px;padding:23px 0}.price{font-size:17px}.price small{display:block;font-size:9px;text-align:right;margin:4px 0 0}.plus{margin-left:8px;font-size:23px}.service-detail{display:block}.service-detail p{font-size:14px}.gallery{grid-template-columns:1fr 1fr;gap:25px 14px}.work-image img{height:240px}.work-image:nth-child(3n+2){margin-top:0}.work-image:nth-child(even){margin-top:45px}.work-image span{font-size:8px;letter-spacing:.6px}.review{padding:50px 20px 70px}.location{padding:70px 25px}.visit-grid{grid-template-columns:1fr;gap:40px}.location h2{font-size:90px}.closing{padding:45px 20px;letter-spacing:-1px;font-size:15vw}footer{padding:45px 20px;grid-template-columns:1fr;gap:30px}footer>div{justify-content:flex-start;flex-wrap:wrap}footer>a:last-child{text-align:left}dialog img{max-width:82vw}.addons p{font-size:13px;line-height:2}}@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.ticker div{animation:none}*{transition:none!important}}
+
+/* Divinely Faded mobile refinement — editorial, stacked photographic layout */
+.ticker b{color:#f1f0ec;font-family:Arial,sans-serif;font-weight:400}
+.ticker-track{display:block;white-space:nowrap;width:max-content;animation:marquee 35s linear infinite}
+@media(max-width:700px){
+  header{height:100px;padding:0 17px}
+  .logo{font-size:22px;flex-shrink:0}
+  .logo small{font-size:6px}
+  .header-links .pill{padding:8px 10px;font-size:9px}
+  #menu-toggle{margin-left:4px;width:34px;padding:6px}
+  .hero{padding:10px 3vw 23px}
+  .hero h1{font-size:26vw;line-height:.78;letter-spacing:-.05em}
+  .hero h1 span:last-child{line-height:.78}
+  .hero-bottom{margin-top:26px}
+  .ticker{padding:8px 0}
+  .ticker b{margin:0 30px}
+  .experience{padding:32px 3vw 65px}
+  .photo-pair{grid-template-columns: .86fr 1.28fr;gap:12px;align-items:start}
+  .photo-pair img{height:clamp(235px,67vw,390px);width:100%;object-fit:cover}
+  .photo-pair img:first-child{height:clamp(205px,57vw,340px);margin-top:38px}
+  .intro{padding-top:34px}
+}
+@media(max-width:370px){
+  .logo{font-size:19px}
+  .header-links .pill{font-size:8px;padding:8px}
+  #menu-toggle{width:30px}
+}
+
+/* Mobile hero scale and slim editorial ticker */
+@media(max-width:700px){
+  .hero{padding:0 2.4vw 14px}
+  .hero h1{font-size:30vw;line-height:.75;letter-spacing:-.055em;transform:scaleY(1.14);transform-origin:top center;margin-bottom:56px}
+  .hero h1 span{line-height:.75}
+  .hero h1 span:last-child{line-height:.75}
+  .hero-bottom{margin-top:8px}
+  .ticker{padding:6px 0;border:0;font-size:9px;letter-spacing:.05em;line-height:1.4}
+  .ticker b{display:none!important}
+  .ticker-track{word-spacing:24px;animation-duration:35s}
+}
+
+/* Mobile visual alignment with editorial reference */
+#menu-toggle span{height:2px}
+#menu-toggle[aria-expanded=true] span:first-child{transform:translateY(9px) rotate(45deg)}
+#menu-toggle[aria-expanded=true] span:nth-child(2){opacity:0}
+#menu-toggle[aria-expanded=true] span:last-child{transform:translateY(-9px) rotate(-45deg)}
+@media(max-width:700px){
+ header{height:105px;padding:0 3vw}
+ .header-links{gap:0}
+ .header-links .pill{border-width:1.6px;padding:9px 14px;font-weight:600;font-size:10px}
+ #menu-toggle{width:42px;height:44px;margin-left:15px;padding:7px}
+ #menu-toggle span{height:2px;margin:6px 0}
+ .hero{padding:7px 2.7vw 20px}
+ .hero h1{font-size:29.7vw;line-height:.92;letter-spacing:-.035em;transform:scaleY(1.16);transform-origin:top center;margin:0 0 76px}
+ .hero h1 span,.hero h1 span:last-child{line-height:.92}
+ .hero-bottom{display:none}
+ .ticker{padding:6px 0;font-size:9px;letter-spacing:0;line-height:1.35}
+ .ticker-track{word-spacing:10px}
+ .experience{padding-top:34px}
+ .photo-pair img{height:clamp(235px,67vw,390px)}
+ .photo-pair img:first-child{height:calc(clamp(235px,67vw,390px) - 38px);margin-top:38px}
+}
+@media(max-width:370px){
+ .header-links .pill{padding:8px 10px;font-size:9px}
+ #menu-toggle{margin-left:9px;width:38px}
+}
+
+/* Tighten the two-line mobile hero to match the reference */
+@media(max-width:700px){
+ .hero h1{line-height:.78;margin-bottom:60px}
+ .hero h1 span{line-height:.78;padding-bottom:0}
+ .hero h1 span:first-child{margin-bottom:-.09em}
+ .hero h1 span:last-child{line-height:.78}
+}
+
+.hero{position:relative;isolation:isolate}
+.hero-video-mask{position:absolute;inset:0;z-index:0;pointer-events:none;overflow:hidden;opacity:0}
+.hero-video-mask video{width:100%;height:100%;object-fit:cover;filter:grayscale(1)}
+.hero h1{position:relative;z-index:1}
+@supports ((-webkit-background-clip:text) or (background-clip:text)){
+ .hero-video-mask{opacity:0}
+}
+.hero-svg{display:block;width:100%;height:auto;aspect-ratio:1000/730}.hero-fallback{display:none!important}@media(max-width:700px){.hero-svg{margin:0 auto 0;width:100%}}
+
+/* Video only visible through the original-sized hero lettering */
+.hero-type-video{position:relative;isolation:isolate}
+.hero-type-video video{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;filter:grayscale(1);z-index:0;pointer-events:none}
+.hero-type-video h1{position:relative;z-index:1}
+.hero-type-video h1 span{background:none!important;-webkit-text-fill-color:transparent!important}
+.hero-type-video h1{background:#080808;mix-blend-mode:multiply}
+.hero-svg{display:none!important}
+
+
+/* Opaque black glyph surround, with video composited through transparent text */
+.hero-type-video h1{background:transparent!important;mix-blend-mode:normal!important}
+.hero-type-video h1 span{background:none!important;-webkit-text-fill-color:transparent!important}
+.hero-type-video{background:#080808}
+.hero-type-video video{z-index:1}
+.hero-type-video h1{z-index:2;mix-blend-mode:destination-out!important}
+
+
+/* CSS luminance mask: video appears only inside original heading geometry */
+.hero-type-video{position:relative;overflow:hidden;background:#080808!important}
+.hero-type-video video{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;filter:grayscale(1);z-index:0!important;mix-blend-mode:normal}
+.hero-type-video h1{position:relative;z-index:1!important;background:#080808!important;mix-blend-mode:multiply!important}
+.hero-type-video h1 span{color:white!important;-webkit-text-fill-color:white!important;background:none!important}
+
+
+/* Final video hero polish: crop embedded social UI and black surround. */
+.hero-type-video{background:#080808!important;overflow:hidden;isolation:isolate}
+.hero-type-video video{object-fit:cover!important;object-position:48% 40%;transform:scale(1.27);transform-origin:center;filter:grayscale(1)!important}
+.hero-type-video h1{background:#080808!important;mix-blend-mode:multiply!important}
+@media(max-width:700px){
+ .hero{padding-left:2.4vw;padding-right:2.4vw}
+ .hero-type-video h1{font-size:29.7vw!important}
+ .hero-type-video{background:#080808!important}
+}
+
+
+/* Mask off stray video pixels below the hero letters without altering the text. */
+.hero-type-video{background:#080808!important}
+.hero-type-video video{clip-path:inset(0 0 7% 0)}
+.ticker-dot{display:inline-block;color:#aaa;font-size:.75em;vertical-align:middle;margin:0 16px}
+@media(max-width:700px){.ticker-dot{margin:0 10px}}
+
+
+/* Reference-scale slow services ticker */
+.ticker{font-size:11px!important;letter-spacing:0!important;line-height:1.4!important;padding:8px 0!important}
+.ticker-track{animation:marquee 125s linear infinite!important;word-spacing:normal!important}
+.ticker-dot{font-size:.65em!important;margin:0 18px!important}
+@media(max-width:700px){.ticker{font-size:9px!important;padding:7px 0!important}.ticker-track{animation-duration:125s!important}.ticker-dot{margin:0 13px!important}}
+/* Hide the video overspill below FADED while retaining the original heading */
+.hero-type-video{overflow:hidden!important;background:#080808!important}
+.hero-type-video video{clip-path:inset(0 0 8% 0)!important}
+
+
+/* Definitive video overhang removal: hide all moving pixels below the FADED text. */
+.hero-type-video{position:relative!important;overflow:hidden!important;background:#080808!important}
+.hero-type-video video{clip-path:inset(0 0 11% 0)!important}
+.hero-type-video::after{content:"";position:absolute;z-index:3;left:0;right:0;bottom:0;height:7%;background:#080808;pointer-events:none}
+.photo-pair img{filter:grayscale(1)!important}
+
+
+/* Strict video isolation: no video pixels can appear outside heading glyphs. */
+.hero-type-video{position:relative!important;background:#080808!important;overflow:hidden!important;isolation:isolate}
+.hero-type-video video{position:absolute!important;inset:0!important;width:100%!important;height:100%!important;object-fit:cover!important;z-index:0!important}
+.hero-type-video h1{position:relative!important;z-index:1!important;background:#080808!important;mix-blend-mode:multiply!important}
+.hero-type-video h1 span{background:none!important;color:#fff!important;-webkit-text-fill-color:#fff!important}
+
+
+/* Three-line hamburger; retains existing header sizing and booking spacing. */
+#menu-toggle span{display:block!important;height:2px!important;background:#fff!important;margin:5px 0!important;transition:transform .2s,opacity .2s!important}
+#menu-toggle[aria-expanded="true"] span:first-child{transform:translateY(7px) rotate(45deg)!important}
+#menu-toggle[aria-expanded="true"] span:nth-child(2){opacity:0!important}
+#menu-toggle[aria-expanded="true"] span:last-child{transform:translateY(-7px) rotate(-45deg)!important}
+
+
+/* Seamless hero perimeter: Safari compositing can expose 1px blend seams.
+   Mask the container boundary only, never the lettering or its video. */
+.hero,.hero-type-video{background-color:#080808!important;border:0!important;outline:0!important;box-shadow:none!important}
+.hero-type-video{clip-path:inset(2px 2px 2px 2px)!important;-webkit-clip-path:inset(2px 2px 2px 2px)!important}
+.hero-type-video::before{display:none!important}
+
+
+/* The Safari footer seam must be covered OUTSIDE the blended video wrapper.
+   Sibling layer preserves the exact HTML title dimensions/spacing. */
+.hero .hero-edge-cover{
+ position:relative!important;
+ display:block!important;
+ height:8px!important;
+ margin-top:-8px!important;
+ width:100%!important;
+ background:#080808!important;
+ z-index:100000!important;
+ isolation:isolate!important;
+ pointer-events:none!important;
+}
+
+
+/* The visible 3px underline is the bottom row of the BLENDED H1,
+   not an HTML border. Clip those pixels on the source heading itself.
+   Clipping does not resize/reflow any lettering or the hero. */
+.hero-type-video #hero-title{
+ clip-path:inset(0 0 8px 0)!important;
+ -webkit-clip-path:inset(0 0 8px 0)!important;
+}
+
+/* Desktop header proportions matched to the Kings Domain reference. */
+@media(min-width:701px){
+ header{padding-left:1.4vw;padding-right:1.4vw}
+ header>.logo{font-size:40px;letter-spacing:1px;transform:scaleX(.8);transform-origin:left center}
+ header>.logo small{font-size:11px;line-height:1.8;letter-spacing:1.8px}
+ header .header-links{gap:20px}
+ header .header-links .pill{font-size:22px;font-weight:500;line-height:1.2;padding:8px 24px;white-space:nowrap}
+ header #menu-toggle{width:58px;height:48px;margin-left:0;padding:8px 10px}
+ header #menu-toggle span{height:3px!important;margin:6px 0!important}
+ header #menu-toggle[aria-expanded="true"] span:first-child{transform:translateY(9px) rotate(45deg)!important}
+ header #menu-toggle[aria-expanded="true"] span:last-child{transform:translateY(-9px) rotate(-45deg)!important}
+}
