@@ -54,7 +54,11 @@ footer#location.df-new-footer .df-footer-bottom-links a,footer#location.df-new-f
 /* Style/blog cards: Colin's hairline list language, no new decoration. */
 .df-cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:34px 3vw;border-top:1px solid #666;padding-top:34px}
 .df-card{display:block;color:inherit}
-.df-card img{width:100%;aspect-ratio:4/3;object-fit:cover;filter:grayscale(1);transition:opacity .2s}
+.df-card img{width:100%;height:auto;aspect-ratio:4/5;object-fit:cover;object-position:50% 30%;filter:grayscale(1);transition:opacity .2s}
+/* A one-photo pair spans Colin's two-column grid at his pair height instead of leaving the right column empty. */
+.df-page .photo-pair:has(> img:only-child){grid-template-columns:1fr!important}
+.df-page .photo-pair > img:only-child{width:100%!important;height:min(525px,41vw)!important;object-fit:cover;object-position:50% 30%}
+@media(max-width:700px){.df-page .photo-pair > img:only-child{height:min(420px,100vw)!important}}
 .df-card:hover img{opacity:.6}
 .df-card h3{margin:14px 0 4px}
 .df-card p{color:#aaa;margin:0;font-size:14px}

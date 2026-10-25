@@ -109,7 +109,8 @@ function img(name, alt, { eager = false, sizes = "(min-width:701px) 50vw, 100vw"
   return `<img src="/assets/photos/${name}-1200.webp" srcset="/assets/photos/${name}-640.webp 640w, /assets/photos/${name}-1200.webp 1200w" sizes="${sizes}" width="${w}" height="${h}" alt="${esc(alt)}" loading="${eager ? "eager" : "lazy"}" decoding="async">`;
 }
 const altOf = (p, name, b) => (b && b.alt && typeof b.alt === "object" ? b.alt[name] : "") || (p.photo_alt || {})[name] || (p.alt_text || p.alts || {})[name] || (p.alt && typeof p.alt === "object" ? p.alt[name] : "") || "";
-const altSlug = (p) => (typeof p.alt === "string" ? p.alt : p.alt_slug);
+// The other-language URL, only once that page is actually built (no hreflang/toggle to a 404).
+const altSlug = (p) => byKey.get(`${p.locale === "en" ? "es" : "en"}:${p.id}`)?.slug;
 
 // ---------- blocks ----------
 function blockHTML(b, p, t, first) {
@@ -215,11 +216,13 @@ function jsonld(p) {
   const g = [business(),
     { "@type": "Person", "@id": `${SITE}/#tim`, name: "Timothy Murillo", jobTitle: p.locale === "es" ? "Barbero y dueño" : "Barber and owner", worksFor: { "@id": `${SITE}/#business` } },
     { "@type": "WebSite", "@id": `${SITE}/#website`, url: `${SITE}/`, name: facts.name, inLanguage: ["en-US", "es-US"], publisher: { "@id": `${SITE}/#business` } },
-    { "@type": p._post ? "WebPage" : ({ about: "AboutPage", visit: "ContactPage", faq: "FAQPage" }[p.id] || (/^(services|styles|blog)$/.test(p.id) ? "CollectionPage" : "WebPage")), "@id": `${url}#webpage`, url, name: p.seo?.title, description: p.seo?.description, inLanguage: L, isPartOf: { "@id": `${SITE}/#website` }, about: { "@id": `${SITE}/#business` }, breadcrumb: { "@id": `${url}#breadcrumb` }, ...(p.seo?.og_photo ? { primaryImageOfPage: `${SITE}/assets/photos/${p.seo.og_photo}-1200.webp` } : {}) },
+    { "@type": p._post ? "WebPage" : ({ about: "AboutPage", visit: "ContactPage" }[p.id] || (/^(services|styles|blog)$/.test(p.id) ? "CollectionPage" : "WebPage")), "@id": `${url}#webpage`, url, name: p.seo?.title, description: p.seo?.description, inLanguage: L, isPartOf: { "@id": `${SITE}/#website` }, about: { "@id": `${SITE}/#business` }, breadcrumb: { "@id": `${url}#breadcrumb` }, ...(p.seo?.og_photo ? { primaryImageOfPage: `${SITE}/assets/photos/${p.seo.og_photo}-1200.webp` } : {}) },
     { "@type": "BreadcrumbList", "@id": `${url}#breadcrumb`, itemListElement: (p.breadcrumb || [[T[p.locale].crumbHome, T[p.locale].home]]).map(([n, u], i) => ({ "@type": "ListItem", position: i + 1, name: n, item: SITE + u })) }];
-  if (p.schema?.service_ids?.length) {
-    for (const id of p.schema.service_ids) { const s = svc(id); g.push({ "@type": "Service", "@id": `${url}#service-${id}`, name: s.name, serviceType: p.schema.service_type || s.name, provider: { "@id": `${SITE}/#business` }, areaServed: { "@type": "City", name: "Carlsbad, NM" }, ...(s.price != null ? { offers: { "@type": "Offer", price: s.price, priceCurrency: "USD", url: facts.booksy } } : {}) }); }
-  }
+  const serviceNode = (key, name, price) => ({ "@type": "Service", "@id": `${url}#service-${key}`, name, serviceType: p.schema.service_type || name, provider: { "@id": `${SITE}/#business` }, areaServed: { "@type": "City", name: "Carlsbad, NM" }, ...(price != null ? { offers: { "@type": "Offer", price, priceCurrency: "USD", url: facts.booksy } } : {}) });
+  for (const id of p.schema?.service_ids || []) { const s = svc(id); g.push(serviceNode(id, s.name, s.price)); }
+  for (const name of p.schema?.addons || []) { const a = facts.addons.find((x) => x.name === name); if (!a) throw new Error(`${p._file}: unknown addon ${name}`); g.push(serviceNode(name.toLowerCase().replace(/[^a-z0-9]+/g, "-"), a.name, a.price)); }
+  // A service page with no single Booksy line (kids book the regular haircuts) still declares its Service, without an offer.
+  if (p.schema?.type === "Service" && !p.schema.service_ids?.length && !p.schema.addons?.length && p.schema.name) g.push(serviceNode("main", p.schema.name, null));
   const faqs = (p.blocks || []).filter((b) => b.type === "faq").flatMap((b) => b.items);
   if (faqs.length) g.push({ "@type": "FAQPage", "@id": `${url}#faq`, mainEntity: faqs.map((f) => ({ "@type": "Question", name: fill(f.q || f.title, T[p.locale]).replace(/<[^>]+>/g, ""), acceptedAnswer: { "@type": "Answer", text: fill(f.a || f.body, T[p.locale]).replace(/<[^>]+>/g, "") } })) });
   if (p._post) g.push({ "@type": "BlogPosting", "@id": `${url}#post`, headline: p.title, description: p.seo?.description, datePublished: p.date, dateModified: p.updated || p.date, inLanguage: L, author: { "@id": `${SITE}/#tim` }, publisher: { "@id": `${SITE}/#business` }, mainEntityOfPage: { "@id": `${url}#webpage` }, ...(p.hero ? { image: p.hero.startsWith("http") ? p.hero : `${SITE}/assets/photos/${p.hero}-1200.webp` } : {}) });
