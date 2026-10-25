@@ -1,0 +1,66 @@
+# Divinely Faded
+
+> Divinely Faded is a one-barber shop in Carlsbad, New Mexico, run by owner and barber Timothy "Tim" Murillo, cutting since 2023. Appointments only, booked on Booksy. Tagline: "Elevate Your Standard."
+
+## Visit and book
+
+- Address: 303 S Halagueno St, Carlsbad, NM 88220
+- Phone: (575) 706-3095 (texting preferred)
+- Booking (appointments only): https://booksy.com/en-us/1113769_divinely-faded-timothy-murillo_barber-shop_28967_carlsbad
+- Directions: https://www.google.com/maps/search/?api=1&query=303+S+Halagueno+St+Carlsbad+NM+88220
+- Google Business Profile: https://www.google.com/maps?cid=15257330546621568190
+- Hours Mon, Tue, Thu, Fri: 9:00 AM–12:00 PM and 12:30 PM–5:00 PM
+- Hours Sat: 8:00 AM–2:00 PM
+- Closed: Wed and Sun
+- Holidays: Open on holidays at regular hours; $20 holiday fee on the holiday itself.
+- Payment: Cash, Card, Zelle, Cash App
+- Policy: No-shows and late cancellations may be charged a cancellation fee (Booksy). Payment is due in full after the service.
+
+## Services (price, appointment length)
+
+- Essential Haircut: $50, 40 min. Precision haircut tailored to your style and head shape, straight razor neck cleanup, finished style.
+- Signature Cut: $65, 45 min. Precision haircut, beard trim or line-up, hot towel finish and straight razor detailing. The most popular service.
+- Luxury Grooming Experience: $80, 50 min. Consultation, haircut, beard sculpt, wash and scalp massage, facial steam, dual hot towels, straight razor detailing, basic hair design, ear and nose waxing, styling and a luxury fragrance finish.
+- Straight Razor Beard Shave: $40, 40 min. Traditional wet shave with hot towels, premium shaving cream and a soothing aftershave.
+- Head & Beard Shave: $80, 1 h. Precision head shave and beard shave with hot towels and a soothing aftershave balm.
+- Express Facial: $30, 30 min. Facial massage, warm steam, deep cleanse, gentle exfoliation and hydrating moisturizer.
+- Deluxe Facial: $40, 40 min. Facial massage, warm steam, gentle exfoliation, hydrating moisturizer, advanced skin treatments and an anti-aging serum.
+- Braids: Varies, 2 h. Personalized braiding styles.
+- Color Transformation: $120, 4 h. Professional coloring including bleaching and toning to reach the shade you want.
+- Perm: $95, 1 h 30 min. Customized perm for volume, texture and movement.
+- Add-ons: hair design $10, wash & scalp massage $10, luxury fragrance $5, eyebrows $5, nose / ear wax $10
+- Kids: welcome
+- Coming soon: Toupee services
+- Not offered: beard dyeing, capillary treatment
+
+## Pages
+
+- [Services and prices](https://divinely-faded-two.vercel.app/services/): every service with price and appointment length
+- [Haircuts](https://divinely-faded-two.vercel.app/services/haircuts/): Essential Haircut, Signature Cut, Luxury Grooming Experience
+- [Kids haircuts](https://divinely-faded-two.vercel.app/services/kids-haircuts/): kids are welcome; parents book on Booksy
+- [Beard and shaves](https://divinely-faded-two.vercel.app/services/beard-and-shaves/): beard trims, straight razor and head shaves
+- [Men's facials](https://divinely-faded-two.vercel.app/services/mens-facials/): Express and Deluxe Facial
+- [Braids](https://divinely-faded-two.vercel.app/services/braids/): personalized braiding styles
+- [Hair designs](https://divinely-faded-two.vercel.app/services/hair-designs/): design add-on
+- [Color and perm](https://divinely-faded-two.vercel.app/services/color-and-perm/): Color Transformation and Perm
+- [Haircut styles](https://divinely-faded-two.vercel.app/styles/): style library: skin fade, low taper fade, burst fade, modern mullet, textured fringe, buzz cut, slick back, curly top fade, hard part, textured crop
+- [About Tim](https://divinely-faded-two.vercel.app/about/): the barber and owner
+- [Visit](https://divinely-faded-two.vercel.app/visit/): address, hours, directions, nearby towns
+- [FAQ](https://divinely-faded-two.vercel.app/faq/): booking, hours, holidays, payment, policy
+
+## Nearby towns (driving distance from the shop)
+
+- La Huerta: 2 mi, about 4 min
+- Happy Valley: 4 mi, about 6 min
+- Otis: 6 mi, about 8 min
+- Loving: 13 mi, about 16 min
+- Malaga: 17 mi, about 21 min
+- Whites City: 20 mi, about 24 min
+- Artesia: 36 mi, about 44 min
+
+## Social
+
+- Instagram: https://www.instagram.com/____divinelyfaded/
+- TikTok: https://www.tiktok.com/@divinelyfaded
+- YouTube: https://www.youtube.com/@DivinelyFaded
+- Facebook: https://www.facebook.com/share/12Cp9tTKp3W/?mibextid=wwXIfr

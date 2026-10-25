@@ -194,7 +194,7 @@ function footer(loc) {
     <div class="df-footer-bottom-links"><a href="${facts.booksy}" target="_blank" rel="noopener">${t.policies}</a><a href="${facts.directions}" target="_blank" rel="noopener">${t.directions}</a></div>
   </div>
   <div class="df-footer-photo">
-    <img src="https://kfn00ghfuedoecga.public.blob.vercel-storage.com/divinely%20fadeed%20pic%20of%20tim.jpg" alt="${t.footerPhotoAlt}" loading="lazy">
+    <img src="https://kfn00ghfuedoecga.public.blob.vercel-storage.com/divinely%20fadeed%20pic%20of%20tim.jpg" alt="${t.footerPhotoAlt}" width="1912" height="1912" loading="lazy" decoding="async">
     <div class="df-footer-photo-logo" aria-label="Divinely Faded — Elevate Your Standard"><strong>DIVINELY FADED</strong><small>ELEVATE YOUR STANDARD</small></div>
   </div>
 </footer><dialog id="lightbox" aria-label="Portfolio photo"><button id="close-photo" aria-label="Close photo">CLOSE ✕</button><img alt="Enlarged Divinely Faded portfolio photo"></dialog>`;
@@ -280,6 +280,16 @@ for (const p of posts.filter((x) => !live(x))) {
   if (fs.existsSync(out)) fs.rmSync(out);
 }
 
+// Bilingual 404 (Vercel serves /404.html): Colin's chrome, noindex, no canonical, no JSON-LD.
+{
+  const p404 = { locale: "en", slug: "/404.html", id: "404" };
+  const hd = head({ ...p404, seo: { title: "Page not found | Divinely Faded", description: "This page doesn't exist. Head back to Divinely Faded in Carlsbad, NM." } })
+    .replace(/<link rel="canonical"[^>]*>/, "").replace(/<link rel="alternate"[^>]*>/g, "").replace(/<meta property="og:[^>]*>/g, "").replace(/<meta name="twitter:card"[^>]*>/, "")
+    .replace(/<script type="application\/ld\+json">[\s\S]*?<\/script>/, "").replace("<title>", '<meta name="robots" content="noindex"><title>');
+  const body = `<section class="experience df-no-photos" data-df-reveal-group><div class="intro"><span class="eyebrow" data-df-reveal>404</span><h1 data-df-reveal>Wrong turn.</h1><div class="intro-copy" data-df-reveal-group><p data-df-reveal>That page doesn't exist. Start from the homepage, see the services, or book your next cut.</p><p data-df-reveal lang="es">Esta página no existe. Vuelve al inicio o reserva tu próxima cita.</p><a class="text-link" data-df-reveal href="/">HOME</a> <a class="text-link" data-df-reveal href="/services/">SERVICES</a></div></div></section>`;
+  fs.writeFileSync(path.join(ROOT, "404.html"), `${hd}<body class="df-page df-en">${header(p404, T.en)}${menu(p404, T.en)}<main id="main">${body}${cta(T.en)}</main>${footer("en")}<script src="/script.js"></script></body></html>\n`);
+}
+
 // Stamp shared chrome into Colin's homepage between its own tags (allowed edits only).
 const homePath = path.join(ROOT, "index.html");
 let home = fs.readFileSync(homePath, "utf8");
@@ -288,8 +298,18 @@ home = home.replace(/<nav class="header-links">[\s\S]*?<\/nav><\/header><nav id=
   .replace(/<a class="logo" href="#"/, '<a class="logo" href="/"')
   .replace(/<footer id="location"[\s\S]*?<\/dialog>/, footer("en"))
   .replace(/(<link rel="stylesheet" href="style.css">)(?!<link rel="stylesheet" href="\/df-extras.css">)/, '$1<link rel="stylesheet" href="/df-extras.css">');
+// Head tags (allowed list): description trimmed to <=155 ("New Mexico" -> "NM", Colin's words otherwise),
+// then canonical, hreflang, OG, favicons and JSON-LD between markers so every rebuild replaces them in place.
+homeP.seo = { title: "Divinely Faded | Barber Shop in Carlsbad, NM", description: "Elevate your standard. Precision haircuts, signature cuts, straight razor shaves and luxury grooming with Timothy Murillo in Carlsbad, NM. Book online." };
+homeP.breadcrumb = [[T.en.crumbHome, "/"]];
+home = home.replace(/<meta name="description" content="[^"]*">/, `<meta name="description" content="${esc(homeP.seo.description)}">`);
+const homeHead = head(homeP);
+const homeTags = homeHead.slice(homeHead.indexOf('<link rel="canonical"'), homeHead.indexOf('<meta name="theme-color"')) + homeHead.slice(homeHead.indexOf('<link rel="icon"'), homeHead.indexOf('<link rel="preconnect"')) + homeHead.slice(homeHead.indexOf('<script type="application/ld+json">'), homeHead.indexOf("</head>"));
+home = home.replace(/<!--df-head-->[\s\S]*?<!--\/df-head-->/, "").replace("</head>", `<!--df-head-->${homeTags}<!--/df-head--></head>`);
 fs.writeFileSync(homePath, home);
 
+// sitemap.xml follows every build (alternates only for built twins; future posts left out).
+{ const { spawnSync } = await import("node:child_process"); const r = spawnSync(process.execPath, [path.join(ROOT, "tools/build-sitemap.js"), "--today", TODAY], { stdio: "inherit" }); if (r.status) process.exitCode = 1; }
 if (MISSING.size) console.warn(`links to pages not written yet: ${[...MISSING].join(", ")}`);
 if (LEAKS.length) { console.error(`build: unpublishable output (pages were written; fix the content and rebuild):\n  ${LEAKS.join("\n  ")}`); process.exitCode = 1; }
 console.log(`built ${n} pages (${posts.filter(live).length}/${posts.length} posts live as of ${TODAY}); homepage chrome stamped; SITE=${SITE}`);
