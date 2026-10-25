@@ -118,3 +118,14 @@ footer#location.df-new-footer .df-footer-bottom-links a,footer#location.df-new-f
 .service-detail .df-learn{display:inline-block;margin:0 18px 0 0;vertical-align:middle}
 /* Accessibility (Lighthouse target-size): rating links get 24px+ hit areas (the carousel controls are 44px). */
 .df-reviews .df-ratings a{display:inline-block;padding:6px 4px;min-height:24px}
+/* Sticky header (Peyton 2026-10-25): Colin's header, unchanged, stays at the top on every page, so Book and the menu
+   are one tap away and the menu's close button never scrolls out of reach. Plain sticky: no new motion, no layout shift.
+   Phones held sideways and other short windows keep it in the flow, where it would eat a third of the screen. */
+body>header{position:sticky;top:0}
+/* The hero's Safari seam cover sits at z-index 100000; keep it (and the hero's blend layers) inside the hero so it
+   cannot slide over the stuck header. The hero already paints its own #080808 backdrop, so blending is unchanged. */
+.hero{isolation:isolate}
+/* In-page links and keyboard focus land below the header, not under it. */
+html{scroll-padding-top:140px}
+@media(max-width:700px){html{scroll-padding-top:115px}}
+@media(max-height:500px){body>header{position:relative}html{scroll-padding-top:0}}
