@@ -128,6 +128,17 @@ for (const rel of pages) {
   routes.push({ route, source: `${rel ? rel + "/" : ""}index.html`, lang, h1: (html.match(/<h1[\s>]/g) || []).length, component: path.relative(OUT, path.join(dir, "page.jsx")) });
   void depth;
 }
+// Colin-styled 404 -> app/global-not-found.jsx (needs experimental.globalNotFound: many root layouts, one per page).
+if (fs.existsSync(path.join(ROOT, "404.html"))) {
+  const doc = parse(fs.readFileSync(path.join(ROOT, "404.html"), "utf8"));
+  const htmlEl = doc.childNodes.find((n) => n.tagName === "html");
+  const head = htmlEl.childNodes.find((n) => n.tagName === "head"), body = htmlEl.childNodes.find((n) => n.tagName === "body");
+  scripts.length = 0; scripts.push({ src: "/legacy/video-muted.js" });
+  const bodyJsx = body.childNodes.map((c) => emit(c, { group: "not-found" })).join("");
+  const { md, raw, themeColor } = headParts(head);
+  fs.writeFileSync(path.join(OUT, "app", "global-not-found.jsx"),
+    `import LegacyScripts from '../components/legacy-scripts';\n\nexport const metadata = ${JSON.stringify(md, null, 2)};\nexport const viewport = ${JSON.stringify({ width: "device-width", initialScale: 1, ...(themeColor ? { themeColor } : {}) }, null, 2)};\n\nexport default function GlobalNotFound() {\n  return (\n    <html lang=${lit(htmlEl.attrs.find((a) => a.name === "lang")?.value || "en")}>\n      <head>${raw.map((c) => emit(c, { group: "not-found" })).join("\n")}</head>\n      <body${attrs(body, false)}>${bodyJsx}<LegacyScripts scripts={${JSON.stringify(scripts)}} /></body>\n    </html>\n  );\n}\n`);
+}
 fs.mkdirSync(path.join(OUT, "public/legacy"), { recursive: true });
 fs.writeFileSync(path.join(OUT, "public/legacy/video-muted.js"), "document.querySelectorAll('video[autoplay]').forEach(function(v){v.muted=true;v.setAttribute('muted','');});\n");
 fs.mkdirSync(path.join(OUT, "scripts"), { recursive: true });
