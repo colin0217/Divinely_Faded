@@ -31,7 +31,7 @@ const T = {
     hours: "Mon, Tue, Thu, Fri 9–12 &amp; 12:30–5 · Sat 8–2 · Closed Wed &amp; Sun",
     designed: "Designed by", powered: "Powered by", ctaEyebrow: "READY WHEN YOU ARE", ctaHead: "Take a seat.", ctaBook: "BOOK ON BOOKSY", ctaText: "TEXT TIM", ctaCall: "CALL",
     bookThis: "Book this service", learnMore: "LEARN MORE", varies: "Varies", min: "min", hr: "hr", crumbHome: "Home", footerPhotoAlt: "Tim seated in his barbershop",
-    rvEyebrow: "FROM THE CHAIR / GOOGLE & BOOKSY", rvOn: "on", rvReviews: "reviews", rvAsOf: "As of", rvPrev: "Previous review", rvNext: "Next review", rvMore: "READ MORE ON GOOGLE", rvPause: "PAUSE", rvPlay: "PLAY", rvLabel: "Client reviews", rvStars: "5 stars", rvOrig: "",
+    rvEyebrow: "FROM THE CHAIR / GOOGLE & BOOKSY", rvOn: "on", rvReviews: "reviews", rvAsOf: "As of", rvPrev: "Previous review", rvNext: "Next review", rvMore: "READ MORE ON GOOGLE", rvPause: "Pause reviews", rvPlay: "Play reviews", rvLabel: "Client reviews", rvStars: "5 stars", rvOrig: "",
     ariaHome: "Divinely Faded home", ariaFooter: "Divinely Faded footer", ariaSocial: "Social media", ariaOn: "Divinely Faded on", ariaCrumbs: "Breadcrumb",
     lbLabel: "Portfolio photo", lbClose: "Close photo", lbCloseText: "CLOSE ✕", lbAlt: "Enlarged Divinely Faded portfolio photo", reserveName: "Barber appointment",
   },
@@ -44,7 +44,7 @@ const T = {
     hours: "Lun, mar, jue, vie 9–12 y 12:30–5 · Sáb 8–2 · Cerrado mié y dom",
     designed: "Diseñado por", powered: "Con tecnología de", ctaEyebrow: "LISTO CUANDO TÚ LO ESTÉS", ctaHead: "Toma asiento.", ctaBook: "AGENDA EN BOOKSY", ctaText: "MENSAJE A TIM", ctaCall: "LLAMAR",
     bookThis: "Agenda este servicio", learnMore: "VER MÁS", varies: "Varía", min: "min", hr: "h", crumbHome: "Inicio", footerPhotoAlt: "Tim sentado en su barbería",
-    rvEyebrow: "DESDE LA SILLA / GOOGLE Y BOOKSY", rvOn: "en", rvReviews: "reseñas", rvAsOf: "Al", rvPrev: "Reseña anterior", rvNext: "Reseña siguiente", rvMore: "LEER MÁS EN GOOGLE", rvPause: "PAUSAR", rvPlay: "REPRODUCIR", rvLabel: "Reseñas de clientes", rvStars: "5 estrellas", rvOrig: "Reseñas originales en inglés.",
+    rvEyebrow: "DESDE LA SILLA / GOOGLE Y BOOKSY", rvOn: "en", rvReviews: "reseñas", rvAsOf: "Al", rvPrev: "Reseña anterior", rvNext: "Reseña siguiente", rvMore: "LEER MÁS EN GOOGLE", rvPause: "Pausar reseñas", rvPlay: "Reproducir reseñas", rvLabel: "Reseñas de clientes", rvStars: "5 estrellas", rvOrig: "Reseñas originales en inglés.",
     ariaHome: "Inicio de Divinely Faded", ariaFooter: "Pie de página de Divinely Faded", ariaSocial: "Redes sociales", ariaOn: "Divinely Faded en", ariaCrumbs: "Ruta de navegación",
     lbLabel: "Foto del portafolio", lbClose: "Cerrar foto", lbCloseText: "CERRAR ✕", lbAlt: "Foto ampliada del portafolio de Divinely Faded", reserveName: "Cita en la barbería",
   },
@@ -228,13 +228,21 @@ function footer(loc) {
 // quotes verbatim in English (lang="en"); no rating schema (self-serving LocalBusiness ratings are ineligible).
 const REVIEWS = fs.existsSync(path.join(ROOT, "content/reviews.json")) ? read("content/reviews.json") : null;
 const REVIEW_PAGES = new Set(["services", "about", "visit"]);
+// Carousel control icons: drawn, so they sit dead-center at any size (font glyphs like ‹ › do not).
+const SVG = (d, cls = "") => `<svg${cls ? ` class="${cls}"` : ""} viewBox="0 0 24 24" aria-hidden="true" focusable="false">${d}</svg>`;
+const ICON = {
+  prev: SVG('<path d="M14.5 5.5 8 12l6.5 6.5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>'),
+  next: SVG('<path d="M9.5 5.5 16 12l-6.5 6.5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>'),
+  pause: SVG('<rect x="7" y="6" width="3.2" height="12" rx="1" fill="currentColor"/><rect x="13.8" y="6" width="3.2" height="12" rx="1" fill="currentColor"/>', "df-i-pause"),
+  play: SVG('<path d="M8 5.8v12.4a.8.8 0 0 0 1.2.7l9.6-6.2a.8.8 0 0 0 0-1.4L9.2 5.1a.8.8 0 0 0-1.2.7z" fill="currentColor"/>', "df-i-play"),
+};
 function reviewsHTML(loc) {
   if (!REVIEWS) return "";
   const t = T[loc], R = REVIEWS;
   const asOf = new Date(R.as_of + "T12:00:00Z").toLocaleDateString(loc === "es" ? "es-US" : "en-US", { year: "numeric", month: "long", day: "numeric", timeZone: "UTC" });
   const rating = (k) => { const x = R.sources[k]; return `<a href="${esc(k === "booksy" && loc === "es" ? x.url.replace("/en-us/", "/es-us/") : x.url)}" target="_blank" rel="noopener" data-count="${k}:${x.count}"><span aria-hidden="true">★</span> ${x.rating.toFixed(1)} ${t.rvOn} ${x.label} · ${x.count} ${t.rvReviews}</a>`; };
   const slides = R.quotes.map((q, i) => `<figure class="df-review-slide${i ? "" : " is-active"}"${i ? ' aria-hidden="true"' : ""}><p class="stars" aria-label="${t.rvStars}">★★★★★</p><blockquote lang="en">“${esc(q.text)}”</blockquote><figcaption>${esc(q.author.toUpperCase())} · ${esc(R.sources[q.source].label.toUpperCase())}${q.service ? ` · ${esc(q.service.toUpperCase())}` : ""}</figcaption></figure>`).join("");
-  return `<section class="review df-reviews" data-df-reviews aria-roledescription="carousel" aria-label="${t.rvLabel}"><span class="eyebrow">${t.rvEyebrow}</span><p class="df-ratings">${rating("google")}${rating("booksy")}<small>${t.rvAsOf} ${asOf}${t.rvOrig ? ` · ${t.rvOrig}` : ""}</small></p><div class="df-review-slides" aria-live="off">${slides}</div><div class="df-review-nav" hidden><button type="button" class="df-review-prev" aria-label="${t.rvPrev}">‹</button><span class="df-review-pos">1 / ${R.quotes.length}</span><button type="button" class="df-review-next" aria-label="${t.rvNext}">›</button><button type="button" class="df-review-pause" aria-pressed="false" data-pause="${t.rvPause}" data-play="${t.rvPlay}">${t.rvPause}</button></div><a class="text-link" href="${esc(R.sources.google.url)}" target="_blank" rel="noopener">${t.rvMore}</a></section>`;
+  return `<section class="review df-reviews" data-df-reviews aria-roledescription="carousel" aria-label="${t.rvLabel}"><span class="eyebrow">${t.rvEyebrow}</span><p class="df-ratings">${rating("google")}${rating("booksy")}<small>${t.rvAsOf} ${asOf}${t.rvOrig ? ` · ${t.rvOrig}` : ""}</small></p><div class="df-review-slides" aria-live="off">${slides}</div><div class="df-review-nav" hidden><button type="button" class="df-review-prev" aria-label="${t.rvPrev}" title="${t.rvPrev}">${ICON.prev}</button><span class="df-review-pos">1 / ${R.quotes.length}</span><button type="button" class="df-review-next" aria-label="${t.rvNext}" title="${t.rvNext}">${ICON.next}</button><button type="button" class="df-review-pause" data-state="playing" aria-label="${t.rvPause}" title="${t.rvPause}" data-pause="${t.rvPause}" data-play="${t.rvPlay}">${ICON.pause}${ICON.play}</button></div><a class="text-link" href="${esc(R.sources.google.url)}" target="_blank" rel="noopener">${t.rvMore}</a></section>`;
 }
 function cta(t) {
   return `<section class="review df-cta" data-df-reveal-group><span class="eyebrow" data-df-reveal>${t.ctaEyebrow}</span><h2 data-df-reveal>${t.ctaHead}</h2><div class="df-cta-actions" data-df-reveal><a class="pill" href="${bk(t.lang)}" target="_blank" rel="noopener">${t.ctaBook}</a><a class="pill" href="sms:${facts.phone.e164}">${t.ctaText}</a><a class="pill" href="tel:${facts.phone.e164}">${t.ctaCall}</a></div></section>`;

@@ -94,11 +94,21 @@ footer#location.df-new-footer .df-footer-bottom-links a,footer#location.df-new-f
 .df-reviews .df-review-slide.is-active{visibility:visible;opacity:1;transition:opacity .45s cubic-bezier(.22,1,.36,1)}
 @media(prefers-reduced-motion:reduce){.df-reviews .df-review-slide,.df-reviews .df-review-slide.is-active{transition:none}}
 .df-reviews .df-review-slide figcaption{margin-top:14px;font-size:11px;letter-spacing:2px;color:#ddd}
-.df-reviews .df-review-nav{display:flex;align-items:center;justify-content:center;gap:14px;margin:10px 0 18px}
+.df-reviews .df-review-nav{display:flex;align-items:center;justify-content:center;gap:12px;margin:12px 0 18px}
 .df-reviews .df-review-nav[hidden]{display:none}
-.df-reviews .df-review-nav button{width:40px;height:40px;border-radius:50%;border:1px solid #fff;background:transparent;color:#fff;font-size:20px;line-height:1;cursor:pointer}
-.df-reviews .df-review-nav button:hover,.df-reviews .df-review-nav button:focus-visible{background:#fff;color:#080808}
-.df-reviews .df-review-pos{font-size:12px;letter-spacing:2px;color:#ddd;min-width:4em;text-align:center}
+/* Three equal 44px round controls with drawn icons (no glyph metrics, no text to overflow). Hover only where a
+   mouse can hover, the same rule as Colin's service rows, so a tapped button never stays filled on a phone. */
+.df-reviews .df-review-nav button{display:inline-grid;place-items:center;flex:0 0 44px;width:44px;height:44px;padding:0;margin:0;border:1px solid #fff;border-radius:50%;background:transparent;color:#fff;cursor:pointer;-webkit-appearance:none;appearance:none;-webkit-tap-highlight-color:transparent;touch-action:manipulation;transition:background .2s,color .2s}
+.df-reviews .df-review-nav svg{display:block;width:18px;height:18px;pointer-events:none}
+.df-reviews .df-review-nav button:active{background:rgba(255,255,255,.16)}
+@media (hover:hover) and (pointer:fine){.df-reviews .df-review-nav button:hover{background:#f1f0ec;color:#080808}}
+.df-reviews .df-review-nav button:focus-visible{background:#f1f0ec;color:#080808;outline:2px solid #fff;outline-offset:3px}
+.df-reviews .df-review-nav .df-review-pause{margin-left:6px}
+.df-reviews .df-review-pause .df-i-play{display:none;transform:translateX(1px)}
+.df-reviews .df-review-pause[data-state="paused"] .df-i-pause{display:none}
+.df-reviews .df-review-pause[data-state="paused"] .df-i-play{display:block}
+@media(prefers-reduced-motion:reduce){.df-reviews .df-review-nav button{transition:none}}
+.df-reviews .df-review-pos{font-size:12px;letter-spacing:2px;color:#ddd;min-width:3.6em;text-align:center;font-variant-numeric:tabular-nums}
 
 /* Map on /visit/: Google embed shown in grayscale to stay inside Colin's black-and-white system. */
 .df-map{position:relative;width:100%;aspect-ratio:16/9;max-height:520px;margin:28px 0 22px;border:1px solid #333;background:#111}
@@ -106,7 +116,5 @@ footer#location.df-new-footer .df-footer-bottom-links a,footer#location.df-new-f
 @media(max-width:700px){.df-map{aspect-ratio:4/5}}
 /* Homepage accordion: a quiet link to the service page, beside Colin's Book pill. */
 .service-detail .df-learn{display:inline-block;margin:0 18px 0 0;vertical-align:middle}
-/* Accessibility (Lighthouse target-size): rating links and the pause control get 24px+ hit areas. */
+/* Accessibility (Lighthouse target-size): rating links get 24px+ hit areas (the carousel controls are 44px). */
 .df-reviews .df-ratings a{display:inline-block;padding:6px 4px;min-height:24px}
-.df-reviews .df-review-pause{height:40px;padding:0 14px;border-radius:999px;border:1px solid #fff;background:transparent;color:#fff;font:600 11px/1 'DM Sans',Arial,sans-serif;letter-spacing:1.5px;cursor:pointer}
-.df-reviews .df-review-pause:hover,.df-reviews .df-review-pause:focus-visible{background:#fff;color:#080808}
