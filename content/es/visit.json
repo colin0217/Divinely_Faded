@@ -1,0 +1,92 @@
+{
+  "id": "visit",
+  "locale": "es",
+  "slug": "/es/visitanos/",
+  "alt": "/visit/",
+  "nav_label": "Visítanos",
+  "card_text": "Dirección, horario, cómo llegar y cómo contactarme.",
+  "breadcrumb": [["Inicio", "/es/"], ["Visítanos", "/es/visitanos/"]],
+  "seo": {
+    "title": "Barbería abierta el sábado en Carlsbad, NM | Horario",
+    "description": "Divinely Faded, 303 S Halagueno St, Carlsbad, NM. Abierta el sábado de 8:00 AM a 2:00 PM; cerrada miércoles y domingo. Agenda en Booksy o escríbele a Tim.",
+    "primary": "barbería abierta cerca de mí",
+    "secondary": ["barbería cerca de mí abierta", "barbería abierta hoy", "barbería abierta sábado"],
+    "og_photo": "shop-chair"
+  },
+  "schema": { "type": "ContactPage" },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "VISÍTANOS",
+      "h1": "Visita la barbería.",
+      "paragraphs": [
+        "{{address}}.",
+        "Solo con cita. Se agenda en Booksy. Si necesitas contactarme antes, mándame un mensaje. Es la forma más rápida de comunicarte conmigo."
+      ],
+      "link": { "label": "CÓMO LLEGAR", "href": "directions" },
+      "photos": ["shop-chair"],
+      "alt": {
+        "shop-chair": "Silla de barbero negra capitonada dentro de Divinely Faded en Carlsbad, NM"
+      }
+    },
+    {
+      "type": "list",
+      "eyebrow": "02 / DATOS DE LA BARBERÍA",
+      "heading": "Encuéntrame. Agéndame.",
+      "lead": "Toca para abrir.",
+      "items": [
+        { "title": "Dirección", "meta": "Carlsbad, NM", "body": "{{address}}. Abre la ruta en Google Maps.", "href": "directions", "book": false },
+        { "title": "Mensaje de texto", "meta": "{{phone}}", "body": "Mi forma preferida de saber de ti.", "href": "sms", "book": false },
+        { "title": "Llamada", "meta": "{{phone}}", "body": "Si prefieres hablar, llama al mismo número.", "href": "tel", "book": false },
+        { "title": "Cita", "meta": "Booksy", "body": "Todas las citas se agendan por Booksy, donde puedes ver los horarios disponibles.", "book": true }
+      ]
+    },
+    {
+      "type": "table",
+      "eyebrow": "03 / HORARIO",
+      "heading": "Horario.",
+      "lead": "Cerrado miércoles y domingo.",
+      "columns": ["Día", "Horario"],
+      "rows": [
+        ["Lunes", "9:00 AM–12:00 PM, 12:30–5:00 PM"],
+        ["Martes", "9:00 AM–12:00 PM, 12:30–5:00 PM"],
+        ["Miércoles", "Cerrado"],
+        ["Jueves", "9:00 AM–12:00 PM, 12:30–5:00 PM"],
+        ["Viernes", "9:00 AM–12:00 PM, 12:30–5:00 PM"],
+        ["Sábado", "8:00 AM–2:00 PM"],
+        ["Domingo", "Cerrado"]
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / LO QUE DEBES SABER",
+      "heading": "Días festivos, pago, políticas.",
+      "lead": "La letra chica, en corto.",
+      "paragraphs": [
+        "Días festivos: abro en mi horario normal. Las citas el mismo día festivo tienen un cargo por día festivo de {{holiday_fee}}.",
+        "Pago: efectivo, tarjeta, Zelle o Cash App; pagas el total al terminar el servicio.",
+        "Política: Booksy puede cobrar un cargo por cancelación si no llegas a tu cita o cancelas de último momento."
+      ],
+      "photos": []
+    },
+    {
+      "type": "table",
+      "eyebrow": "05 / SI VIENES DE CERCA",
+      "heading": "Si vienes de cerca.",
+      "lead": "¿Vienes manejando desde Loving, Artesia o cualquier otra parte del condado de Eddy? Aquí va más o menos qué tan lejos está la barbería.",
+      "columns": ["Pueblo", "Millas", "En auto"],
+      "rows": "nearby"
+    },
+    {
+      "type": "feature",
+      "eyebrow": "SOLO CON CITA",
+      "heading": "Agenda primero.<br>Luego llega.",
+      "button": { "label": "AGENDA AHORA", "href": "booksy" }
+    }
+  ],
+  "related": ["services", "about", "faq"],
+  "tim_questions": [
+    "[TIM?] Confirm weekday hours: Booksy shows Mon/Tue/Thu/Fri 9:00 AM–12:00 PM and 12:30–5:00 PM.",
+    "Parking: where should clients park? (Not on the page; parking is unknown and on never_claim.)"
+  ]
+}

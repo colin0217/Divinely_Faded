@@ -251,7 +251,7 @@ for (const file of FILES) {
     if (miss.length) {
       const msg = `${where}: <img> missing ${miss.join(', ')}: ${(a.src || '').slice(0, 90)}`;
       // Colin's frozen homepage markup is reported, not failed: it is outside the allowed-edits list.
-      if (file === 'index.html' && !inFooter) warn(msg + ' (frozen homepage markup)');
+      if ((file === 'index.html' || file === 'es/index.html') && !inFooter) warn(msg + ' (frozen homepage markup; /es/ is generated from it)');
       else fail(msg);
     }
   });

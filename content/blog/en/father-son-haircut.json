@@ -1,0 +1,157 @@
+{
+  "id": "post-father-son-haircut",
+  "locale": "en",
+  "slug": "/blog/father-son-haircut/",
+  "date": "2026-11-02",
+  "plan_rank": 3,
+  "title": "Father and Son Haircuts: Booking Back to Back",
+  "eyebrow": "KIDS",
+  "hero": null,
+  "hero_alt": null,
+  "image_plan": "pexels: father son barbershop",
+  "card_text": "Two appointments in a row on Booksy, the right service for each of you, and whether to match.",
+  "lede": [
+    "For a father and son haircut on one trip, book two appointments on Booksy in slots right next to each other, and pick the service that fits each of you. You both sit in the same chair, one after the other.",
+    "I work solo, so it is always one cut at a time. Here is how to line the two up, what to book, and how to decide whether you match."
+  ],
+  "seo": {
+    "title": "Father and Son Haircuts: Booking Back to Back | Carlsbad, NM",
+    "description": "Father and son haircuts in Carlsbad, NM: book two back-to-back appointments on Booksy, pick a service for each of you, and decide whether to match.",
+    "primary": "father son haircut",
+    "secondary": []
+  },
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Blog",
+      "/blog/"
+    ],
+    [
+      "Father and Son Haircuts",
+      "/blog/father-son-haircut/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / BOOKING",
+      "heading": "Two slots, one trip.",
+      "lead": "Book them in a row.",
+      "paragraphs": [
+        "Pick the first time on Booksy and book it. Then book the slot that starts when that one ends. Each appointment is its own booking with its own service.",
+        "Booksy holds {{minutes:essential-haircut}} for an Essential Haircut and {{minutes:signature-cut}} for a Signature Cut, so add the two you choose to know how long you will be at the shop.",
+        "Saturday, 8:00 AM to 2:00 PM, is the day without school in the way, so it is the one to book ahead. If you can't find two open slots together, text me at {{phone}} before you settle for two separate trips."
+      ],
+      "link": {
+        "label": "KIDS' HAIRCUTS",
+        "href": "page:services-kids"
+      }
+    },
+    {
+      "type": "list",
+      "eyebrow": "02 / WHAT TO BOOK",
+      "heading": "Pick for each of you.",
+      "lead": "Two bookings don't need the same service.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "A clean cut with a straight razor finish at the neck. A natural fit for the son, or for a dad without a beard.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "The cut plus a beard trim or line-up and a hot towel finish. Book it for the dad whose beard should match his fade.",
+          "book": true
+        },
+        {
+          "title": "Hair design add-on",
+          "meta": "{{addon:hair-design}}",
+          "body": "Lines or a freestyle curve cut into a fade. Add it to the son's booking if he wants something of his own."
+        },
+        {
+          "title": "All the haircut options",
+          "meta": "Compare",
+          "body": "The haircuts page lays out the three cut services and what separates them.",
+          "href": "page:services-haircuts",
+          "link_label": "SEE THE HAIRCUTS"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / WHO GOES FIRST",
+      "heading": "Son first, or Dad?",
+      "lead": "There's no rule.",
+      "paragraphs": [
+        "A younger kid often does better going first, while he is still patient and before he has had to wait. An older son may be happy either way, so let him choose.",
+        "Whoever goes second, plan the day around the length of the first booking, so nobody is rushing to the next thing."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / MATCHING",
+      "heading": "Match or don't.",
+      "lead": "Both are fine.",
+      "paragraphs": [
+        "Matching cuts make an easy photo, but nobody has to match. The same fade can look different on a dad and a son, because hair type, thickness and head shape all change how a cut sits, and I tailor each one to the head in front of me.",
+        "If you want to match, pick one style and show me a photo of it. A low taper is an easy one to share, since it sits well on straight, wavy or curly hair. If you would each rather wear your own look, tell me at the start of each cut.",
+        "Matching doesn't have to be exact, either. The same fade on the sides with a different top is an easy way to look related without looking like twins."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "05 / FIRST CUT TOGETHER",
+      "heading": "Make it easy on him.",
+      "lead": "Especially for a younger son.",
+      "paragraphs": [
+        "If this is one of your son's first barber cuts, tell him what is coming before you arrive: the cape, the buzz of the clippers near his ear, the cool feel of the razor along the neck. Kids who know what to expect usually sit easier.",
+        "Let him pick his own cut from the photos on my kids' haircuts page, or have him choose to match yours. A cut that was his idea is a cut he is happy to sit for."
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / QUESTIONS",
+      "heading": "Dads ask.",
+      "items": [
+        {
+          "q": "How are two back-to-back haircuts priced?",
+          "a": "Each booking is priced like any other: the Essential Haircut is {{price:essential-haircut}} and the Signature Cut is {{price:signature-cut}}. You pay after the service by cash, card, Zelle or Cash App."
+        },
+        {
+          "q": "Can I book both appointments at once?",
+          "a": "Book them one after the other on Booksy. If the second slot isn't open right after the first, text me and ask."
+        },
+        {
+          "q": "Can Dad get his beard done in the same trip?",
+          "a": "Yes. Book the Signature Cut for Dad, and the beard trim or line-up happens in his own slot. I work one chair at a time, so the two appointments still run one after the other."
+        },
+        {
+          "q": "What if one of us can't make it?",
+          "a": "Cancel that booking on Booksy as early as you can so the slot can go to someone else. No-shows and late cancellations may carry a cancellation fee."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "SAME CHAIR",
+      "heading": "One trip.<br>Two fresh cuts.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "services-kids",
+    "services-haircuts"
+  ],
+  "tim_questions": [
+    "Can a family member wait inside the shop during the other person's cut? (the post avoids saying so)",
+    "Does Booksy let one account book two people back to back, or should each person book separately?"
+  ]
+}

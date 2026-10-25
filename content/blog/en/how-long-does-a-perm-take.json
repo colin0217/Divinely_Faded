@@ -1,0 +1,157 @@
+{
+  "id": "post-how-long-does-a-perm-take",
+  "locale": "en",
+  "slug": "/blog/how-long-does-a-perm-take/",
+  "date": "2026-11-02",
+  "plan_rank": 4,
+  "title": "How Long Does a Perm Take? What Happens in 90 Minutes",
+  "eyebrow": "COLOR & TEXTURE",
+  "hero": null,
+  "hero_alt": null,
+  "image_plan": "pexels: perm rods men",
+  "card_text": "Booksy holds the Perm for 90 minutes. Here is what fills that time, what changes it, and how to plan around it.",
+  "lede": [
+    "A perm at my shop is booked as a {{minutes:perm}} appointment on Booksy, and the Perm is {{price:perm}}. That window covers the whole job: talking through the look, setting the hair on rods, the waving solution, the neutralizer and the final rinse.",
+    "Below is where the time goes, what makes one perm longer than another, and how to plan the rest of your day around it."
+  ],
+  "seo": {
+    "title": "How Long Does a Perm Take? What Happens in 90 Minutes",
+    "description": "How long does a perm take? In Carlsbad, NM, Divinely Faded books the Perm as a 90-minute appointment. Here's what happens in that time.",
+    "primary": "how long does a perm take",
+    "secondary": []
+  },
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Blog",
+      "/blog/"
+    ],
+    [
+      "How Long a Perm Takes",
+      "/blog/how-long-does-a-perm-take/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / THE STEPS",
+      "heading": "Where the time goes.",
+      "lead": "A perm is chemistry, done in order.",
+      "subsections": [
+        {
+          "heading": "Talk it through",
+          "paragraphs": [
+            "We start with what you want out of it: lift at the top, texture in a crop, or some shape in hair that won't hold one on its own. A photo of the wave or curl you have in mind gets us aimed at the same result."
+          ]
+        },
+        {
+          "heading": "Wrap the rods",
+          "paragraphs": [
+            "The hair is sectioned and wound around rods. Rod size decides the result: smaller rods make a tighter curl, bigger rods a looser wave. This is the hands-on part, and it runs longer on thick or long hair."
+          ]
+        },
+        {
+          "heading": "Solution and neutralizer",
+          "paragraphs": [
+            "A waving solution goes on and softens the hair's inner structure so it takes the shape of the rod. Once it has processed, it is rinsed out and a neutralizer locks the new shape in."
+          ]
+        },
+        {
+          "heading": "Rinse and finish",
+          "paragraphs": [
+            "The rods come out, the hair gets another rinse, and it is styled so you leave seeing what the perm actually did."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / WHAT CHANGES IT",
+      "heading": "No two perms run alike.",
+      "lead": "Hair decides the pace.",
+      "paragraphs": [
+        "Length and thickness matter most. A short top needs fewer rods than a full head of longer hair, and every extra rod is time in the chair.",
+        "How readily your hair takes a curl changes how long the solution needs, too. Booksy blocks the full {{minutes:perm}} either way, so neither of us has to guess or rush it.",
+        "Hair that has never been colored or chemically treated tends to take a curl more predictably than hair that has. Previous color is one more thing that changes the pace."
+      ],
+      "link": {
+        "label": "SEE COLOR AND PERM",
+        "href": "page:services-color"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / PLAN YOUR DAY",
+      "heading": "Clear the slot.",
+      "lead": "Nothing tight after it.",
+      "paragraphs": [
+        "Pick a time with nothing waiting right behind it. A perm can't be paused halfway through, so a slot squeezed in before a shift isn't the one to choose.",
+        "Saturday runs 8:00 AM to 2:00 PM, so an early Saturday slot leaves the rest of your day free. Whatever the day, pick a time you can sit through without stepping out.",
+        "You pay once it's done, by cash, card, Zelle or Cash App. If something comes up, cancel on Booksy well ahead, because a no-show or a late cancellation may be charged a fee."
+      ],
+      "link": {
+        "label": "MORE QUESTIONS ANSWERED",
+        "href": "page:faq"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / IS IT FOR YOU",
+      "heading": "Perm or something else.",
+      "lead": "Shape, not shade.",
+      "paragraphs": [
+        "A perm is for shape. It suits hair that lies flat, won't hold volume, or needs texture that styling alone can't give it. A loose wave can add movement through a textured crop, and tighter curls can sit on top over a faded side.",
+        "Styling products give you shape for a day. A perm changes the structure of the hair you have now, so the shape stays in that hair. New growth comes in with your natural texture.",
+        "If the goal is a new color rather than a new shape, that is the Color Transformation, not a perm. If your hair has been bleached or colored recently, mention it when you text, since both are chemical services on the same hair. Not sure a perm will do what you want? Text me a photo of your hair now next to the look you're after."
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "05 / QUESTIONS",
+      "heading": "Perm questions.",
+      "items": [
+        {
+          "q": "How long does a perm take?",
+          "a": "At Divinely Faded, Booksy holds {{minutes:perm}} for a Perm. That covers talking through the look, the rods, the solution, the neutralizer and the rinse."
+        },
+        {
+          "q": "How much is a perm?",
+          "a": "The Perm is {{price:perm}}, paid after the service."
+        },
+        {
+          "q": "Does a perm grow out?",
+          "a": "The curl stays in the hair that was permed. New hair grows in with your natural texture, and the permed lengths come off as you get cut."
+        },
+        {
+          "q": "What should I bring to a perm appointment?",
+          "a": "A photo of the wave or curl you want, and a schedule that's clear for the full {{minutes:perm}}."
+        },
+        {
+          "q": "Can I get a perm on short hair?",
+          "a": "The hair needs enough length to wrap around a rod. If you aren't sure yours is long enough, text me a photo before you book."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "NEW TEXTURE",
+      "heading": "Set it.<br>Wear it.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "services-color",
+    "faq"
+  ],
+  "tim_questions": [
+    "Confirm the perm steps described (talk-through, rods, waving solution, neutralizer, rinse, style) match how you do it.",
+    "Any perm aftercare you want on the site (when to wash, what to use)? Left out.",
+    "Can a Perm and a Color Transformation be booked the same day?"
+  ]
+}

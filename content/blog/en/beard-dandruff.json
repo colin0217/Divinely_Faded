@@ -1,0 +1,161 @@
+{
+  "id": "post-beard-dandruff",
+  "locale": "en",
+  "slug": "/blog/beard-dandruff/",
+  "date": "2026-11-02",
+  "plan_rank": 6,
+  "title": "Beard Dandruff in a Dry Climate: Causes and Fixes",
+  "eyebrow": "CARE",
+  "hero": "shave-head-beard-trim",
+  "hero_alt": "A smooth-shaved head with a full, trimmed salt-and-pepper beard",
+  "image_plan": null,
+  "card_text": "Why beards flake in Carlsbad's dry air, what helps at home, what a barber visit can and can't do.",
+  "lede": [
+    "Beard dandruff is flaking from the skin under your beard, not from the hair. Dry air, long hot showers and a beard that traps dead skin all make it worse, and Carlsbad's desert air doesn't help. The fix starts with the skin: keep it clean, don't strip it dry, and keep the beard trimmed so it is easier to clean down to the skin.",
+    "I'm a barber, not a doctor, so here is what I can help with in the chair, and when to take it to someone else."
+  ],
+  "seo": {
+    "title": "Beard Dandruff in a Dry Climate: Causes and Fixes",
+    "description": "Beard dandruff in Carlsbad, NM's dry air: why the skin under a beard flakes and itches, simple fixes, and how a beard trim or facial helps.",
+    "primary": "beard dandruff",
+    "secondary": [
+      "dry beard",
+      "itchy beard",
+      "how to get rid of beard dandruff"
+    ]
+  },
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Blog",
+      "/blog/"
+    ],
+    [
+      "Beard Dandruff",
+      "/blog/beard-dandruff/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "section",
+      "eyebrow": "01 / CAUSES",
+      "heading": "Why it flakes.",
+      "lead": "Usually one of two things.",
+      "paragraphs": [
+        "The first is plain dry skin. The skin under the beard loses moisture, feels tight and itchy, and sheds small white flakes. The second is a common skin condition called seborrheic dermatitis, which tends to leave larger, greasy, yellowish flakes along with redness. Dry skin is a moisture problem. The second one deserves a doctor's look.",
+        "Carlsbad sits in the Chihuahuan Desert, and dry air pulls water out of skin. Long, hot showers and harsh soap strip it further. A thick beard also holds onto dead skin that would otherwise rinse away."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / AT HOME",
+      "heading": "Keep it simple.",
+      "lead": "Start with the skin, not the hair.",
+      "paragraphs": [
+        "Wash the beard when you wash your face, and rinse all the way to the skin, not only the hair on top. Soap left in a beard is its own source of itch. Pat it dry instead of scrubbing with the towel.",
+        "If the flakes hang on, spread, or come with redness or soreness, see a doctor or a dermatologist. A medicated wash or cream may be what it takes, and that call belongs to them, not to me."
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "03 / IN THE CHAIR",
+      "heading": "What a visit can do.",
+      "lead": "Clean edges, warm towels, a reset for the skin.",
+      "items": [
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "Your haircut plus a beard trim or line-up and a hot towel finish. A trim takes off dry, frayed ends, and the warm towel softens both the beard and the skin under it.",
+          "href": "page:services-beard-shaves",
+          "link_label": "BEARD AND SHAVES",
+          "book": true
+        },
+        {
+          "title": "Straight Razor Beard Shave",
+          "meta": "{{price:straight-razor-beard-shave}} · {{minutes:straight-razor-beard-shave}}",
+          "body": "Ready to start over? A wet shave takes the beard off entirely, with hot towels, shaving cream and a soothing aftershave.",
+          "book": true
+        },
+        {
+          "title": "Express Facial",
+          "meta": "{{price:express-facial}} · {{minutes:express-facial}}",
+          "body": "Massage, steam, a deep cleanse, gentle exfoliation and a hydrating moisturizer. Worth booking when the dryness reaches your cheeks and forehead too.",
+          "href": "page:services-facials",
+          "link_label": "MEN'S FACIALS",
+          "book": true
+        },
+        {
+          "title": "Luxury Grooming Experience",
+          "meta": "{{price:luxury-grooming}} · {{minutes:luxury-grooming}}",
+          "body": "The cut with a beard sculpt, facial steam and two hot towels in one booking, for when the beard and the skin both need time.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / WORSE IN WINTER",
+      "heading": "When it flares.",
+      "lead": "Dry air, then dry heat.",
+      "paragraphs": [
+        "Cold months make it worse. The air outside is dry to begin with, indoor heating dries it further, and a long hot shower feels good exactly when it does the most stripping.",
+        "Long days outdoors in wind and sun dry the skin too. If your work keeps you outside, the skin under your beard is taking that all day."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "05 / WHAT NOT TO DO",
+      "heading": "Hands off the flakes.",
+      "lead": "Scratching keeps it going.",
+      "paragraphs": [
+        "Don't pick or scratch the flakes loose. It irritates the skin and keeps the cycle going. Skip the rough towel scrub after a shower, and don't hide flaking under a beard you keep growing without ever cleaning up the shape."
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / QUESTIONS",
+      "heading": "Beard dandruff questions.",
+      "items": [
+        {
+          "q": "How do I get rid of beard dandruff?",
+          "a": "Start with the skin. Wash the beard when you wash your face, rinse down to the skin and go easy on long, hot showers. If the flaking hangs on or the skin turns red and sore, see a doctor, since it may be a skin condition that needs treatment."
+        },
+        {
+          "q": "Why is my beard itchy?",
+          "a": "Dry skin under the hair is the usual reason, and dry air makes it worse. A new beard can itch while the short hairs grow out, too. If the itch comes with a rash or redness, have a doctor look at it."
+        },
+        {
+          "q": "Does a beard trim help with dandruff?",
+          "a": "A trim doesn't treat the skin. It does clear away frayed ends and makes a beard easier to keep clean down to the skin."
+        },
+        {
+          "q": "Should I shave my beard to get rid of dandruff?",
+          "a": "You don't have to. Shaving exposes the skin and makes it easy to wash, but the flaking comes from the skin itself, so it can return as the beard grows back."
+        },
+        {
+          "q": "Do you treat scalp or skin conditions?",
+          "a": "No. Capillary treatments aren't on my menu, and anything that looks like a skin condition belongs with a doctor."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "BEARD WORK",
+      "heading": "Clean skin.<br>Sharp beard.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "services-beard-shaves",
+    "services-facials"
+  ],
+  "tim_questions": [
+    "Is there an at-home beard routine or product type (beard oil, conditioner) you want to recommend? Left out pending your OK; the post only gives general washing advice and points to a doctor."
+  ]
+}

@@ -409,3 +409,10 @@ The lead applies these; I did not edit `build.mjs`. "Booking" verbs follow §3: 
 ## Additions (translators: append here, dated, then reuse verbatim)
 | EN | Locked ES | Added by / date |
 |---|---|---|
+| edges (hair/beard edges) | **los bordes** | es-services, 2026-10-24 |
+| rows (braids) | **filas** | es-services, 2026-10-24 |
+| salt-and-pepper (beard) | **entrecano/entrecana** | es-services, 2026-10-24 |
+| tufted (barber chair) | **capitonado/capitonada** | es-services, 2026-10-24 |
+| young clients / little clients | **clientes pequeños** | es-services, 2026-10-24 |
+| STORE INFO (eyebrow) | **DATOS DE LA BARBERÍA** | es-services, 2026-10-24 |
+| "lists it as varies" (Booksy price, prose) | **con precio variable** (meta stays `Varía`) | es-services, 2026-10-24 |

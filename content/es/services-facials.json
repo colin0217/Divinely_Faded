@@ -1,0 +1,78 @@
+{
+  "id": "services-facials",
+  "locale": "es",
+  "slug": "/es/servicios/faciales-para-hombres/",
+  "alt": "/services/mens-facials/",
+  "nav_label": "Faciales para hombres",
+  "card_text": "Express o Deluxe, en la silla de barbero.",
+  "breadcrumb": [["Inicio", "/es/"], ["Servicios", "/es/servicios/"], ["Faciales para hombres", "/es/servicios/faciales-para-hombres/"]],
+  "seo": {
+    "title": "Facial para hombres en Carlsbad, NM | Divinely Faded",
+    "description": "Facial para hombres en Carlsbad, NM en Divinely Faded: el Express y el Deluxe Facial, con vapor, masaje y crema hidratante en la silla de barbero.",
+    "primary": "facial para hombres",
+    "secondary": ["faciales para hombres", "limpieza facial para hombres"],
+    "og_photo": "steam-facial"
+  },
+  "schema": { "type": "Service", "service_ids": ["express-facial", "deluxe-facial"] },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "SERVICIOS / FACIALES",
+      "h1": "Faciales para hombres.",
+      "paragraphs": [
+        "Vapor. Masaje. Una cara limpia.",
+        "Dos faciales, los dos aquí mismo en la silla de barbero. No necesitas una cita en un spa ni ir aparte al otro lado de la ciudad para cuidar tu piel. Te recuestas y yo me encargo del resto."
+      ],
+      "link": { "label": "AGENDA UN FACIAL", "href": "booksy" },
+      "photos": ["steam-facial", "facial-hot-towel-massage"],
+      "alt": {
+        "steam-facial": "Vapor tibio dirigido a la cara de un cliente reclinado durante un facial para hombres",
+        "facial-hot-towel-massage": "Masaje facial en las sienes de un cliente reclinado con barba"
+      }
+    },
+    {
+      "type": "list",
+      "eyebrow": "02 / EL MENÚ",
+      "heading": "Express o Deluxe.",
+      "lead": "Elige por tiempo y tratamiento.",
+      "items": [
+        { "title": "Express Facial", "meta": "{{price:express-facial}} · {{minutes:express-facial}}", "body": "Masaje facial, vapor tibio, limpieza profunda, exfoliación suave y crema hidratante. Una renovación completa que cabe en poco tiempo.", "book": true },
+        { "title": "Deluxe Facial", "meta": "{{price:deluxe-facial}} · {{minutes:deluxe-facial}}", "body": "Masaje facial, vapor tibio, exfoliación suave y crema hidratante, más tratamientos avanzados para la piel y sérum antiedad. El que te conviene agendar cuando quieres algo más que refrescarte.", "book": true }
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / EN LA SILLA",
+      "heading": "Cómo se siente.",
+      "lead": "Solo tienes que recostarte.",
+      "paragraphs": [
+        "Para este te recuestas. Los dos faciales incluyen un masaje en la cara y las sienes, como el de la foto de arriba, vapor tibio dirigido a la cara, exfoliación suave y crema hidratante.",
+        "El Express Facial (facial exprés) agrega limpieza profunda. El Deluxe Facial (facial deluxe) agrega tratamientos avanzados para la piel y sérum antiedad.",
+        "Las dos fotos de arriba muestran las dos partes: vapor tibio dirigido a la cara de un cliente reclinado, y un masaje trabajado en las sienes."
+      ],
+      "photos": []
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / CUÁL ELEGIR",
+      "heading": "¿Poco tiempo?",
+      "lead": "Elige el Express.",
+      "paragraphs": [
+        "El Express Facial dura {{minutes:express-facial}}. El Deluxe dura {{minutes:deluxe-facial}} y cuesta {{price:deluxe-facial}}, y ahí es donde entran los tratamientos avanzados y el sérum.",
+        "Si lo que más quieres es el vapor y las toallas calientes con tu corte, mira la Luxury Grooming Experience (experiencia de arreglo de lujo) en la página de cortes. El vapor facial y las dos toallas calientes ya vienen incluidos.",
+        "Cualquiera de los dos faciales se agenda en Booksy como cualquier otra cita. Pagas después del facial, y si no llegas a tu cita sin avisar, se puede cobrar un cargo por cancelación."
+      ],
+      "photos": []
+    },
+    {
+      "type": "feature",
+      "eyebrow": "CUIDADO DE LA PIEL",
+      "heading": "Recuéstate.<br>Respira.",
+      "button": { "label": "AGENDA AHORA", "href": "booksy" }
+    }
+  ],
+  "related": ["services-beard-shaves", "services-haircuts", "faq"],
+  "tim_questions": [
+    "Can a facial be booked in the same visit as a haircut (back-to-back on Booksy)? (Not on the page.)"
+  ]
+}

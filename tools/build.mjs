@@ -56,6 +56,9 @@ const live = (p) => !p._post || (p.date && p.date <= TODAY);
 const all = [...pages, ...posts.filter(live)];
 const byKey = new Map(all.map((p) => [`${p.locale}:${p.id}`, p]));
 
+// Tokens in titles, cards and SEO fields too (posts state times/prices in headlines).
+const fillMeta = () => { for (const p of all) { const t = T[p.locale]; for (const k of ["title", "card_text"]) if (p[k]) p[k] = fill(p[k], t); if (p.seo) for (const k of ["title", "description"]) if (p.seo[k]) p.seo[k] = fill(p.seo[k], t); } };
+
 // ---------- photo preflight: fetch any library photo the content uses but the manifest lacks ----------
 {
   const used = new Set();
@@ -237,7 +240,7 @@ function jsonld(p) {
   if (p.schema?.type === "Service" && !p.schema.service_ids?.length && !p.schema.addons?.length && p.schema.name) g.push(serviceNode("main", p.schema.name, null));
   const faqs = (p.blocks || []).filter((b) => b.type === "faq").flatMap((b) => b.items);
   if (faqs.length) g.push({ "@type": "FAQPage", "@id": `${url}#faq`, mainEntity: faqs.map((f) => ({ "@type": "Question", name: fill(f.q || f.title, T[p.locale]).replace(/<[^>]+>/g, ""), acceptedAnswer: { "@type": "Answer", text: fill(f.a || f.body, T[p.locale]).replace(/<[^>]+>/g, "") } })) });
-  if (p._post) g.push({ "@type": "BlogPosting", "@id": `${url}#post`, headline: p.title, description: p.seo?.description, datePublished: p.date, dateModified: p.updated || p.date, inLanguage: L, author: { "@id": `${SITE}/#tim` }, publisher: { "@id": `${SITE}/#business` }, mainEntityOfPage: { "@id": `${url}#webpage` }, ...(p.hero ? { image: p.hero.startsWith("http") ? p.hero : `${SITE}/assets/photos/${p.hero}-1200.webp` } : {}) });
+  if (p._post) g.push({ "@type": "BlogPosting", "@id": `${url}#post`, headline: p.title, description: p.seo?.description, datePublished: p.date, dateModified: p.updated || p.date, inLanguage: L, author: { "@id": `${SITE}/#tim` }, publisher: { "@id": `${SITE}/#business` }, mainEntityOfPage: { "@id": `${url}#webpage` }, image: p.hero ? (p.hero.startsWith("http") ? p.hero : `${SITE}/assets/photos/${p.hero}-1200.webp`) : `${SITE}/assets/photos/${p.seo?.og_photo || "team-tim-portrait"}-1200.webp` });
   return JSON.stringify({ "@context": "https://schema.org", "@graph": g }).replace(/</g, "\\u003c");
 }
 
@@ -268,6 +271,7 @@ function renderPost(p, t) {
   return `<article class="df-post"><section class="experience df-no-photos" data-df-reveal-group><div class="intro"><span class="eyebrow" data-df-reveal>${esc(p.eyebrow || "BLOG")} · <time datetime="${p.date}">${date}</time></span><h1 data-df-reveal>${html(p.title)}</h1><div class="intro-copy" data-df-reveal-group>${(p.lede || []).map((x) => `<p data-df-reveal>${html(fill(x, t))}</p>`).join("")}<p class="df-byline" data-df-reveal>${by}</p></div></div></section>${hero}${blocks}</article>`;
 }
 
+fillMeta();
 // ---------- write ----------
 let n = 0;
 const LEAKS = [];

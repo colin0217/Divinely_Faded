@@ -1,0 +1,240 @@
+{
+  "id": "post-which-haircut-service-to-book",
+  "locale": "en",
+  "slug": "/blog/which-haircut-service-to-book/",
+  "date": "2026-11-02",
+  "plan_rank": 1,
+  "title": "Essential, Signature or Luxury: Which Service Should You Book?",
+  "eyebrow": "GUIDE",
+  "hero": "tim-beard-detailing",
+  "hero_alt": "Tim working on a reclined client's full beard, towel in hand",
+  "image_plan": null,
+  "card_text": "Three haircut services, one question: how much do you want done around the cut? Here is what each one adds.",
+  "lede": [
+    "Book the Essential Haircut ({{price:essential-haircut}}, {{minutes:essential-haircut}}) when all you need is the cut. Book the Signature Cut ({{price:signature-cut}}, {{minutes:signature-cut}}) when your beard or line-up needs work too. Book the Luxury Grooming Experience ({{price:luxury-grooming}}, {{minutes:luxury-grooming}}) when you want the whole treatment in one sitting.",
+    "All three start with the same precision haircut. What changes is everything I do around it, and this guide lays that out piece by piece."
+  ],
+  "seo": {
+    "title": "Essential, Signature or Luxury: Which Cut to Book?",
+    "description": "Essential, Signature or Luxury Grooming at Divinely Faded in Carlsbad, NM: what each haircut includes, how long it takes and which to book.",
+    "primary": "luxury haircut",
+    "secondary": [
+      "what is a signature haircut"
+    ]
+  },
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Blog",
+      "/blog/"
+    ],
+    [
+      "Which Service to Book",
+      "/blog/which-haircut-service-to-book/"
+    ]
+  ],
+  "blocks": [
+    {
+      "type": "list",
+      "eyebrow": "01 / THE THREE",
+      "heading": "Side by side.",
+      "lead": "Same cut underneath. More layered on top.",
+      "items": [
+        {
+          "title": "Essential Haircut",
+          "meta": "{{price:essential-haircut}} · {{minutes:essential-haircut}}",
+          "body": "The haircut itself, shaped around your style and your head, then a straight razor along the neck and a finished style. Nothing else gets added unless you add it at booking.",
+          "book": true
+        },
+        {
+          "title": "Signature Cut",
+          "meta": "{{price:signature-cut}} · {{minutes:signature-cut}}",
+          "body": "That same cut, plus your beard trimmed or lined up, a hot towel to finish and straight razor detailing around the edges. Booksy lists it as my most popular service.",
+          "book": true
+        },
+        {
+          "title": "Luxury Grooming Experience",
+          "meta": "{{price:luxury-grooming}} · {{minutes:luxury-grooming}}",
+          "body": "It opens with a consultation. After the cut come a beard sculpt, a wash with scalp massage, facial steam, two hot towels, razor detailing, a basic hair design, ear and nose waxing, styling and a fragrance to close.",
+          "book": true
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "eyebrow": "02 / WHAT'S INCLUDED",
+      "heading": "What each one adds.",
+      "lead": "Read across a row to see where each detail comes in.",
+      "columns": [
+        "Detail",
+        "Essential",
+        "Signature",
+        "Luxury"
+      ],
+      "rows": [
+        [
+          "Precision haircut",
+          "Yes",
+          "Yes",
+          "Yes"
+        ],
+        [
+          "Consultation",
+          "—",
+          "—",
+          "Yes"
+        ],
+        [
+          "Straight razor",
+          "Neck cleanup",
+          "Detailing",
+          "Detailing"
+        ],
+        [
+          "Beard",
+          "—",
+          "Trim or line-up",
+          "Sculpt"
+        ],
+        [
+          "Hot towel",
+          "—",
+          "Finish",
+          "Two"
+        ],
+        [
+          "Wash & scalp massage",
+          "Add-on",
+          "Add-on",
+          "Yes"
+        ],
+        [
+          "Facial steam",
+          "—",
+          "—",
+          "Yes"
+        ],
+        [
+          "Basic hair design",
+          "Add-on",
+          "Add-on",
+          "Yes"
+        ],
+        [
+          "Ear & nose wax",
+          "Add-on",
+          "Add-on",
+          "Yes"
+        ],
+        [
+          "Fragrance finish",
+          "Add-on",
+          "Add-on",
+          "Yes"
+        ]
+      ],
+      "paragraphs": [
+        "The add-ons are priced on their own: a hair design is {{addon:hair-design}}, a wash and scalp massage {{addon:wash-scalp-massage}}, nose and ear waxing {{addon:nose-ear-wax}}, eyebrows {{addon:eyebrows}} and a fragrance finish {{addon:luxury-fragrance}}. If you catch yourself stacking three or four extras onto a Signature Cut, compare that total with the Luxury on Booksy before you pick."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / HOW TO DECIDE",
+      "heading": "Three questions.",
+      "lead": "Answer them in order.",
+      "subsections": [
+        {
+          "heading": "Does your beard need me?",
+          "paragraphs": [
+            "If not, the Essential covers you. If you want it trimmed, lined up or brought back in line with a fresh fade, that is the Signature. The Essential has no beard work in it, so book up when the beard is part of the plan."
+          ]
+        },
+        {
+          "heading": "How much time do you have?",
+          "paragraphs": [
+            "Booksy blocks {{minutes:essential-haircut}}, {{minutes:signature-cut}} or {{minutes:luxury-grooming}}. On a lunch break, the first two fit easier. The Luxury is the one to choose on a day you aren't watching the clock."
+          ]
+        },
+        {
+          "heading": "Regular cut or an occasion?",
+          "paragraphs": [
+            "For your regular cut, the Essential or Signature does the job. Before a wedding, an interview or a photo you will keep for years, the Luxury gives you the full reset: beard, skin, scent and a simple design if you want one."
+          ]
+        }
+      ],
+      "link": {
+        "label": "COMPARE THE HAIRCUTS",
+        "href": "page:services-haircuts"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / BEARD ONLY",
+      "heading": "No haircut needed?",
+      "lead": "Two shaves stand on their own.",
+      "paragraphs": [
+        "Want the beard shaved off instead of trimmed? The Straight Razor Beard Shave ({{price:straight-razor-beard-shave}}, {{minutes:straight-razor-beard-shave}}) is booked by itself, with no haircut attached.",
+        "Taking the head and the beard down smooth together is the Head & Beard Shave, {{price:head-beard-shave}} for {{minutes:head-beard-shave}}. Both lean on hot towels and finish with an aftershave."
+      ],
+      "link": {
+        "label": "BEARD AND SHAVE OPTIONS",
+        "href": "page:services-beard-shaves"
+      }
+    },
+    {
+      "type": "section",
+      "eyebrow": "05 / STILL TORN",
+      "heading": "Can't decide?",
+      "lead": "Start in the middle.",
+      "paragraphs": [
+        "If you can't choose, the Signature Cut sits in the middle. It covers the cut and the beard, adds a hot towel, and Booksy lists it as my most popular service. You can always book up or down next time once you know what you like.",
+        "On Booksy, choose the service first and the time second. The prices and times in this post are the ones Booksy shows. If plans change after you book, cancel early, because a no-show or late cancellation may carry a fee."
+      ]
+    },
+    {
+      "type": "faq",
+      "eyebrow": "06 / QUESTIONS",
+      "heading": "Quick answers.",
+      "items": [
+        {
+          "q": "What is a signature haircut?",
+          "a": "At my shop it is the Signature Cut: a precision haircut with a beard trim or line-up, a hot towel finish and straight razor detailing, for {{price:signature-cut}}. Other shops use the name differently, so check what is included wherever you book."
+        },
+        {
+          "q": "What makes a haircut a luxury haircut?",
+          "a": "Time and extras. My Luxury Grooming Experience runs {{minutes:luxury-grooming}} and wraps the cut in a consultation, a beard sculpt, a wash, steam, hot towels, waxing, a basic design and a fragrance finish."
+        },
+        {
+          "q": "Which one should I book for my kid?",
+          "a": "Kids book from the same menu. The Essential Haircut covers a kid's cut, and lines or a curve can be added for {{addon:hair-design}}."
+        },
+        {
+          "q": "Do I pay before or after?",
+          "a": "After. Payment is due in full once the service is done, by cash, card, Zelle or Cash App."
+        },
+        {
+          "q": "How long is the Luxury Grooming Experience?",
+          "a": "Booksy holds {{minutes:luxury-grooming}} for it, against {{minutes:signature-cut}} for the Signature and {{minutes:essential-haircut}} for the Essential."
+        }
+      ]
+    },
+    {
+      "type": "feature",
+      "eyebrow": "PICK YOUR LEVEL",
+      "heading": "Pick a service.<br>Then pick a time.",
+      "button": {
+        "label": "BOOK NOW",
+        "href": "booksy"
+      }
+    }
+  ],
+  "related": [
+    "services",
+    "services-haircuts",
+    "services-beard-shaves"
+  ],
+  "tim_questions": []
+}
