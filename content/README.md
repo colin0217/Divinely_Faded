@@ -63,3 +63,11 @@ The generator (`tools/build.mjs`) turns `content/<locale>/<id>.json` into static
   - Alt text names the cut, written in `"alt": {"<photo>": "..."}` on the page.
 - **Length:** 250–500 words of body copy for service and style pages; hubs 150–300.
 - **Uniqueness:** no paragraph may be interchangeable with another page's paragraph. The 5-shingle uniqueness gate checks this.
+
+## Photo reuse: recorded exemption (2026-10-24)
+
+A library photo appears on at most ONE content page. Two exemptions were decided for this build (HANDOFF §3) and are enforced the same way by `tools/check.js`:
+- **Hubs** (`/styles/`, `/services/`, `/blog/`) may show a page's own photo on that page's card, because all 40 approved photos are already placed and a card that previews the page it links to is not a second page.
+- **Blog posts** may reuse library photos as heroes (Tim's photos first, then Pexels, then AI ≤$0.05 that never depicts Tim, his clients or his work).
+
+Five photos come from the same owner-approved `gbp-media` set but were added after §2's list was written: `cut-curly-top-skin-fade`, `cut-curly-top-taper-neckline`, `cut-high-fade-part-line`, `cut-taper-textured-fringe`, `tim-outdoor-kids-cut`. They are listed in the PR for Colin/Tim to confirm.

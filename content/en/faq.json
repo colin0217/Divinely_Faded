@@ -55,7 +55,7 @@
       "items": [
         { "q": "Do you cut kids' hair?", "a": "Yes, kids are welcome. Book them on Booksy the same way you'd book yourself." },
         { "q": "How long does each service take?", "a": "Essential Haircut {{minutes:essential-haircut}}. Signature Cut {{minutes:signature-cut}}. Luxury Grooming Experience {{minutes:luxury-grooming}}. Straight Razor Beard Shave {{minutes:straight-razor-beard-shave}}. Head & Beard Shave {{minutes:head-beard-shave}}. Express Facial {{minutes:express-facial}}. Deluxe Facial {{minutes:deluxe-facial}}. Braids {{minutes:braids}}. Perm {{minutes:perm}}. Color Transformation {{minutes:color-transformation}}." },
-        { "q": "What should I ask for?", "a": "A photo of the cut you want does most of the talking. Tell me how short you want the sides, how much to leave on top, and whether the beard needs work, because a beard trim or line-up means booking the Signature Cut." },
+        { "q": "What should I ask for?", "a": "A photo of the cut you want does most of the talking. Tell me how short you want the sides, how much to leave on top, and whether the beard needs work, because on Booksy a beard trim or line-up comes with the Signature Cut." },
         { "q": "How long do braids take?", "a": "Booksy holds {{minutes:braids}} for braids, and the price varies with the style you choose." },
         { "q": "Do you dye beards?", "a": "No. Beard dyeing and capillary treatments aren't on my menu. Toupee services are coming soon." }
       ]

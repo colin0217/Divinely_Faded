@@ -221,7 +221,7 @@ function jsonld(p) {
   const url = SITE + p.slug, L = p.locale === "es" ? "es-US" : "en-US";
   const g = [business(),
     { "@type": "Person", "@id": `${SITE}/#tim`, name: "Timothy Murillo", jobTitle: p.locale === "es" ? "Barbero y dueño" : "Barber and owner", worksFor: { "@id": `${SITE}/#business` } },
-    { "@type": "WebSite", "@id": `${SITE}/#website`, url: `${SITE}/`, name: facts.name, inLanguage: ["en-US", "es-US"], publisher: { "@id": `${SITE}/#business` } },
+    { "@type": "WebSite", "@id": `${SITE}/#website`, url: `${SITE}/`, name: facts.name, inLanguage: pages.some((x) => x.locale === "es") ? ["en-US", "es-US"] : "en-US", publisher: { "@id": `${SITE}/#business` } },
     { "@type": p._post ? "WebPage" : ({ about: "AboutPage", visit: "ContactPage" }[p.id] || (/^(services|styles|blog)$/.test(p.id) ? "CollectionPage" : "WebPage")), "@id": `${url}#webpage`, url, name: p.seo?.title, description: p.seo?.description, inLanguage: L, isPartOf: { "@id": `${SITE}/#website` }, about: { "@id": `${SITE}/#business` }, breadcrumb: { "@id": `${url}#breadcrumb` }, ...(p.seo?.og_photo ? { primaryImageOfPage: `${SITE}/assets/photos/${p.seo.og_photo}-1200.webp` } : {}) },
     { "@type": "BreadcrumbList", "@id": `${url}#breadcrumb`, itemListElement: (p.breadcrumb || [[T[p.locale].crumbHome, T[p.locale].home]]).map(([n, u], i) => ({ "@type": "ListItem", position: i + 1, name: n, item: SITE + u })) }];
   const serviceNode = (key, name, price) => ({ "@type": "Service", "@id": `${url}#service-${key}`, name, serviceType: p.schema.service_type || name, provider: { "@id": `${SITE}/#business` }, areaServed: { "@type": "City", name: "Carlsbad, NM" }, ...(price != null ? { offers: { "@type": "Offer", price, priceCurrency: "USD", url: facts.booksy } } : {}) });
