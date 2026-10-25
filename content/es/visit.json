@@ -158,7 +158,10 @@
         "Millas",
         "En auto"
       ],
-      "rows": "nearby"
+      "rows": "nearby",
+      "paragraphs": [
+        "¿Vienes de Artesia? <a class=\"text-link\" href=\"/es/visitanos/artesia/\">Planea el viaje</a>."
+      ]
     },
     {
       "type": "faq",
@@ -194,6 +197,7 @@
     }
   ],
   "related": [
+    "visit-artesia",
     "services",
     "about",
     "faq"
