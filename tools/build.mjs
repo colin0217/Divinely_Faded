@@ -27,6 +27,8 @@ const T = {
     hours: "Mon, Tue, Thu, Fri 9–12 &amp; 12:30–5 · Sat 8–2 · Closed Wed &amp; Sun",
     designed: "Designed by", powered: "Powered by", ctaEyebrow: "READY WHEN YOU ARE", ctaHead: "Take a seat.", ctaBook: "BOOK ON BOOKSY", ctaText: "TEXT TIM", ctaCall: "CALL",
     bookThis: "Book this service", learnMore: "LEARN MORE", varies: "Varies", min: "min", hr: "hr", crumbHome: "Home", footerPhotoAlt: "Tim seated in his barbershop",
+    ariaHome: "Divinely Faded home", ariaFooter: "Divinely Faded footer", ariaSocial: "Social media", ariaOn: "Divinely Faded on", ariaCrumbs: "Breadcrumb",
+    lbLabel: "Portfolio photo", lbClose: "Close photo", lbCloseText: "CLOSE ✕", lbAlt: "Enlarged Divinely Faded portfolio photo", reserveName: "Barber appointment",
   },
   es: {
     lang: "es", home: "/es/", book: "AGENDA TU CITA", menuOpen: "Abrir menú", skip: "Ir al contenido",
@@ -36,7 +38,9 @@ const T = {
     policies: "Políticas de citas y cancelación", directions: "Cómo llegar", text: "Mensaje de texto", call: "Llamar",
     hours: "Lun, mar, jue, vie 9–12 y 12:30–5 · Sáb 8–2 · Cerrado mié y dom",
     designed: "Diseñado por", powered: "Con tecnología de", ctaEyebrow: "LISTO CUANDO TÚ LO ESTÉS", ctaHead: "Toma asiento.", ctaBook: "AGENDA EN BOOKSY", ctaText: "MENSAJE A TIM", ctaCall: "LLAMAR",
-    bookThis: "Agenda este servicio", learnMore: "MÁS INFORMACIÓN", varies: "Varía", min: "min", hr: "h", crumbHome: "Inicio", footerPhotoAlt: "Tim sentado en su barbería",
+    bookThis: "Agenda este servicio", learnMore: "VER MÁS", varies: "Varía", min: "min", hr: "h", crumbHome: "Inicio", footerPhotoAlt: "Tim sentado en su barbería",
+    ariaHome: "Inicio de Divinely Faded", ariaFooter: "Pie de página de Divinely Faded", ariaSocial: "Redes sociales", ariaOn: "Divinely Faded en", ariaCrumbs: "Ruta de navegación",
+    lbLabel: "Foto del portafolio", lbClose: "Cerrar foto", lbCloseText: "CERRAR ✕", lbAlt: "Foto ampliada del portafolio de Divinely Faded", reserveName: "Cita en la barbería",
   },
 };
 
@@ -91,7 +95,7 @@ function fill(s, t) {
 }
 function href(h, loc) {
   if (!h) return "#";
-  if (h === "booksy") return facts.booksy;
+  if (h === "booksy") return bk(loc);
   if (h === "sms") return `sms:${facts.phone.e164}`;
   if (h === "tel") return `tel:${facts.phone.e164}`;
   if (h === "directions") return facts.directions;
@@ -100,6 +104,7 @@ function href(h, loc) {
   if (/^(services|styles|about|visit|faq|blog)$/.test(h)) { const p = byKey.get(`${loc}:${h}`); return p ? p.slug : (loc === "es" ? `/es/${h}/` : `/${h}/`); }
   return h;
 }
+const bk = (loc) => (loc === "es" && facts.booksy_es) || facts.booksy; // Tim's Spanish Booksy page on /es/
 const ext = (u) => /^(https?:|sms:|tel:)/.test(u);
 const aAttrs = (u) => (/^https?:/.test(u) ? ` target="_blank" rel="noopener"` : "");
 function img(name, alt, { eager = false, sizes = "(min-width:701px) 50vw, 100vw" } = {}) {
@@ -130,7 +135,7 @@ function blockHTML(b, p, t, first) {
       const items = (b.items || []).map((it) => {
         const title = it.title || it.q, body = it.body || it.a;
         const meta = it.meta ? `<span class="price">${html(fill(it.meta, t))}</span>` : "";
-        const book = it.book ? `<a class="pill" href="${facts.booksy}" target="_blank" rel="noopener">${t.bookThis}</a>` : "";
+        const book = it.book ? `<a class="pill" href="${bk(L)}" target="_blank" rel="noopener">${t.bookThis}</a>` : "";
         const more = it.href ? `<a class="text-link" href="${esc(href(it.href, L))}"${aAttrs(href(it.href, L))}>${esc(it.link_label || t.learnMore)}</a>` : "";
         return `<details><summary><span>${html(fill(title, t))}</span>${meta}<span class="plus">+</span></summary><div class="service-detail"><p>${html(fill(body, t))}</p>${more}${book}</div></details>`;
       }).join("");
@@ -165,11 +170,11 @@ function blockHTML(b, p, t, first) {
 // ---------- chrome ----------
 function header(p, t) {
   const alt = altSlug(p);
-  return `<a class="skip" href="#main">${t.skip}</a><header><a class="logo" href="${t.home}" aria-label="Divinely Faded home">DIVINELY FADED<small>ELEVATE YOUR STANDARD</small></a><nav class="header-links">${alt ? `<a class="df-lang" href="${alt}" hreflang="${p.locale === "en" ? "es" : "en"}" lang="${p.locale === "en" ? "es" : "en"}" aria-label="${t.toggleLabel}">${t.toggle}</a>` : ""}<a class="pill" href="${facts.booksy}" target="_blank" rel="noopener">${t.book}</a><button id="menu-toggle" aria-expanded="false" aria-controls="menu" aria-label="${t.menuOpen}"><span></span><span></span><span></span></button></nav></header>`;
+  return `<a class="skip" href="#main">${t.skip}</a><header><a class="logo" href="${t.home}" aria-label="${t.ariaHome}">DIVINELY FADED<small>ELEVATE YOUR STANDARD</small></a><nav class="header-links">${alt ? `<a class="df-lang" href="${alt}" hreflang="${p.locale === "en" ? "es" : "en"}" lang="${p.locale === "en" ? "es" : "en"}" aria-label="${t.toggleLabel}">${t.toggle}</a>` : ""}<a class="pill" href="${bk(p.locale)}" target="_blank" rel="noopener">${t.book}</a><button id="menu-toggle" aria-expanded="false" aria-controls="menu" aria-label="${t.menuOpen}"><span></span><span></span><span></span></button></nav></header>`;
 }
 function menu(p, t) {
   const alt = altSlug(p);
-  return `<nav id="menu" hidden>${t.nav.map(([k, label]) => `<a href="${k.startsWith("/") ? k : href(k, p.locale)}">${label}</a>`).join("")}<a href="${facts.booksy}" target="_blank" rel="noopener">${t.bookAppt}</a>${alt ? `<a href="${alt}" lang="${p.locale === "en" ? "es" : "en"}">${p.locale === "en" ? "Español" : "English"}</a>` : ""}<p>${t.city}</p></nav>`;
+  return `<nav id="menu" hidden>${t.nav.map(([k, label]) => `<a href="${k.startsWith("/") ? k : href(k, p.locale)}">${label}</a>`).join("")}<a href="${bk(p.locale)}" target="_blank" rel="noopener">${t.bookAppt}</a>${alt ? `<a href="${alt}" lang="${p.locale === "en" ? "es" : "en"}">${p.locale === "en" ? "Español" : "English"}</a>` : ""}<p>${t.city}</p></nav>`;
 }
 const SOCIAL = {
   facebook: `<svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M22 12a10 10 0 1 0-11.56 9.88v-6.98H7.9V12h2.54V9.8c0-2.5 1.5-3.9 3.77-3.9 1.1 0 2.25.2 2.25.2v2.46H15.2c-1.24 0-1.63.77-1.63 1.56V12h2.78l-.44 2.9h-2.34v6.98A10 10 0 0 0 22 12z"/></svg>`,
@@ -180,33 +185,33 @@ const SOCIAL = {
 function footer(loc) {
   const t = T[loc], P = (k) => href(k, loc);
   const soc = [["facebook", "Facebook"], ["instagram", "Instagram"], ["tiktok", "TikTok"], ["youtube", "YouTube"]]
-    .map(([k, n]) => `<a href="${facts.social[k]}" target="_blank" rel="noopener" aria-label="Divinely Faded on ${n}" title="${n}">${SOCIAL[k]}</a>`).join("");
-  return `<footer id="location" class="df-new-footer" aria-label="Divinely Faded footer">
+    .map(([k, n]) => `<a href="${facts.social[k]}" target="_blank" rel="noopener" aria-label="${t.ariaOn} ${n}" title="${n}">${SOCIAL[k]}</a>`).join("");
+  return `<footer id="location" class="df-new-footer" aria-label="${t.ariaFooter}">
   <div class="df-footer-left">
     <h2>${t.madeIn}</h2>
     <div class="df-footer-nav">
       <div class="df-footer-links"><a href="${P("about")}">${t.fAbout}</a><a href="${P("services")}">${t.fServices}</a><a href="${P("styles")}">${t.fStyles}</a><a href="${P("blog")}">${t.fBlog}</a></div>
-      <div class="df-footer-links"><a href="${P("visit")}">${t.fVisit}</a><a href="${facts.booksy}" target="_blank" rel="noopener">${t.fBook}</a><a href="${facts.booksy_reviews}" target="_blank" rel="noopener">${t.fReviews}</a><a href="${P("faq")}">${t.fFaq}</a></div>
+      <div class="df-footer-links"><a href="${P("visit")}">${t.fVisit}</a><a href="${bk(loc)}" target="_blank" rel="noopener">${t.fBook}</a><a href="${facts.booksy_reviews}" target="_blank" rel="noopener">${t.fReviews}</a><a href="${P("faq")}">${t.fFaq}</a></div>
     </div>
-    <div class="df-footer-social" aria-label="Social media">${soc}</div>
+    <div class="df-footer-social" aria-label="${t.ariaSocial}">${soc}</div>
     <p class="df-footer-address">${esc(facts.address.street)}, ${facts.address.city}, ${facts.address.region} ${facts.address.postal}<br><a href="sms:${facts.phone.e164}">${t.text} ${facts.phone.display}</a> · <a href="tel:${facts.phone.e164}">${t.call}</a><span class="df-footer-hours">${t.hours}</span></p>
     <p class="df-footer-copyright">© ${TODAY.slice(0, 4)} Divinely Faded</p>
     <div class="df-footer-credits"><span>${t.designed} <a href="https://permianmedia.com/?utm_source=divinely-faded&amp;utm_medium=footer-credit&amp;utm_campaign=designed-by" target="_blank" rel="noopener"><img src="/assets/brand/permian-media.png" alt="" width="25" height="18"> Permian Media</a></span><span>${t.powered} <a href="https://digitalgravitystudio.com/?utm_source=divinely-faded&amp;utm_medium=footer-credit&amp;utm_campaign=powered-by" target="_blank" rel="noopener"><img src="/assets/brand/digital-gravity.png" alt="" width="18" height="18"> Digital Gravity</a></span></div>
-    <div class="df-footer-bottom-links"><a href="${facts.booksy}" target="_blank" rel="noopener">${t.policies}</a><a href="${facts.directions}" target="_blank" rel="noopener">${t.directions}</a></div>
+    <div class="df-footer-bottom-links"><a href="${bk(loc)}" target="_blank" rel="noopener">${t.policies}</a><a href="${facts.directions}" target="_blank" rel="noopener">${t.directions}</a></div>
   </div>
   <div class="df-footer-photo">
     <img src="https://kfn00ghfuedoecga.public.blob.vercel-storage.com/divinely%20fadeed%20pic%20of%20tim.jpg" alt="${t.footerPhotoAlt}" width="1912" height="1912" loading="lazy" decoding="async">
     <div class="df-footer-photo-logo" aria-label="Divinely Faded — Elevate Your Standard"><strong>DIVINELY FADED</strong><small>ELEVATE YOUR STANDARD</small></div>
   </div>
-</footer><dialog id="lightbox" aria-label="Portfolio photo"><button id="close-photo" aria-label="Close photo">CLOSE ✕</button><img alt="Enlarged Divinely Faded portfolio photo"></dialog>`;
+</footer><dialog id="lightbox" aria-label="${t.lbLabel}"><button id="close-photo" aria-label="${t.lbClose}">${t.lbCloseText}</button><img alt="${t.lbAlt}"></dialog>`;
 }
 function cta(t) {
-  return `<section class="review df-cta" data-df-reveal-group><span class="eyebrow" data-df-reveal>${t.ctaEyebrow}</span><h2 data-df-reveal>${t.ctaHead}</h2><div class="df-cta-actions" data-df-reveal><a class="pill" href="${facts.booksy}" target="_blank" rel="noopener">${t.ctaBook}</a><a class="pill" href="sms:${facts.phone.e164}">${t.ctaText}</a><a class="pill" href="tel:${facts.phone.e164}">${t.ctaCall}</a></div></section>`;
+  return `<section class="review df-cta" data-df-reveal-group><span class="eyebrow" data-df-reveal>${t.ctaEyebrow}</span><h2 data-df-reveal>${t.ctaHead}</h2><div class="df-cta-actions" data-df-reveal><a class="pill" href="${bk(t.lang)}" target="_blank" rel="noopener">${t.ctaBook}</a><a class="pill" href="sms:${facts.phone.e164}">${t.ctaText}</a><a class="pill" href="tel:${facts.phone.e164}">${t.ctaCall}</a></div></section>`;
 }
 
 // ---------- JSON-LD ----------
 const DAYS = { Mo: "Monday", Tu: "Tuesday", We: "Wednesday", Th: "Thursday", Fr: "Friday", Sa: "Saturday", Su: "Sunday" };
-function business() {
+function business(loc = "en") {
   return {
     "@type": "BarberShop", "@id": `${SITE}/#business`, name: facts.name, url: `${SITE}/`, telephone: facts.phone.e164,
     image: `${SITE}/assets/photos/team-tim-portrait-1200.webp`, priceRange: "$5–$120", slogan: facts.tagline,
@@ -215,12 +220,12 @@ function business() {
     openingHoursSpecification: facts.hours.map((h) => ({ "@type": "OpeningHoursSpecification", dayOfWeek: h.days.map((d) => DAYS[d]), opens: h.open, closes: h.close })),
     paymentAccepted: facts.payment.join(", "), currenciesAccepted: "USD", founder: { "@id": `${SITE}/#tim` },
     sameAs: [...Object.values(facts.social), facts.gbp, facts.booksy],
-    potentialAction: { "@type": "ReserveAction", target: { "@type": "EntryPoint", urlTemplate: facts.booksy, actionPlatform: ["http://schema.org/DesktopWebPlatform", "http://schema.org/MobileWebPlatform"] }, result: { "@type": "Reservation", name: "Barber appointment" } },
+    potentialAction: { "@type": "ReserveAction", target: { "@type": "EntryPoint", urlTemplate: bk(loc), actionPlatform: ["http://schema.org/DesktopWebPlatform", "http://schema.org/MobileWebPlatform"] }, result: { "@type": "Reservation", name: T[loc].reserveName } },
   };
 }
 function jsonld(p) {
   const url = SITE + p.slug, L = p.locale === "es" ? "es-US" : "en-US";
-  const g = [business(),
+  const g = [business(p.locale),
     { "@type": "Person", "@id": `${SITE}/#tim`, name: "Timothy Murillo", jobTitle: p.locale === "es" ? "Barbero y dueño" : "Barber and owner", worksFor: { "@id": `${SITE}/#business` } },
     { "@type": "WebSite", "@id": `${SITE}/#website`, url: `${SITE}/`, name: facts.name, inLanguage: pages.some((x) => x.locale === "es") ? ["en-US", "es-US"] : "en-US", publisher: { "@id": `${SITE}/#business` } },
     { "@type": p._post ? "WebPage" : ({ about: "AboutPage", visit: "ContactPage" }[p.id] || (/^(services|styles|blog)$/.test(p.id) ? "CollectionPage" : "WebPage")), "@id": `${url}#webpage`, url, name: p.seo?.title, description: p.seo?.description, inLanguage: L, isPartOf: { "@id": `${SITE}/#website` }, about: { "@id": `${SITE}/#business` }, breadcrumb: { "@id": `${url}#breadcrumb` }, ...(p.seo?.og_photo ? { primaryImageOfPage: `${SITE}/assets/photos/${p.seo.og_photo}-1200.webp` } : {}) },
@@ -243,7 +248,7 @@ function head(p) {
 }
 function crumbs(p) {
   const bc = p.breadcrumb; if (!bc || bc.length < 2) return "";
-  return `<nav class="df-crumbs" aria-label="Breadcrumb">${bc.map(([n, u], i) => (i === bc.length - 1 ? `<span aria-current="page">${esc(n)}</span>` : `<a href="${u}">${esc(n)}</a>`)).join(" / ")}</nav>`;
+  return `<nav class="df-crumbs" aria-label="${T[p.locale].ariaCrumbs}">${bc.map(([n, u], i) => (i === bc.length - 1 ? `<span aria-current="page">${esc(n)}</span>` : `<a href="${u}">${esc(n)}</a>`)).join(" / ")}</nav>`;
 }
 function related(p, t) {
   const r = (p.related || []).map((id) => byKey.get(`${p.locale}:${id}`)).filter(Boolean);

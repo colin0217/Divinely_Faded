@@ -10,6 +10,7 @@
   "address_never": ["301 S Halagueno", "117 S Canyon St (new shop, unpublished until it opens)", "114 N Margaret St (private)"],
   "phone": { "display": "(575) 706-3095", "e164": "+15757063095", "preferred": "text" },
   "booksy": "https://booksy.com/en-us/1113769_divinely-faded-timothy-murillo_barber-shop_28967_carlsbad",
+  "booksy_es": "https://booksy.com/es-us/1113769_divinely-faded-timothy-murillo_barber-shop_28967_carlsbad",
   "booksy_reviews": "https://booksy.com/en-us/1113769_divinely-faded-timothy-murillo_barber-shop_28967_carlsbad#business-reviews",
   "gbp": "https://www.google.com/maps?cid=15257330546621568190",
   "directions": "https://www.google.com/maps/search/?api=1&query=303+S+Halagueno+St+Carlsbad+NM+88220",
