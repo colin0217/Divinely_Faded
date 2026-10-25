@@ -1,13 +1,16 @@
 /* df-extras.css: the only additions to Colin's design (Divinely Faded full build, 2026-10-24).
    Uses only his tokens: #080808 / #fff / his greys, Barlow Condensed + DM Sans, his spacing. No new colors. */
 
-/* Footer: Colin's rule says all footer text and agency logos are pure #FFFFFF. */
-.df-new-footer,.df-new-footer h2,.df-new-footer .df-footer-links a,.df-new-footer .df-footer-social a,
-.df-new-footer .df-footer-address,.df-new-footer .df-footer-address a,.df-new-footer .df-footer-copyright,
-.df-new-footer .df-footer-bottom-links a,.df-new-footer .df-footer-credits,.df-new-footer .df-footer-credits a{color:#fff!important}
+/* Footer: Colin's rule says all footer text and agency logos are pure #FFFFFF.
+   footer#location raises specificity above his inline !important greys (#b8b8b8 / #d5d5d5 / #f5f5f5),
+   which load AFTER this file on the homepage. */
+footer#location.df-new-footer,footer#location.df-new-footer h2,footer#location.df-new-footer .df-footer-links a,footer#location.df-new-footer .df-footer-social a,
+footer#location.df-new-footer .df-footer-address,footer#location.df-new-footer .df-footer-address a,footer#location.df-new-footer .df-footer-hours,footer#location.df-new-footer .df-footer-copyright,
+footer#location.df-new-footer .df-footer-bottom-links a,footer#location.df-new-footer .df-footer-credits,footer#location.df-new-footer .df-footer-credits a{color:#fff!important}
 .df-new-footer .df-footer-address a{text-decoration:underline;text-underline-offset:3px}
 .df-new-footer .df-footer-hours{display:block;margin-top:6px}
 .df-footer-credits{display:flex;flex-direction:column;gap:6px;font:400 11px/1.5 'DM Sans',Arial,sans-serif;margin:0 0 21px}
+.df-footer-credits>span{display:inline-flex;align-items:center;gap:7px}
 .df-footer-credits a{display:inline-flex;align-items:center;gap:7px}
 .df-footer-credits img{height:18px;width:auto;filter:brightness(0) invert(1)}
 @media(max-width:700px){
