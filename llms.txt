@@ -2,7 +2,7 @@
 
 > Divinely Faded is a one-barber shop in Carlsbad, New Mexico, run by owner and barber Timothy "Tim" Murillo, cutting since 2023. Appointments only, booked on Booksy. Tagline: "Elevate Your Standard."
 
-Last updated: 2026-10-25. Canonical site: https://divinely-faded-two.vercel.app/ (English) and https://divinely-faded-two.vercel.app/es/ (Spanish).
+Last updated: 2026-10-26. Canonical site: https://divinely-faded-two.vercel.app/ (English) and https://divinely-faded-two.vercel.app/es/ (Spanish).
 
 ## Visit and book
 
