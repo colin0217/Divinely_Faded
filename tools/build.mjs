@@ -27,7 +27,7 @@ const T = {
     nav: [["services", "Services"], ["styles", "Styles"], ["about", "About"], ["/#gallery", "Gallery"], ["blog", "Blog"], ["visit", "Visit us"], ["faq", "FAQ"]],
     bookAppt: "Book an appointment", city: "CARLSBAD, NEW MEXICO", toggle: "ES", toggleLabel: "Ver esta página en español",
     madeIn: "Made in<br>Carlsbad.", fAbout: "About", fServices: "Services", fStyles: "Styles", fBlog: "Blog", fVisit: "Visit Us", fBook: "Book Now", fReviews: "Reviews", fFaq: "FAQ",
-    policies: "Booking &amp; Cancellation Policies", directions: "Directions", text: "Text", call: "Call",
+    policies: "Booking &amp; Cancellation Policies", directions: "Directions", fPrivacy: "Privacy Policy", fTerms: "Terms", fA11y: "Accessibility", text: "Text", call: "Call",
     hours: "Mon, Tue, Thu, Fri 9–12 &amp; 12:30–5 · Sat 8–2 · Closed Wed &amp; Sun",
     designed: "Designed by", powered: "Powered by", ctaEyebrow: "READY WHEN YOU ARE", ctaHead: "Take a seat.", ctaBook: "BOOK ON BOOKSY", ctaText: "TEXT TIM", ctaCall: "CALL",
     bookThis: "Book this service", learnMore: "LEARN MORE", varies: "Varies", min: "min", hr: "hr", crumbHome: "Home", footerPhotoAlt: "Tim seated in his barbershop",
@@ -43,7 +43,7 @@ const T = {
     nav: [["services", "Servicios"], ["styles", "Estilos"], ["about", "Sobre mí"], ["/es/#gallery", "Galería"], ["blog", "Blog"], ["visit", "Visítanos"], ["faq", "Preguntas"]],
     bookAppt: "Agendar una cita", city: "CARLSBAD, NUEVO MÉXICO", toggle: "EN", toggleLabel: "View this page in English",
     madeIn: "Hecho en<br>Carlsbad.", fAbout: "Sobre mí", fServices: "Servicios", fStyles: "Estilos", fBlog: "Blog", fVisit: "Visítanos", fBook: "Agendar", fReviews: "Reseñas", fFaq: "Preguntas",
-    policies: "Políticas de citas y cancelación", directions: "Cómo llegar", text: "Mensaje de texto", call: "Llamar",
+    policies: "Políticas de citas y cancelación", directions: "Cómo llegar", fPrivacy: "Privacidad", fTerms: "Términos", fA11y: "Accesibilidad", text: "Mensaje de texto", call: "Llamar",
     hours: "Lun, mar, jue, vie 9–12 y 12:30–5 · Sáb 8–2 · Cerrado mié y dom",
     designed: "Diseñado por", powered: "Con tecnología de", ctaEyebrow: "LISTO CUANDO TÚ LO ESTÉS", ctaHead: "Toma asiento.", ctaBook: "AGENDA EN BOOKSY", ctaText: "MENSAJE A TIM", ctaCall: "LLAMAR",
     bookThis: "Agenda este servicio", learnMore: "VER MÁS", varies: "Varía", min: "min", hr: "h", crumbHome: "Inicio", footerPhotoAlt: "Tim sentado en su barbería",
@@ -275,6 +275,14 @@ const SOCIAL = {
   tiktok: `<svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M16.7 2h-3.2v13.3a3.25 3.25 0 1 1-2.8-3.22V8.82a6.5 6.5 0 1 0 6 6.48V8.56A8.4 8.4 0 0 0 22 10V6.78A5.2 5.2 0 0 1 16.7 2Z"/></svg>`,
   youtube: `<svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M23 12s0-3.6-.46-5.33a2.78 2.78 0 0 0-1.95-1.97C18.88 4.24 12 4.24 12 4.24s-6.88 0-8.59.46A2.78 2.78 0 0 0 1.46 6.67C1 8.4 1 12 1 12s0 3.6.46 5.33a2.78 2.78 0 0 0 1.95 1.97c1.71.46 8.59.46 8.59.46s6.88 0 8.59-.46a2.78 2.78 0 0 0 1.95-1.97C23 15.6 23 12 23 12zM9.75 15.27V8.73L15.5 12l-5.75 3.27z"/></svg>`,
 };
+// Legal pages (privacy, terms, accessibility) are English-only ("en_only" in their content files): the Spanish footer
+// labels them in Spanish and marks the target language with hreflang="en" (tools/check.js EN_ONLY_PAGES).
+function legalLinks(loc) {
+  const t = T[loc];
+  return [["privacy", t.fPrivacy], ["terms", t.fTerms], ["accessibility", t.fA11y]]
+    .filter(([id]) => byKey.has(`en:${id}`))
+    .map(([id, label]) => `<a href="${href(`page:${id}`, loc)}"${loc !== "en" && !byKey.has(`${loc}:${id}`) ? ' hreflang="en"' : ""}>${label}</a>`).join("");
+}
 function footer(loc) {
   const t = T[loc], P = (k) => href(k, loc);
   const soc = [["facebook", "Facebook"], ["instagram", "Instagram"], ["tiktok", "TikTok"], ["youtube", "YouTube"]]
@@ -291,7 +299,7 @@ function footer(loc) {
     <p class="df-footer-address">${esc(facts.address.street)}, ${facts.address.city}, ${facts.address.region} ${facts.address.postal}<br><a href="sms:${facts.phone.e164}">${t.text} ${facts.phone.display}</a> · <a href="tel:${facts.phone.e164}">${t.call}</a><span class="df-footer-hours">${t.hours}</span></p>
     <p class="df-footer-copyright">© ${TODAY.slice(0, 4)} Divinely Faded</p>
     <div class="df-footer-credits"><span>${t.designed} <a href="https://permianmedia.com/?utm_source=divinely-faded&amp;utm_medium=footer-credit&amp;utm_campaign=designed-by" target="_blank" rel="noopener"><img src="/assets/brand/permian-media.png" alt="" width="25" height="18"> Permian Media</a></span><span>${t.powered} <a href="https://digitalgravitystudio.com/?utm_source=divinely-faded&amp;utm_medium=footer-credit&amp;utm_campaign=powered-by" target="_blank" rel="noopener"><img src="/assets/brand/digital-gravity.png" alt="" width="18" height="18"> Digital Gravity</a></span></div>
-    <div class="df-footer-bottom-links"><a href="${bk(loc)}" target="_blank" rel="noopener">${t.policies}</a><a href="${facts.directions}" target="_blank" rel="noopener">${t.directions}</a></div>
+    <div class="df-footer-bottom-links"><a href="${bk(loc)}" target="_blank" rel="noopener">${t.policies}</a><a href="${facts.directions}" target="_blank" rel="noopener">${t.directions}</a>${legalLinks(loc)}</div>
   </div>
   <div class="df-footer-photo">
     <img src="https://kfn00ghfuedoecga.public.blob.vercel-storage.com/divinely%20fadeed%20pic%20of%20tim.jpg" alt="${t.footerPhotoAlt}" width="1912" height="1912" loading="lazy" decoding="async">

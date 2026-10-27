@@ -84,6 +84,11 @@ const COMPETITORS = ["Los Chavos", "Barber Bus", "El Cholo", "Great Clips", "Gre
   'SmartStyle', 'Danny Enloe', 'Shear Perfection', 'The Mobile Barber', 'Image Kutz', 'Tempers Cutz', "Ernie's", 'Cinda Fades',
   'La Chic Coiffures', 'Barbershop 5.0', 'Que Suave', 'Mane Twenties', 'Jordancutss', 'Cutzby'];
 const sinceYear = Number(facts.cutting_since);
+// English-only pages (content files with "en_only": true; the legal pages). They have no Spanish twin, so no
+// hreflang="es" is required, and the Spanish footer may link to them (labelled in Spanish, hreflang="en").
+const EN_ONLY_PAGES = new Set(fs.readdirSync(path.join(ROOT, 'content/en')).filter((f) => f.endsWith('.json'))
+  .map((f) => { try { return JSON.parse(fs.readFileSync(path.join(ROOT, 'content/en', f), 'utf8')); } catch { return {}; } })
+  .filter((j) => j.en_only && j.slug).map((j) => j.slug));
 
 // Every dollar figure the site may show: service prices, add-ons, the holiday fee.
 const ALLOWED_DOLLARS = new Set([
@@ -394,7 +399,7 @@ for (const file of FILES) {
       }
       if (r.noSlash) warn(`${where}: link "${href}" lacks the trailing slash (Vercel trailingSlash:true will redirect it)`);
       if (r.file && r.hash && !idExists(html[r.file], r.hash)) fail(`${where}: link "${href}" has no id="${r.hash}" on ${r.file}`);
-      if (lang === 'es' && r.file && langOf(r.file) === 'en' && r.file !== FILE_BY_PATH[hreflangTarget(src, 'en')]) fail(`${where}: Spanish page links into the English site ("${href}"); only the language toggle may`);
+      if (lang === 'es' && r.file && langOf(r.file) === 'en' && r.file !== FILE_BY_PATH[hreflangTarget(src, 'en')] && !EN_ONLY_PAGES.has(r.pathname)) fail(`${where}: Spanish page links into the English site ("${href}"); only the language toggle may`);
       return;
     }
     if (file !== 'index.html') fail(`${where}: relative link "${href}" (use root-relative paths so nested pages resolve)`);
@@ -434,7 +439,7 @@ for (const file of PAGES) {
   const self = SITE_URL + urlPathOf(file);
   const lang = langOf(file);
   for (const k of ['en', 'es', 'x-default']) {
-    if (!trio[k]) { if (!(EN_ONLY && k !== 'en')) fail(`${file}: missing hreflang="${k}"`); continue; }
+    if (!trio[k]) { if (!(EN_ONLY && k !== 'en') && !(k === 'es' && EN_ONLY_PAGES.has(urlPathOf(file)))) fail(`${file}: missing hreflang="${k}"`); continue; }
     if (!trio[k].startsWith(SITE_URL + '/')) fail(`${file}: hreflang="${k}" is not an absolute ${SITE_URL} URL`);
   }
   if (trio[lang] && trio[lang] !== self) fail(`${file}: hreflang="${lang}" is ${trio[lang]}, not the page itself (${self})`);
