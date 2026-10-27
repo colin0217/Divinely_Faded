@@ -2,7 +2,7 @@
 
 Every page carries one `<script type="application/ld+json">` with a single `@graph`, written by `tools/build.mjs` (`business()` and `jsonld()`). This plan documents what the generator emits today (checked against the pages built by commit 18f6666 on 2026-10-24), what each page type adds, and the gaps to close. `tools/check.js` enforces the rules marked **(gate)**.
 
-All values come from `content/facts.json`. `SITE` = `facts.site_url` (`https://divinely-faded-two.vercel.app` until the move to divinelyfaded.com; the switch is one value plus a 301).
+All values come from `content/facts.json`. `SITE` = `facts.site_url` (`https://www.divinelyfaded.com` until the move to divinelyfaded.com; the switch is one value plus a 301).
 
 ## 1. Nodes on every page
 
