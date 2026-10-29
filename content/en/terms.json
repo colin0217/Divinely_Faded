@@ -1,0 +1,122 @@
+{
+  "id": "terms",
+  "locale": "en",
+  "slug": "/terms/",
+  "en_only": true,
+  "updated": "2026-10-27",
+  "nav_label": "Terms of Use",
+  "card_text": "The rules for using this website.",
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Terms of Use",
+      "/terms/"
+    ]
+  ],
+  "seo": {
+    "title": "Terms of Use | Divinely Faded",
+    "description": "The terms for using divinelyfaded.com, the website of Divinely Faded barbershop in Carlsbad, NM: bookings on Booksy, content, links and New Mexico law."
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "_legal": {
+    "source": "DG legal kit 2026-10-27 (ClaudeOS build manual Part 14). Template-grade, not attorney-reviewed.",
+    "how_to_replace": "Edit this file and rebuild (node tools/build.mjs --today <date>). Update the 'Last updated' line and the 'updated' field together. Re-check the inventory (tracking, embeds, booking, hosting) before changing what the policy says."
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "TERMS OF USE",
+      "h1": "Terms of Use.",
+      "paragraphs": [
+        "These terms cover your use of divinelyfaded.com, the website of Divinely Faded, Timothy Murillo’s barbershop in Carlsbad, New Mexico. By using the site, you agree to them. If you do not agree, please do not use it.",
+        "Last updated: October 27, 2026."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / USING THE SITE",
+      "heading": "Use of the site.",
+      "paragraphs": [
+        "You may use this site for lawful, personal purposes, such as learning about our services and finding your way to the shop."
+      ],
+      "bullets": [
+        "Do not try to break into, overload or disrupt the site or the servers behind it.",
+        "Do not copy the site in bulk with scrapers, bots or similar tools.",
+        "Do not use the site to send spam or anything harmful, false or illegal."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / WHAT THE SITE SAYS",
+      "heading": "Information on the site.",
+      "paragraphs": [
+        "We work to keep prices, appointment lengths, hours and other details current, but the site is general information. Prices, times and openings can change. What you see when you book on Booksy, or what we tell you in the shop, is what applies.",
+        "Style guides and blog posts describe cuts in general. How a cut turns out depends on your hair and the service you choose, so treat them as ideas, not promises."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / BOOKING",
+      "heading": "Bookings and payments.",
+      "paragraphs": [
+        "This website does not take bookings or payments. Appointments are booked through Booksy, under Booksy’s terms and our booking and cancellation policies shown on Booksy. No-shows and late cancellations may be charged a cancellation fee through Booksy.",
+        "Payment is due in full after your service, at the shop."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / OWNERSHIP",
+      "heading": "Intellectual property.",
+      "paragraphs": [
+        "The text, photos, videos, logos and design of this site belong to Divinely Faded or are used with permission, and copyright and trademark laws protect them. You are welcome to share links to our pages. Please do not copy, republish or sell our content or photos without written permission."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "05 / OTHER SITES",
+      "heading": "Links to other sites.",
+      "paragraphs": [
+        "The site links to services we do not control, including Booksy, Google Maps, Facebook, Instagram, TikTok and YouTube. Their own terms and privacy policies apply there, and we are not responsible for their content or how they work."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "06 / NO WARRANTIES",
+      "heading": "Disclaimer.",
+      "paragraphs": [
+        "The site is provided “as is” and “as available.” To the fullest extent the law allows, we make no warranties of any kind, express or implied, about the site, including that it will always be available, error-free or free of harmful code."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "07 / LIABILITY",
+      "heading": "Limitation of liability.",
+      "paragraphs": [
+        "To the fullest extent the law allows, Divinely Faded and its owner are not liable for any indirect, incidental, special or consequential damages that come from using, or not being able to use, this website. Some places do not allow these limits, so they may not all apply to you.",
+        "You agree to defend and hold harmless Divinely Faded and its owner from claims that come from your misuse of the site or your breaking these terms."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "08 / THE LAW",
+      "heading": "Governing law.",
+      "paragraphs": [
+        "The laws of the State of New Mexico govern these terms, without regard to conflict-of-law rules. Any dispute about this website will be handled in the state or federal courts located in New Mexico."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "09 / CHANGES",
+      "heading": "Changes and contact.",
+      "paragraphs": [
+        "We may change these terms. The new version applies once it is posted here with a new date at the top.",
+        "Questions about these terms? <a href=\"sms:+15757063095\">Text Tim</a> or <a href=\"tel:+15757063095\">call the shop</a> at {{phone}}. Our <a href=\"/privacy/\">Privacy Policy</a> explains how we handle your information."
+      ]
+    }
+  ]
+}

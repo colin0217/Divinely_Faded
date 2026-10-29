@@ -8,6 +8,10 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.divinelyfaded.com/about/"/>
   </url>
   <url>
+    <loc>https://www.divinelyfaded.com/accessibility/</loc>
+    <lastmod>2026-10-27</lastmod>
+  </url>
+  <url>
     <loc>https://www.divinelyfaded.com/artesia/beard-and-shaves/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.divinelyfaded.com/artesia/beard-and-shaves/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://www.divinelyfaded.com/es/artesia/barba-y-afeitado/"/>
@@ -1156,6 +1160,10 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.divinelyfaded.com/"/>
   </url>
   <url>
+    <loc>https://www.divinelyfaded.com/privacy/</loc>
+    <lastmod>2026-10-27</lastmod>
+  </url>
+  <url>
     <loc>https://www.divinelyfaded.com/roswell/beard-and-shaves/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.divinelyfaded.com/roswell/beard-and-shaves/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://www.divinelyfaded.com/es/roswell/barba-y-afeitado/"/>
@@ -1395,6 +1403,10 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://www.divinelyfaded.com/styles/textured-fringe/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://www.divinelyfaded.com/es/estilos/fleco-texturizado/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.divinelyfaded.com/styles/textured-fringe/"/>
+  </url>
+  <url>
+    <loc>https://www.divinelyfaded.com/terms/</loc>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
     <loc>https://www.divinelyfaded.com/visit/</loc>

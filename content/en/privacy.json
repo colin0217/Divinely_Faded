@@ -1,0 +1,132 @@
+{
+  "id": "privacy",
+  "locale": "en",
+  "slug": "/privacy/",
+  "en_only": true,
+  "updated": "2026-10-27",
+  "nav_label": "Privacy Policy",
+  "card_text": "What this site collects, who helps run it and the choices you have.",
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Privacy Policy",
+      "/privacy/"
+    ]
+  ],
+  "seo": {
+    "title": "Privacy Policy | Divinely Faded",
+    "description": "How Divinely Faded, a barbershop in Carlsbad, NM, handles information when you visit this website, text or call the shop, or book on Booksy."
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "_legal": {
+    "source": "DG legal kit 2026-10-27 (ClaudeOS build manual Part 14). Template-grade, not attorney-reviewed.",
+    "how_to_replace": "Edit this file and rebuild (node tools/build.mjs --today <date>). Update the 'Last updated' line and the 'updated' field together. Re-check the inventory (tracking, embeds, booking, hosting) before changing what the policy says."
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "PRIVACY POLICY",
+      "h1": "Privacy Policy.",
+      "paragraphs": [
+        "This policy explains what information Divinely Faded collects through divinelyfaded.com, how we use it and the choices you have.",
+        "Last updated: October 27, 2026."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / WHO WE ARE",
+      "heading": "Who we are.",
+      "paragraphs": [
+        "Divinely Faded is the barbershop of Timothy “Tim” Murillo at {{address}}. In this policy, “we,” “us” and “our” mean Divinely Faded.",
+        "To reach us about anything in this policy, <a href=\"sms:+15757063095\">text</a> or <a href=\"tel:+15757063095\">call</a> {{phone}}."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / WHAT WE COLLECT",
+      "heading": "Information we collect.",
+      "lead": "This website has no forms, no accounts and no logins. We only get personal details when you choose to share them.",
+      "paragraphs": [
+        "<strong>Texts and calls.</strong> If you text or call the shop, we receive your phone number, your name if you give it, and whatever you write or say.",
+        "<strong>Bookings.</strong> Appointments are made on Booksy, a separate booking service. Booksy collects the details you enter there, such as your name, phone number, email and the service you pick, and shares your booking with us.",
+        "<strong>Technical details.</strong> When you load a page, the servers that deliver it automatically receive basic information such as your IP address, browser and device type, the page you asked for and the time. This happens through our hosting provider and the outside services listed below.",
+        "We do not run analytics or advertising tools on this website. That means no Google Analytics, no tag manager and no ad pixels. If that changes, we will update this policy before it does."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / HOW WE USE IT",
+      "heading": "How we use it.",
+      "lead": "We use information only to run the shop and this site. We do not sell your personal information, and we do not share it for targeted advertising.",
+      "bullets": [
+        "To answer your texts and calls.",
+        "To schedule, confirm or change your appointment and to give you the service you booked.",
+        "To keep this website running, secure and working the way it should.",
+        "To follow the law and protect our rights."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / OUTSIDE SERVICES",
+      "heading": "Who we share it with.",
+      "lead": "A few outside companies help run this site and the shop. Each handles information under its own privacy policy.",
+      "paragraphs": [
+        "<strong>Hosting:</strong> Vercel hosts this website and stores some of its photos and videos. Its servers receive the technical details described above. <a href=\"https://vercel.com/legal/privacy-notice\" target=\"_blank\" rel=\"noopener\">Vercel privacy notice</a>.",
+        "<strong>Booking:</strong> Booksy runs our online booking and shows our booking and cancellation policies. One photo on our homepage also loads from Booksy. <a href=\"https://booksy.com/en-us/p/privacy\" target=\"_blank\" rel=\"noopener\">Booksy privacy policy</a>.",
+        "<strong>Fonts and maps:</strong> Google Fonts delivers the typefaces on every page. The Visit page and the Artesia, Hobbs and Roswell pages show an embedded Google Map, and our directions links open Google Maps. <a href=\"https://policies.google.com/privacy\" target=\"_blank\" rel=\"noopener\">Google privacy policy</a>.",
+        "<strong>Videos:</strong> The homepage shows previews of our TikTok videos. TikTok’s player loads only if you tap a video. <a href=\"https://www.tiktok.com/legal/page/us/privacy-policy/en\" target=\"_blank\" rel=\"noopener\">TikTok privacy policy</a>.",
+        "<strong>Social media:</strong> Links to Facebook, Instagram, TikTok and YouTube take you to those sites, where their own policies apply.",
+        "We may also share information when the law requires it, to protect anyone’s rights or safety, or as part of a sale or transfer of the business."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "05 / COOKIES",
+      "heading": "Cookies and tracking.",
+      "paragraphs": [
+        "This website does not set its own cookies. Outside services can set theirs when their content loads in your browser: Google when an embedded map loads, TikTok after you tap a video, and Booksy on its own site.",
+        "You can block or delete cookies in your browser settings. To control how Google uses your data for ads, visit <a href=\"https://adssettings.google.com\" target=\"_blank\" rel=\"noopener\">Google Ad Settings</a>."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "06 / KEEPING IT SAFE",
+      "heading": "Retention and security.",
+      "paragraphs": [
+        "We keep texts, call history and booking details only as long as we need them to serve you, keep normal business records and meet legal duties. Booksy and our hosting provider keep their records under their own policies.",
+        "We take reasonable steps to protect the information we receive, and every page of this site is served over a secure HTTPS connection. No way of sending or storing information is completely secure, so we cannot promise perfect security."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "07 / YOUR CHOICES",
+      "heading": "Your choices and rights.",
+      "paragraphs": [
+        "You can ask what personal information we have about you, and ask us to correct or delete it. Just <a href=\"sms:+15757063095\">text</a> or <a href=\"tel:+15757063095\">call</a> {{phone}}. We may need to confirm who you are first, and we will respond to every request.",
+        "Residents of California and some other states may have more rights under their state’s law. We will honor the requests that apply to us. To change or close a Booksy account, use your Booksy settings or contact Booksy."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "08 / CHILDREN",
+      "heading": "Children.",
+      "paragraphs": [
+        "This website is not directed to children under 13, and we do not knowingly collect personal information from them through it. Kids’ appointments are booked by a parent or guardian. If you think a child under 13 has sent us personal information, contact us and we will delete it."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "09 / UPDATES",
+      "heading": "Changes and contact.",
+      "paragraphs": [
+        "We may update this policy from time to time. When we do, we will change the date at the top of this page.",
+        "Questions? Reach Tim at {{phone}} by text or phone, or stop by the shop at {{address}} during open hours."
+      ]
+    }
+  ]
+}

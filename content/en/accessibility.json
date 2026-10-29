@@ -1,0 +1,91 @@
+{
+  "id": "accessibility",
+  "locale": "en",
+  "slug": "/accessibility/",
+  "en_only": true,
+  "updated": "2026-10-27",
+  "nav_label": "Accessibility",
+  "card_text": "Our accessibility goal, what we have done and how to get help.",
+  "breadcrumb": [
+    [
+      "Home",
+      "/"
+    ],
+    [
+      "Accessibility",
+      "/accessibility/"
+    ]
+  ],
+  "seo": {
+    "title": "Accessibility Statement | Divinely Faded",
+    "description": "Divinely Faded wants its website to work for everyone. Our WCAG 2.1 AA goal, what we have done, known limits and how to get help by text or phone."
+  },
+  "schema": {
+    "type": "WebPage"
+  },
+  "_legal": {
+    "source": "DG legal kit 2026-10-27 (ClaudeOS build manual Part 14). Template-grade, not attorney-reviewed.",
+    "how_to_replace": "Edit this file and rebuild (node tools/build.mjs --today <date>). Update the 'Last updated' line and the 'updated' field together. Re-check the inventory (tracking, embeds, booking, hosting) before changing what the policy says."
+  },
+  "blocks": [
+    {
+      "type": "intro",
+      "eyebrow": "ACCESSIBILITY",
+      "h1": "Accessibility.",
+      "paragraphs": [
+        "We want everyone to be able to use this website, including people who rely on screen readers, keyboards, zoom or other assistive technology.",
+        "Last reviewed: October 27, 2026."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "01 / OUR GOAL",
+      "heading": "Our goal.",
+      "paragraphs": [
+        "We aim to meet the Web Content Accessibility Guidelines (WCAG) 2.1 at Level AA. We are working toward that standard and keep improving the site as we find problems."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / WHAT WE HAVE DONE",
+      "heading": "What we have done.",
+      "bullets": [
+        "A “Skip to content” link at the start of every page.",
+        "Clear page structure: one main heading per page, section headings, and marked header, navigation, main and footer areas.",
+        "Text descriptions on photos, and labels on icon-only links such as the social media buttons.",
+        "A visible outline on links, buttons and menu items when you move through the site with a keyboard.",
+        "A menu button that tells screen readers whether the menu is open, and closes with the Escape key.",
+        "Pause, previous and next buttons on the reviews slider. If your device asks for reduced motion, the slider does not move on its own.",
+        "The language of each page is set, so screen readers read English and Spanish pages correctly.",
+        "Pages that resize with your browser zoom, and phone and text links so you can reach us without filling in a form."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / HOW WE CHECKED",
+      "heading": "How we checked.",
+      "paragraphs": [
+        "On October 27, 2026, we ran two automated checks, Google Lighthouse and the axe accessibility engine set to WCAG 2.1 A and AA rules, on the homepage, the Visit page, the Haircuts page and this site’s Privacy Policy, Terms of Use and Accessibility pages. Lighthouse scored each of those pages 100 for accessibility, and axe found no violations.",
+        "Automated tools catch only part of what matters. We have not yet done a full review with a screen reader on every page, so your feedback helps."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / KNOWN LIMITS",
+      "heading": "Known limitations.",
+      "paragraphs": [
+        "Some parts of the site come from other companies, and we cannot fully control how accessible they are: booking on Booksy, the embedded Google Map on the Visit and town pages, and TikTok’s video player on the homepage.",
+        "Pages we have not checked one by one may still have problems we do not know about yet. If you run into one, please tell us."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "05 / GET HELP",
+      "heading": "Feedback and help.",
+      "paragraphs": [
+        "If any part of this site is hard to use, or you need information in another format, <a href=\"sms:+15757063095\">text</a> or <a href=\"tel:+15757063095\">call</a> {{phone}}. Tell us the page and what went wrong. We aim to respond within 2 business days.",
+        "We are glad to help another way too, for example by helping you book an appointment or by sharing our prices, hours and services over the phone or by text."
+      ]
+    }
+  ]
+}
