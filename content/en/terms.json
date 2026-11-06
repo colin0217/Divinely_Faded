@@ -3,46 +3,99 @@
   "locale": "en",
   "slug": "/terms/",
   "en_only": true,
-  "updated": "2026-10-27",
-  "nav_label": "Terms of Use",
-  "card_text": "The rules for using this website.",
+  "updated": "2026-11-05",
+  "nav_label": "Terms & Conditions",
+  "card_text": "How appointments, prepayments, cancellations, payment and this website work.",
   "breadcrumb": [
     [
       "Home",
       "/"
     ],
     [
-      "Terms of Use",
+      "Terms & Conditions",
       "/terms/"
     ]
   ],
   "seo": {
-    "title": "Terms of Use | Divinely Faded",
-    "description": "The terms for using divinelyfaded.com, the website of Divinely Faded barbershop in Carlsbad, NM: bookings on Booksy, content, links and New Mexico law."
+    "title": "Terms & Conditions | Divinely Faded",
+    "description": "Terms for booking at Divinely Faded in Carlsbad, NM and for using this website: Booksy appointments, prepayments, cancellations, payment, kids and photos."
   },
   "schema": {
     "type": "WebPage"
   },
   "_legal": {
-    "source": "DG legal kit 2026-10-27 (ClaudeOS build manual Part 14). Template-grade, not attorney-reviewed.",
-    "how_to_replace": "Edit this file and rebuild (node tools/build.mjs --today <date>). Update the 'Last updated' line and the 'updated' field together. Re-check the inventory (tracking, embeds, booking, hosting) before changing what the policy says."
+    "source": "DG legal kit 2026-10-27, expanded 2026-11-05 into shop terms (appointments, prepayments, cancellations, late arrivals, holidays, kids, payment, health and safety, photos, texts and chats). Facts: content/facts.json, Tim's owner answers 2026-10-24, Booksy's public listing 2026-11-05 (prepayment on select services, generic cancellation policy, no gift cards), NM SOS entity record. Template-grade, not attorney-reviewed.",
+    "how_to_replace": "Edit this file and rebuild (node tools/build.mjs --today <date>). Update the 'Last updated' line and the 'updated' field together. Re-check Booksy's policy (prepayment, cancellation deadline) and facts.json before changing what the terms say. Unconfirmed shop rules stay out of the page and in tim_questions."
   },
   "blocks": [
     {
       "type": "intro",
-      "eyebrow": "TERMS OF USE",
-      "h1": "Terms of Use.",
+      "eyebrow": "TERMS & CONDITIONS",
+      "h1": "Terms &amp; Conditions.",
       "paragraphs": [
-        "These terms cover your use of divinelyfaded.com, the website of Divinely Faded, Timothy Murillo’s barbershop in Carlsbad, New Mexico. By using the site, you agree to them. If you do not agree, please do not use it.",
-        "Last updated: October 27, 2026."
+        "These terms cover two things: booking and visiting Divinely Faded, the barbershop at {{address}}, and using this website, divinelyfaded.com. When you book an appointment, sit in one of our chairs or use the site, you agree to them. If you do not agree, please do not book or use the site.",
+        "Last updated: November 5, 2026."
       ]
     },
     {
       "type": "section",
-      "eyebrow": "01 / USING THE SITE",
+      "eyebrow": "01 / WHO WE ARE",
+      "heading": "Who we are.",
+      "paragraphs": [
+        "Divinely Faded LLC is a New Mexico limited liability company. In these terms, “we,” “us” and “our” mean Divinely Faded LLC, its owner Tim Murillo and the barbers who work at the shop. “You” means anyone who books, visits or uses this website."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "02 / APPOINTMENTS",
+      "heading": "Appointments.",
+      "lead": "The shop is appointment only. Every appointment is booked through Booksy, a separate booking service with its own terms.",
+      "paragraphs": [
+        "<strong>Booking.</strong> Choose your service and time on <a href=\"https://booksy.com/en-us/1113769_divinely-faded-timothy-murillo_barber-shop_28967_carlsbad\" target=\"_blank\" rel=\"noopener\">Booksy</a>. Booksy confirms the appointment and sends its own reminders. You are responsible for the details you enter there, so use a phone number we can reach you at.",
+        "<strong>Prepayments.</strong> Some services ask for a prepayment on Booksy when you book. A prepayment is not an extra charge: it comes off the price of that service when you pay at the shop.",
+        "<strong>Cancelling or rescheduling.</strong> Plans change, and an early cancellation frees the chair for someone else. Cancel or reschedule in Booksy before the deadline shown on your booking confirmation and nothing is charged. After that deadline, or if you do not show up, Booksy’s cancellation policy applies: we may keep the prepayment or charge a cancellation fee through Booksy. Whether it is applied is up to us.",
+        "<strong>Running late.</strong> If you are running behind, <a href=\"sms:+15757063095\">text us</a> so your barber can plan. Arriving late can mean a shorter service to fit the time left, and under Booksy’s policy a late arrival may count as a no-show.",
+        "<strong>Holidays.</strong> We are open on holidays at our regular hours. An appointment on the holiday itself carries a {{holiday_fee}} holiday fee on top of the service price.",
+        "<strong>Kids.</strong> A parent or guardian books a child’s appointment and stays responsible for the child while they are in the shop."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "03 / PAYMENT",
+      "heading": "Prices and payment.",
+      "paragraphs": [
+        "Prices are listed on this site and on Booksy, and they can change. The price Booksy shows when you book is the price that applies, plus any add-ons you choose at the chair.",
+        "Payment is due at the shop when your service is done. We take cash, card, Zelle and Cash App. Any prepayment you made on Booksy is taken off the total.",
+        "If something about your cut is not right, say so before you leave the chair, while your barber can still adjust it."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "04 / IN THE SHOP",
+      "heading": "In the shop.",
+      "lead": "A few ground rules keep every visit safe and on time.",
+      "paragraphs": [
+        "<strong>Health and safety.</strong> Before we start, tell your barber about any skin condition, allergy, sensitivity or recent chemical treatment, such as color, bleach, a perm or a relaxer, that could affect your service. For everyone’s safety, we may decline or stop a service when a condition could spread, such as lice or an open sore, and ask you to rebook once it has cleared.",
+        "<strong>Respect.</strong> Our barbers and other clients deserve a calm, respectful chair. We may decline or end a service for behavior that is abusive, threatening or unsafe, and we may decline future bookings.",
+        "<strong>Color, perms and braids.</strong> Results depend on your hair’s history and condition. Tell us about past treatments, and understand that chemical services carry some risk even when they are done with care.",
+        "<strong>Photos and video.</strong> We sometimes photograph or film finished cuts for the shop’s portfolio, this website and our social media. Tell your barber before the cut if you would rather not be photographed, and we will respect that. We photograph clients under 18 only with a parent or guardian’s permission."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "05 / TEXTS AND CHATS",
+      "heading": "Texts and chats.",
+      "paragraphs": [
+        "When you text Divinely Faded, or message us through a chat button on Google, we reply only about your question or your appointment. How often you hear from us depends on the conversation. Your carrier’s message and data rates may apply.",
+        "Reply STOP to any text from us and we will stop messaging you; you can also block the number. In a Google chat, use the block or report controls in the chat, or tell us to stop. For help, reply HELP, <a href=\"sms:+15757063095\">text</a> or <a href=\"tel:+15757063095\">call</a> {{phone}}. Booksy sends its own appointment reminders, which you control in your Booksy settings. Our <a href=\"/privacy/\">Privacy Policy</a> explains how we handle what you send us."
+      ]
+    },
+    {
+      "type": "section",
+      "eyebrow": "06 / USING THE SITE",
       "heading": "Use of the site.",
       "paragraphs": [
-        "You may use this site for lawful, personal purposes, such as learning about our services and finding your way to the shop."
+        "You may use this site for lawful, personal purposes, such as learning about our services, reading the blog and finding your way to the shop."
       ],
       "bullets": [
         "Do not try to break into, overload or disrupt the site or the servers behind it.",
@@ -52,7 +105,7 @@
     },
     {
       "type": "section",
-      "eyebrow": "02 / WHAT THE SITE SAYS",
+      "eyebrow": "07 / WHAT THE SITE SAYS",
       "heading": "Information on the site.",
       "paragraphs": [
         "We work to keep prices, appointment lengths, hours and other details current, but the site is general information. Prices, times and openings can change. What you see when you book on Booksy, or what we tell you in the shop, is what applies.",
@@ -61,24 +114,15 @@
     },
     {
       "type": "section",
-      "eyebrow": "03 / BOOKING",
-      "heading": "Bookings and payments.",
-      "paragraphs": [
-        "This website does not take bookings or payments. Appointments are booked through Booksy, under Booksy’s terms and our booking and cancellation policies shown on Booksy. No-shows and late cancellations may be charged a cancellation fee through Booksy.",
-        "Payment is due in full after your service, at the shop."
-      ]
-    },
-    {
-      "type": "section",
-      "eyebrow": "04 / OWNERSHIP",
+      "eyebrow": "08 / OWNERSHIP",
       "heading": "Intellectual property.",
       "paragraphs": [
-        "The text, photos, videos, logos and design of this site belong to Divinely Faded or are used with permission, and copyright and trademark laws protect them. You are welcome to share links to our pages. Please do not copy, republish or sell our content or photos without written permission."
+        "The text, photos, videos, logos and design of this site belong to Divinely Faded LLC or are used with permission, and copyright and trademark laws protect them. You are welcome to share links to our pages. Please do not copy, republish or sell our content or photos without written permission."
       ]
     },
     {
       "type": "section",
-      "eyebrow": "05 / OTHER SITES",
+      "eyebrow": "09 / OTHER SITES",
       "heading": "Links to other sites.",
       "paragraphs": [
         "The site links to services we do not control, including Booksy, Google Maps, Facebook, Instagram, TikTok and YouTube. Their own terms and privacy policies apply there, and we are not responsible for their content or how they work."
@@ -86,7 +130,7 @@
     },
     {
       "type": "section",
-      "eyebrow": "06 / NO WARRANTIES",
+      "eyebrow": "10 / NO WARRANTIES",
       "heading": "Disclaimer.",
       "paragraphs": [
         "The site is provided “as is” and “as available.” To the fullest extent the law allows, we make no warranties of any kind, express or implied, about the site, including that it will always be available, error-free or free of harmful code."
@@ -94,29 +138,37 @@
     },
     {
       "type": "section",
-      "eyebrow": "07 / LIABILITY",
+      "eyebrow": "11 / LIABILITY",
       "heading": "Limitation of liability.",
       "paragraphs": [
-        "To the fullest extent the law allows, Divinely Faded and its owner are not liable for any indirect, incidental, special or consequential damages that come from using, or not being able to use, this website. Some places do not allow these limits, so they may not all apply to you.",
-        "You agree to defend and hold harmless Divinely Faded and its owner from claims that come from your misuse of the site or your breaking these terms."
+        "To the fullest extent the law allows, Divinely Faded LLC, its owner and its barbers are not liable for any indirect, incidental, special or consequential damages that come from using, or not being able to use, this website or Booksy’s booking service. Some places do not allow these limits, so they may not all apply to you, and nothing in these terms limits any liability that the law does not let us limit.",
+        "You agree to defend and hold harmless Divinely Faded LLC, its owner and its barbers from claims that come from your misuse of the site or your breaking these terms."
       ]
     },
     {
       "type": "section",
-      "eyebrow": "08 / THE LAW",
-      "heading": "Governing law.",
+      "eyebrow": "12 / THE LAW",
+      "heading": "Governing law and the whole agreement.",
       "paragraphs": [
-        "The laws of the State of New Mexico govern these terms, without regard to conflict-of-law rules. Any dispute about this website will be handled in the state or federal courts located in New Mexico."
+        "The laws of the State of New Mexico govern these terms, without regard to conflict-of-law rules. Any dispute about this website or a booking will be handled in the state or federal courts located in New Mexico.",
+        "If any part of these terms cannot be enforced, the rest still applies. These terms, Booksy’s terms for the booking itself and our <a href=\"/privacy/\">Privacy Policy</a> are the whole agreement between you and us about the shop and this site. If we do not enforce a term right away, we can still enforce it later."
       ]
     },
     {
       "type": "section",
-      "eyebrow": "09 / CHANGES",
+      "eyebrow": "13 / CHANGES",
       "heading": "Changes and contact.",
       "paragraphs": [
-        "We may change these terms. The new version applies once it is posted here with a new date at the top.",
-        "Questions about these terms? <a href=\"sms:+15757063095\">Text Tim</a> or <a href=\"tel:+15757063095\">call the shop</a> at {{phone}}. Our <a href=\"/privacy/\">Privacy Policy</a> explains how we handle your information."
+        "We may change these terms. The new version applies once it is posted here with a new date at the top, and it covers appointments booked after that date.",
+        "Questions about these terms? <a href=\"sms:+15757063095\">Text us</a> or <a href=\"tel:+15757063095\">call the shop</a> at {{phone}}, or ask your barber at {{address}}."
       ]
     }
+  ],
+  "tim_questions": [
+    "Late arrivals: after how many minutes do you give the slot away or shorten the cut? (The page says only what Booksy says: a late arrival may count as a no-show.)",
+    "Redo or refund: do you fix a cut for free within a few days? Any refunds on a finished service? (Left out until confirmed.)",
+    "Do you ever text clients about offers, or only about their appointment? (The page says no marketing texts.)",
+    "Booksy shows no gift cards for the shop. Correct?",
+    "What cancel-by deadline does Booksy show on your confirmations (how many hours before)? The page points to the confirmation instead of a number."
   ]
 }

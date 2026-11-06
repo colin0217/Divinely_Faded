@@ -3,7 +3,7 @@
   "locale": "en",
   "slug": "/accessibility/",
   "en_only": true,
-  "updated": "2026-10-27",
+  "updated": "2026-11-05",
   "nav_label": "Accessibility",
   "card_text": "Our accessibility goal, what we have done and how to get help.",
   "breadcrumb": [
@@ -24,7 +24,7 @@
     "type": "WebPage"
   },
   "_legal": {
-    "source": "DG legal kit 2026-10-27 (ClaudeOS build manual Part 14). Template-grade, not attorney-reviewed.",
+    "source": "DG legal kit 2026-10-27 (ClaudeOS build manual Part 14). Template-grade, not attorney-reviewed. Re-checked 2026-11-05 (Lighthouse 100 accessibility/best-practices/SEO on /privacy/ and /terms/; axe WCAG 2.1 A+AA 0 violations once the scroll-reveal animation has finished; 0 overflow at 320/390/720/1440 px).",
     "how_to_replace": "Edit this file and rebuild (node tools/build.mjs --today <date>). Update the 'Last updated' line and the 'updated' field together. Re-check the inventory (tracking, embeds, booking, hosting) before changing what the policy says."
   },
   "blocks": [
@@ -34,7 +34,7 @@
       "h1": "Accessibility.",
       "paragraphs": [
         "We want everyone to be able to use this website, including people who rely on screen readers, keyboards, zoom or other assistive technology.",
-        "Last reviewed: October 27, 2026."
+        "Last reviewed: November 5, 2026."
       ]
     },
     {
@@ -65,7 +65,7 @@
       "eyebrow": "03 / HOW WE CHECKED",
       "heading": "How we checked.",
       "paragraphs": [
-        "On October 27, 2026, we ran two automated checks, Google Lighthouse and the axe accessibility engine set to WCAG 2.1 A and AA rules, on the homepage, the Visit page, the Haircuts page and this site’s Privacy Policy, Terms of Use and Accessibility pages. Lighthouse scored each of those pages 100 for accessibility, and axe found no violations.",
+        "On October 27, 2026, we ran two automated checks, Google Lighthouse and the axe accessibility engine set to WCAG 2.1 A and AA rules, on the homepage, the Visit page, the Haircuts page and this site’s Privacy Policy, Terms and Accessibility pages. Lighthouse scored each of those pages 100 for accessibility, and axe found no violations. On November 5, 2026, we re-ran both checks on the rewritten Privacy Policy and Terms &amp; Conditions pages, at phone and desktop sizes, with the same result.",
         "Automated tools catch only part of what matters. We have not yet done a full review with a screen reader on every page, so your feedback helps."
       ]
     },
